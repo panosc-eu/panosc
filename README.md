@@ -15,4 +15,5 @@ The 7th partner is the e-infrastructure
 
 The project will work closely with the national photon and neutron sources to develop common policies, strategies and solutions in the area of data management and data services and connecting to the EOSC.
 
-Create an issue here if it concerns the PaNOSC project in general.
+Create an issue here if it concerns the PaNOSC project in general. You can find help on writing markdown in the GitHub guide:
+https://guides.github.com/features/mastering-markdown/
