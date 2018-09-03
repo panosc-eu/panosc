@@ -8,6 +8,7 @@ Photon and Neutron Open Science Cloud (PaNOSC) is a Europen project (finaced by 
 * EU.XFEL - https://www.xfel.eu/
 * ESS - https://europeanspallationsource.se/
 * ELI-DC - https://eli-laser.eu/
+* CERIC-ERIC - https://www.ceric-eric.eu/
 
 The 7th partner is the e-infrastructure
 * EGI - https://www.egi.eu/
