@@ -4,8 +4,8 @@ The conference call took place on 12/11/2018 and the following actions were agre
     #4 We need a full list of Executive Committee members
     #5 Stakeholder list to change from Excel file to markdown table in GitHub wiki for the project. Everyone to collaborate and fill in their contacts
     #6 Kick-off planning meeting: Margarett Armstrong (ESS) said Consortium agreement must be signed by legal representatives of the partners, so the planned "Ceremonial signing" of the CA during the kick-off meeting will need to change shape. In any case it was mostly a PR excersise.
-    #7 New issue to be created this week: Observer status. What does it mean? Candidates? How to engage with them?
-    #8 New issue to be created this week: Data storage needs for 2019? J.F. Perrin (ILL) suggested 1 PetaByte
+    #9 New issue to be created this week: Observer status. What does it mean? Candidates? How to engage with them?
+    #10 New issue to be created this week: Data storage needs for 2019? J.F. Perrin (ILL) suggested 1 PetaByte
 
 2. PaNOSC letter of support for ExPaNDS: Suggestion to change wording for "unqualified support", as it is not clear
 
