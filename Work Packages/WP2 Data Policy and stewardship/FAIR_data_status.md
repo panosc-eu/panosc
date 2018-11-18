@@ -1,4 +1,8 @@
-| Before PaNOSC   | ILL | ESRF | CERIC | XFEL | ELI | ESS|
+# FAIR data status - Before and After PaNOSC
+
+## Before PaNOSC
+
+| FAIR status before PaNOSC   | ILL | ESRF | CERIC | XFEL | ELI | ESS|
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Operating since**  | 1972  | 1994 | 2014 | 2017 | 2018 | 2022|
 | **Users / yr** |   | 6000 | | | | |
@@ -10,7 +14,9 @@
 | **Open Data** | yes | yes | ? |   |   |   |
 | **Data Services** |  | in progress | ? | Jupyter | ? | ? |
 
-| After PaNOSC   | ILL | ESRF | CERIC | XFEL | ELI | ESS|
+## After PanOSC
+
+| FAIR status after PaNOSC   | ILL | ESRF | CERIC | XFEL | ELI | ESS|
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Operating since**  | 1972  | 1994 | 2014 | 2017 | 2018 | 2022|
 | **Users / yr** |   | 6000 | | | | |
