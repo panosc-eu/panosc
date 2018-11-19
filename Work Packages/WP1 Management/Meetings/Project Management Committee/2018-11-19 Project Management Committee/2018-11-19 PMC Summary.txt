@@ -16,4 +16,6 @@ The conference call took place on 19/11/2018 and the following actions were agre
         - We can try to have a presentation about the EOSC current status
         - Agreed that it is better to have plenary sessions in the first day (suggested 1/2 hour per WP)
         - Agreed that working sessions (per work package or as needed) will take place the second day
+6. When to use pull requests
+    Pull requests will be required for any code files. Management documentation can push directly into the main branch
 
