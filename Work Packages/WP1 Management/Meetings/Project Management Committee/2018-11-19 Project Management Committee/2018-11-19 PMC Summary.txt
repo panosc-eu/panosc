@@ -1,0 +1,21 @@
+The conference call took place on 19/11/2018 and the following actions were agreed/ discussed:
+
+1. Executive Committee and Project Management Committee
+    We need the full list as soon as possible. In particular, for the Executive Committee we are likely to have to deal with very busy senior people, so if we want them to attend the Kick-off meeting we should send the invitations very soon.
+2. Observers
+    We need to contact all the potential observers, document them and keep an updated list, so we know who is interested and engaged
+3. Stakeholder list
+    We urge all PaNOSC members to fill in their details in the wiki for this: https://github.com/panosc-eu/panosc/wiki/PaNOSC-Stakeholders
+4. Commits in GitHub
+    We agreed that:
+        - Non code changes can be directly committed to master
+        - code changes will require a pull request
+5. Kick-off meeting
+    Changes to the agenda: 
+        - Instead of Signing the Consortium Agreement we can have some words from ESRF's Director General instead
+        - We can try to have a presentation about the EOSC current status
+        - Agreed that it is better to have plenary sessions in the first day (suggested 1/2 hour per WP)
+        - Agreed that working sessions (per work package or as needed) will take place the second day
+6. When to use pull requests
+    Pull requests will be required for any code files. Management documentation can push directly into the main branch
+

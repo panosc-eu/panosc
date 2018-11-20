@@ -6,13 +6,13 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Operating since**  | 1972  | 1994 | 2014 | 2017 | 2018 | 2022|
 | **Users / yr** |   | 6000 | | | | |
-| **Data Policy** | 2015 | 2016 | ? | 2018 | ? | ? |
+| **Data Policy** | 2015 | 2016 | ? | 2017 | ? | ? |
 | **Metadata catalogue** | Local | Icat | [Icat] | Local | ? | SciCat |
 | **Metadata definitions** | Nexus | Nexus | ? | ? | ? | Nexus |
 | **Data production / yr** |  ? | 8 PB | ? | ? | ? | 0 |
 | **Digital Object Identifiers** | 2016 | 2018 | ? | 2018 | ? | ? |
 | **Open Data** | yes | yes | ? |   |   |   |
-| **Data Services** |  | in progress | ? | Jupyter | ? | ? |
+| **Data Services** |  | in progress | ? | in progress | ? | ? |
 
 ## After PaNOSC - 2023
 
@@ -20,7 +20,7 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Operating since**  | 1972  | 1994 | 2014 | 2017 | 2018 | 2022|
 | **Users / yr** |   | 6000 | | | | |
-| **Data Policy** | 2015 | 2016 | 2019 | 2018 | 2019 | 2019 |
+| **Data Policy** | 2015 | 2016 | 2019 | 2017 | 2019 | 2019 |
 | **Metadata catalogue** | Local | Icat | Icat | Local | ? | SciCat |
 | **Metadata common api** | yes | yes | yes | yes | yes | yes |
 | **Metadata definitions** | Nexus | Nexus | Nexus | Nexus | ? | Nexus |
