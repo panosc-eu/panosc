@@ -8,7 +8,7 @@
 | **Users / yr** |   | 6000 | |  850 ||0 |
 | **Data Policy** | 2015 | 2016 | ? | 2017 | ? | 2017 |
 | **Metadata catalogue** | Local | Icat | [Icat] | myMdC | ? | SciCat |
-| **Metadata definitions** | Nexus | Nexus | ? | myMdC |?| Nexus |
+| **Metadata definitions** | NeXus | NeXus | ? | myMdC |?| NeXus |
 | **Data production / yr** |  ? | 8 PB | ? | 3PB | ? | 0 |
 | **Digital Object Identifiers** | 2016 | 2018 | ? | 2018 | ? | 2018 |
 | **Open Data** | yes | yes | ? | yes  |   | yes  |
@@ -23,9 +23,9 @@
 | **Data Policy** | 2015 | 2016 | 2019 | 2017 | 2019 | 2017 |
 | **Metadata catalogue** | Local | Icat | Icat | myMdC | ? | SciCat |
 | **Metadata common api** | yes | yes | yes | yes | yes | yes |
-| **Metadata definitions** | Nexus | Nexus | Nexus | Nexus | ? | Nexus |
+| **Metadata definitions** | NeXus | NeXus | NeXus | NeXus | ? | NeXus |
 | **Data production / yr** |  ? | 50 PB | ? | 100PB | ? | <1PB |
 | **Digital Object Identifiers** | 2016 | 2018 | yes | 2018 | yes | yes |
 | **Open Data** | yes | yes | yes | yes  | yes  | yes  |
-| **Data Services** | VM, Jupyter | Jupyter, Simulation, VM, HPC | Jupyter, VM | Jupyter, Simulation, VM, HPC | Jupyter, VM, HPC | Jupyter, Simulation, VM |
+| **Data Services** | VM, Jupyter | Jupyter, Simulation, VM, HPC | Jupyter, VM | Jupyter, Simulation, VM, HPC | Jupyter, VM, HPC | Jupyter, Simulation, VM, HPC |
 | **EOSC integration** | yes | yes | yes | yes  | yes  | yes  |
