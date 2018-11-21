@@ -27,5 +27,5 @@
 | **Data production / yr** |  600 TB | 50 PB | ? | 100PB | ? | <1PB |
 | **Digital Object Identifiers** | 2012 | 2018 | yes | 2018 | yes | yes |
 | **Open Data** | yes | yes | yes | yes  | yes  | yes  |
-| **Data Services** | VM, Jupyter | Jupyter, Simulation, VM, HPC | Jupyter, VM | Jupyter, Simulation, VM, HPC | Jupyter, VM, HPC | Jupyter, Simulation, VM |
+| **Data Services** | VM, Jupyter, simulation | Jupyter, Simulation, VM, HPC | Jupyter, VM | Jupyter, Simulation, VM, HPC | Jupyter, VM, HPC | Jupyter, Simulation, VM |
 | **EOSC integration** | yes | yes | yes | yes  | yes  | yes  |
