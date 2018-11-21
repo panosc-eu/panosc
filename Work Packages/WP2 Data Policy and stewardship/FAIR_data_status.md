@@ -19,7 +19,7 @@
 | FAIR status after PaNOSC   | ILL | ESRF | CERIC | XFEL | ELI | ESS|
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Operating since**  | 1972  | 1994 | 2014 | 2017 | 2018 | 2022|
-| **Users / yr** | 1200  | 6000 | | |>2550 | ~100|
+| **Users / yr** | 1200  | 6000 | | >2550| | ~100|
 | **Data Policy** | 2011 | 2016 | 2019 | 2017 | 2019 | 2017 |
 | **Metadata catalogue** | Local | Icat | Icat | myMdC | ? | SciCat |
 | **Metadata common api** | yes | yes | yes | yes | yes | yes |
