@@ -2,7 +2,7 @@
 
 ## Before PaNOSC - 2018
 
-| FAIR status before PaNOSC   | ILL | ESRF | CERIC | XFEL | ELI | ESS|
+| FAIR status before PaNOSC   | ILL | ESRF | CERIC | EuXFEL | ELI | ESS|
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Operating since**  | 1972  | 1994 | 2014 | 2017 | 2018 | 2022|
 | **Users / yr** | 1200 | 6000 | 500 |  850 ||0 |
@@ -16,7 +16,7 @@
 
 ## After PaNOSC - 2023
 
-| FAIR status after PaNOSC   | ILL | ESRF | CERIC | XFEL | ELI | ESS|
+| FAIR status after PaNOSC   | ILL | ESRF | CERIC | EuXFEL | ELI | ESS|
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Operating since**  | 1972  | 1994 | 2014 | 2017 | 2018 | 2022|
 | **Users / yr** | 1200  | 6000 | 800 | >2550| | ~100|
