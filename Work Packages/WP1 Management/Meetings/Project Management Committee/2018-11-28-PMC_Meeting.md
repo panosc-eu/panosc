@@ -1,8 +1,6 @@
 PaNOSC Project Management Committee meeting - 28/11/2018
 ========================================================
 
-Meeting url: https://esrf.vidyocloud.com/join/q0zkRjp3zk
-
 Agenda
 ------
 1. PMC and EC members
