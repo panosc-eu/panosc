@@ -17,7 +17,7 @@ Agenda
 
     Review https://indico.esrf.fr/indico/event/19/timetable/#all.detailed
     
-    This is important so invitees can know when to come
+    This is important so invitees can have an idea of the program before deciding to come
 
 3. Stakeholders list
 
