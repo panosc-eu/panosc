@@ -23,7 +23,11 @@ Agenda
 
 3. Stakeholders list
 
-    Stakeholders are not registering. Please add your details in there. If there is a problem as this information is currently public or with the tool ask them to contact me directly
+    Stakeholders are not registering. Please add your details here:
+    
+    https://github.com/panosc-eu/panosc/wiki/PaNOSC-Stakeholders
+    
+    If there is a problem as this information is currently public or with the tool ask them to contact Jordi directly
 
 4. Observers
 
