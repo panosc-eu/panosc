@@ -1,4 +1,4 @@
-PaNOSC Project Management Committee meeting - 27/11/2018
+PaNOSC Project Management Committee meeting - 28/11/2018
 ========================================================
 
 Meeting url: https://esrf.vidyocloud.com/join/q0zkRjp3zk
@@ -23,14 +23,13 @@ Agenda
 
 3. Stakeholders list
 
-    Stakeholders are not registering. Please add your details in there
-        If there is a problem as this information is currently public or with the tool ask them to contact me directly
+    Stakeholders are not registering. Please add your details in there. If there is a problem as this information is currently public or with the tool ask them to contact me directly
 
 4. Observers
 
     Update on list of sites contacted so far and their replies
 
-5. Status of project with Commission
+5. Status of project with the EU Commission
 
 6. Feedback from EOSC Stakeholders meeting and EOSC launch
 
