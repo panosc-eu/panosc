@@ -1,4 +1,4 @@
-![PaNOSC logo](https://github.com/panosc-eu/panosc/raw/master/docs/images/logos/panosc.png "The PaNOSC logo")
+![PaNOSC logo](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP9%20Outreach%20and%20communication/images/logos/panosc_logo_512x175.png "The PaNOSC logo")
 
 # The panosc project on panosc-eu
 This is the main repository for common issues and general information about the PaNOSC project. sponsored by the EU.
