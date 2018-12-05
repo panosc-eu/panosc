@@ -39,7 +39,7 @@ Manolo Sanchez del Rio (ESRF)
 Thomas Holm Rod (ESS)
 Jamie Hall (ILL)
 Jean Francois Perrin (ILL)
-Florian  Gliksohn (ILL)
+Florian  Gliksohn (ELI)
 Hans Fangohr (XFEL)
 
 1. Andy Gotz updated on Darko no longer being our Project Officer. We still do not know who will be the replacement.
@@ -56,7 +56,7 @@ The kick-off meeting will take place 15th and 16th January in Grenoble.
 5. A Draft Consortium Agreement was shared with the nominated PMC members and WP leaders. This needs to be reviewed and agreed with the legal teams of each partner. Feedback is expected before 21st December.
 It was noted that it would be good to add a clause to the document saying that the CA retroactively applies to 1st December. Andy will talk with Renata (ESRF's legal officer) about this.
 
-6. The WP 5 leader (Carsten Grote) is leaving his post at XFEL at the end of February. Manolo has offered to be an interim WP Leader until the end of June when he goes in a sabatical. Hans Fangohr and Carsten Grote to keep the PMC informed about any development in XFEL about a replacement (and a replacement date).
+6. The WP 5 leader (Carsten Grote) is leaving his post at XFEL at the end of February. Manolo has offered to be an interim WP Leader until the end of June when he goes in a sabbatical. Hans Fangohr and Carsten Grote to keep the PMC informed about any development in XFEL about a replacement (and a replacement date).
 
 7. Letters have been sent to different institutes asking them to nominate observers for PaNOSC: https://github.com/panosc-eu/panosc/wiki/PaNOSC-Observers
 Some of them agreed to be observers and we expect some of them to attend the Kick-off meeting.
