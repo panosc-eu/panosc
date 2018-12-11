@@ -5,11 +5,13 @@ Agenda
 ------
 1. PMC meeting role
 
-  What is the role of the PMC and who should be present
+    What is the role of the PMC and who should be present
   
 2. New EC Project Officer
 
-3. Update from the WP Leaders
+3. Consortium Agreemnt feedback
+
+4. Update from the WP Leaders
 
     WP1 Management
     WP2 Data Policy and Stewardship
@@ -21,15 +23,13 @@ Agenda
     WP8 Staff training in data stewardship
     WP9 Outreach &Communication
 
-4. Kick-off meeting agenda
+5. Kick-off meeting agenda
 
     Review https://indico.esrf.fr/indico/event/19/timetable/#all.detailed
     
-    This is important so invitees can have an idea of the program before deciding to come
+    **IT IS IMPORTANT TO REGISTER THIS WEEK to help the organisers know how many people are coming**
 
-5. Review existing issues: https://github.com/panosc-eu/panosc/issues
-
-6. EOSC-hub questions 
+6. Review existing issues: https://github.com/panosc-eu/panosc/issues
 
 7. News from other proposals and events
 
