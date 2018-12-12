@@ -9,7 +9,7 @@ Agenda
   
 2. New EC Project Officer
 
-3. Consortium Agreemnt feedback
+3. Consortium Agreement feedback
 
 4. Update from the WP Leaders
 
