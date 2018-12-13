@@ -70,9 +70,12 @@ Minutes
     
     https://www.esfri.eu/esfri-events/esfri-ris-eosc-liaison-workshop
 
+    Andy mentioned that the report [Prompting an EOSC in Practice](https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1) refers to the role of the clusters in INFRAEOSC-04 clearly.
+
 8. **AOB**
 
     Thomas requested that Andy send invitations for observers (all who sent support letters). Andy asked him to add the missing sites to the wiki page.
     
     Andy reported IUCR is preparing a session on *Data Science skills in publishing* in summer 2019 which could be interesting for WP8.
+
     
