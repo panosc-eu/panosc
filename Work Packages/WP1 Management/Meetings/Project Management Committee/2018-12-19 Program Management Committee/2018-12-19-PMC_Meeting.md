@@ -5,16 +5,15 @@ Agenda
 ------
 
 1. Update from the WP Leaders
-
-*    WP1 Management
-*    WP2 Data Policy and Stewardship
-*    WP3 Data Catalog Services
-*    WP4 Data Analysis Services
-*    WP5 Virtual Neutron and X-ray Laboratory
-*    WP6 EOSC Integration
-*    WP7 Sustainibility
-*    WP8 Staff training in data stewardship
-*    WP9 Outreach &Communication
+	*    WP1 Management
+	*    WP2 Data Policy and Stewardship
+	*    WP3 Data Catalog Services
+	*    WP4 Data Analysis Services
+	*    WP5 Virtual Neutron and X-ray Laboratory
+	*    WP6 EOSC Integration
+	*    WP7 Sustainibility
+	*    WP8 Staff training in data stewardship
+	*    WP9 Outreach &Communication
 
 2. Start using the **assign** feature for issues
 
