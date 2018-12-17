@@ -6,7 +6,7 @@ Agenda
 
 1. Consortium Agreement - feedback from member sites
 
-2. Update from the WP Leaders
+2. Update from the WP Leaders - update on resources assigned + hiring + work plans
 	*    WP1 Management
 	*    WP2 Data Policy and Stewardship
 	*    WP3 Data Catalog Services
