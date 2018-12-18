@@ -20,7 +20,7 @@ Agenda
 3. Start using the **assign** feature for issues
 
 4. Review any other existing issues: https://github.com/panosc-eu/panosc/issues
-	1.   #4 PaNOSC EB & PMC
+	1.   [#4](https://github.com/panosc-eu/panosc/issues/4) PaNOSC EB & PMC
 	2.   #5 Complete stakeholders list
 	3.   #6 Kick-off meeting planning
 	4.   #9 Observer status
@@ -32,7 +32,7 @@ Agenda
 	10. #21 Answer EOSC-Hub questions
 	11. #22 Mailing lists
 	12. #23 Financial Control for PaNOSC
-	
+
 5. Next PMC meeting format
 
 7. News from other proposals and events
