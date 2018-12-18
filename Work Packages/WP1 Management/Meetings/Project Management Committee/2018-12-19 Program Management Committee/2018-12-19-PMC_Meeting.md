@@ -1,4 +1,4 @@
-PaNOSC Project Management Committee meeting - 12/12/2018
+PaNOSC Project Management Committee meeting - 18/12/2018
 ========================================================
 
 Agenda
