@@ -36,11 +36,11 @@ Copenhangen university
 *    **WP9 Outreach & Communication** - Nicoletta reported that the call for tender for the website has been launched.
 We expect a supplier to be chosen by the end of January. We also have now twitter an a press released has come out.
 
-3. **Start using the assign feature for issues**
+3. _**Start using the assign feature for issues**_
 
     Broad agreement on the usage of the GitHub assign feature. We will also add a deadline for issues whenever possible.
 
-4. **Review of existing issues**: https://github.com/panosc-eu/panosc/issues
+4. _**Review of existing issues**_: https://github.com/panosc-eu/panosc/issues
 
     Issues were worked through and updated accordingly. In particular
 * [#4](https://github.com/panosc-eu/panosc/issues/4) PaNOSC EB & PMC
@@ -74,19 +74,19 @@ with names. WP leaders to provide the list of names
 aware of the reporting required. Jordi also would like this document to be agreed by the EB during kick-off
 meeting
     
-5. **Next PMC meeting format**
+5. _**Next PMC meeting format**_
 
     It was approved that in order to get these meetings closer to what we are agreeing in the Consortium Agreement, 
 PMC meetings will be notified only to the appropriate mailing list. PMC members and WP leaders will be invited. 
 Other stakeholders could be invited if required.
 
-5. **News from other proposals and events**
+5. _**News from other proposals and events**_
 
     Jean-Francois reported that he has registered for a meeting organised by ESFRI for the INFRAEOSC-04 which will 
 take place in London on the 30/1. More info at this url: https://www.esfri.eu/esfri-events/esfri-ris-eosc-liaison-workshop
 Andy has received an invitation too but he could not attend. Either Rudolf or Jordi will cover for him in the event.
 
-6. **AOB**
+6. _**AOB**_
     
     Just a reminder to add the job adverts in the site. Nicoletta pointed out that these could be retwitted too.
 
