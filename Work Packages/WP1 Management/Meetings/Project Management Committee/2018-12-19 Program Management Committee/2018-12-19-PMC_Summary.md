@@ -9,7 +9,7 @@ Jordi (ESRF), Andy (ESRF), Nicoletta (CERIC-ERIC)
 
 Minutes
 ------
-1. **Consortium Agreement - feedback from member sites**
+1. _**Consortium Agreement - feedback from member sites**_
 
     We received positive feedback from ESRF, ELI, EGI, ESS and CERIC-ERIC
     
@@ -17,7 +17,7 @@ Minutes
     Jean Francois highlighted an issue in page 33, which will be discussed offline between the ESRF and ILL legal officers
     Nicoletta clarified that CERIC will opt in page 24 point 11.4 for the repo option?
   
-2. **Update from the WP Leaders - update on resources assigned + hiring + work plans**
+2. _**Update from the WP Leaders - update on resources assigned + hiring + work plans**_
 
 *    **WP1 Management** - Jordi reported work on first Deliverable D1.1 Project Initiation Documentation (which requires 
 around 1/2 to 1 page from each WP leader about their approach for the WP). The document is available online for comments. 
