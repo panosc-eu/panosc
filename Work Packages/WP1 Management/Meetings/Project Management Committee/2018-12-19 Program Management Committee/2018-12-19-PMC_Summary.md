@@ -19,7 +19,7 @@ Minutes
   
 2. _**Update from the WP Leaders - update on resources assigned + hiring + work plans**_
 
-*    **WP1 Management** - Jordi reported work on first Deliverable D1.1 Project Initiation Documentation (which requires 
+*    **WP1 Management** - Jordi reported work on first Deliverable [D1.1 Project Initiation Documentation](https://docs.google.com/document/d/1NIV2ooImKUw7hwrl3VAog8EUWdyp9Fzs78tcM73GO-A/edit?usp=sharing) (which requires 
 around 1/2 to 1 page from each WP leader about their approach for the WP). The document is available online for comments. 
 New mailing lists being introduced and work has started (and will be shared) on the EB Agenda during kick-off and 
 financial control for the project.
