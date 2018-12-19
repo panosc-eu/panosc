@@ -21,7 +21,7 @@ Minutes
 
 *    **WP1 Management** - Jordi reported work on first Deliverable [D1.1 Project Initiation Documentation](https://docs.google.com/document/d/1NIV2ooImKUw7hwrl3VAog8EUWdyp9Fzs78tcM73GO-A/edit?usp=sharing) (which requires 
 around 1/2 to 1 page from each WP leader about their approach for the WP). The document is available online for comments. 
-New mailing lists being introduced and work has started (and will be shared) on the EB Agenda during kick-off and 
+New mailing lists being introduced and work has started (and will be shared) on the [EB Agenda during kick-off](https://github.com/panosc-eu/panosc/issues/24) and 
 financial control for the project.
 *    **WP2 Data Policy and Stewardship** - Andy reported that he is thinking abobut DOIs for instruments
 *    **WP3 Data Catalog Services** - Tobias was absent. Petra reported that he is busy hiring someone for WP3.
