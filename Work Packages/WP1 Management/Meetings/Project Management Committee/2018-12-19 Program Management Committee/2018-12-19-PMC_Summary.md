@@ -43,34 +43,34 @@ We expect a supplier to be chosen by the end of January. We also have now twitte
 4. **Review of existing issues**: https://github.com/panosc-eu/panosc/issues
 
     Issues were worked through and updated accordingly. In particular
-	[#4] (https://github.com/panosc-eu/panosc/issues/4) PaNOSC EB & PMC
-		Rudolf to own the issue. Some names still missing for EB and attendance is important for kick-off
-	[#5] (https://github.com/panosc-eu/panosc/issues/5) Complete stakeholders list
-		Closed, but we need to ensure we keep updating the list
-	[#6] (https://github.com/panosc-eu/panosc/issues/6) Kick-off meeting planning
-		Jordi to own the issue. WP7 session to do not clash with EB meeting. Andy will clarify the meaning
+* [#4](https://github.com/panosc-eu/panosc/issues/4) PaNOSC EB & PMC
+  * Rudolf to own the issue. Some names still missing for EB and attendance is important for kick-off
+* [#5](https://github.com/panosc-eu/panosc/issues/5) Complete stakeholders list
+  * Closed, but we need to ensure we keep updating the list
+* [#6](https://github.com/panosc-eu/panosc/issues/6) Kick-off meeting planning
+  * Jordi to own the issue. WP7 session to do not clash with EB meeting. Andy will clarify the meaning
 of the break out session to WP leaders
-	[#9] (https://github.com/panosc-eu/panosc/issues/9) Observer status
-		Andy to own the issue. No news
-	[#15] (https://github.com/panosc-eu/panosc/issues/15) Work Package 5 leader
-		Closed. Manolo (ESRF) to be interim WP5 leader until he goes in a sabatical (June 2019). By that
+* [#9](https://github.com/panosc-eu/panosc/issues/9) Observer status
+  * Andy to own the issue. No news
+* [#15](https://github.com/panosc-eu/panosc/issues/15) Work Package 5 leader
+  * Closed. Manolo (ESRF) to be interim WP5 leader until he goes in a sabatical (June 2019). By that
 date XFEL should have someone in place to cover for Carsten
-	[#16] (https://github.com/panosc-eu/panosc/issues/16) Draft Consortium Agreement
-		Andy to own the issue. Covered in point 1 of the meeting
-	[#17] (https://github.com/panosc-eu/panosc/issues/17) Press release about kickoff
-		Closed. Work done. Thanks Nicoletta
-	[#19] (https://github.com/panosc-eu/panosc/issues/19) Document storing in GitHub
-		Closed. GitHub as main repository. If we need editing by multiple team members at the same time
+* [#16](https://github.com/panosc-eu/panosc/issues/16) Draft Consortium Agreement
+  * Andy to own the issue. Covered in point 1 of the meeting
+* [#17](https://github.com/panosc-eu/panosc/issues/17) Press release about kickoff
+  * Closed. Work done. Thanks Nicoletta
+* [#19](https://github.com/panosc-eu/panosc/issues/19) Document storing in GitHub
+  * Closed. GitHub as main repository. If we need editing by multiple team members at the same time
 we will use Google Docs. If at some point this is not convenient we will open a new issue.
-	[#20] (https://github.com/panosc-eu/panosc/issues/20) Write DMP for PaNOSC (deliverable D1.4)
-		Closed. ESRF started work on this deliverable for end of June. 
-	[#21] (https://github.com/panosc-eu/panosc/issues/21) Answer EOSC-Hub questions
-		Andy to own the issue. No news
-	[#22] (https://github.com/panosc-eu/panosc/issues/22) Mailing lists
-		Andy to own the issue. Mailing lists created, however we need to populate the WP specific lists
+* [#20](https://github.com/panosc-eu/panosc/issues/20) Write DMP for PaNOSC (deliverable D1.4)
+  * Closed. ESRF started work on this deliverable for end of June. 
+* [#21](https://github.com/panosc-eu/panosc/issues/21) Answer EOSC-Hub questions
+  * Andy to own the issue. No news
+* [#22](https://github.com/panosc-eu/panosc/issues/22) Mailing lists
+  * Andy to own the issue. Mailing lists created, however we need to populate the WP specific lists
 with names. WP leaders to provide the list of names
-	[#23] (https://github.com/panosc-eu/panosc/issues/23) Financial Control for PaNOSC
-		Jordi to own the issue. Jordi asked to review document. The Partner's grant offices should be 
+* [#23](https://github.com/panosc-eu/panosc/issues/23) Financial Control for PaNOSC
+  * Jordi to own the issue. Jordi asked to review document. The Partner's grant offices should be 
 aware of the reporting required. Jordi also would like this document to be agreed by the EB during kick-off
 meeting
     
@@ -86,7 +86,7 @@ Other stakeholders could be invited if required.
 take place in London on the 30/1. More info at this url: https://www.esfri.eu/esfri-events/esfri-ris-eosc-liaison-workshop
 Andy has received an invitation too but he could not attend. Either Rudolf or Jordi will cover for him in the event.
 
-6. ** AOB**
+6. **AOB**
     
     Just a reminder to add the job adverts in the site. Nicoletta pointed out that these could be retwitted too.
 
