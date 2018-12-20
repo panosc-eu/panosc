@@ -22,7 +22,7 @@ Minutes
 around 1/2 to 1 page from each WP leader about their approach for the WP). The document is available online for editing. 
 New mailing lists being introduced and work has started (and will be shared) on the [EB Agenda during kick-off](https://github.com/panosc-eu/panosc/issues/24) and 
 financial control for the project.
-*    **WP2 Data Policy and Stewardship** - Andy reported that he has started doing literature research abobut DOIs for instruments which he would like to include as part of the outcomes of WP2.
+*    **WP2 Data Policy and Stewardship** - Andy reported that he has started doing literature research about DOIs for instruments which he would like to include as part of the outcomes of WP2.
 *    **WP3 Data Catalog Services** - Tobias was absent. Petra reported that he is busy hiring someone for WP3.
 *    **WP4 Data Analysis Services** - Hans reported that XFEL is hiring.
 *    **WP5 Virtual Neutron and X-ray Laboratory** - Carsten was absent but send an update by email: He created a GitHub
