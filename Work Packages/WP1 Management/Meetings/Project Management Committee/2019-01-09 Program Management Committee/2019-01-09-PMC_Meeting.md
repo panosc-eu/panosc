@@ -24,11 +24,11 @@ Agenda
 	*    WP9 Outreach &Communication
 
 6. Review any other existing issues: https://github.com/panosc-eu/panosc/issues
-	1.   [#4](https://github.com/panosc-eu/panosc/issues/4) PaNOSC EB & PMC
-	2.   [#6](https://github.com/panosc-eu/panosc/issues/6) Kick-off meeting planning (already checked in item 1 above)
-	3.   [#9](https://github.com/panosc-eu/panosc/issues/9) Observer status
-	4.  [#16](https://github.com/panosc-eu/panosc/issues/16) Draft Consortium Agreement
-	5. [#21][Issue #21](https://github.com/panosc-eu/panosc/issues/21) Answer EOSC-Hub questions (already checked in item 2 above)
+	1. [#4](https://github.com/panosc-eu/panosc/issues/4) PaNOSC EB & PMC
+	2. [#6](https://github.com/panosc-eu/panosc/issues/6) Kick-off meeting planning (already checked in item 1 above)
+	3. [#9](https://github.com/panosc-eu/panosc/issues/9) Observer status
+	4. [#16](https://github.com/panosc-eu/panosc/issues/16) Draft Consortium Agreement
+	5. [#21](https://github.com/panosc-eu/panosc/issues/21) Answer EOSC-Hub questions (already checked in item 2 above)
 	6. [#22](https://github.com/panosc-eu/panosc/issues/22) Mailing lists
 	7. [#23](https://github.com/panosc-eu/panosc/issues/23) Financial Control for PaNOSC
 	8. [#24](https://github.com/panosc-eu/panosc/issues/24) EB Agenda for Kick-off meeting
