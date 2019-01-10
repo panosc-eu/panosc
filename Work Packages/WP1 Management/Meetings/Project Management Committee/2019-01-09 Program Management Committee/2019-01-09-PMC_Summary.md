@@ -88,10 +88,10 @@ Jordi and Andy to share the agenda with the EB mailing list as soon as possible.
     
 6. _**News from other proposals and events**_
 
-*    Paradyse from ESS
+    Paradyse from ESS
 
 7. _**AOB**_
     
- *   None
+    None
 
     
