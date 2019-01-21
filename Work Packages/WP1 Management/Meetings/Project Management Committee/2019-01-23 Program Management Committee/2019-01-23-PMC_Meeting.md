@@ -7,6 +7,7 @@ Agenda
 1. Kick-off meeting report
 	* Attendance & Feedback from session
 	* GDPR information collected
+	* EB minutes
 
 2. Deliverable D1.1 Project Initiation Documentation
 	* WP Approaches not yet done (WP3, WP7, WP8)
