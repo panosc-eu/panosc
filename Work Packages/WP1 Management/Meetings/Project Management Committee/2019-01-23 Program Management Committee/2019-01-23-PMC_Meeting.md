@@ -35,6 +35,7 @@ Agenda
 	6. [#22](https://github.com/panosc-eu/panosc/issues/22) Mailing lists
 	7. [#23](https://github.com/panosc-eu/panosc/issues/23) Financial Control for PaNOSC --> to close
 	8. [#24](https://github.com/panosc-eu/panosc/issues/24) EB Agenda for Kick-off meeting --> to close
+	9. [#25](https://github.com/panosc-eu/panosc/issues/25) Risk Management
 
 7. News from other proposals and events
 
