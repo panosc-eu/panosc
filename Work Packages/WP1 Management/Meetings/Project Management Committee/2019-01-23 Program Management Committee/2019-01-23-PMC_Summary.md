@@ -39,7 +39,7 @@ the last day to submit. Jordi will contact kick-off attendees regarding GDPR nex
 milestones and deliverables in GitHub WP1/Plans. Finally an issue about risk management has been created.
 *    **WP2 Data Policy and Stewardship** - Andy explained that he is busy getting all Data Policies and talking to FAIR experts.
 In particular he is interested in how institutes deal with requests to extend embargo periods.
-Andy said that DOIs have a recurrent costs (~0.1€/year) to which JF Perrin replied that this is not the case for the ILL, so 
+Andy said that DOIs have a recurrent costs (~0.1â‚¬/year) to which JF Perrin replied that this is not the case for the ILL, so 
 Andy and Jean-Francois will have a chat about this. 
 *    **WP3 Data Catalog Services** -  Tobias was absent. Petra reported no news
 *    **WP4 Data Analysis Services** - Hans was absent. Andy explained Hans is busy in a different proposal that has requested a 
@@ -88,7 +88,7 @@ will be discussed next week.
 
     Andy explained that there is a meeting in London next week for the ESFRI, also there is a meeting in February in Milan and 
 he has been invited to talk about PaNOSC and open data to NFFA.
-    Work is ongoing on two new requests where Hans (BOSSY) and Thomas (Paraydse) are involved
+    Work is ongoing on two new requests where Hans (BOSSEE) and Thomas (Paraydse) are involved
 
 7. _**AOB**_
     
