@@ -38,15 +38,18 @@ WP leaders (Risks that apply to all WPs will be assigned to Jordi).
 *    **WP2 Data Policy and Stewardship** - Andy was absent (in London for ESFRI meeting). Jordi had nothing to report. 
 Florian however reported changes in legistlation about Open Science. He suggested to look at how each country is legislating
 or not and whether laws are harmonised or could create any trouble for PaNOSC. 
-** A link to the item that Florian mentioned would go here **
+**A link to the item that Florian mentioned would go here**
 *    **WP3 Data Catalog Services** -  Tobias was absent. Petra reported a conference call next week.
 *    **WP4 Data Analysis Services** - Hans reported that a meeting of WP4 took place and the minutes are available in GitHub
 Jamie explained that during the meeting a few issues were raised:
+
 1st: How best to store the software? A new GitHub repository? A new repository for each software? Jordi suggested that whatever
 the choice it should be clear from our current repository where to find the others and what are for (that could be as easy as a
 wiki page with links)
+
 2nd: Licensing for the development: MIT - BSD license? We would like to have harmonised licenses for everything so it is easy
 to manage. Hans asked what was written in the proposal. Jordi agreed to submit a [new issue](https://github.com/panosc-eu/panosc/issues/26) for this. 
+
 3rd: Mailing lists are not great: its management is not easy and a better system is rerquired. Hans suggested that XFEL could help
 with this.
 *    **WP5 Virtual Neutron and X-ray Laboratory** - Carsten was absent. Petra reported no news
