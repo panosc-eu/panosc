@@ -5,7 +5,7 @@
 Attendees: 
 
 ## Agenda/Discussions:
-1. Meetings
+### 1. Meetings
 
 When looking for face 2 face meeting possibilities we have identify :
 
@@ -13,7 +13,7 @@ The EOSC-hub week (10-12 April 2019) https://eosc-hub.eu/events/eosc-hub-week-20
 
 The EGI conference (6-8 May 2019) https://www.egi.eu/news/egi-conference-2019-save-the-date/
 
-2. First piece of technical work
+### 2. First pieces of technical work
 
 --1. FiTSM training
 
