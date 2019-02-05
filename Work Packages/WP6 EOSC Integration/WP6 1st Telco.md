@@ -15,7 +15,7 @@ The EGI conference (6-8 May 2019) https://www.egi.eu/news/egi-conference-2019-sa
 
 ### 2. First pieces of technical work
 
---1. FiTSM training
+#### A. FiTSM training
 
 Action: Tiziana to identify possibilities.
 Action done just after the meeting, the 2 conferences beforedmentioned offer 1 day FiTSM Foundation training.
@@ -26,13 +26,15 @@ FitSM Foundation Training - Prague - 12 April 2019 (EOSC-hub Week co-location)
 FitSM Foundation Training - Amsterdam - 9 May 2019 (EGI Conference co-location)
     https://indico.egi.eu/indico/event/4521
   
---* EOSC Service catalogue
+#### B. EOSC Service catalogue, identify the first pilot service to be available.
 
+Action: Jean-François to ask WP3/4/5.
 
-                First service, which one ?
-        --* File transfer: FTS3, ONE DATA, Globus Online, ...
-        --* AAI - pilot 14th/15th of March
-        Which partners are available?
-        Expected Timing of the actions?
-3. Risk assessment
-4. AOB 
+#### B. File transfer
+
+File transfer solutions are core to this WP (needed in different tasks). We discussed the possibilities to explore for differenbt needs 
+FTS3, ONE DATA and  Globus Online.
+
+#### C. AAI - pilot 14th/15th of March
+     
+### 3. AOB 
