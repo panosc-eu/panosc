@@ -28,7 +28,7 @@ FitSM Foundation Training - Amsterdam - 9 May 2019 (EGI Conference co-location)
   
 #### B. EOSC Service catalogue, identify the first pilot service to be available.
 
-Action: Jean-François to ask WP3/4/5.
+Action: Jean-François to raise this question to WP3/4/5.
 
 #### B. File transfer
 
