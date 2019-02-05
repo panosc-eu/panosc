@@ -32,7 +32,7 @@ Action: Jean-François to raise this question to WP3/4/5.
 
 #### C. File transfer
 
-File transfer solutions are core to this WP (needed in different tasks). We discussed the possibilities to explore for differenbt needs 
+File transfer solutions are core to this WP (needed in different tasks). We discussed the possibilities to explore for different solution for diffrent needs 
 FTS3, ONE DATA and  Globus Online.
 
 #### D. AAI 
