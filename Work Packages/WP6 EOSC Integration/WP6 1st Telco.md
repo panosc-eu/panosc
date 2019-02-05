@@ -30,11 +30,13 @@ FitSM Foundation Training - Amsterdam - 9 May 2019 (EGI Conference co-location)
 
 Action: Jean-François to raise this question to WP3/4/5.
 
-#### B. File transfer
+#### C. File transfer
 
 File transfer solutions are core to this WP (needed in different tasks). We discussed the possibilities to explore for differenbt needs 
 FTS3, ONE DATA and  Globus Online.
 
-#### C. AAI - pilot 14th/15th of March
+#### D. AAI 
+
+A 2 days meeting is plan at Amsterdam the 14th/15th of March, in order to discuss more carefully eduTeams with GEANT and if possible set up a pilot. Reporting should be donne tduring the May UmbrellaID meeting that PSI is setting up.
      
 ### 3. AOB 
