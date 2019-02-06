@@ -31,3 +31,4 @@ Agenda
 6. News from other proposals and events
 
 7. AOB
+	*   Date and location of new Annual Meeting
