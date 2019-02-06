@@ -14,7 +14,7 @@ Link for the telco: https://ill.vidyocloud.com/join/pXM59qAfyX
 
     Action list
 
-2. Presentation of FTS3 (FTS team)
+2. Presentation of FTS3 (Andrea Manzi/CERN, FTS product team coordinator)
 
 3. Presentation of Globus (Krzysztof)
 
