@@ -2,7 +2,7 @@
 
 5 Feb 2019
 
-Attendees: Brian & Ian (STFC), Roberto & George (CERIC), Tiziana & Giuseppe (EGI), Sarah - Minutes - & Jean-François (ILL), Lajos (ELI-ALPS), Michael & Patrick (DESY), Krzysztof (EXFEL.EU)
+Attendees: Brian & Ian (STFC), Roberto & George (CERIC), Tiziana & Giuseppe (EGI), Sarah - Minutes - & Jean-François (ILL), Lajos (ELI-ALPS), Michael & Patrick (DESY), Krzysztof (XFEL.EU)
 
 Link for the telco: https://ill.vidyocloud.com/join/pXM59qAfyX
 
