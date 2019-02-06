@@ -4,6 +4,8 @@
 
 Attendees: Brian & Ian (STFC), Roberto & George (CERIC), Tiziana & Giuseppe (EGI), Sarah & Jean-François (ILL), Lajos (ELI-ALPS), Michael & Patrick (DESY), Krzysztof (EXFEL.EU)
 
+Link for the telco: https://ill.vidyocloud.com/join/pXM59qAfyX
+
 ## Agenda:
 
 1. General organisation and feedback from the kick-off meeting
