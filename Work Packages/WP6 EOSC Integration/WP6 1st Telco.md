@@ -1,4 +1,4 @@
-#  WP6 1st fortnightly telco
+#  WP6 fortnightly telco #1
 
 5 Feb 2019
 
@@ -56,6 +56,12 @@ FitSM Foundation Training - Prague - 12 April 2019 (EOSC-hub Week co-location)
 FitSM Foundation Training - Amsterdam - 9 May 2019 (EGI Conference co-location)
     https://indico.egi.eu/indico/event/4521
 
+```
+Action: Tiziana. Training attendance fee has to be confirmed.
+```
+
+
+
 #### 2.2. EOSC Service catalogue, identify the first pilot service to be available.
 
 ```
@@ -90,7 +96,9 @@ Krzysztof prepare a presentation of the XFEL.EU Globus trial
 
 #### 2.4. AAI 
 
-A 2 days hands on meeting is plan at Amsterdam the 14th/15th of March, in order to discuss more carefully eduTeams with GEANT and if possible set up a pilot. Reporting should be done during the May UmbrellaID meeting that PSI is setting up.
+Jean-François reported that a 2 days hands-on meeting is plan at Amsterdam the 14th/15th of March, in order to discuss more carefully eduTeams with GEANT and if possible set up a small pilot. Reporting should be done during the May UmbrellaID meeting that PSI is setting up.
+
+EGI is interested to attend.
 
 ### 3. AOB 
 
@@ -99,6 +107,8 @@ PaNOSC presentation during conference : EOSC hubweek Prague
 Mismatch between task leaders and corresponding deliverables responsible
 
 Jupyter notebook training is organized during the EGI conference (this is also interesting for this WP regarding data transfer and management)
+
+Tiziana presented briefly the "EOSC-HUB integrated open call provider" (EOSC-HUB help to demonstrate/set up EOSC portal services) and invited PaNOSC to look for it. More detailed information will be provided when ready.
 
 
 
