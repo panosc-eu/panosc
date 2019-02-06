@@ -1,6 +1,6 @@
 #  WP6 fortnightly telco #1
 
-5 Feb 2019
+5 Feb 2019 - 11H00 CET
 
 Attendees: Brian & Ian (STFC), Roberto & George (CERIC), Tiziana & Giuseppe (EGI), Sarah - Minutes - & Jean-François (ILL), Lajos (ELI-ALPS), Michael & Patrick (DESY), Krzysztof (XFEL.EU)
 
