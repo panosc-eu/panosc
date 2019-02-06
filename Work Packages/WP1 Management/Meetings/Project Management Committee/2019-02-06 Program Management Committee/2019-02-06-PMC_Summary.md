@@ -5,7 +5,7 @@ Present
 ------
 Jean-Francois (ILL), Andy (ESRF), Rudolf (ESRF), Jordi (ESRF), Axel (ESRF), Lajos (ELI-ALPS), Hans (euXFEL), 
 Thomas (ESS), Jonathan (ESS), Nicoletta (CERIC-ERIC), Dario (CERIC-ERIC)
-----------------------------------------------------------------------------------------------------------------------
+
 
 Minutes
 ------
@@ -44,7 +44,8 @@ Andy pointed out that we do not want Jira, just Confluence
 Jean-Francois explained that he heard Tiziana say that access to EGI's Confluence is linked to their LDAP, therefore
 some work is required for external users (like us) to access it
 
-2. _**Job openings**_
+3. _**Job openings**_
+
 Andy reported that one post is open at the ESRF
 Jean-Francois still has two positions open at the ILL (one infrastructrure, the other web development)
 Hans explained that Carsten replacement could be a PhD that worked with Carsten and knows the subject well, however
@@ -54,7 +55,7 @@ Dario reported interviews ongoing at CERIC-ERIC
 Lajos said that ELI-DC would hire for WP2 a person, and ELI-Beamlines for WP4. ELI-ALPS may get ELI-DC to hire 
 someone for them.
 
-3. _**Update from the WP Leaders**_
+4. _**Update from the WP Leaders**_
 
 *    **WP1 Management** - Jordi reported work on GDPR notices (over 80% of kick-off attendees agreed); submission of
 D1.1 Project Initiation Documentation and attending 07/02 and 08/02 the kick-off meeting of ESCAPE cluster project.
@@ -77,7 +78,7 @@ Lajos said that he fins difficult that task leaders and deliverable owners are n
 *    **WP8 Staff training in data stewardship** - Thomas said that they have not started yet
 *    **WP9 Outreach & Communication** - Nicoletta reported progress with the website supplier
 
-4. _**Review of existing issues**_: https://github.com/panosc-eu/panosc/issues
+5. _**Review of existing issues**_: https://github.com/panosc-eu/panosc/issues
 
     Issues were worked through and updated accordingly. In particular
 * [#9](https://github.com/panosc-eu/panosc/issues/9) Observer status
@@ -95,11 +96,13 @@ continue with their license. For brand new software developed the license choice
 WP leader or dev. group.
 Hans pointed out that some licenses could be exclusive, so we need to be careful.
     
-5. _**News from other proposals and events**_
+6. _**News from other proposals and events**_
+
 Hans shared BOSSE proposal website
 Thomas also submitted a proposal
 
 7. _**AOB**_
+
 Rudolf wanted to talk about future dates for a face-to-face Executive Board meeting and Annual Conference for PaNOSC.
 This could happen in Trieste, but it is not so clear at this point. Unfortunately the network cut at that point and 
 we overran the 1 hour allocated to the conference call, therefore Rudolf Dimper will share this information in the 
