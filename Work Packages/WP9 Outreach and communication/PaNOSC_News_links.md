@@ -19,4 +19,10 @@ December 2018
 * https://twitter.com/Panosc_eu/status/1070647450409545729	Twitter post, 6 December 2018
 * https://www.linkedin.com/feed/update/urn:li:activity:6480370811432628224	LinkedIn (CERIC) post
 * https://www.eiroforum.org/feed-items/h2020-project-panosc-officially-started/	19 Dec. 2018, EIRO-forum
+
+January 2019
+-------------
 * http://eosc-hub.eu/news/h2020-project-panosc-officially-started-contribute-making-fair-data-reality EOSC-Hub, 21 Jan. 2019
+
+February 2019
+-------------
