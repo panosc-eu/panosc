@@ -1,6 +1,13 @@
 PaNOSC News links
 =================
 
+February 2019
+-------------
+
+January 2019
+-------------
+* http://eosc-hub.eu/news/h2020-project-panosc-officially-started-contribute-making-fair-data-reality EOSC-Hub, 21 Jan. 2019
+
 December 2018
 -------------
 * https://www.eosc-hub.eu/events/eosc-hub-week-16-20-april-2018-malaga-spain/programme/the-role-of-ESFRI-clusters-in-EOSC/panosc EOSC-Hub 2017
@@ -20,9 +27,3 @@ December 2018
 * https://www.linkedin.com/feed/update/urn:li:activity:6480370811432628224	LinkedIn (CERIC) post
 * https://www.eiroforum.org/feed-items/h2020-project-panosc-officially-started/	19 Dec. 2018, EIRO-forum
 
-January 2019
--------------
-* http://eosc-hub.eu/news/h2020-project-panosc-officially-started-contribute-making-fair-data-reality EOSC-Hub, 21 Jan. 2019
-
-February 2019
--------------
