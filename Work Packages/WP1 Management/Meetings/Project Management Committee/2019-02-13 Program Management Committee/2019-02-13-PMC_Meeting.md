@@ -24,7 +24,7 @@ Agenda
 	2. [#16](https://github.com/panosc-eu/panosc/issues/16) Draft Consortium Agreement
 	3. [#22](https://github.com/panosc-eu/panosc/issues/22) Mailing lists
 	4. [#25](https://github.com/panosc-eu/panosc/issues/25) Risk Management
-        5. [#26](https://github.com/panosc-eu/panosc/issues/26) Software licensing
+	5. [#26](https://github.com/panosc-eu/panosc/issues/26) Software licensing
 	6. [#27](https://github.com/panosc-eu/panosc/issues/27) First Annual Meeting
 
 5. Job openings
