@@ -34,4 +34,4 @@ Agenda
 7. News from other proposals and events
 
 8. AOB
-
+	*    Next PMC meetings
