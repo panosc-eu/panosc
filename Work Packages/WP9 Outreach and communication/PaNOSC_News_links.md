@@ -4,6 +4,7 @@ PaNOSC News links
 February 2019
 -------------
 * https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud	section Overview of the EOSC Strategic Implementation Roadmap presentation (page 11)
+*https://www.leaps-initiative.eu/news/h2020_project_panosc/ LEAPS
 
 January 2019
 -------------
