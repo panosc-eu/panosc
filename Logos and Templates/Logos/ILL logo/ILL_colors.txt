@@ -1,0 +1,5 @@
+The new official colour of the ILL logo is Pantone 7690C.
+ 
+This corresponds to  #0076A8
+or R= 0 ; G= 118 ; B = 168
+or C= 95; M= 41; Y= 10; K= 0
