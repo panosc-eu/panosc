@@ -4,7 +4,7 @@ PaNOSC Project Management Committee meeting - 13/03/2019
 Agenda
 ------
 
-1. Update on Deliverables D1.1 and D9.3 live documents
+1. Update on calendar and deliverables D1.1 and D9.3 as live documents
 
 2. Signing of Consortium Agreement
 
