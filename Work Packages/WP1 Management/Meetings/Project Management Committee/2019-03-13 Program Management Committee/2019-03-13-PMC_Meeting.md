@@ -10,7 +10,7 @@ Agenda
 
 3. Update on budget and deliverables
 
-3. Update from the WP Leaders - update on resources assigned + hiring + work plans
+4. Update from the WP Leaders - update on resources assigned + hiring + work plans
 	*    WP1 Management
 	*    WP2 Data Policy and Stewardship
 	*    WP3 Data Catalog Services
