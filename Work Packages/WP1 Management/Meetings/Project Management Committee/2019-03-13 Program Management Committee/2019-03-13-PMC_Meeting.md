@@ -8,7 +8,7 @@ Agenda
 
 2. Signing of Consortium Agreement
 
-3. Update on budget 
+3. Update on budget and deliverables
 
 3. Update from the WP Leaders - update on resources assigned + hiring + work plans
 	*    WP1 Management
@@ -26,15 +26,15 @@ Agenda
 	2. [#16](https://github.com/panosc-eu/panosc/issues/16) Draft Consortium Agreement
 	3. [#22](https://github.com/panosc-eu/panosc/issues/22) Mailing lists
 	4. [#25](https://github.com/panosc-eu/panosc/issues/25) Risk Management
-	5. [#26](https://github.com/panosc-eu/panosc/issues/26) Software licensing
-	6. [#27](https://github.com/panosc-eu/panosc/issues/27) First Annual Meeting
-	7. [#28](https://github.com/panosc-eu/panosc/issues/28) PaNOSC logo
-	8. [#29](https://github.com/panosc-eu/panosc/issues/29) Deliverable D10.1 POPD Requirement
-	9. [#31](https://github.com/panosc-eu/panosc/issues/31) Report on kick-off
+	5. [#27](https://github.com/panosc-eu/panosc/issues/27) First Annual Meeting
+	6. [#28](https://github.com/panosc-eu/panosc/issues/28) PaNOSC logo
+	7. [#29](https://github.com/panosc-eu/panosc/issues/29) Deliverable D10.1 POPD Requirement
+	8. [#31](https://github.com/panosc-eu/panosc/issues/31) Report on kick-off
+	9. [#34](https://github.com/panosc-eu/panosc/issues/34) Questions to FAIRsFAIR
 
-6. Job openings
+6. Job openings and hirings
 
-7. News from other proposals and events
+7. News from other proposals and events - EOSCEnhance, FAIRsFAIR, First OASYS School
 
 8. AOB
 
