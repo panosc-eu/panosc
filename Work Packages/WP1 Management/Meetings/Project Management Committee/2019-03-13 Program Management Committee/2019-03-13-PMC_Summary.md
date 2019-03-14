@@ -47,8 +47,8 @@ Minutes
 *    **WP2 Data Policy and Stewardship** - currently filling in analysis table for existing DPS
 *    **WP3 Data Catalog Services** - currently filling in state-of-art table for data catalogs, face-2-face meeting in May
 *    **WP4 Data Analysis Services** - good engagement at WP meetings with demos, request from Jon and Thomas to make a list of visualisation technologies being looked at
-*    **WP5 Virtual Neutron and X-ray Laboratory** - no news from EuXFEL about replacing WP leader, ESS has submitted code for a Python API, ESS would like to know when will a WP meeting be organised, ESRF is organising a First School on OASYS
-*    **WP6 EOSC Integration** - good engagement at meetings from all memebers except ESRF (who are in the process of hiring), FTS3 was presented, Globus to be presented at next meeting
+*    **WP5 Virtual Neutron and X-ray Laboratory** - no news from EuXFEL about replacing WP leader, ESS has submitted code for a Python API, ESS would like to know when will a WP meeting be organised, ESRF is organising a First School on OASYS (announcement will follow soon)
+*    **WP6 EOSC Integration** - good engagement at meetings from all memebers except ESRF (who are in the process of hiring), FTS3 was presented, Globus to be presented at next meeting, Jean-Francois and GÉANT are working together on AAI
 *    **WP7 Sustainability** - working on the Stakeholders list, will soon be shared with all PaNOSC members
 *    **WP8 Staff training in data stewardship** - ESS discussing how to migrate the learning platform to ESS platforms, ESRF asked when it will be possible to get help to start making e-learning videos
 *    **WP9 Outreach & Communication** - CERIC will soon meet the company building the website, new logo proposal is almost ready, a conference for RIs is planned where WP9 plans to have a face-2-face meeting (link?)
