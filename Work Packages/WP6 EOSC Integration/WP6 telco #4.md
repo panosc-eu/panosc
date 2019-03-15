@@ -16,7 +16,7 @@ Link for the telco: https://ill.vidyocloud.com/join/pXM59qAfyX
 
 2. Discussions on the AAI integration use case for the Jupyter Notebook Service (powered by EGI).
 
-    Data are fetched from one of the PaNOSC RIs, results of the analysis are stored back at the same RI infrastructure. EGI is handling the Compute (Jupyter) Service. Users are authenticated    with the UmbrellaID proxyfied by eduTeam.
+    Data are fetched from one of the PaNOSC RIs, results of the analysis are stored back at the same RI infrastructure. EGI is handling the Compute (Jupyter) Service. Users are authenticated with the UmbrellaID AAI proxyfied by eduTeam.
 
     This is probably only preliminary work, but from y point of view the objectives of this discussion should be :
 
