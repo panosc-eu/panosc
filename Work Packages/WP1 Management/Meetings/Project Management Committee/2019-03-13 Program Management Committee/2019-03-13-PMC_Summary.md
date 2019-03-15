@@ -51,7 +51,7 @@ Minutes
 *    **WP6 EOSC Integration** - good engagement at meetings from all memebers except ESRF (who are in the process of hiring), FTS3 was presented, Globus to be presented at next meeting, Jean-Francois and GÉANT are working together on AAI
 *    **WP7 Sustainability** - working on the Stakeholders list, will soon be shared with all PaNOSC members, ESRF mentioned the PUMA-BI software for compiling bibliometrics which could be useful for sustainability developed by ILL (cf. https://bit.ly/2Too97T)
 *    **WP8 Staff training in data stewardship** - ESS discussing how to migrate the learning platform to ESS platforms, ESRF asked when it will be possible to get help to start making e-learning videos
-*    **WP9 Outreach & Communication** - CERIC will soon meet the company building the website, new logo proposal is almost ready, a conference for RIs is planned where WP9 plans to have a face-2-face meeting (link?)
+*    **WP9 Outreach & Communication** - CERIC will soon meet the company building the website, new logo proposal is almost ready, a conference for RIs (PARI 2019) is planned where WP9 plans to have a face-2-face meeting >> https://www.isis.stfc.ac.uk/Pages/PARI2019.aspx
 
 
 6. _**Review of existing issues**_: https://github.com/panosc-eu/panosc/issues
