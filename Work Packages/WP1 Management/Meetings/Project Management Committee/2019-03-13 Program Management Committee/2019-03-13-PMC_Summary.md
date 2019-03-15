@@ -60,7 +60,7 @@ Minutes
 
 5. _**Job openings**_
 
-    ESRF has 2 3 yr contract positions they are trying to fill - a sys admin, and a software developer for PUMA-BI
+    ESRF has two 3 yr contract positions they are trying to fill - a sys admin (WP6), and a software developer for PUMA-BI (WP7)
 
 6. _**News from other proposals and events**_
 
