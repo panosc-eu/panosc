@@ -5,7 +5,7 @@
 | Catalogue | TBD | SciCat | TBD | ICAT | ILL Own | MyMdC |
 | URL | -- | https://scicat.esss.se | ---  | https://datahub.esrf.fr | https://data.ill.eu | https://in.xfel.eu/metadata |
 | Login required | -- | Yes | ---  | Yes | Yes |  --- |
-| File formats | -- | NeXus| ---  | --- | NeXus and ILL Ascii |  --- |
+| File formats | -- | NeXus| ---  | EDF, SPEC, MCA, CBF, CCD, MCCD, HDF5, NeXus | NeXus and ILL Ascii |  --- |
 | Database | -- | MongoDB | ---  | Oracle and MongoDB | Oracle |  --- |
 | Language | -- | Javascript | ---  | JAVA and Javascript | PHP |  --- |
 | Main technologies | -- | Angular | ---  | React, NodeJS, EJB, JPA | Symfony, JQuery |  --- |
