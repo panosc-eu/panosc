@@ -1,10 +1,12 @@
 # List Of Searchable Metadata Entries
 
-1. Experiment name/title
-2. Scientific Technique/Methodology
-3. Sample name/formula
-4. Experimenter name
-6. Experimental dates
-7. Instrument name
-8. Proposal Id
-9. Experiment number/Id
+|Metadata entity|Notes|
+|--- |--- |
+|Experiment name/title|Could come from proposal title or title in data file (ILL)
+|Scientific Technique/Methodology|
+|Sample name/formula|Sample formulae in both data files and proposals (ILL) 
+|Experimenter name|
+|Experimental dates|
+|Instrument name|
+|Proposal Id/code|
+|Experimental file number/Id|
