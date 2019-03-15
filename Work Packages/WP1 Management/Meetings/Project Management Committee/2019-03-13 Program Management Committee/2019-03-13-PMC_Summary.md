@@ -24,7 +24,7 @@ Minutes
 
 3. _**Update on budget and deliverables**_
 
-    Andy pointed out that the budget breakdown which was agreed upon while setting up the project should be consulted when there are questions about travel or other indirect costs. However the labelling of items in the budget e.g. as an event or annual meeting, is flexible and budget canbe trasnferred between items in the indirect costs. On the other hand Personnel costs cannot be transferred without amending the GA. 
+    Andy pointed out that the budget breakdown which was agreed upon while setting up the project should be consulted when there are questions about travel or other direct costs. However the labelling of items in the budget e.g. as an event or annual meeting, is flexible and budget canbe transferred between items in the other direct costs. On the other hand Personnel costs cannot be transferred without amending the GA. 
 
     Thomas pointed out we should get agreement of the project officer when travelling outside Europe. 
 
