@@ -1,6 +1,6 @@
-#  WP6 fortnightly telco #
+#  WP6 fortnightly telco #4
 
-5 March 2019 - 11H00 CET
+19th March 2019 - 11H00 CET
 
 Attendees:
 
