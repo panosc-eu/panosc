@@ -24,7 +24,7 @@ Minutes
 
 3. _**Update on budget and deliverables**_
 
-    Andy pointed out that the budget breakdown which was agreed upon while setting up the project should be consulted when there are questions about travel or other direct costs. However the labelling of items in the budget e.g. as an event or annual meeting, is flexible and budget canbe transferred between items in the other direct costs. On the other hand Personnel costs cannot be transferred without amending the GA. 
+    Andy pointed out that the budget breakdown which was agreed upon while setting up the project should be consulted when there are questions about travel or other direct costs. However the labelling of items in the budget e.g. as an event or annual meeting, is flexible and budget can be transferred between items in the other direct costs. Similarly Personnel costs can be transferred without amending the GA as long as no transfer of tasks are involved. 
 
     Thomas pointed out we should get agreement of the project officer when travelling outside Europe. 
 
@@ -49,7 +49,7 @@ Minutes
 *    **WP4 Data Analysis Services** - good engagement at WP meetings with demos, request from Jon and Thomas to make a list of visualisation technologies being looked at
 *    **WP5 Virtual Neutron and X-ray Laboratory** - no news from EuXFEL about replacing WP leader, ESS has submitted code for a Python API, ESS would like to know when will a WP meeting be organised, ESRF is organising a First School on OASYS (announcement will follow soon)
 *    **WP6 EOSC Integration** - good engagement at meetings from all memebers except ESRF (who are in the process of hiring), FTS3 was presented, Globus to be presented at next meeting, Jean-Francois and GÉANT are working together on AAI
-*    **WP7 Sustainability** - working on the Stakeholders list, will soon be shared with all PaNOSC members
+*    **WP7 Sustainability** - working on the Stakeholders list, will soon be shared with all PaNOSC members, ESRF mentioned the PUMA-BI software for compiling bibliometrics which could be useful for sustainability developed by ILL (cf. https://bit.ly/2Too97T)
 *    **WP8 Staff training in data stewardship** - ESS discussing how to migrate the learning platform to ESS platforms, ESRF asked when it will be possible to get help to start making e-learning videos
 *    **WP9 Outreach & Communication** - CERIC will soon meet the company building the website, new logo proposal is almost ready, a conference for RIs is planned where WP9 plans to have a face-2-face meeting (link?)
 
@@ -60,7 +60,7 @@ Minutes
 
 5. _**Job openings**_
 
-    Not discussed
+    ESRF has 2 3 yr contract positions they are trying to fill - a sys admin, and a software developer for PUMA-BI
 
 6. _**News from other proposals and events**_
 
@@ -69,3 +69,7 @@ Minutes
 7. _**AOB**_
 
     Andy was interviewed for the ELI Newsletter on PaNOSC
+    
+    Jean-Francois was interviewed on the PUMA-BI software by ComputerWorld in this article:
+    https://www.computerworlduk.com/infrastructure/ill-neutron-open-data-deep-learning-3693255/
+    
