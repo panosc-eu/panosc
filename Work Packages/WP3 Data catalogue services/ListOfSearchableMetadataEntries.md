@@ -1,5 +1,4 @@
-List Of Searchable Metadata Entries
+# List Of Searchable Metadata Entries
 
-Scientific Technique/Methodology
-
-Sample Name
+1. Scientific Technique/Methodology
+2. Sample Name
