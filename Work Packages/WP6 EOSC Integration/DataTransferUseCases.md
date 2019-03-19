@@ -37,25 +37,6 @@ The RIs offers a service to host the results of the analyses, but the user could
 
 
 
-## Remote Data analyses using Jupyter notebook services of   another provider (EGI in this particular case)
-
-**Story**
-
-A scientist wants to perform analysis on data sets obtained during an experiment at one of the PaNOSC RIs. 
-
-The compute and data infrastructure are distant.
-
-The scientist should be able to get his data from the RIs and store back the results at the same facility.
-Datasets are still under embargo, which means that the data at the facility could only be accessed by a user  with the sufficient authorizations (the user has to be part of the proposal team).
-
-The RIs offers a service to host the results of the analyses, but the user could decide to host the data elsewhere under his own responsibility.
-
-**Actors**: The user facility holding the data, the user performing the analysis, the Jupyter service provider.
-
-**Potential constraints**:
-
-
-
 ## User's data transfer to its home organization/home computer.
 
 **Story:**
