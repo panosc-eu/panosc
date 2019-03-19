@@ -25,7 +25,8 @@ Roadmap for the integration of the EOSC-hub services in the cluster project (20â
 
     Action list:
 
-    Data transfer use cases (Initial draft)  https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP6%20EOSC%20Integration/DataTransferUseCases.md
+    Data transfer use cases (Initial draft)
+  https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP6%20EOSC%20Integration/DataTransferUseCases.md
 
     
 
