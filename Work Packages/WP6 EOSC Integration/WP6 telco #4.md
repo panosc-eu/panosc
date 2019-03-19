@@ -12,7 +12,16 @@ Link for the telco: https://ill.vidyocloud.com/join/pXM59qAfyX
 
     Minutes approval (unfortunately minutes of our previous meeting are not available, it has to be postponed to the next meeting)
 
-    EOSC-Hub week: Photon - Neutron working meeting (5H00 - 6H00 PM 10th April): confirm agenda/attendance.
+    EOSC-Hub week: Photon - Neutron working meeting (5H00 - 6H00 PM 10th April): confirm agenda/attendance. 
+
+Agenda: 
+Which EOSC-hub services can be interested for the PANOSC cluster project ?
+EGI Jupyter Notebook service for the PANOSC community (10’)
+Data management solutions to make federated data transparently accessible by computing resources running on different cloud environments (e-infrastructure, research infrastructures) (10’)
+Status of the AAI integration in PANOSC (10’)
+Data archiving (10’) 
+Roadmap for the integration of the EOSC-hub services in the cluster project (20’)
+
 
     Action list:
 
