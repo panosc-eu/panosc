@@ -15,6 +15,8 @@ Documents
 
 * Cost-Benefit analysis for FAIR research data – Study - https://www.ouvrirlascience.fr/wp-content/uploads/2019/03/Cost-Benefit-analysis-for-FAIR-research-data_KI0219023ENN_en.pdf
 
+* NIH Strategic Plan for Data Science - https://commonfund.nih.gov/sites/default/files/NIH_Strategic_Plan_for_Data_Science_Final_508.pdf
+
 Websites
 --------
 
@@ -33,3 +35,7 @@ GDPR
     https://iapp.org/news/a/how-gdpr-changes-the-rules-for-research/
 
     
+Webinars
+--------
+
+* https://www.rd-alliance.org/groups/gede-group-european-data-experts-rda
