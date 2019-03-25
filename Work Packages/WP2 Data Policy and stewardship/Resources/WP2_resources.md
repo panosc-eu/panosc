@@ -3,6 +3,7 @@
 This document contains links to resources related to the PaNOSC WP2 work package on Data Policy and Stewardship. Resources include web sites, documents, videos etc. that are related to WP2.
 
 Documents
+---------
 
 * UK Open Data report - https://www.gov.uk/government/publications/open-research-data-task-force-final-report 
 
@@ -12,15 +13,22 @@ Documents
 
 * State of Open Science in Nordic Countries - https://www.nordforsk.org/en/publications/publications_container/state-o-open-science-in-the-nordic-countries
 
+* Cost-Benefit analysis for FAIR research data – Study - https://www.ouvrirlascience.fr/wp-content/uploads/2019/03/Cost-Benefit-analysis-for-FAIR-research-data_KI0219023ENN_en.pdf
+
 Websites
+--------
 
 * Helmholtz Data Federation - https://www.helmholtz.de/en/research/information_data_science/helmholtz_data_federation/
 
+* NIH Data Commons - https://commonfund.nih.gov/commons
+
 Data Policies
+-------------
 
 * PaNOSC current Data Policies - https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP2%20Data%20Policy%20and%20stewardship/Resources
 
 GDPR
+----
 
     https://iapp.org/news/a/how-gdpr-changes-the-rules-for-research/
 
