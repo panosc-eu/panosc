@@ -24,14 +24,16 @@ Agenda
 5. Review any other existing issues: https://github.com/panosc-eu/panosc/issues
 	1. [#9](https://github.com/panosc-eu/panosc/issues/9) Observer status
 	2. [#16](https://github.com/panosc-eu/panosc/issues/16) Draft Consortium Agreement
-	3. [#22](https://github.com/panosc-eu/panosc/issues/22) Mailing lists
-	4. [#25](https://github.com/panosc-eu/panosc/issues/25) Risk Management
-	5. [#27](https://github.com/panosc-eu/panosc/issues/27) First Annual Meeting
-	6. [#28](https://github.com/panosc-eu/panosc/issues/28) PaNOSC logo
-	7. [#29](https://github.com/panosc-eu/panosc/issues/29) Deliverable D10.1 POPD Requirement
-	8. [#31](https://github.com/panosc-eu/panosc/issues/31) Report on kick-off
-	9. [#34](https://github.com/panosc-eu/panosc/issues/34) Questions to FAIRsFAIR
-	10. [#35](https://github.com/panosc-eu/panosc/issues/35) Website development
+	3. [#20](https://github.com/panosc-eu/panosc/issues/20) Data Management Plan
+	4. [#22](https://github.com/panosc-eu/panosc/issues/22) Mailing lists
+	5. [#25](https://github.com/panosc-eu/panosc/issues/25) Risk Management
+	6. [#27](https://github.com/panosc-eu/panosc/issues/27) First Annual Meeting
+	7. [#28](https://github.com/panosc-eu/panosc/issues/28) PaNOSC logo
+	8. [#29](https://github.com/panosc-eu/panosc/issues/29) Deliverable D10.1 POPD Requirement
+	9. [#31](https://github.com/panosc-eu/panosc/issues/31) Report on kick-off
+	10. [#34](https://github.com/panosc-eu/panosc/issues/34) Questions to FAIRsFAIR
+	11. [#35](https://github.com/panosc-eu/panosc/issues/35) Website development
+	12. [#36](https://github.com/panosc-eu/panosc/issues/36) Items for Executive Board
 
 6. Job openings and hirings
 
