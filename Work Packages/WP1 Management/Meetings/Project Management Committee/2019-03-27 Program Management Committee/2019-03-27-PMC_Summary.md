@@ -68,4 +68,4 @@ going forward
 *    **Agenda for next Executive Board meeting**
 *    Meeting room size and number of expected attendees for **meeting in Trieste**
     
-    Hans and Thomas requested a copy of the ExPaNDS proposal, which Jordi will send after the meeting.
+   Hans and Thomas requested a copy of the ExPaNDS proposal, which Jordi will send after the meeting.
