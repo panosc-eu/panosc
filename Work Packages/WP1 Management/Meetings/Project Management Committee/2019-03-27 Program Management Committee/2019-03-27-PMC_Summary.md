@@ -45,7 +45,7 @@ in the EU Portal and save the changes (but not validate).
 
 *    **WP1 Management** - Jordi wasn't present in the last meeting and only can report progress in D1.2 Mid-Year Summary. Jordi
 also reminded everyone that the agreed Financial Report will need to be done for the next Executive Board meeting.
-Andy pointed out that all WP leaders should update summaries of their meetings in GitHub, so we can all follow all WPs
+Andy pointed out that all WP leaders should update summaries of their meetings in GitHub, so we can all follow all WPs. We are missing minutes for WP3, WP5, WP7, WP8 and WP9.
 *    **WP2 Data Policy and Stewardship** - Andy reported work in a lessons learnt document by CERIC and a report from Jon (ESS).
 *    **WP3 Data Catalog Services** - Tobias was absent. Petra reported planning an event to be hosted at DMSC
 *    **WP4 Data Analysis Services** - Hans reported attendance by XFEL to EGI conference (in Amsterdam) and also a 
@@ -55,8 +55,8 @@ face-to-face meeting 25-27th June at XFEL for WP4 collaborators
 for a meeting at PSI in May
 *    **WP7 Sustainability** - Dario is planning to send information about the stakeholders for sustainability by 5th April.
 Andy suggested that it would be good to have a meeting with more partners as CERIC is working in isolation in this WP
-*    **WP8 Staff training in data stewardship** - Thomas reported a Secondment beeing agreed for resourcing the training platform.
-*    **WP9 Outreach & Communication** - A new log for PaNOSC has been chosen, which will enable us to finalise templates to use
+*    **WP8 Staff training in data stewardship** - Thomas reported a Secondment being agreed for resourcing the training platform.
+*    **WP9 Outreach & Communication** - A new logo for PaNOSC has been chosen, which will enable us to finalise templates to use
 going forward
 
 
@@ -65,7 +65,8 @@ going forward
     We ran out of time, however we agreed to discuss ahead of the next meeting via email and the issues feature of GitHub these
     two items:
 
-*    **Agenda for next Executive Board meeting**
-*    Meeting room size and number of expected attendees for **meeting in Trieste**
+*   **Agenda for next Executive Board meeting**
+*   Meeting room size and number of expected attendees for **meeting in Trieste**
+*   How could PaNOSC participate in the European Open Science Forum, July 2020 in Trieste (https://www.esof.eu/en/home.html)
     
    Hans and Thomas requested a copy of the ExPaNDS proposal, which Jordi will send after the meeting.
