@@ -2,8 +2,8 @@ PaNOSC News links
 =================
 March 2019
 -------------
-*https://mailchi.mp/ccb1226fd1ee/elines-newsletter-2318145 ELI-DC Newsletter 
-*https://eli-laser.eu/news/panosc-sharing-data-to-speed-up-science/ ELI-DC
+* https://mailchi.mp/ccb1226fd1ee/elines-newsletter-2318145 ELI-DC Newsletter 
+* https://eli-laser.eu/news/panosc-sharing-data-to-speed-up-science/ ELI-DC
 
 February 2019
 -------------
