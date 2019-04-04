@@ -2,7 +2,8 @@ PaNOSC News links
 =================
 March 2019
 -------------
-*https://eli-laser.eu/news/panosc-sharing-data-to-speed-up-science/
+*https://eli-laser.eu/news/panosc-sharing-data-to-speed-up-science/ ELI-DC
+
 February 2019
 -------------
 * https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud	section Overview of the EOSC Strategic Implementation Roadmap presentation (page 11)
