@@ -16,11 +16,14 @@
 
 |Actor|Story|Notes|
 |--- |--- |--- |
-|Scientist|I would like know the states of Machine (i.e Energy) during an experiment |
+|Scientist|I would like to know the states of Machine (i.e Energy) during an experiment |
 |PTM|I would like to search for all metadata produced from the experiment (note that this are application specific)|
-|Scientist|I would like know the type of the software used for the analysis of data |
+|Scientist|I would like to know the type of the software used for the analysis of data |
 |Scientist|I want to be able to search for all data on water at the PanOSC facilities|
 |Scientist|I would like to search for experiments/datasets by a particular metadata entitysample formulatitlescientific techniquesample type|
+|Scientist|I would like to search for detector type|
+|Scientist|I would like to know the instruments setup|
+|Scientist|I would like to retrieve the logbook of an experiment|
 |Scientist|I would like to find all experimental data associated with a proposalId or experimental number|
 |Scientist|I would like to find all experimental data matching abstract/proposal text|
 |Scientist|I would like to see the proposal details associated with experimental data (abstract, title, experimental dates)|
