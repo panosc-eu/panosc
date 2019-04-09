@@ -80,3 +80,4 @@ Invite representatives from WP3, 6 -> Hans
 - admin interface Calipso (Aiden)
 - software preservation (Hans, Robert)
   - licenses
+- use case presentations from all facilities
