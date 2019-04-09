@@ -1,0 +1,82 @@
+<2019-04-09 Tue 15:00>
+
+* Recruitment update (all sites)
+- ILL: shortlist for developer position, interviews in May
+- ESRF: position open for web developer, offer for sys admin pending
+- ELI: two candidates for WP4
+- CERIC: open position for WP5, position filled for WP4
+- EuXFEL: WP5 candidates shortlisted
+
+* Calipso demo (Aidan Campbell, ESRF)
+- containers, virtual machines and jupyter notebooks
+- ESRF and Alba, code on github
+- set of use cases
+- containers have access to home directory and experimental data on each site
+
+- Central portal provides links to facility specific portals
+- log in, select data
+- crispy example: spawn container, and connect to it via Guacamole
+- quota management (CPU and RAM) for containers and virtual machines
+
+- what are the use cases?
+  - Python training
+    - 2 trainings in basic Python every year at ESRF
+    - started notebooks 2 years ago
+    - 25 participants
+    - takes one day
+  - 3d visualisation
+    - ipyvolume, bokeh
+
+- Discussion:
+  - can we install additional software?
+    - yes, but not persistent (unless installed in home directory)
+
+- start and end dates? 4 year project until April 2021
+  - face to face meeting at PSI at end of May
+
+
+* WP4 Project meeting at EuXFEL, 24-28 June 2019
+
+- Tuesday 25 to Thursday 27 June 2019
+  - Travel: Monday 24 June and Friday 28 June
+  - 3 days available for meeting
+
+** draft content
+- updates from sites
+
+- synchronise visions:
+  - what services is each partner working towards providing
+  - time scale
+
+- Jupyter-based services
+- Visa-based services
+
+- visualisation in JupyterHub
+- hdf5 viewer
+
+- Portal
+  - common vision
+    - requirements for each site?
+  - based on Calipso?
+
+Invite representatives from WP3, 6 -> Hans
+
+** expected participation
+- ILL: Jame, Stuart, Eric
+- ELI: Jakub, to be confirmed (new hire)
+- CERIC: Carlos, Alessondro, Emiliano
+- ESRF: Aiden, Thomas Vincent, Jerome
+- ESS: ?
+- EuXFEL: Robert, Hans, Sandor, new hires (WP5)...
+
+* AOB
+
+** Participation in EGI meeting (Amsterdam) 6 to 8 May?
+   - EuXFEL going, Adain and Jamie probably
+
+** Topics for future meetings
+
+- visualisation (T Vincent)
+- admin interface Calipso (Aiden)
+- software preservation (Hans, Robert)
+  - licenses
