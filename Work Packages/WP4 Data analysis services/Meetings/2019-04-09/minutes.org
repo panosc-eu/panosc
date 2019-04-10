@@ -1,3 +1,5 @@
+#+OPTIONS:   H:2
+
 <2019-04-09 Tue 15:00>
 
 * Recruitment update (all sites)
@@ -20,7 +22,7 @@
 
 - what are the use cases?
   - Python training
-    - 2 trainings in basic Python every year at ESRF
+    - 2 training sessions in basic Python every year at ESRF
     - started notebooks 2 years ago
     - 25 participants
     - takes one day
@@ -41,7 +43,7 @@
   - Travel: Monday 24 June and Friday 28 June
   - 3 days available for meeting
 
-** draft content
+** Draft content for meeting
 - updates from sites
 
 - synchronise visions:
