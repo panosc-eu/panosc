@@ -1,0 +1,11 @@
+#+OPTIONS:   H:2 num:t
+#+TITLE: WP4 kickoff meeting
+
+* Dates
+- all day Tuesday 25 June 2019 to Thursday 27 June 2019
+- please use Monday 24 and Friday 28 June 2019 for travel
+
+
+* Location
+- European XFEL, Holzkoppel 4, 22869 Schenefeld, Germany
+- Google maps: https://goo.gl/maps/iRQuTPjUMHH2
