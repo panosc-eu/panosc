@@ -2,7 +2,7 @@ Python Visualisation Overview
 =============================
 
 This document aims to summarise the state of the python visualisation
-ecosystem, with a focus on interavtive plotting inside jupyter notebooks
+ecosystem, with a focus on interactive plotting inside jupyter notebooks.
 
 The most popular visualisation libraries in python are:
 
