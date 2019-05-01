@@ -28,6 +28,7 @@ DMSC, Conference Room Bohr
 * Communication to outside world. We should place minutes from meetings in github repo even though only local staff participates. We 
   should however be better at communicating to outside world -  JIRA is for instance an internal system. Agreed to invite everyone 
   interested in VC in. Thomas will invite.
+* We don't think the current google calendar is the right solution for a PaNOSC calendar, because it requires that viewers have a google account.
   
  
   
@@ -41,6 +42,8 @@ DMSC, Conference Room Bohr
 * Thomas: Invite other to VC in to our weekly meetings on WP8 email list and make them aware of the minutes.
 * Thomas: ask Jordi to add Mads to Wp5 list.
 * Jesper: Upload minutes from last meeting.
+* Thomas: Bring up the question about the google calendar at next PMB meeting
+* Peter: Provide snippet for how to embed calendar.
 
 
 
