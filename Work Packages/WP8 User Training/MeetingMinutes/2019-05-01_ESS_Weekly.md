@@ -40,6 +40,7 @@ DMSC, Conference Room Bohr
 * Jesper: Define milestones deadlines and due dates for stories. May 8, 2019
 * Thomas: Invite other to VC in to our weekly meetings on WP8 email list and make them aware of the minutes.
 * Thomas: ask Jordi to add Mads to Wp5 list.
+* Jesper: Upload minutes from last meeting.
 
 
 
