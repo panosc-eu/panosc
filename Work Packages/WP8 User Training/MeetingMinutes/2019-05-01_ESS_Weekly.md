@@ -44,6 +44,7 @@ DMSC, Conference Room Bohr
 * Jesper: Upload minutes from last meeting.
 * Thomas: Bring up the question about the google calendar at next PMB meeting
 * Peter: Provide snippet for how to embed calendar.
+  * This [calendar snippet](snippets/PaNOSC-Calendar.html) should be visible via [this link](http://htmlpreview.github.io/?https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/snippets/PaNOSC-Calendar.html)
 
 
 
