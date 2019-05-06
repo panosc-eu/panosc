@@ -1,0 +1,103 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Muli-Black
+FamilyName:Muli Black
+StyleName:Regular
+MenuName:Muli Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Muli Black
+WritingScript:Roman
+OutlineFileName:\Muli-Black.ttf
+DataFormat:sfntData
+FileLength:91260
+FileModTime:1553886210
+NameArray:0,Win,1,Muli Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Muli-Bold
+FamilyName:Muli
+StyleName:Bold
+MenuName:Muli
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Muli Bold
+WritingScript:Roman
+OutlineFileName:\Muli-Bold.ttf
+DataFormat:sfntData
+FileLength:89796
+FileModTime:1553886209
+NameArray:0,Win,1,Muli
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Muli-Light
+FamilyName:Muli Light
+StyleName:Regular
+MenuName:Muli Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Muli Light
+WritingScript:Roman
+OutlineFileName:\Muli-Light.ttf
+DataFormat:sfntData
+FileLength:89056
+FileModTime:1553886207
+NameArray:0,Win,1,Muli Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Muli-Regular
+FamilyName:Muli
+StyleName:Regular
+MenuName:Muli
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Muli Regular
+WritingScript:Roman
+OutlineFileName:\Muli-Regular.ttf
+DataFormat:sfntData
+FileLength:90300
+FileModTime:1553886211
+NameArray:0,Win,1,Muli
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Muli-SemiBold
+FamilyName:Muli SemiBold
+StyleName:Regular
+MenuName:Muli SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Muli SemiBold
+WritingScript:Roman
+OutlineFileName:\Muli-SemiBold.ttf
+DataFormat:sfntData
+FileLength:89564
+FileModTime:1553886208
+NameArray:0,Win,1,Muli SemiBold
+%EndFont
+

@@ -1,0 +1,113 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Muli-Black
+FamilyName:Muli Black
+StyleName:Regular
+MenuName:Muli Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Muli Black
+WritingScript:Roman
+OutlineFileName:/Users/sintesi/Desktop/PANOSC - CERIC - ERIC/Cartella PaNOSC_rollup_85x202/Document fonts/Muli-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:91260
+FileModTime:575575410
+NameArray:0,Win,1,Muli Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Muli-Bold
+FamilyName:Muli
+StyleName:Bold
+MenuName:Muli
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Muli Bold
+WritingScript:Roman
+OutlineFileName:/Users/sintesi/Desktop/PANOSC - CERIC - ERIC/Cartella PaNOSC_rollup_85x202/Document fonts/Muli-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89796
+FileModTime:575575409
+NameArray:0,Win,1,Muli
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Muli-Light
+FamilyName:Muli Light
+StyleName:Regular
+MenuName:Muli Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Muli Light
+WritingScript:Roman
+OutlineFileName:/Users/sintesi/Desktop/PANOSC - CERIC - ERIC/Cartella PaNOSC_rollup_85x202/Document fonts/Muli-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89056
+FileModTime:575575407
+NameArray:0,Win,1,Muli Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Muli-Regular
+FamilyName:Muli
+StyleName:Regular
+MenuName:Muli
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Muli Regular
+WritingScript:Roman
+OutlineFileName:/Users/sintesi/Desktop/PANOSC - CERIC - ERIC/Cartella PaNOSC_rollup_85x202/Document fonts/Muli-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:90300
+FileModTime:575575411
+NameArray:0,Win,1,Muli
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Muli-SemiBold
+FamilyName:Muli SemiBold
+StyleName:Regular
+MenuName:Muli SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Muli SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/sintesi/Desktop/PANOSC - CERIC - ERIC/Cartella PaNOSC_rollup_85x202/Document fonts/Muli-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89564
+FileModTime:575575408
+NameArray:0,Win,1,Muli SemiBold
+%EndFont
+
