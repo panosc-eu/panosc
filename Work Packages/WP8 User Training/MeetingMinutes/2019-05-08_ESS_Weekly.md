@@ -35,9 +35,9 @@ select the right tools for the aim of the course.
 
 # Actions
 
-[ ] Develop requirement document for Jupyter integration in e-learning platform. Jesper to initiate that in a shared document.
+- [ ] Develop requirement document for Jupyter integration in e-learning platform. Jesper to initiate that in a shared document.
 
-[ ] How will budget allocated for videos in PaNOSC be managed? Thomas to raise the question at PMB.
+- [ ] How will budget allocated for videos in PaNOSC be managed? Thomas to raise the question at PMB.
 
 
 
