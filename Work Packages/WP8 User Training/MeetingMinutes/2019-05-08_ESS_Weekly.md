@@ -2,7 +2,7 @@
 
 * Peter, DTU/ESS
 * Linda, UCPH/ESS
-* Jepser, ESS
+* Jesper, ESS
 * Thomas, ESS
 
 # Minutes
@@ -40,7 +40,7 @@ select the right tools for the aim of the course.
 - [ ] How will budget allocated for videos in PaNOSC be managed? Thomas to raise the question at PMB.
 
 
-## From 2019-05-01
+## From [2019-05-01](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/2019-05-01_ESS_Weekly.md)
     
 - [ ] Jesper: Define milestones deadlines and due dates for stories. May 8, 2019
 - [ ] Thomas: Invite other to VC in to our weekly meetings on WP8 email list and make them aware of the minutes.
@@ -48,9 +48,7 @@ select the right tools for the aim of the course.
 - [ ] Jesper: Upload minutes from last meeting.
 - [ ] Thomas: Bring up the question about the google calendar at next PMB meeting
 - [ ] Peter: Provide snippet for how to embed calendar.
-        This calendar snippet should be visible via this link
-
-
+        This [calendar snippet](snippets/PaNOSC-Calendar.html) should be visible via [this link](http://htmlpreview.github.io/?https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/snippets/PaNOSC-Calendar.html)
 
 
 
