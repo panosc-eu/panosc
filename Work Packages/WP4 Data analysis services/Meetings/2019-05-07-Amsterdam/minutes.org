@@ -1,5 +1,5 @@
 #+TITLE: Brainstorming and planning, WP4 meeting
-#+OPTIONS:   H:2 num:t
+#+OPTIONS:   H:2 num:t toc:2
 
 Co-located with EGI Conference in Amsterdam, 7 Mayr 2019
 
