@@ -26,10 +26,10 @@ https://github.com/jupyterhub/ltiauthenticator
 
 https://moodle.org/mod/forum/discuss.php?d=362641
 
+## Future WP8 course (the course for making courses)
+
 Linda would like to have clarified what a future course should cover. Proposal is to train people how to organize a course and 
 select the right tools for the aim of the course.
-
-
 
 
 
