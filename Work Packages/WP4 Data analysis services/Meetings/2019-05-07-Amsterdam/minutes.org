@@ -1,0 +1,173 @@
+#+TITLE: Brainstorming and planning, WP4 meeting
+#+OPTIONS:   H:2 num:t
+
+Co-located with EGI Conference in Amsterdam, 7 Mayr 2019
+
+*date* <2019-05-07 Tue 17:30> to 21:00
+
+*location* Amsterdam, Science Park
+
+*present* Michael Schuh (DESY), Philip (ILL), Jamie Hall (ILL), Aidan Campbell (ESRF), Lottie
+Greenwood (ESS), Robert Rosca (EuXFEL), Hans Fangohr (EuXFEL)
+
+* Objective: data analysis in notebooks
+- create description of
+  - compute environment
+  - hardware
+  - data path
+  that is
+  - facility independent
+  - can be executed (=used) on different hardware, including
+    - IT systems of research facilities
+    - desktop of users (for reproducibility use case)
+    - (BinderHub on) EOSC
+
+* How to get there?
+
+By step wise transformation of notebooks that initially run locally in each
+facility and by the of the process can execute (nearly) anywhere.
+
+** Milestone 1: Find scientific notebook use cases
+- analysis in facility specific notebook (it is okay if this only
+  works at the originating facility)
+- starting from some (facility-specific) raw data set
+- doing some (python based) operation on this to
+- create a figure/table/number of interest to scientists
+- integrate scientists - we will need to use this analysis to attract
+  them later to test and use the services; this should be a
+  postprocessing step they really care about. (Maybe ask: what is the
+  most important post processing step for you?)
+- for Step 2: it will be necessary (or at least beneficial) to use
+  public raw data here
+
+** Milestone 2: Move to BinderHub
+- create BinderHub instances at each facility
+  - Aidan Campbell and Michael Schuh have done this already and can give advice
+- objective: translate the facility specific Jupyter Notebook (from Step 1) to
+  execute in the BinderHub environment. This requires
+  - specification of compute environment via Binder style environment
+    specification.
+  - Put this specification and analysis notebook into github
+    repository
+  - point BinderHub to that repository
+- the facility specific notebook should now execute via BinderHub at
+  the facility: this means the computer environment is in a container
+  (and thus facility-independent!).
+  However, data access will have to use some facility specific method.
+
+
+** Milestone 3: facility independent data access
+- find a facility independent way to describe the data source
+  - analog to Binder /software requirements/, these are /data requirements/
+- it is unclear how to do that
+- Where data sets have DOIs, can we use those, maybe with additional
+  information which part of the data we refer to?
+- if data sets are typically kept only by the facility they originate from,
+  maybe it is okay if the data set locator specification is facility
+  specific?
+- Could we move (public) example data sets to the 1PB STFC (?) storage
+  space we have?
+
+Once we have achieved tasks 1, 2 and 3, we should be able to execute
+the use case notebooks in a compute environment that is facility
+independent. (Of course data requirements may mean that the computing
+hardware needs to be co-located with the data set.)
+
+** Milestone 4: Providing small sets of files
+- Using file transfer capabilities created in pilot in WP6.3 to access
+  remote data
+- likely to be only realistic for small example data sets
+
+At this point, we should have (some) use cases that can execute on any PaNOSC
+facility and/or the EOSCHub, fetching data on demand.
+
+** Milestone 5: Improving modularity of compute environments and performance
+In the scenario sketched above (Milestone 2), we create a custom
+compute environment per use case, and then execute the notebook inside
+this environment. This is the "one container environment".
+
+In this (somewhat optional) milestone, we can take some of the
+computationally heavy (or complex) tasks carried out in the notebook
+and put them into new computational "sub"environments. Let's call this
+the "multi container environment".
+
+Imagine a notebook needs to call "indexamajig" [a command line driven
+tool from the CrystFEL suite]. In the "one container environment" we
+need python and all the libraries used directly by the noteook
+(i.e. CrystFEL) inside our one container.
+
+*** Towards smaller containers
+
+In the multi container environment, we would have one master
+environment in which the notebook runs. From this notebook, we would
+trigger calls to indexamajig, which are executing in their own
+computational sub environment. This sub environment could be realised
+through a second container.
+
+The advantage of the second container is that each container can stay
+smaller, and more focused.
+
+For reasons of reproducibility, it would be good if this delegation of
+computation in the sub-environment is done as simplistically as
+possible: Ideally, it should be possible to build all the
+subenvironments in the future, and execute that notebook (making use
+of the subenvironments) on a Desktop (i.e. without support from IT
+experts).
+
+*** Towards higher execution performance
+
+The delegation of computational sub tasks into dedicated computational
+environment, could also be used to achieve better computing throughput
+(assuming the computational hard ware is available). Using Openwhisk
+and Function as a Service (FaaS) appreaches, the execution of
+computation in sub tasks here could be parallelised (for example one
+container for every data frame). This way, the execution time could
+potentially be reduced significantly.
+
+*** Design?
+We are looking for a design that can make use of FaaS to accelerate
+execution performance. At the same time, we'd like the notebook to be
+executable without the whole OpenStack requirements: for
+reproducibility in the future. Maybe a 'runner' object can be created,
+which either uses a local container, or uses the same container as a
+FaaS through OpenWhisk?
+
+[Yet another approach would be to have the OpenWhisk installation in a
+virtual environment.]
+
+** Is it all going to work like this?
+Probably not. But we'll learn useful things along the way - the very
+least about requirements we were not aware of before.
+
+* Other discussion points
+** Portal to select data sets and analysis methods
+Questions were raised in relation to the portal to select data sets
+and analysis methods:
+
+- part of T3.2.
+- links to T4.3?
+- can we re-use OpenAire or B2find or other existing services?
+- look at other projects (ESCAPE? OpenDose? ...) to see if they have
+  (meta) data catalogs that could be re-used.
+- Where is the 'interface' that offers multiple Notebooks for analysis
+  of a particular data set? (Could be just a repository with multiple
+  notebooks to select from in the BinderHub setup?)
+- Could this be a link in the scicat catalog that shows data sets from
+  across all PaNOSC facilities?
+
+** Specification of computation environment
+- the binder approach seems to work in practice for the software
+  environment (i.e. use requirements.txt, environment.yml, Dockerfile,
+  ..., as specified in the repository)
+
+- there is no such protocol for hardware requirements
+  - GPU on demand?
+  - RAM?
+  - CPU (x86 by default?)
+  - ?
+
+- there is no such protocol for data requirements
+  - in the simplest case, this needs to say where a data set is stored
+    that is needed for this analysis to work effectively
+  - should this be the location of a subdirectory that becomes
+    available under a specified name inside the compute environment
