@@ -42,12 +42,12 @@ select the right tools for the aim of the course.
 
 ## From [2019-05-01](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/2019-05-01_ESS_Weekly.md)
     
-- [ ] Jesper: Define milestones deadlines and due dates for stories. May 8, 2019
+- [x] Jesper: Define milestones deadlines and due dates for stories. May 8, 2019
 - [ ] Thomas: Invite other to VC in to our weekly meetings on WP8 email list and make them aware of the minutes.
-- [ ] Thomas: ask Jordi to add Mads to Wp5 list.
-- [ ] Jesper: Upload minutes from last meeting.
+- [x] Thomas: ask Jordi to add Mads to Wp5 list.
+- [x] Jesper: Upload minutes from last meeting.
 - [ ] Thomas: Bring up the question about the google calendar at next PMB meeting
-- [ ] Peter: Provide snippet for how to embed calendar.
+- [x] Peter: Provide snippet for how to embed calendar.
         This [calendar snippet](snippets/PaNOSC-Calendar.html) should be visible via [this link](http://htmlpreview.github.io/?https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/snippets/PaNOSC-Calendar.html)
 
 
