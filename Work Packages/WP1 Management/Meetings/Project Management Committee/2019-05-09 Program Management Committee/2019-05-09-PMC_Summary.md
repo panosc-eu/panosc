@@ -4,7 +4,7 @@ PaNOSC Project Management Committee meeting - 9/5/2019
 Present
 -------
 
-Andy (ESRF), Dario (CERIC-ERIC), Nicoletta (CERIC-ERIC), Roberto (CERIC-ERIC), Dario (CERIC-ERIC), Thomas (ESS)
+Andy (ESRF), Dario (CERIC-ERIC), Nicoletta (CERIC-ERIC), Roberto (CERIC-ERIC),  Thomas (ESS)
 
 Minutes
 -------
