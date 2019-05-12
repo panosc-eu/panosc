@@ -58,7 +58,7 @@ Minutes
 
 3. Feedback from 2nd Executive Meeting
 
-	Andy reported on the recommendations made by the Executive Board at their video meeting on 30 April. The recommendations are:
+	Andy reported on the recommendations made by the Executive Board at their video meeting on 29 April. The recommendations are:
 
 	1.	The EB requests all WPs to provide intermediate milestones to allow WP1 to follow progress or lack of it.
 	2.	The EB requests partners who are in charge of WPs and where the WP leader is not available (WP5, WP7) to formally provide an action plan.
