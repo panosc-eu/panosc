@@ -16,7 +16,7 @@ Link for the telco: https://ill.vidyocloud.com/join/NWc9VqX5Sz
 
 ## Discussions:
 
-Few attendees to this meeting probably due to the time changed and the end of the EGI conference.
+Few attendees to this meeting probably due to the timeslot change and the EGI conference last week.
 
 We haven't discuss the data transfer guidelines, it has to be postponed to the telco #8
 
