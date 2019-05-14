@@ -1,9 +1,14 @@
 #+TITLE: WP4 online meeting, 14 May 2019 15:00
 #+OPTIONS:   H:2 num:t toc:2
 
+:present: Eric, Stuart, Jamie, Lottie, Robert, Hans, Jakub, Mariana, Carlos, Emiliano,
+
 * Action from previous meetings
 ** Gallery of visualisation use cases (Robert, Thomas)
 - source: https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2019-04-30/minutes.org#54-create-gallery-of-visualisation-use-cases-on-github
+
+- ongoing, some input from ESRF provided
+
 ** Invite WP3 and WP6 representatives to kickoff meeting (Hans, Robert)
 - source: https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2019-04-30/minutes.org#551-draft-content-for-meeting
 - [X] WP3: Gareth Murphy and/or Tobias Richter
@@ -12,9 +17,16 @@
 
 * Report from EGI conference in Amsterdam (Hans)
 
-   Report from WP4 meeting during EGI conference
+Report from WP4 meeting during EGI conference
+
+- watch similar projects, for example ESCAPE
 
    https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2019-05-07-Amsterdam/minutes.org
+
+Discussion:
+
+- one binderhub on the cloud
+- kick start during meeting in Hamburg?
 
 * Suggestion to co-operate with DESY IT team (Hans)
 - Michael Schuh
@@ -25,6 +37,11 @@
 - First tasks
   - review plan from Amsterda
   - propose milestones
+
+Discussion:
+
+- good idea
+- kick off at meeting in June
 
 * Issue tracking for WP4 (Jamie)
 
@@ -41,24 +58,34 @@ Suggest to invite
 * Software list  (Hans)
 
 - Must avoid duplication of work in PaNOSC
-- At least record software work in WP in
+- At least record software work in WP4 in
   https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/resources/software.rst
+
+- Other (existing / more generic software) can and should go into
+  pandata software catalog (https://software.pan-data.eu/software)
 
 * Update from questionnaire task (Jamie)
 - Task 4.1: Task 4.1 Survey data analysis requirements and solutions
   at the partner sites, and horizon scan other emerging tools and
   technologies (months 1 - 12)
 
+- Questionnaire will be sent out in 2 to 3 weeks
+
 * Next meetings
 - 28 May 2019, 15:00
 
 * Any other business
-
+- CERIC: Welcome to Marco, working on WP4 and WP6
+- ESRF: 2 open positions: one for WP4 and one for sysadmin
+- Michael Schuh giving online presentation to WP6 in two weeks.
+  Carlos (?) to circulate invite to WP4.
 
 * Actions
-- All: update software list   https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/resources/software.rst
+- All: update software list  https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/resources/software.rst
 
-- All: nominate
+- All: nominate local lead for technical working group
+
+- All: find at least one scientific notebook use case
 
 
 
