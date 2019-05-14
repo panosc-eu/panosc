@@ -87,7 +87,14 @@ Requirements
 Use case
 ++++++++
 
-TBD
+Calculating the L-edge X-ray absoption spectrum of nickel compounds:
+
+- Open the application.
+- Change the Gaussian broadening to 0.3 eV; press Return after entering the new value.
+- Press the Run button to start the calculation.
+- After the calculation finishes, the spectrum will be automatically plotted.
+
+Additional information: `see the tutorial <http://www.esrf.fr/computing/scientific/crispy/tutorials/ni_ligand_field.html>`_
 
 
 pyFAI
@@ -130,6 +137,7 @@ Performing the steps required to calibrate an experimental setup from a notebook
 This is currently available through a desktop GUI application (See http://www.silx.org/doc/pyFAI/latest/usage/cookbook/calib-gui/index.html).
 
 This involves the following user interactions:
+
 - drawing a bitmap mask on a detector image.
 - selecting a few rings manually.
 

@@ -1,0 +1,124 @@
+#+OPTIONS:   H:2 num:t
+#+TITLE: Minutes WP4 video meeting 2019-04-30 Tue 15:00
+
+* Brief site reports
+** EuXFEL
+*** Carsten Grotemann-Forte for WP5 employed at EuXFEL (0.1FTE)
+*** Visualisation
+- discussion with Thomas Rod Holm about visualisation in notebooks
+- no clear answer what is best to use for the future
+- suggested approach
+  - collect (simple) plotting use cases
+  - provide solutions for different plotting libraries
+    - matplotlib
+      - robust, versatile, slow
+    - pyqtgraph
+      - doesn't work in notebook
+    - bokeh
+    - plot.ly
+
+*** Hexagonal pixels anyone?
+- re-binning on cartesian coordinate (Jerome)
+
+** ILL
+*** JupyterHub
+- set up with authentication
+- problem with users installing code (conda?)
+- create expert team
+
+*** New Remote Desktop protocol
+- low latency
+
+** ESS
+*** Use cases for JupyterHub identified
+
+** CERIC
+*** Use case
+**** 1:
+- virtual unified office
+- web portal that manages proposal life cycle
+- gives access to data
+- use case: combine portal with hdf5 based visualisation
+
+**** 2: PyMC
+- x-ray flouresence
+- ??
+
+*** Can describe use cases in next meeting or thereafter
+
+** ESRF
+*** use cases uploaded already
+
+* EGI meeting Amsterdam
+- who will attend
+- Jamie Hill, Robert, Hans, Lotte, Aidan
+
+* ICALEPSC submission (lead by EuXFEL)
+- was circulated by email
+
+* AOB
+- actions from last meetings
+  -> create separate repository (Jamie)
+
+- EuXFEL: Anybody using scientific data models
+  - ESRF: hdf5 with nexus
+    - use cxi file format for some type experiment
+
+* Actions
+** create expert team for JupyterHub
+- (at least?) one person per site?
+- discussed deployment and environment configuration
+-> Jamie to create list/forum?
+
+** Create WP4 repository for issues -> Jamie
+
+** Upload use cases to Github
+
+** Create Gallery of visualisation use cases on github
+-> Robert and Thomas
+
+** WP4 meeting at EuXFEL
+- finalise info on  https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2019-06-25-EuXFEL
+- include suggestion for accomodation
+- include room bookings
+- circulate link by Email and encourage people to book travel and
+  accommodation
+
+*** Draft content for meeting
+- updates from sites
+
+- synchronise visions:
+  - what services is each partner working towards providing
+  - time scale
+
+- Jupyter-based services
+- Visa-based services
+
+- visualisation in JupyterHub
+- hdf5 viewer
+
+- Portal
+  - common vision
+    - requirements for each site?
+  - based on Calipso?
+
+Invite representatives from WP3, 6 -> Hans
+
+- Scientific Data models
+
+*** expected participation
+- ILL: Jame, Stuart, Eric
+- ELI: Jakub, to be confirmed (new hire)
+- CERIC: Carlos, Alessondro, Emiliano
+- ESRF: Aiden, Thomas Vincent, Jerome
+- ESS: ?
+- EuXFEL: Robert, Hans, Sandor, new hires (WP5)...
+
+
+* Topics for future meetings
+
+- visualisation (T Vincent)
+- admin interface Calipso (Aiden)
+- software preservation (Hans, Robert)
+  - licenses
+- use case presentations from all facilities
