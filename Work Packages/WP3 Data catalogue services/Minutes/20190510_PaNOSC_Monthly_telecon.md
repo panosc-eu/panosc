@@ -44,17 +44,16 @@
   - See resources at: http://www.openarchives.org/rs/toc
   - See slides at https://www.slideshare.net/OpenArchivesInitiative/resourcesync-tutorial
 
-AI: Send ResourceSync info email to mailing list
+* AI: GM will Send ResourceSync info email to mailing list
 
+* Kickoff meeting in Copenhagen 
+	- agenda and participants
+	- format
+	- discussions
+	- Who is coming/ not coming?
+	- Discussion format 
+	- Each participant will present opening slides
 
-Kickoff meeting in Copenhagen - agenda and participants - format - discussions
-Who is coming/ not coming?
-Discussion format 
-Each participant will present opening slides
-Introduce Fredrik Bolmsten - Web Section at ESS
+* Welcome Fredrik Bolmsten - Web Section at ESS
 
-Stuart Use cases
-
-Alessandro - WP4 
-John - WP2
 
