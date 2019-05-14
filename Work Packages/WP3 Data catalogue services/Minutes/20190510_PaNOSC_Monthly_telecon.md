@@ -3,7 +3,7 @@
 ## Attendees
 
 * Alex de Maria (ESRF)
-* Maxime Hubert (ESRF)
+* Maxime Chaillet (ESRF)
 * Alessandro Olivo (CERIC)
 * Carlos Reis (CERIC)
 * Emiliano Coghetto (CERIC) 
