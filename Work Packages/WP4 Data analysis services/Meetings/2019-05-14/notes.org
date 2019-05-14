@@ -1,16 +1,25 @@
 #+TITLE: WP4 online meeting, 14 May 2019 15:00
 #+OPTIONS:   H:2 num:t toc:nil
 
-* Report from EGI conference in Amsterdam
+* Action from previous meetings
+** Gallery of visualisation use cases (Robert, Thomas)
+- [[https://github.com/panosc-eu/panosc/blob/master/Work%2520Packages/WP4%2520Data%2520analysis%2520services/Meetings/2019-04-30/minutes.org#54-create-gallery-of-visualisation-use-cases-on-github][source]]
+** Invite WP3 and WP6 representatives to kickoff meeting (Hans, Robert)
+- [[https://github.com/panosc-eu/panosc/blob/master/Work%2520Packages/WP4%2520Data%2520analysis%2520services/Meetings/2019-04-30/minutes.org#551-draft-content-for-meeting][source]]
+- WP3: Gareth Murphy and/or Tobials Richter
+- WP6? (reply outstanding)
+- EGI? (reply outstanding) Enol
 
-   Report from WP4 meeting during EGI conference (Hans)
+* Report from EGI conference in Amsterdam (Hans)
+
+   Report from WP4 meeting during EGI conference
 
    https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2019-05-07-Amsterdam/minutes.org
 
 * Suggestion to co-operate with DESY IT team (Hans)
 - Michael Schuh
 
-* Creation of technical working group for WP4
+* Creation of technical working group for WP4 (Hans)
 - One representative from each site
 - People on the ground (/technical/ working group)
 - First tasks
@@ -25,7 +34,11 @@ https://github.com/panosc-eu/wp4
 
 https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2019-06-25-EuXFEL
 
-* Software list
+Suggest to invite
+- MinRK (JupyterHub/BinderHub/Binder)
+- Michael Crusoe (common Workflow Language)
+
+* Software list  (Hans)
 
 - Must avoid duplication of work in PaNOSC
 - At least record software work in WP in
