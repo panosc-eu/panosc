@@ -47,10 +47,10 @@
 * AI: GM will Send ResourceSync info email to mailing list
 
 * Kickoff meeting in Copenhagen 
+	- Agenda at https://indico.esss.lu.se/event/1233/
 	- agenda and participants
-	- format
-	- discussions
-	- Who is coming/ not coming?
+	- format will be presentations and discussions
+	- register at https://indico.esss.lu.se/event/1233/
 	- Discussion format 
 	- Each participant will present opening slides
 
