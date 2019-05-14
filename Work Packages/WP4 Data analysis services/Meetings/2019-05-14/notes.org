@@ -55,6 +55,10 @@ Suggest to invite
 - MinRK (JupyterHub/BinderHub/Binder)
 - Michael Crusoe (common Workflow Language)
 
+Could use one day to create binderHub instance in the cloud (if we have enough time)
+
+Action: Robert and Hans to draft and circulate proposed agenda
+
 * Software list  (Hans)
 
 - Must avoid duplication of work in PaNOSC
@@ -87,6 +91,7 @@ Suggest to invite
 
 - All: find at least one scientific notebook use case
 
+- EuXFEL: prepare agenda for meeting in June
 
 
 ------------
