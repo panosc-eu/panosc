@@ -4,6 +4,7 @@
 * Linda, UCPH/ESS
 * Jesper, ESS
 * Thomas, ESS
+* Mads, ESS
 
 # Minutes
 
@@ -20,7 +21,8 @@ select the right tools for the aim of the course.
 # Actions
 ## From [2019-05-08](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/2019-05-08_ESS_Weekly.md)
 
-- [ ] Develop requirement document for Jupyter integration in e-learning platform. Jesper to initiate that in a shared document.
+- [X] Develop requirement document for Jupyter integration in e-learning platform. Jesper initiated a shared document.
+- [ ] Jesper: Add Linda to Jira board
 - [ ] How will budget allocated for videos in PaNOSC be managed? Thomas to raise the question at PMB.    
 - [x] Jesper: Define milestones deadlines and due dates for stories. May 8, 2019
 - [ ] Thomas: Invite other to VC in to our weekly meetings on WP8 email list and make them aware of the minutes.
