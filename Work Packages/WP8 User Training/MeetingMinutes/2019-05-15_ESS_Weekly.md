@@ -10,14 +10,6 @@
 
 ## Actions from last meeting
 
-
-## Future WP8 course (the course for making courses)
-
-Linda would like to have clarified what a future course should cover. Proposal is to train people how to organize a course and 
-select the right tools for the aim of the course.
-
-
-
 # Actions
 ## From [2019-05-08](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/2019-05-08_ESS_Weekly.md)
 
@@ -31,6 +23,7 @@ select the right tools for the aim of the course.
 - [ ] Thomas: Bring up the question about the google calendar at next PMB meeting
 - [x] Peter: Provide snippet for how to embed calendar.
         This [calendar snippet](snippets/PaNOSC-Calendar.html) should be visible via [this link](http://htmlpreview.github.io/?https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/snippets/PaNOSC-Calendar.html)
-
-
-
+- [ ] Peter: Try out https://github.com/jupyterhub/ltiauthenticator according to https://moodle.org/mod/forum/discuss.php?d=362641 for investigation of Moodle <-> Jupyter via LTI
+- [ ] Thomas: Write WP8 status report
+- [X] Linda: Communicate contact information for Tommy wrt. deployment of stand-alone MediaWiki @ ESS to Jesper
+- [ ] Peter: Evaluate latest stable MediaWiki with remaining e-neutrons platform
