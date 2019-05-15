@@ -22,5 +22,5 @@ OASYS.
 Carsten intends to start bi-weekly meetings for WP5
 
 Major challenge with e-learning platform is integration of Jupyter technology where there apparently does not currently exist 
-a ready-to-use solution. Once this has been solved, it will be easier to leverate the outcome from the first task in WP5 (APIs).
+a ready-to-use solution. Once this has been solved, it will be easier to leverage the outcome from the first task in WP5 (APIs).
 
