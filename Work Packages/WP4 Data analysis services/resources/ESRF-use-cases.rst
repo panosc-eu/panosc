@@ -130,7 +130,7 @@ Azimuthal integration use case
 ++++++++++++++++++++++++++++++
 
 - `Integration with Python cookbook <http://www.silx.org/doc/pyFAI/latest/usage/cookbook/integration_with_python.html>`_.
-- *pyFAI* cookbook and tutorial notebooks can be run on Binder (The Binder environment description is integrated in *pyFAI* source repository): |pyFAI myBinder Launcher|
+- *pyFAI* cookbook and tutorial notebooks can be run on Binder (The Binder environment description is integrated in the *pyFAI* source repository): |pyFAI myBinder Launcher|
   
   Note: Some notebooks fail on `mybinder <https://mybinder.org/>`_ because they reach the memory limit.
 
