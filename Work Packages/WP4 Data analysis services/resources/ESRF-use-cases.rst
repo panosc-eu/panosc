@@ -154,12 +154,13 @@ Processing on multiple nodes with GPUs
 
 This a technical use case to assess the feasibility of running parrallel processing on multiple nodes of a compute cluster from a notebook for ,e.g., a 3D convolution.
 
+- Source code: https://gitlab.esrf.fr/paleo/sidi
+- License: `MIT <https://opensource.org/licenses/MIT>`_
 
 Use cases
 ---------
 
 This is a use case for jupyter notebooks.
-
 
 Requirements
 ++++++++++++
