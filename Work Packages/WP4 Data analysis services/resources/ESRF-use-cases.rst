@@ -171,5 +171,5 @@ Requirements
 Use case
 ++++++++
 
-TBD
+- This notebook runs a filtered-backprojection to convert sinogram data to reconstructed slices using workers on a compute cluster: https://gitlab.esrf.fr/paleo/sidi/blob/master/examples/distributed_fbp.ipynb
 
