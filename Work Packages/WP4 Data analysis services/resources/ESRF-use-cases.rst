@@ -58,8 +58,9 @@ Additional information: `Readme <http://ftp.esrf.fr/pub/scisoft/PyNX/data/ptycho
 Notebook use case
 +++++++++++++++++
 
-Sample notebooks (based on simulated data for now) are available here: http://ftp.esrf.fr/pub/scisoft/PyNX/example_notebooks/
-
+- Sample notebooks (based on simulated data for now) are available here: http://ftp.esrf.fr/pub/scisoft/PyNX/example_notebooks/
+- More notebooks available as part of the source distribution can be run on Binder: Go to the *PyNX* `binder environment <https://gitlab.esrf.fr/tvincent/PyNX-binder>`_ and press the launch button to start it on `mybinder <https://mybinder.org/>`_.
+  Some notebooks might fail on `mybinder <https://mybinder.org/>`_ because they reach the memory limit or require a GPU.
 
 crispy
 ======
@@ -128,7 +129,13 @@ Requirements
 Azimuthal integration use case
 ++++++++++++++++++++++++++++++
 
-See `Integration with Python cookbook <http://www.silx.org/doc/pyFAI/latest/usage/cookbook/integration_with_python.html>`_
+- `Integration with Python cookbook <http://www.silx.org/doc/pyFAI/latest/usage/cookbook/integration_with_python.html>`_.
+- *pyFAI* cookbook and tutorial notebooks can be run on Binder (The Binder environment description is integrated in *pyFAI* source repository): |pyFAI myBinder Launcher|
+  
+  Note: Some notebooks fail on `mybinder <https://mybinder.org/>`_ because they reach the memory limit.
+
+.. |pyFAI myBinder Launcher| image:: https://mybinder.org/badge_logo.svg
+   :target: https://mybinder.org/v2/gh/silx-kit/pyFAI/master?filepath=binder%2Findex.ipynb
 
 Calibration use case
 ++++++++++++++++++++
