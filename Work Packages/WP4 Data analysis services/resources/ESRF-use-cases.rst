@@ -58,8 +58,9 @@ Additional information: `Readme <http://ftp.esrf.fr/pub/scisoft/PyNX/data/ptycho
 Notebook use case
 +++++++++++++++++
 
-Sample notebooks (based on simulated data for now) are available here: http://ftp.esrf.fr/pub/scisoft/PyNX/example_notebooks/
-
+- Sample notebooks (based on simulated data for now) are available here: http://ftp.esrf.fr/pub/scisoft/PyNX/example_notebooks/
+- More notebooks available as part of the source distribution can be run on Binder: Go to the *PyNX* `binder environment <https://gitlab.esrf.fr/tvincent/PyNX-binder>`_ and press the launch button to start it on `mybinder <https://mybinder.org/>`_.
+  Some notebooks might fail on `mybinder <https://mybinder.org/>`_ because they reach the memory limit or require a GPU.
 
 crispy
 ======
@@ -87,7 +88,14 @@ Requirements
 Use case
 ++++++++
 
-TBD
+Calculating the L-edge X-ray absoption spectrum of nickel compounds:
+
+- Open the application.
+- Change the Gaussian broadening to 0.3 eV; press Return after entering the new value.
+- Press the Run button to start the calculation.
+- After the calculation finishes, the spectrum will be automatically plotted.
+
+Additional information: `see the tutorial <http://www.esrf.fr/computing/scientific/crispy/tutorials/ni_ligand_field.html>`_
 
 
 pyFAI
@@ -121,7 +129,13 @@ Requirements
 Azimuthal integration use case
 ++++++++++++++++++++++++++++++
 
-See `Integration with Python cookbook <http://www.silx.org/doc/pyFAI/latest/usage/cookbook/integration_with_python.html>`_
+- `Integration with Python cookbook <http://www.silx.org/doc/pyFAI/latest/usage/cookbook/integration_with_python.html>`_.
+- *pyFAI* cookbook and tutorial notebooks can be run on Binder (The Binder environment description is integrated in the *pyFAI* source repository): |pyFAI myBinder Launcher|
+  
+  Note: Some notebooks fail on `mybinder <https://mybinder.org/>`_ because they reach the memory limit.
+
+.. |pyFAI myBinder Launcher| image:: https://mybinder.org/badge_logo.svg
+   :target: https://mybinder.org/v2/gh/silx-kit/pyFAI/master?filepath=binder%2Findex.ipynb
 
 Calibration use case
 ++++++++++++++++++++
@@ -130,6 +144,7 @@ Performing the steps required to calibrate an experimental setup from a notebook
 This is currently available through a desktop GUI application (See http://www.silx.org/doc/pyFAI/latest/usage/cookbook/calib-gui/index.html).
 
 This involves the following user interactions:
+
 - drawing a bitmap mask on a detector image.
 - selecting a few rings manually.
 
@@ -139,12 +154,13 @@ Processing on multiple nodes with GPUs
 
 This a technical use case to assess the feasibility of running parrallel processing on multiple nodes of a compute cluster from a notebook for ,e.g., a 3D convolution.
 
+- Source code: https://gitlab.esrf.fr/paleo/sidi
+- License: `MIT <https://opensource.org/licenses/MIT>`_
 
 Use cases
 ---------
 
 This is a use case for jupyter notebooks.
-
 
 Requirements
 ++++++++++++
@@ -155,5 +171,5 @@ Requirements
 Use case
 ++++++++
 
-TBD
+- This notebook runs a filtered-backprojection to convert sinogram data to reconstructed slices using workers on a compute cluster: https://gitlab.esrf.fr/paleo/sidi/blob/master/examples/distributed_fbp.ipynb
 
