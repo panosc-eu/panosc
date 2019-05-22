@@ -18,7 +18,7 @@ Minutes
 	https://docs.google.com/document/d/1mE57zQmu7f2qMJ3DktO8JFAkqEFk7OLKAYRNjQ28-gk/edit
 	https://docs.google.com/document/d/1FEhzWDgVcoctZgvFs3OQU5EgxH9fAqcAjNlw3hKleX4/edit
 
-	The deadline to provide input to these two documents is Tuesday 28th May at midday, so it can be submitted on Wednesday.
+	**The deadline to provide input to these two documents is Tuesday 28th May at midday**, so it can be submitted on Wednesday.
 	Regarding the website Nicoletta said that it is ready to go live, with only details of the privacy policy missing. 
 	She also asked 	that everyone attending a PaNOSC-related event writes a little report/feedback and shares it with her.
 	
