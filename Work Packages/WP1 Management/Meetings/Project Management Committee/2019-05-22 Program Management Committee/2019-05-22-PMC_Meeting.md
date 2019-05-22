@@ -4,11 +4,19 @@ PaNOSC Project Management Committee meeting - 22/05/2019
 Agenda
 ------
 
-1. Upcoming Deliverables (D1.2 Mid-year summary, D1.4 DMP, D9.2 PaNOSC's website, D9.1 Comm & dissemination plan)
+1. Upcoming Deliverables :
 
-2. Upcoming Milestones
+	* D1.2 Mid-year summary
+	* D1.4 DMP, D9.2 PaNOSC's website
+	* D9.1 Comm & dissemination plan
 
-3. Feedback from 2nd Executive Meeting: WP plans with "internal deliverables"
+2. Upcoming Milestones :
+
+	* MS 7.1 Stakeholders database
+
+3. Feedback from 2nd Executive Meeting: 
+
+	* WP plans with "internal deliverables & milestones"
 
 4. Update from the WP Leaders - update on resources assigned + hiring + work plans
 	*    WP1 Management
@@ -32,10 +40,13 @@ Agenda
 	9. [#31](https://github.com/panosc-eu/panosc/issues/31) Report on kick-off
 	10. [#35](https://github.com/panosc-eu/panosc/issues/35) Website development
 	11. [#36](https://github.com/panosc-eu/panosc/issues/36) Items for Executive Board
+	12. 
 
 6. Job openings and hirings
 
 7. News from other proposals and events - ExPANDS, EOSCEnhance, FAIRsFAIR, First OASYS School
 
-8. AOB
+8. HDF5 workshop
+
+9. AOB
 
