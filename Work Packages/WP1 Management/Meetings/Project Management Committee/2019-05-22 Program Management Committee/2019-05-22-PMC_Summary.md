@@ -13,9 +13,10 @@ Minutes
 1. **Upcoming Deliverables (D1.2 Mid-year summary, D1.4 DMP, D9.2 PaNOSC's website, D9.1 Comm & dissemination plan)**
 
 	Support is required to complete the deliverables D1.2 and D1.4. Jordi asked every work package leader and research institute 
-	representative to go to Google docs and update them. 
-	The URLS are: 
+	representative to go to Google docs and update them.  The URLS are: 
+	
 	https://docs.google.com/document/d/1mE57zQmu7f2qMJ3DktO8JFAkqEFk7OLKAYRNjQ28-gk/edit
+
 	https://docs.google.com/document/d/1FEhzWDgVcoctZgvFs3OQU5EgxH9fAqcAjNlw3hKleX4/edit
 
 	**The deadline to provide input to these two documents is Tuesday 28th May at midday**, so it can be submitted on Wednesday.
