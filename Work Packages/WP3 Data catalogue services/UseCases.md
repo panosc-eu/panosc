@@ -37,6 +37,7 @@
 |Scientist|I would like synonyms of components to be taken into account for the search results: eg surfactant == detergent, SDS == Sodium DodecylSulfate == SLS == Sodium Lauryl Sulfate == sodium salt of lauric acid etc
 |Scientist|I would like to be able to search by CAS reference to a molecule (may be references in a proposal or experimental report)
 |Scientist|I would like to be able to search in terms of q-range: ultra small angle, very small angle, medium angle, wide angle
+|Scientist|I would like to be able to add new processed data to the catalogue after analysis
 
 ### Administrative Use Cases
 
