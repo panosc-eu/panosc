@@ -29,6 +29,13 @@ Data Policies
 
 * PaNOSC current Data Policies - https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP2%20Data%20Policy%20and%20stewardship/Resources
 
+* ESRF Data Policy, Storage, and Services - https://www.tandfonline.com/doi/abs/10.1080/08940886.2019.1608119?journalCode=gsrn20
+
+* Open Research Data: Landscape and cost analysis of data repositories currently used by the Swiss research community, and requirements for the future
+
+
+
+
 GDPR
 ----
 
