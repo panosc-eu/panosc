@@ -4,8 +4,7 @@ PaNOSC Project Management Committee meeting - 22/05/2019
 Present
 -------
 
-Andy (ESRF), Rudolf (ESRF), Jordi (ESRF), Dario (CERIC-ERIC), Nicoletta (CERIC-ERIC), Roberto (CERIC-ERIC),  Petra (ESS),
-Jean-Francois (ILL), Florian (ELI)
+Andy (ESRF), Rudolf (ESRF), Jordi (ESRF), Dario (CERIC-ERIC), Nicoletta (CERIC-ERIC), Roberto (CERIC-ERIC),  Petra (ESS), Jean-Francois (ILL), Florian (ELI)
 
 Minutes
 -------
@@ -21,7 +20,7 @@ Minutes
 
 	**The deadline to provide input to these two documents is Tuesday 28th May at midday**, so it can be submitted on Wednesday.
 	Regarding the website Nicoletta said that it is ready to go live, with only details of the privacy policy missing. 
-	She also asked 	that everyone attending a PaNOSC-related event writes a little report/feedback and shares it with her.
+	She also asked that everyone attending a PaNOSC-related event writes a little report/feedback and shares it with her.
 	
 2. Upcoming Tasks & Milestones
 
@@ -36,17 +35,18 @@ Minutes
 
 3. Feedback from 2nd Executive Meeting: Internal deliverables/milestones
 
-	It was agreed that Andy will share a list of suggested "internal milestones". The list will then be reviewed, refined and
-	approved before the end of July.
+	It was agreed that Andy will share a list of suggested "internal milestones". The list will then be reviewed, refined and approved before the end of July.
 	The idea is that WP leaders will need to provide feedback on whether they have achieved these "internal milestones" or not,
 	so WP1 can follow-up easily whether the project is advancing and where there could be problems.
 
-	As an example of "internal milestone" Andy talked about *T2.1 Lessons learned and FAIR definitions* - a task that will 
-	finish end of May 2019. **ACTION - To have an outcome/produce something.**
+	As an example of "internal milestone" Andy talked about *T2.1 Lessons learned and FAIR definitions* - a task that will finish end of May 2019. 
+	
+	**ACTION - To have an outcome/produce something.**
 
 4. Update from the WP Leaders - update on resources assigned + hiring + work plans
 	*    WP1 Management - Jordi reported work on D1.2 MidYear Summary and D1.3 DMP due next week.
-	*    WP2 Data Policy and Stewardship - Andy attended an OpenAIR seminar. Meeting with Jonathan regardin the framework.
+	*    WP2 Data Policy and Stewardship - Andy attended an OpenAIRE webinar [1]. 
+		Andy will have a meeting with Jonathan regarding the framework.
 	     Roby to share a draft policy presentation for CERIC, as data policies affect sustainability.
 	*    WP3 Data Catalog Services - Tobias was absent. Petra reported a kick-off meeting by Tobias and that he went to 
 	     Diamond and talked with ExPANDs about Nexus. Andy would like info about this meeting with ExPANDs shared.
@@ -81,3 +81,5 @@ Minutes
 8. AOB
 
 	For the next meeting we would like to have two items at the top of the Agenda: *ExPANDs* and *HDF5 workshop*
+
+[1] https://www.openaire.eu/item/wewebinar-to-support-open-science-policy-creation-and-legal-issuesbinar-to-support-open-science-policy-creation-and-legal-issues
