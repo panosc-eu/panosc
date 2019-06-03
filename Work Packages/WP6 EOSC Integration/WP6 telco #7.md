@@ -24,4 +24,5 @@ Link for the telco: https://ill.vidyocloud.com/join/NWc9VqX5Sz
 
    [Michael's slides]: https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP6%20EOSC%20Integration/Slides/2019-05-28%20Telco7/190528-PaNOSC-WP6-Telco.pdf
 
-   
+   Open questions
+
