@@ -22,5 +22,15 @@ Link for the telco: https://ill.vidyocloud.com/join/NWc9VqX5Sz
 
 [Michael's slides are available on the WP6 repository][https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP6%20EOSC%20Integration/Slides/2019-05-28%20Telco7/190528-PaNOSC-WP6-Telco.pdf]
 
-Open questions
+The slides highlight a remarkable level of integration of the different elements leading scalability and to relatively simple user interfaces on complex systems. 
+
+Key ideas that have been discussed during the meeting :
+
+- The Apache Kaftka messaging system integrated into dCache allows to trigger events and computation functions automatically, the results being available for instance to Jupyter notebook interfaces. For example, availability of raw data on the dCache filesystem could be one of the trigger events and allow to immediately process data files.
+- The function services, powered by Apache OpenWhisk, allow to decouple the processes that are tied up to the local infrastructure from those that could run on 3rd party infrastructure. This is a idea to further explore in the scope of the PaNOSC WP6 for hybrid scenario (Data provided by RIs' infrastructure and compute capacity by EGI).
+- 
+
+
+
+
 
