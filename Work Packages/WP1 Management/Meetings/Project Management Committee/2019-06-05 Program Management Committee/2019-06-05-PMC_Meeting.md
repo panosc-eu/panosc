@@ -4,18 +4,24 @@ PaNOSC Project Management Committee meeting - 05/06/2019
 Agenda
 ------
 
-1. Upcoming Deliverables :
+1. Upcoming Deliverables and milesontes :
 
 	* D10.1 POPD Requirement. 
 	    Available for review on https://drive.google.com/file/d/1xBsEivkE55JcyH6TeEDsxxC_5PVpYKeF/view?usp=sharing
 	    
 	    Original issue open is [#29](https://github.com/panosc-eu/panosc/issues/29) Deliverable D10.1 POPD Requirement
+	
+	* Milestones for stakeholders database missing
 
-2. ExPANDs 
+2. Feedback on deliverables 
 
-3. HDF5 Workshop 
+	* New Website presentation and how to edit
 
-4. Update from the WP Leaders - update on resources assigned + hiring + work plans
+3. ExPANDs 
+
+4. HDF5 Workshop 
+
+5. Update from the WP Leaders - update on resources assigned + hiring + work plans
 	*    WP1 Management
 	*    WP2 Data Policy and Stewardship
 	*    WP3 Data Catalog Services
@@ -25,8 +31,8 @@ Agenda
 	*    WP7 Sustainibility
 	*    WP8 Staff training in data stewardship
 	*    WP9 Outreach &Communication
-
-5. Review any other existing issues: https://github.com/panosc-eu/panosc/issues
+	
+6. Review any other existing issues: https://github.com/panosc-eu/panosc/issues
 	1. [#9](https://github.com/panosc-eu/panosc/issues/9) Observer status
 	3. *[#20](https://github.com/panosc-eu/panosc/issues/20) Data Management Plan - now closed*
 	4. [#22](https://github.com/panosc-eu/panosc/issues/22) Mailing lists
@@ -39,9 +45,9 @@ Agenda
 	11. [#36](https://github.com/panosc-eu/panosc/issues/36) Items for Executive Board
 	12. [#41](https://github.com/panosc-eu/panosc/issues/36) Update KPIs
 
-6. Job openings and hirings
+7. Job openings and hirings
 
-7. News from other proposals and events - ExPANDS, EOSCEnhance, FAIRsFAIR, First OASYS School
+8. News from other proposals and events - ExPANDS, EOSCEnhance, FAIRsFAIR, First OASYS School
 
-8. AOB
+9. AOB
 
