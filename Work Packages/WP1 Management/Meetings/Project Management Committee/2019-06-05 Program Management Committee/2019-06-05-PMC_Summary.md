@@ -34,8 +34,9 @@ ESS staff couldn't attend (national holiday); Andy and Jean-Francois had to leav
 	Jordi reported that the deliverables due in May (Mid-Year Summary Report, Data Management Plan and Website) were delivered
 	on time and thanked everyone that made them possible.
 	Regarding the Website there were two comments:
-		* Andy would like permissions to edit the website (can the website be used as an information channel?)
-		* Rudolf pointed out the website is slow to load and it is worth checking why and solve it
+	
+	*    Andy would like permissions to edit the website (can the website be used as an information channel?)
+	*    Rudolf pointed out the website is slow to load and it is worth checking why and solve it
 3. ExPaNDs 
 
 	We briefly discussed the document Andy shared regarding working together with EXPaNDS.
@@ -58,9 +59,11 @@ ESS staff couldn't attend (national holiday); Andy and Jean-Francois had to leav
 	*    WP4 Data Analysis Services - Hans was absent. No news
 	*    WP5 Virtual Neutron and X-ray Laboratory - Carsten and Manolo absent. No news
 	*    WP6 EOSC Integration - Jean-Francois reported that 
-		- Following the positive discussion on the "UmbrellaID - GEANT partnership" that took place at PSI, he is working
+	
+		-Following the positive discussion on the "UmbrellaID - GEANT partnership" that took place at PSI, he is working
 		on a document in order to proceed to the formal vote by the UmbrellaID management team.
-		- The last telco was very well attended and was dedicated to a presentation from DESY on their Jupyter 
+		
+		-The last telco was very well attended and was dedicated to a presentation from DESY on their Jupyter 
 		infrastructure, the level of service for users and automation is really impressive. 
 		The slides, as well as some notes, are available on the WP6 repository  
 		https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP6%20EOSC%20Integration/WP6%20telco%20%237.md
@@ -73,15 +76,24 @@ ESS staff couldn't attend (national holiday); Andy and Jean-Francois had to leav
 		two weeks!)
 
 5. Review any other existing issues: https://github.com/panosc-eu/panosc/issues
+	
 	Jordi reported that he closed issues [20](https://github.com/panosc-eu/panosc/issues/20), [28](https://github.com/panosc-eu/panosc/issues/28), [31](https://github.com/panosc-eu/panosc/issues/31) and [35](https://github.com/panosc-eu/panosc/issues/35).
+	
 	[41](https://github.com/panosc-eu/panosc/issues/41) There is agreement that we need more refined KPIs. We should look at them and update them and revise them accordingly.
+	
 	[36](https://github.com/panosc-eu/panosc/issues/36) To remain open, as we need topics for next EB.
+	
 	[29](https://github.com/panosc-eu/panosc/issues/29) Already treated in point 1
+	
 	[27](https://github.com/panosc-eu/panosc/issues/27) As Dario said, we need an agenda, not only dates and number of attendees
+	
 	[25](https://github.com/panosc-eu/panosc/issues/25) Jordi to contact WP leaders for updates on the risks
+	
 	[22](https://github.com/panosc-eu/panosc/issues/22) No news, not a big issue for now, but it would be good to draft clear guidelines for this
+	
 	[ 9](https://github.com/panosc-eu/panosc/issues/9) Jordi pointed out that we may want to have some user organisation observing us,
 	not only ExPaNDS. Rudolf said that this is linked to the Stakeholder database
+	
 
 6. Job openings and hirings
 
