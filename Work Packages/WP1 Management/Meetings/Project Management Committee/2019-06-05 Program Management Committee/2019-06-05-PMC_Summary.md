@@ -12,39 +12,39 @@ Minutes
 ESS staff couldn't attend (national holiday); Andy and Jean-Francois had to leave early (travel) and Florian couldn't join either
 (travel), so we had very few participants in this meeting.
 
-1. Upcoming Deliverables and milesontes :
+1. Upcoming Deliverables and milestones :
 
 	* D10.1 POPD Requirement. 
-		Jordi explained draft is online and feedback is welcome.
+		Jordi explained that the draft is online and feedback is welcome.
 		Jean-Francois is OK with the document
 		Rudolf made some suggestions regarding adding a bit more text about consent being sought and when data is going to
 		be erased.
 		Jordi committed to reword the document and notify everyone when it is ready.
 	
-	* Milestone for stakeholders database missing
+	* Milestone for stakeholder database missing
 		Jordi reminded Dario that the milestone MS7.1 Stakeholder Database Ready is late.
 		Dario is unsure what is missing, but will talk with Roberto to have it ready as soon as possible
 		Rudolf pointed out that the document is quite complete with very few details missing (e.g. some stakeholders are
 		missing their description).
-		Jean-Francois pointed out that the questionaire is nto reported in the document to which Rudolf replied that he
+		Jean-Francois pointed out that the questionaire is not reported in the document to which Rudolf replied that he
 		corrected the document, so he felt that was the equivalent to filling in the questionnaire.
 	
 2. Feedback on deliverables
 
 	Jordi reported that the deliverables due in May (Mid-Year Summary Report, Data Management Plan and Website) were delivered
-	on time and thanked everyone that made them possible.
+	on time and thanked everybody who made this possible.
 	Regarding the Website there were two comments:
 	
 	*    Andy would like permissions to edit the website (can the website be used as an information channel?)
-	*    Rudolf pointed out the website is slow to load and it is worth checking why and solve it
+	*    Rudolf pointed out the website is slow to load and it is maybe worth checking why and eventually solve it
 3. ExPaNDs 
 
-	We briefly discussed the document Andy shared regarding working together with EXPaNDS.
+	We briefly discussed the document Andy shared regarding working together with ExPaNDS.
 	Rudolf thinks that the document is a good starting point and that the next action should be to write a MoU and then implement
 	it.
 	There was agreement on the fact that there are plenty of possible synergies between PaNOSC and ExPaNDS, so by working 
 	together and not duplicating efforts we could do more. This is specially true of WP6.
-	Rudolf suggested that Annual Meetings could be a joint event between PaNOSC and ExPaNDS
+	Rudolf suggested that future Annual Meetings could be a joint event between PaNOSC and ExPaNDS
 
 4. HDF5 Workshop 
 	
@@ -54,7 +54,7 @@ ESS staff couldn't attend (national holiday); Andy and Jean-Francois had to leav
 5. Update from the WP Leaders - update on resources assigned + hiring + work plans
 	*    WP1 Management - Jordi reported the deliverables submitted. Dario asked for an Agenda for the next Annual Meeting.
 		Jordi will also start to look at the Financial Reporting agreed during 1st EB and kick-off meeting.
-	*    WP2 Data Policy and Stewardship - Andy reported work on the draft lessons learned document. Dario will share its link.
+	*    WP2 Data Policy and Stewardship - Andy reported work on the draft lessons learned document. Dario will share the link to the document.
 	*    WP3 Data Catalog Services - Tobias was absent. No news
 	*    WP4 Data Analysis Services - Hans was absent. No news
 	*    WP5 Virtual Neutron and X-ray Laboratory - Carsten and Manolo absent. No news
@@ -91,7 +91,7 @@ ESS staff couldn't attend (national holiday); Andy and Jean-Francois had to leav
 	
 	[22](https://github.com/panosc-eu/panosc/issues/22) No news, not a big issue for now, but it would be good to draft clear guidelines for this
 	
-	[ 9](https://github.com/panosc-eu/panosc/issues/9) Jordi pointed out that we may want to have some user organisation observing us,
+	[ 9](https://github.com/panosc-eu/panosc/issues/9) Jordi pointed out that we may want to have some user organisation as observers,
 	not only ExPaNDS. Rudolf said that this is linked to the Stakeholder database
 	
 
