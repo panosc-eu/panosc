@@ -45,11 +45,11 @@ ILL
 
 CERIC 
 
-* VUO is not a data catalogue 
+* VUO is not a data catalogue - Icat will be used
 
-* Elettra uses VUO
+* CERIC partner facilities use the VUO for administrative tasks and proposals lifecycle management
 
-* Other CERIC partners have different or no solutions 
+* only data obtained from investigations carried out at Elettra's beamlines are accessible from VUO (access is provided to the experimental team authorized by the principal investigator and appropriate facility staff).
 
 * Files are often HDF5, but not NeXus
 
@@ -117,7 +117,7 @@ Distributed facilities, such as CERIC-ERIC and ELI has to cope with the data cat
 
 ELI does not have a data catalogue, so the goal is to introduce a common one compatible or identical with the PaNOSC catalogue, which will be available by then.
 
-Some CERIC-ERIC members have their own solutions, so an internal survey is necessary to clarify status, and plan further actions towards the PaNOSC catalogue. Treating CERIC-ERIC members with existing catalogues as if they were individual institutions is an option from a technical point of view.
+CERIC strategy is to implement a data catalogue and data analysis services for Elettra first and then to apply the solution to the other CERIC partner facilities.
 
 **Connections with other work packages and ExPaNDs**
 
