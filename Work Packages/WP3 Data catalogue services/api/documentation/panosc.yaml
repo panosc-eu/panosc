@@ -1,0 +1,322 @@
+openapi: 3.0.0
+info:
+  title: PANOSC API Draft
+  description: PANOSC API Draft for data catalog WP3
+  version: "0.1"
+  contact:
+    name: ' Alejandro De Maria Antolinos'
+    email: demariaa@esrf.fr
+  license:
+    name: MIT
+    url: 'https://opensource.org/licenses/MIT'
+paths:
+  '/proposals':
+    get:
+      summary: Returns all proposals
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/investigationlight'
+        '400':
+          $ref: '#/components/responses/error400'
+      tags:
+        - Panosc
+  '/proposals/{proposalId}':
+    get:
+      summary: Gets a specific proposal with a proposal idenfier
+      parameters:
+        - in: path
+          description: Proposal's identifier
+          name: proposalId
+          schema:
+            type: integer
+          required: true
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/investigationlight'
+        '400':
+          $ref: '#/components/responses/error400'
+      tags:
+        - Panosc
+  '/proposals/{proposalId}/schedules':
+    get:
+      summary: Gets scheduless (session or visit) for a given proposal
+      parameters:
+        - in: path
+          description: Proposal's identifier
+          name: proposalId
+          schema:
+            type: integer
+          required: true
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/investigationlight'
+        '400':
+          $ref: '#/components/responses/error400'
+      tags:
+        - Panosc
+  '/proposals/{proposalId}/schedules/{scheduleId}/datasets':
+    get:
+      summary: Gets datasets for a proposal
+      parameters:
+        - in: path
+          description: proposal's identifier
+          name: proposalsId
+          schema:
+            type: integer
+          required: true
+        - in: path
+          description: schedule's identifier
+          name: scheduleId
+          schema:
+            type: integer
+          required: true
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/dataset'
+        '400':
+          $ref: '#/components/responses/error400'
+      tags:
+        - Panosc
+  '/proposals/{investigationId}/schedules/{scheduleId}/datasets/{datasetId}/files':
+    get:
+      summary: Gets a list of files associated to a dataset
+      parameters:
+        - in: path
+          description: investigationId
+          name: investigationId
+          schema:
+            type: integer
+          required: true
+        - in: path
+          description: scheduleId
+          name: scheduleId
+          schema:
+            type: integer
+          required: true
+        - in: path
+          description: dataset's identifier
+          name: datasetId
+          schema:
+            type: integer
+          required: true
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/datafilelight'
+        '400':
+          $ref: '#/components/responses/error400'
+      tags:
+        - Panosc
+  '/datasets':
+    get:
+      summary: Returns a set of datasets given a DOI.
+      parameters:
+        - in: query
+          description: doi
+          name: prefix
+          schema:
+            type: string
+          example: 10.15151
+          required: true
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/dataset'
+        '400':
+          description: No description
+        '500':
+          description: No description
+      tags:
+        - Panosc
+  '/datasets/{datasetIds}/status':
+    get:
+      description: Return the archive status of the data files specified by the datasetIds along with a sessionId.
+      parameters:
+        - $ref: '#/components/parameters/sessionId'
+        - $ref: '#/components/parameters/datasetId'
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                items:
+                  $ref: '#/components/schemas/status'
+        '401':
+          $ref: '#/components/responses/error401'
+        '500':
+          $ref: '#/components/responses/error500'
+      tags:
+        - Panosc
+  '/instruments':
+    get:
+      summary: Returns all instruments
+      responses:
+        '400':
+          $ref: '#/components/responses/error400'
+      tags:
+        - Panosc
+  
+components:
+  schemas:
+    datafilelight:
+      required:
+        - id
+      properties:
+        id:
+          type: number
+        fileSize:
+          type: number
+        location:
+          type: string
+        name:
+          type: string
+    dataset:
+      required:
+        - parameters
+        - investigation
+        - id
+        - name
+        - startDate
+        - endDate
+        - location
+      properties:
+        parameters:
+          type: array
+          items:
+            type: object
+            properties:
+              name:
+                type: string
+              value:
+                type: string
+        investigation:
+          required:
+            - name
+            - id
+          properties:
+            name:
+              type: string
+            id:
+              type: number
+          type: object
+        id:
+          type: number
+        name:
+          type: string
+        startDate:
+          type: string
+        endDate:
+          type: string
+        location:
+          type: string
+    datacollection:
+      required:
+        - id
+        - parameters
+      properties:
+        id:
+          type: number
+        createId:
+          type: string
+        createTime:
+          type: string
+        modId:
+          type: string
+        modTime:
+          type: string
+        dataCollectionDatafiles:
+          type: array
+          items:
+            type: undefined
+        dataCollectionDatasets:
+          type: array
+          items:
+            type: undefined
+        doi:
+          type: string
+        jobsAsInput:
+          type: array
+          items:
+            type: undefined
+        jobsAsOutput:
+          type: array
+          items:
+            type: undefined
+        parameters:
+          type: array
+          items:
+            type: object
+            properties:
+              name:
+                type: string
+              value:
+                type: string
+    investigationlight:
+      required:
+        - id
+      properties:
+        id:
+          type: number
+        members:
+          type: array
+          items:
+            schema:
+              $ref: '#/components/schemas/member'
+        doi:
+          type: string
+        startDate:
+          type: string
+        endDate:
+          type: string
+        releaseDate:
+          type: string
+        name:
+          type: string
+        parameters:
+          type: array
+          items:
+            type: object
+            properties:
+              name:
+                type: string
+              value:
+                type: string
+        summary:
+          type: string
+        title:
+          type: string
+    member:
+      properties:
+        orcid:
+          type: string
+        name:
+          type: string
+        surname:
+          type: string
+        affilation:
+          type: string
+        role:
+          type: string
+    status:
+      type: string
+      enum:
+        - ONLINE
+        - RESTORING
+        - ARCHIVED
+
