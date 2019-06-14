@@ -23,4 +23,10 @@ We discussed the Data Services architecture based on the ILL diagram.
 
 ![ILL data services architecture](Materials/ILLDataServicesArchitecture.jpg)
 
-In order to get support from all partners on how to implement the data transfer solution proposed, each RI should present its own internal architecture.
+In order to get support from all partners on how to implement the data transfer solutions proposed, each RI should present its own internal architecture.
+
+[Use case document](DataTransferUseCases.md) for data transfer should also be completed.
+
+CERIC should discuss internally their engagement on the different use cases. 
+
+Most of the partners encounter delay in the recruitment of Sys Admin, EGI has proposed to help by displaying on their recruitment portal the job offers (Done for the ILL one, many thanks).
