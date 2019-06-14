@@ -19,6 +19,8 @@ Link for the telco: https://ill.vidyocloud.com/join/NWc9VqX5Sz
    difficulties if any.
 ## Discussions:
 
-We have discuss the Data service architecture based on the ILL diagram.
+We discussed the Data Services architecture based on the ILL diagram.
 
 ![ILL data services architecture](Materials/ILLDataServicesArchitecture.jpg)
+
+In order to get support from all partners on how to implement the data transfer solution proposed, each RI should present its own internal architecture.
