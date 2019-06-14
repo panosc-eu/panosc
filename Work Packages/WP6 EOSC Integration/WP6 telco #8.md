@@ -21,4 +21,4 @@ Link for the telco: https://ill.vidyocloud.com/join/NWc9VqX5Sz
 
 We have discuss the Data service architecture based on the ILL diagram.
 
-![](Materials/Data architecture ILL.jpg)
+![ILL data services architecture](Materials/ILLDataServicesArchitecture.jpg)
