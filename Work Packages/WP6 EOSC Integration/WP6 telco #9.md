@@ -2,7 +2,7 @@
 
 11th June 2019 - 11H00 CET
 
-Attendees : Marco, Carlos (CERIC), Giuseppe (EGI), Sarah - Minutes - & Jean-François (ILL),
+Attendees : 
 
 Link for the telco: https://ill.vidyocloud.com/join/NWc9VqX5Sz
 
@@ -14,11 +14,9 @@ Link for the telco: https://ill.vidyocloud.com/join/NWc9VqX5Sz
    non-RI colleagues, I would like to propose that each RI describes its 
    internal infrastructure and workflow related to data management (from 
    the acquisition to the archive and access by users)
-3. Clarify on the RI side who is ready to engage in the technical tasks.
-4. I would like to state on the ongoing recruitments and related 
-   difficulties if any.
+- Clarify on the RI side who is ready to engage in the technical tasks.
+- I also would like to state on the ongoing recruitments and related 
+difficulties if any.
+
 ## Discussions:
 
-We have discuss the Data service architecture based on the ILL diagram.
-
-![](Materials/Data architecture ILL.jpg)
