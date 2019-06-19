@@ -1,4 +1,4 @@
-PaNOSC Project Management Committee meeting - 05/06/2019
+PaNOSC Project Management Committee meeting - 19/06/2019
 ========================================================
 
 Present
@@ -19,13 +19,13 @@ Minutes
 	Andy asked what each partner is doing internally to disseminate PaNOSC as this can be interesting and be put into the plans.
 	This created a fruitful discussion about what we can do in dissemination and how all should work togehter for this, not only
 	the WP9 leader. The discussion involved Andy, Jean-Francois, Jordi, Florian and Knut among others and covered:
-	*    Attending/organising conferences and workshops
-	*    Participation in RDA and also in ExPaNDS
-	*    Linking up with stakeholders identified as part of WP7
+	  *    Attending/organising conferences and workshops
+	  *    Participation in RDA and also in ExPaNDS
+	  *    Linking up with stakeholders identified as part of WP7
 	It was agreed that a new document in Google Docs should be made available, so everyone can contribute their ideas.
 	The URL for such document is: https://drive.google.com/open?id=1-GYYqW9kXDBiZBOghziDVFfAQfycbj1u
 
-Out of the agenda: Andy introduced Knut, Coordinator of ExPaNDS.
+**Out of the agenda**: Andy introduced Knut, Coordinator of ExPaNDS.
 Knut explained that ExPaNDS statts in September and that for now they are just getting ready. Knut said that coordinating 
 dissemination plans looks like a good idea. He explained tha twork on a MoU between ExPaNDS and PaNOSC is ongoing and hopes to share
 next week a proposal document.
