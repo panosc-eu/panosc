@@ -3,26 +3,19 @@ info:
   title: PANOSC API Draft
   description: PANOSC API Draft for data catalog WP3
   version: "0.1"
-  contact:
-    name: ' Alejandro De Maria Antolinos'
-    email: demariaa@esrf.fr
   license:
     name: MIT
     url: 'https://opensource.org/licenses/MIT'
 paths:
   '/proposals':
     get:
-      summary: Returns all proposals
       responses:
         '200':
+          description: Returns all proposals
           content:
             application/json:
               schema:
-                $ref: '#/components/schemas/investigationlight'
-        '400':
-          $ref: '#/components/responses/error400'
-      tags:
-        - Panosc
+                $ref: '#/components/schemas/proposalsResponse'
   '/proposals/{proposalId}':
     get:
       summary: Gets a specific proposal with a proposal idenfier
@@ -35,17 +28,16 @@ paths:
           required: true
       responses:
         '200':
+          description: Returns a specific proposal for a given identifier
           content:
             application/json:
               schema:
-                $ref: '#/components/schemas/investigationlight'
+                $ref: '#/components/schemas/proposalResponse'
         '400':
           $ref: '#/components/responses/error400'
-      tags:
-        - Panosc
   '/proposals/{proposalId}/schedules':
     get:
-      summary: Gets scheduless (session or visit) for a given proposal
+      summary: Gets schedules (session or visit) for a given proposal
       parameters:
         - in: path
           description: Proposal's identifier
@@ -55,21 +47,20 @@ paths:
           required: true
       responses:
         '200':
+          description: Returns all schedules
           content:
             application/json:
               schema:
-                $ref: '#/components/schemas/investigationlight'
+                $ref: '#/components/schemas/schedulesResponse'
         '400':
           $ref: '#/components/responses/error400'
-      tags:
-        - Panosc
   '/proposals/{proposalId}/schedules/{scheduleId}/datasets':
     get:
-      summary: Gets datasets for a proposal
+      summary: Gets datasets for a specific schedule of a proposal
       parameters:
         - in: path
           description: proposal's identifier
-          name: proposalsId
+          name: proposalId
           schema:
             type: integer
           required: true
@@ -81,21 +72,20 @@ paths:
           required: true
       responses:
         '200':
+          description: Returns all datasets for a specific schedule of a proposal.
           content:
             application/json:
               schema:
-                $ref: '#/components/schemas/dataset'
+                $ref: '#/components/schemas/datasetsResponse'
         '400':
           $ref: '#/components/responses/error400'
-      tags:
-        - Panosc
-  '/proposals/{investigationId}/schedules/{scheduleId}/datasets/{datasetId}/files':
+  '/proposals/{proposalId}/schedules/{scheduleId}/datasets/{datasetId}/files':
     get:
       summary: Gets a list of files associated to a dataset
       parameters:
         - in: path
-          description: investigationId
-          name: investigationId
+          description: proposalId
+          name: proposalId
           schema:
             type: integer
           required: true
@@ -113,45 +103,48 @@ paths:
           required: true
       responses:
         '200':
+          description: Returns all files associated with a dataset
           content:
             application/json:
               schema:
-                $ref: '#/components/schemas/datafilelight'
+                $ref: '#/components/schemas/datafilesResponse'
         '400':
           $ref: '#/components/responses/error400'
-      tags:
-        - Panosc
   '/datasets':
     get:
       summary: Returns a set of datasets given a DOI.
       parameters:
         - in: query
           description: doi
-          name: prefix
+          name: doi
           schema:
             type: string
-          example: 10.15151
+          example: 10.15151/example
           required: true
       responses:
         '200':
+          description: Returns a set of datasets given a DOI.
           content:
             application/json:
               schema:
-                $ref: '#/components/schemas/dataset'
+                $ref: '#/components/schemas/datasetResponse'
         '400':
-          description: No description
+          $ref: '#/components/responses/error400'
         '500':
-          description: No description
-      tags:
-        - Panosc
-  '/datasets/{datasetIds}/status':
+          $ref: '#/components/responses/error500'
+  '/datasets/{datasetId}/status':
     get:
-      description: Return the archive status of the data files specified by the datasetIds along with a sessionId.
+      description: Return the archive status of the data files specified by the datasetId along with a sessionId.
       parameters:
-        - $ref: '#/components/parameters/sessionId'
-        - $ref: '#/components/parameters/datasetId'
+        - in: path
+          description: dataset's identifier
+          name: datasetId
+          schema:
+            type: integer
+          required: true
       responses:
         '200':
+          description: Returns archive status for a dataset
           content:
             application/json:
               schema:
@@ -161,135 +154,128 @@ paths:
           $ref: '#/components/responses/error401'
         '500':
           $ref: '#/components/responses/error500'
-      tags:
-        - Panosc
   '/instruments':
     get:
-      summary: Returns all instruments
+      summary: Returns all instruments for the facility
       responses:
-        '400':
-          $ref: '#/components/responses/error400'
-      tags:
-        - Panosc
-  
+        '200':
+          description: 'Returns all instruments for the facility'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/instrumentsResponse'
+
 components:
   schemas:
-    datafilelight:
+    proposalsResponse:
+      type: object
+      properties:
+        meta:
+          $ref: '#/components/schemas/metaWithPagination'
+        data:
+          type: array
+          items:
+            $ref: '#/components/schemas/proposal'
+        links:
+          $ref: '#/components/schemas/links'
+    proposalResponse:
+      type: object
+      properties:
+        meta:
+          $ref: '#/components/schemas/meta'
+        data:
+          $ref: '#/components/schemas/proposal'
+    instrumentsResponse:
+      type: object
+      properties:
+        meta:
+          $ref: '#/components/schemas/meta'
+        data:
+          type: array
+          items:
+            $ref: '#/components/schemas/instrument'
+    schedulesResponse:
+      type: object
+      properties:
+        meta:
+          $ref: '#/components/schemas/metaWithPagination'
+        data:
+          type: array
+          items:
+            $ref: '#/components/schemas/schedule'
+        links:
+          $ref: '#/components/schemas/links'
+    datasetsResponse:
+      type: object
+      properties:
+        meta:
+          $ref: '#/components/schemas/metaWithPagination'
+        data:
+          type: array
+          items:
+            $ref: '#/components/schemas/dataset'
+        links:
+          $ref: '#/components/schemas/links'
+    datasetResponse:
+      type: object
+      properties:
+        meta:
+          $ref: '#/components/schemas/meta'
+        data:
+          $ref: '#/components/schemas/dataset'
+    datafilesResponse:
+      type: object
+      properties:
+        meta:
+          $ref: '#/components/schemas/metaWithPagination'
+        data:
+          type: array
+          items:
+            $ref: '#/components/schemas/datafile'
+        links:
+          $ref: '#/components/schemas/links'
+    metaWithPagination:
+      externalDocs:
+        description: An example of pagination with the response data
+        url: https://jsonapi.org/examples/#pagination
+      type: object
+      properties:
+        institute:
+          type: string
+        page:
+          type: number
+        pageSize:
+          type: number
+        totalPages:
+          type: number
+    meta:
+      type: object
+      properties:
+        institute:
+          type: string
+    links:
+      type: object
+      properties:
+        self:
+          type: string
+        prev:
+          type: string
+        next:
+          type: string
+        first:
+          type: string
+        last:
+          type: string
+    proposal:
       required:
         - id
       properties:
         id:
           type: number
-        fileSize:
-          type: number
-        location:
+        title:
           type: string
-        name:
+        summary:
           type: string
-    dataset:
-      required:
-        - parameters
-        - investigation
-        - id
-        - name
-        - startDate
-        - endDate
-        - location
-        - technique
-        - sample_name
-        - chemical_formula
-        - wavelength
-      properties:
-        parameters:
-          type: array
-          items:
-            type: object
-            properties:
-              name:
-                type: string
-              value:
-                type: string
-        investigation:
-          required:
-            - name
-            - id
-          properties:
-            name:
-              type: string
-            id:
-              type: number
-          type: object
-        id:
-          type: number
-        name:
-          type: string
-        startDate:
-          type: string
-        endDate:
-          type: string
-        location:
-          type: string
-        technique
-          type: string        
-        sample_name
-          type: string
-        chemical_formula
-          type: string
-        wavelength
-          type: string
-datacollection:
-      required:
-        - id
-        - parameters
-      properties:
-        id:
-          type: number
-        createId:
-          type: string
-        createTime:
-          type: string
-        modId:
-          type: string
-        modTime:
-          type: string
-        dataCollectionDatafiles:
-          type: array
-          items:
-            type: undefined
-        dataCollectionDatasets:
-          type: array
-          items:
-            type: undefined
-        doi:
-          type: string
-        jobsAsInput:
-          type: array
-          items:
-            type: undefined
-        jobsAsOutput:
-          type: array
-          items:
-            type: undefined
-        parameters:
-          type: array
-          items:
-            type: object
-            properties:
-              name:
-                type: string
-              value:
-                type: string
-    investigationlight:
-      required:
-        - id
-      properties:
-        id:
-          type: number
-        members:
-          type: array
-          items:
-            schema:
-              $ref: '#/components/schemas/member'
         doi:
           type: string
         startDate:
@@ -309,21 +295,108 @@ datacollection:
                 type: string
               value:
                 type: string
-        summary:
+        members:
+          type: array
+          items:
+            $ref: '#/components/schemas/member'
+        schedules:
+          type: array
+          items:
+            $ref: '#/components/schemas/schedule'
+    schedule:
+      type: object
+      properties:
+        startDate:
           type: string
-        title:
+        endDate:
+          type: string
+        instrument:
+          $ref: '#/components/schemas/instrument'
+        datasets:
+          type: array
+          items:
+            $ref: '#/components/schemas/dataset'
+    instrument:
+      type: object
+      properties:
+        name:
+          type: string
+        description:
           type: string
     member:
       properties:
         orcid:
           type: string
+        researcherId:
+          type: string
+        publicationName:
+          type: string
         name:
           type: string
         surname:
           type: string
-        affilation:
+        affiliation:
           type: string
         role:
+          type: string
+    datafile:
+      required:
+        - id
+      properties:
+        id:
+          type: number
+        fileSize:
+          type: number
+        location:
+          type: string
+        name:
+          type: string
+    dataset:
+      required:
+        - parameters
+        - proposal
+        - id
+        - name
+        - startDate
+        - endDate
+        - location
+      properties:
+        parameters:
+          type: array
+          items:
+            type: object
+            properties:
+              name:
+                type: string
+              value:
+                type: string
+        proposal:
+          required:
+            - name
+            - id
+          properties:
+            name:
+              type: string
+            id:
+              type: number
+          type: object
+        id:
+          type: number
+        name:
+          type: string
+        startDate:
+          type: string
+        endDate:
+          type: string
+        location:
+          type: string
+        technique:
+          type: string
+        sampleName:
+          type: string
+        chemicalFormula:
+          type: string
+        wavelength:
           type: string
     status:
       type: string
@@ -331,4 +404,14 @@ datacollection:
         - ONLINE
         - RESTORING
         - ARCHIVED
-
+  responses:
+    error400:
+      description : Bad request. Some paramters are missing.
+    error401:
+      description: Authentication required. The user is not logged in the server.
+    error403:
+      description: Action not allowed for this user
+    error404:
+      description: Requested item(s) not found
+    error500:
+      description: An error occured on the server side.
