@@ -195,6 +195,10 @@ components:
         - startDate
         - endDate
         - location
+        - technique
+        - sample_name
+        - chemical_formula
+        - wavelength
       properties:
         parameters:
           type: array
@@ -225,7 +229,15 @@ components:
           type: string
         location:
           type: string
-    datacollection:
+        technique
+          type: string        
+        sample_name
+          type: string
+        chemical_formula
+          type: string
+        wavelength
+          type: string
+datacollection:
       required:
         - id
         - parameters
