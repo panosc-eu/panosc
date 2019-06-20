@@ -112,18 +112,18 @@ paths:
           $ref: '#/components/responses/error400'
   '/datasets':
     get:
-      summary: Returns a set of datasets given a DOI.
+      summary: Returns a set of datasets given a PID
       parameters:
         - in: query
-          description: doi
-          name: doi
+          description: PID
+          name: PID
           schema:
             type: string
           example: 10.15151/example
           required: true
       responses:
         '200':
-          description: Returns a set of datasets given a DOI.
+          description: Returns a set of datasets given a PID
           content:
             application/json:
               schema:
