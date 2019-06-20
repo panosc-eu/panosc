@@ -22,7 +22,7 @@
     - Add more general fields like: facility type, Technique, sample name 
 
 * Support authentication
-    - Support authentication via orchid or other single sign up 
+    - Support authentication via orchid or other single sign on
     - Diamond does insist on orcid for proposals and so will ESS
     - Discuss with WP2 about orcid support
 
