@@ -397,7 +397,7 @@ components:
         chemicalFormula:
           type: string
         wavelength:
-          type: string
+          type: number
     status:
       type: string
       enum:
