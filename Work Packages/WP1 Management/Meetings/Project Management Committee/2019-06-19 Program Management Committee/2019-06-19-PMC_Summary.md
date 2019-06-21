@@ -33,7 +33,7 @@ dissemination plans looks like a good idea. He explained the work on a MoU betwe
 
 	Andy explained that he has a draft version of possible internal milestones/deliverables but this is not yet ready to share.
 	Jordi suggested everyone to collaborate with issue 43: https://github.com/panosc-eu/panosc/issues/43
-	Hans asked how detailed the plan will become with these new internal deliverables/milestones and Andy answer that there
+	Hans asked how detailed the plan will become with these new internal deliverables/milestones and Andy answered that there
 	should be something in the plan at least every six months. We may not want internal deliverables/milestones every month 
 	but if nothing can be reported in a year we are doing something wrong.
 
@@ -85,7 +85,7 @@ dissemination plans looks like a good idea. He explained the work on a MoU betwe
 4. HDF5 Workshop 
 	
 	Andy announced that the HDF5 group proposed and is having a conference in September which will be hosted at the ESRF.
-	This event sort of overlaps wit hteh last LEAPS meeting. Andy will share more information about this conference shortly.
+	This event sort of overlaps witt the last LEAPS meeting. Andy will share more information about this conference shortly.
 
 5. Update from the WP Leaders - update on resources assigned + hiring + work plans
 	*    WP1 Management - Jordi has been working on the Financial Reporting templates that will be shared in September. The 
