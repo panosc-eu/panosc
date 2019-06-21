@@ -7,7 +7,7 @@ In the scope of the work package 4 of Panosc, we propose to more particulary foc
 - `PyNX <http://ftp.esrf.eu/pub/scisoft/PyNX/doc/>`_: Python tools for Nano-structures Xtallography
 - `crispy <http://www.esrf.fr/computing/scientific/crispy/>`_: GUI to calculate core-level spectra using the semi-empirical multiplet approaches implemented in Quanty.
 - `pyFAI <http://www.silx.org/doc/pyFAI/latest/>`_: Fast Azimuthal Integration using Python
-- Processing using multiple nodes with GPUs such as a 3D convolution.
+- Processing using multiple nodes with GPUs such
 
 
 PyNX
@@ -152,7 +152,7 @@ This involves the following user interactions:
 Processing on multiple nodes with GPUs
 ======================================
 
-This a technical use case to assess the feasibility of running parrallel processing on multiple nodes of a compute cluster from a notebook for ,e.g., a 3D convolution.
+This a technical use case to assess the feasibility of running parrallel processing on multiple nodes of a compute cluster from a notebook for ,e.g., a tomography reconstruction.
 
 - Source code: https://gitlab.esrf.fr/paleo/sidi
 - License: `MIT <https://opensource.org/licenses/MIT>`_
