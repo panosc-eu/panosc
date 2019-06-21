@@ -26,9 +26,8 @@ Minutes
 	The URL for such document is: https://drive.google.com/open?id=1-GYYqW9kXDBiZBOghziDVFfAQfycbj1u
 
 **Out of the agenda**: Andy introduced Knut, Coordinator of ExPaNDS.
-Knut explained that ExPaNDS statts in September and that for now they are just getting ready. Knut said that coordinating 
-dissemination plans looks like a good idea. He explained tha twork on a MoU between ExPaNDS and PaNOSC is ongoing and hopes to share
-next week a proposal document.
+Knut explained that ExPaNDS starts in September and that for now they are just getting ready. Knut said that coordinating 
+dissemination plans looks like a good idea. He explained the work on a MoU between ExPaNDS and PaNOSC is ongoing and hopes to share next week a proposal document.
 
 2. Internal new milestones/deliverables suggestion
 
