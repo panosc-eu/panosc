@@ -1,6 +1,6 @@
-#  WP6 fortnightly telco #8
+#  WP6 fortnightly telco #9
 
-11th June 2019 - 11H00 CET
+26th June 2019 - 11H00 CET
 
 Attendees : 
 
