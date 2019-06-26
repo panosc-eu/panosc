@@ -32,6 +32,8 @@ Petra suggested that we should invite external speakers and Knut suggested other
 view. Rudolf also suggested Sustainability as a topic (on top of being just a WP for PaNOSC)
 Further suggested content was collaboration/discussions between WPs (to ensure that we work together well).
 
+**ACTION** : A revised agenda for the annual conference with these suggestions to be provided before the end of July
+
 **OFF-TOPIC** : Then for a while we drifted to the MoU between ExPANDs and PaNOSC. Jordi pointed out that there is a big section on
 confidentiality while both projects are about FAIR data and open source to which Knut replied tha this is a common standard thing.
 Thomas pointed out that clause in the MoU allows us to share confidential content.
@@ -51,8 +53,11 @@ The following were suggested:
 | EOSC Secretariat | 1 or 2 | [...]  |
 | FAIRsFAIR | 1 or 2 |  [...] |
 | Project Officer (PaNOSC & ExPANDs) | 2 | [...]  |
-| Other InfraEOSC 5b cluster projects |  ~6 | | [...] |
+| Other InfraEOSC 5b cluster projects |  ~6 |  [...] |
 | User/Scientists or representatives of user associations | ??? | [...]  |
+
+**ACTION** : We must name each person that we want to invite, clarify whether we offer to cover the costs or not (mostly NOT) and
+who is taking charge to invite the person and sharing the answer obtained.
 
 4. **AOB**
 
