@@ -23,7 +23,7 @@ Minutes
 	  *    Participation in RDA and also in ExPaNDS
 	  *    Linking up with stakeholders identified as part of WP7
 	It was agreed that a new document in Google Docs should be made available, so everyone can contribute their ideas.
-	The URL for such document is: https://drive.google.com/open?id=1-GYYqW9kXDBiZBOghziDVFfAQfycbj1u
+	The URL for such document is: https://drive.google.com/file/d/15K4AwTq5jopZwZPnqwg68wp8YJq1qrfE/view?usp=sharing
 
 **Out of the agenda**: Andy introduced Knut, Coordinator of ExPaNDS.
 Knut explained that ExPaNDS starts in September and that for now they are just getting ready. Knut said that coordinating 
