@@ -49,7 +49,7 @@ The following were suggested:
 | Coordinators  (PaNOSC & ExPANDs) | 2 | Andy; Knut |
 | WP Leaders (PaNOSC & ExPANDs) | Approx: 6 + 9 = 15 | [...] |
 | PaNOSC EB | 6 | [...] |
-| EOSC Board (7 members) | 1 or 2 | [...]  |
+| EOSC Executive Board (7 members) | 1 or 2 | [Rupert Lueck, ...]  |
 | EOSC Secretariat | 1 or 2 | [...]  |
 | FAIRsFAIR | 1 or 2 |  [...] |
 | Project Officer (PaNOSC & ExPANDs) | 2 | [...]  |
