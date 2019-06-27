@@ -10,6 +10,12 @@ Andy (ESRF), Rudolf (ESRF), Jordi (ESRF), Dario (CERIC-ERIC), Jean-Francois (ILL
 Minutes
 -------
 
+**PREAMBLE** : The PaNOSC PMC raised the issue of the possibility to change the dates for the planned Annual Conference.
+Apparently there is a meeting of RDA on the same dates which means many people that we want to invite (EOSC Board, 
+Coordinators of other projects, FAIRsFAIR, etc.) won't be able to attend.
+Many work packages are starting to work and advancing, so we want the Annual Conference to be used to focus on collaboration between WPs, other projects and stakeholders, however most of these won't be able to attend, so one possibility is to change 
+the dates.
+
 1. **Dates for the Annual Conference**
 
 The meeting started with a question from Rudolf to Dario regarding the possibility to change the dates with the venue. 
