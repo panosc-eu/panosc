@@ -110,28 +110,28 @@ paths:
                 $ref: '#/components/schemas/datafilesResponse'
         '400':
           $ref: '#/components/responses/error400'
-  '/datasets':
-    get:
-      summary: Returns a set of datasets given a PID
-      parameters:
-        - in: query
-          description: PID
-          name: PID
-          schema:
-            type: string
-          example: 10.15151/example
-          required: true
-      responses:
-        '200':
-          description: Returns a set of datasets given a PID
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/datasetResponse'
-        '400':
-          $ref: '#/components/responses/error400'
-        '500':
-          $ref: '#/components/responses/error500'
+  # '/datasets':
+  #   get:
+  #     summary: Returns a set of datasets given a PID
+  #     parameters:
+  #       - in: query
+  #         description: PID
+  #         name: PID
+  #         schema:
+  #           type: string
+  #         example: 10.15151/example
+  #         required: true
+  #     responses:
+  #       '200':
+  #         description: Returns a set of datasets given a PID
+  #         content:
+  #           application/json:
+  #             schema:
+  #               $ref: '#/components/schemas/datasetResponse'
+  #       '400':
+  #         $ref: '#/components/responses/error400'
+  #       '500':
+  #         $ref: '#/components/responses/error500'
   '/datasets/{datasetId}/status':
     get:
       description: Return the archive status of the data files specified by the datasetId along with a sessionId.
@@ -164,7 +164,16 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/instrumentsResponse'
-
+  '/info':
+    get:
+      summary: Returns information on the API implementation at the facility and includes a list of searchable keywords
+      responses:
+        '200':
+          description: 'Returns information on the API implementation at the facility and includes a list of searchable keywords'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/infoResponse'
 components:
   schemas:
     proposalsResponse:
@@ -234,6 +243,20 @@ components:
             $ref: '#/components/schemas/datafile'
         links:
           $ref: '#/components/schemas/links'
+    infoResponse:
+      type: object
+      properties:
+        meta:
+          $ref: '#/components/schemas/meta'
+        data:
+          type: object
+          properties:
+            version:
+              type: string
+            keywords:
+              type: array
+              items:
+                type: string
     metaWithPagination:
       externalDocs:
         description: An example of pagination with the response data
@@ -306,16 +329,28 @@ components:
     schedule:
       type: object
       properties:
+        id:
+          type: string
+        proposal:
+          required:
+            - name
+            - id
+          properties:
+            name:
+              type: string
+            id:
+              type: number
+            link:
+              type: string
+          type: object
         startDate:
           type: string
         endDate:
           type: string
+        doi:
+          type: string
         instrument:
           $ref: '#/components/schemas/instrument'
-        datasets:
-          type: array
-          items:
-            $ref: '#/components/schemas/dataset'
     instrument:
       type: object
       properties:
@@ -325,6 +360,8 @@ components:
           type: string
     member:
       properties:
+        id:
+          type: string
         orcid:
           type: string
         researcherId:
@@ -347,7 +384,7 @@ components:
           type: number
         fileSize:
           type: number
-        location:
+        path:
           type: string
         name:
           type: string
@@ -370,16 +407,17 @@ components:
                 type: string
               value:
                 type: string
-        proposal:
-          required:
-            - name
-            - id
-          properties:
-            name:
-              type: string
-            id:
-              type: number
-          type: object
+        schedule:
+          $ref: '#/components/schemas/schedule'
+        # schedule:
+        #   required:
+        #     - id
+        #   properties:
+        #     id:
+        #       type: number
+        #     link:
+        #       type: string
+        #   type: object
         id:
           type: number
         name:
@@ -388,7 +426,7 @@ components:
           type: string
         endDate:
           type: string
-        location:
+        path:
           type: string
         technique:
           type: string
