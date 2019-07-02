@@ -17,6 +17,9 @@
 - How about issues?
   - could use JIRA if our demands outgrow capabilities of github issues
 
+* Any other business
+- workshop last week was received as useful and effective
+
 * Summary from discussion
 - put more complicated documents into Confluence
   - such as API specifications
@@ -26,6 +29,18 @@
   - https://github.com/panosc-eu/wp4
 - use github as the main point of reference
   - every document in confluence needs to be referenced from github
+- track activity through gitub issues so that we are aware what is
+  happening at other sites (ALL)
+- Carry on using Slack
 
 * Next meeting
 Tuesday 3rd September 2019, 15:00
+
+* Actions
+- add snapshot of discussion/minutes document from workshop last week
+  to repository (Robert)
+- add agenda to repository as well (for easier reference) (Robert)
+- add link to indico site (Robert)
+- convert milestones into github issues (or similar) (Robert)
+- upload missing talks (ALL)
+- convert discussion and plans from kickoff meeting into action (ALL)
