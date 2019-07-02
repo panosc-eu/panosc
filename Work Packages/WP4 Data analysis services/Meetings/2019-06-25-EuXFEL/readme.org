@@ -9,3 +9,8 @@
 * Location
 - European XFEL, Holzkoppel 4, 22869 Schenefeld, Germany
 - Google maps: https://goo.gl/maps/iRQuTPjUMHH2
+
+* Workshop details:
+
+- [[https://indico.desy.de/indico/event/23379/][Indico event page, including talks]]
+- [[https://github.com/panosc-eu/panosc/tree/master/Work%2520Packages/WP4%2520Data%2520analysis%2520services/Meetings/2019-06-25-EuXFEL][minutes (raw data)]]
