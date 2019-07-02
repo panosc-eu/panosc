@@ -2,11 +2,8 @@ PaNOSC Project Management Committee meeting - 03/07/2019
 ========================================================
 
 Agenda
-------
-
-1. Upcoming Deliverables and milesontes :
-
-	* D9.1 PaNOSC's Communication and Dissemination Plan	
+------	
+1. Annual Meeting in Trieste - Change of date status
 
 2. Internal new milestones/deliverables suggestion
 
