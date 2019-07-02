@@ -9,18 +9,19 @@
 |Scientist|Regroups Proposal Team Member and Open Access User|
 |Admin|IT Staff|
 |Facility Management (FM)|Directors, PaNOSC stakeholders (requiring metrics, usage, KPI...)|
+|WP4 (Data Analysis Services)|Uses WP3 API to obtain metadata and to obtain access to data|
 
 
 ### Scientific Use Cases
 
 
-|Actor|Story|Notes|
-|--- |--- |--- |
-|Scientist|I would like to know the states of Machine (i.e Energy) during an experiment |
-|PTM|I would like to search for all metadata produced from the experiment (note that this are application specific)|
-|Scientist|I would like to know the type of the software used for the analysis of data |
-|Scientist|I want to be able to search for all data on water at the PanOSC facilities|
-|Scientist|I would like to search for experiments/datasets by a particular metadata entitysample formulatitlescientific techniquesample type|
+|Actor|Story|Notes|Priority|
+|--- |--- |--- |  --- | 
+|Scientist|I would like to know the states of Machine (i.e Energy) during an experiment | |
+|PTM|I would like to search for all metadata produced from the experiment (note that this are application specific)| |
+|Scientist|I would like to know the type of the software used for the analysis of data | |
+|Scientist|I want to be able to search for all data on water at the PanOSC facilities| |
+|Scientist|I would like to search for experiments/datasets by a particular metadata entity [eg sample, formula, title, scientific technique, sample type]|
 |Scientist|I would like to search for detector type|
 |Scientist|I would like to know the instruments setup|
 |Scientist|I would like to retrieve the logbook of an experiment|
@@ -40,8 +41,8 @@
 
 ### Administrative Use Cases
 
-|Actor|Story|Notes|
-|--- |--- |--- |
+|Actor|Story|Notes|Priority|
+|--- |--- |--- |--- |
 |Admin|I would like to have access to all the data for my facility|
 |Admin|I need to be able to identify the user performing the search to be able to handle access rights| eg to determine which proposals and data they have access to. If we get a request via the api to search for particular metadata entities, we need to be able to identify the user making the request to only show results for which they have valid permissions. 
 |FM|I would like to know how many data requests (per site) have been made for a given period (eg for a KPI)|
@@ -49,4 +50,13 @@
 |FM|I would like to know how much data (in bytes) has been requested/transferred for a given period|
 
 
+
+### WP4 Use Cases
+
+|Actor|Story|Notes|Priority|
+|--- |--- |--- |--- |
+|WP4|For the authenticated user, I would like to obtain a list (full metadata) of their associated proposals or data from different institutes|
+|WP4|I would like to obtain a list of open data (restricted metadata) from different institutes using specific search criteria|
+|WP4|Having identified a proposal or datafile/set of interest I would like to obtain the data in order to to analyse it|The API can return an identifier and a means of obtaining the data (eg download URL or FTS method). The API does not provide a specific endpoint to download data.|
+|WP4|I would like to upload processed data to the institute's catalogue|Mentioned in Task 4.4 but considered low priority|
 
