@@ -38,9 +38,9 @@ Tuesday 3rd September 2019, 15:00
 
 * Actions
 - add snapshot of discussion/minutes document from workshop last week
-  to repository (Robert)
-- add agenda to repository as well (for easier reference) (Robert)
-- add link to indico site (Robert)
+  to repository [done]
+- add agenda to repository as well (for easier reference) [done]
+- add link to indico site [done]
 - convert milestones into github issues (or similar) (Robert)
 - upload missing talks (ALL)
 - convert discussion and plans from kickoff meeting into action (ALL)
