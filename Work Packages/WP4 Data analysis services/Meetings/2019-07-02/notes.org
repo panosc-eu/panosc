@@ -1,0 +1,31 @@
+#+TITLE: WP4 video conference 2 July 2019
+
+:present: Jamie (ILL), Carlos (CERIC-ERIC), Robert Ra (ELI), Jakub (ELI), Robert Ro (EuXFEL), Hans (EuxFEL)
+
+* Introduction to Confluence (Jamie)
+
+- projects are 'spaces'
+- we have a 'wp4' space
+- real-time editing of documents
+- drawio can draw diagrams with history
+- previews of pdf / powerpoint / word documents etc inside confluence
+- Comments with @colleague notifications supported
+- doesn't do repositories
+- most powerful thing are the macros
+- notifications are sent if items (documents) are modified
+
+- How about issues?
+  - could use JIRA if our demands outgrow capabilities of github issues
+
+* Summary from discussion
+- put more complicated documents into Confluence
+  - such as API specifications
+- keep Confluence WP4 space world-readable (for transparency)
+- stick to github issues for managing tasks
+  - do this in our WP4 repository to separate issues:
+  - https://github.com/panosc-eu/wp4
+- use github as the main point of reference
+  - every document in confluence needs to be referenced from github
+
+* Next meeting
+Tuesday 3rd September 2019, 15:00
