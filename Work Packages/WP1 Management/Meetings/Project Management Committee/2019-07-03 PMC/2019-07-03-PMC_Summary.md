@@ -1,16 +1,18 @@
 PaNOSC Project Management Committee meeting - 03/07/2019
 ========================================================
+The meeting was finally canceled because several participants were unavailable. 
+However, some written feedback was received on some of the agenda items:
 
-Present
--------
+1. Annual Meeting in Trieste - Change of date
+Dario confirms the availability of the Savoia Hotel for the 4th and 5th of November and the reservation is confirmed. 
+These dates are now confirmed and shall be communicated to all the involved parties. 
+The Executive Board meeting will thus take place on the 5th in the afternoon. Only Mark Johnsson (ILL) signalled that he
+would not be available on that date.
 
-List of attendees with partner institute between brackets.
-
-Minutes
--------
-
-1. Upcoming Deliverables and milestones :
-
+2. Internal new milestones/deliverables
+Action:
+Aders are requested to make proposals for the *next* PMC meeting for new milestones which would allow better
+monitoring of progress. 
 	* D9.1 PaNOSC's Communication and Dissemination Plan
 
 	It was agreed that a new document in Google Docs should be made available, so everyone can contribute their ideas.
