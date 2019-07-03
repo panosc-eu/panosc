@@ -30,4 +30,4 @@ if nothing changes in September he will propose to discuss this issue seriously 
 (making clear who is really willing to actively work on what).
 
 3.3 WP7 - Sustainability
-The minuts of the WP7 (19/06/19) are available on GitHub. 
+The minuts of the first WP7 meeting (19/06/19) are now available on GitHub. (https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/project%20meetings/2019-06-19/minutes.md)
