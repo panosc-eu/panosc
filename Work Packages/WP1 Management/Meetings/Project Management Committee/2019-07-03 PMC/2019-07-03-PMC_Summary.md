@@ -21,14 +21,10 @@ identified aread of joined interest. They plan to process and extract those in t
 and responsibilites. There was good participation from ExPaNDS/DESY (Knut, Anton Barty, Patrick Fuhrmann, Frank Schluenzen).
 Feedback from participants attending the workshop was generally positive.
 
-3.2 WP6 - EOSC integration
-
-Concerning authentication we are waiting for the results of the UmbrellaID management team vote (expected for the 4th of July).
+* WP6 - EOSC integration. Concerning authentication we are waiting for the results of the UmbrellaID management team vote (expected for the 4th of July).
 The last telco was not well attended (ELI attended, CERIC was excused all the other RIs were absent), 
 the lack of engagement on the RI side is more and more a concern for WP6. The WP leader will be away in August, but
 if nothing changes in September he will propose to discuss this issue seriously at the PM level 
 (making clear who is really willing to actively work on what).
 
-3.3 WP7 - Sustainability
-
-The minutes of the first WP7 meeting (19/06/19) are now available on GitHub. (https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/project%20meetings/2019-06-19/minutes.md)
+* WP7 - Sustainability. The minutes of the first WP7 meeting (19/06/19) are now available on GitHub. (https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/project%20meetings/2019-06-19/minutes.md)
