@@ -11,8 +11,17 @@ would not be available on that date.
 
 2. Internal new milestones/deliverables
 Action:
-Aders are requested to make proposals for the *next* PMC meeting for new milestones which would allow better
+All work package leaders are requested to make proposals for the *next* PMC meeting for new milestones which would allow better
 monitoring of progress. 
+
+3. Update from the WP leaders
+
+WP4 - had their workshop last week with 30 participants. The have collectively taken my notes, reflecting on ideas and
+identified aread of joined interest. They plan to process and extract those in the coming weeks and month 10 internal milestones
+and responsibilites. There was good participation from ExPaNDS/DESY (Knut, Anton Barty, Patrick Fuhrmann, Frank Schluenzen).
+Feedback from participants attending the workshop was generally positive.
+
+WP
 	* D9.1 PaNOSC's Communication and Dissemination Plan
 
 	It was agreed that a new document in Google Docs should be made available, so everyone can contribute their ideas.
