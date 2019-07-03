@@ -16,8 +16,8 @@ monitoring of progress.
 
 3. Update from the WP leaders
 
-* WP4 - Data Analysis Services. They had their workshop last week with 30 participants. The have collectively taken my notes, reflecting on ideas and
-identified aread of joined interest. They plan to process and extract those in the coming weeks and month 10 internal milestones
+* WP4 - Data Analysis Services. They had their workshop last week with 30 participants. The have collectively taken notes, reflecting on ideas and
+identified aread of joined interest. They plan to process and extract those in the coming weeks and months and have drafted 10 internal milestones
 and responsibilites. There was good participation from ExPaNDS/DESY (Knut, Anton Barty, Patrick Fuhrmann, Frank Schluenzen).
 Feedback from participants attending the workshop was generally positive.
 
