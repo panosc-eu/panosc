@@ -16,18 +16,18 @@ monitoring of progress.
 
 3. Update from the WP leaders
 
-WP4 - Data Analysis Services. 
+3.1 WP4 - Data Analysis Services. 
 They had their workshop last week with 30 participants. The have collectively taken my notes, reflecting on ideas and
 identified aread of joined interest. They plan to process and extract those in the coming weeks and month 10 internal milestones
 and responsibilites. There was good participation from ExPaNDS/DESY (Knut, Anton Barty, Patrick Fuhrmann, Frank Schluenzen).
 Feedback from participants attending the workshop was generally positive.
 
-WP6 - EOSC integration
+3.2 WP6 - EOSC integration
 Concerning authentication we are waiting for the results of the UmbrellaID management team vote (expected for the 4th of July).
 The last telco was not well attended (ELI attended, CERIC was excused all the other RIs were absent), 
 the lack of engagement on the RI side is more and more a concern for WP6. The WP leader will be away in August, but
 if nothing changes in September he will propose to discuss this issue seriously at the PM level 
 (making clear who is really willing to actively work on what).
 
-WP7 - Sustainability
+3.3 WP7 - Sustainability
 The minuts of the WP7 (19/06/19) are available on GitHub. 
