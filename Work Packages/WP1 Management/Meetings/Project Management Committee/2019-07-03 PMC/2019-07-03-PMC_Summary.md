@@ -16,36 +16,18 @@ monitoring of progress.
 
 3. Update from the WP leaders
 
-WP4 - had their workshop last week with 30 participants. The have collectively taken my notes, reflecting on ideas and
+WP4 - Data Analysis Services. 
+They had their workshop last week with 30 participants. The have collectively taken my notes, reflecting on ideas and
 identified aread of joined interest. They plan to process and extract those in the coming weeks and month 10 internal milestones
 and responsibilites. There was good participation from ExPaNDS/DESY (Knut, Anton Barty, Patrick Fuhrmann, Frank Schluenzen).
 Feedback from participants attending the workshop was generally positive.
 
-WP
-	* D9.1 PaNOSC's Communication and Dissemination Plan
+WP6 - EOSC integration
+Concerning authentication we are waiting for the results of the UmbrellaID management team vote (expected for the 4th of July).
+The last telco was not well attended (ELI attended, CERIC was excused all the other RIs were absent), 
+the lack of engagement on the RI side is more and more a concern for WP6. The WP leader will be away in August, but
+if nothing changes in September he will propose to discuss this issue seriously at the PM level 
+(making clear who is really willing to actively work on what).
 
-	It was agreed that a new document in Google Docs should be made available, so everyone can contribute their ideas.
-	The URL for such document is: https://drive.google.com/open?id=1-GYYqW9kXDBiZBOghziDVFfAQfycbj1u
-
-2. Internal new milestones/deliverables suggestion
-
-3. Review of existing issues: https://github.com/panosc-eu/panosc/issues
-		
-4. Update from the WP Leaders - update on resources assigned + hiring + work plans
-	*    WP1 Management - Jordi was absent
-	*    WP2 Data Policy and Stewardship - Andy 
-	*    WP3 Data Catalog Services - Tobias 
-	*    WP4 Data Analysis Services - Hans 
-	*    WP5 Virtual Neutron and X-ray Laboratory - Carsten 
-	*    WP6 EOSC integration - Jean-Francois 
-	*    WP7 Sustainibility - Roberto 
-	*    WP8 Staff training in data stewardship - Thomas 
-	*    WP9 Outreach &Communication - Nicoletta 
-
-5. Job openings and hirings
-
-
-6. News from other proposals and events
-
-
-7. AOB
+WP7 - Sustainability
+The minuts of the WP7 (19/06/19) are available on GitHub. 
