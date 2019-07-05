@@ -360,8 +360,16 @@ components:
           type: string
     member:
       properties:
-        id:
+        person:
+          $ref: '#/components/schemas/person'
+        affiliation:
+          $ref: '#/components/schemas/laboratory'
+        role:
           type: string
+    person:
+      properties:
+        id:
+          type: number
         orcid:
           type: string
         researcherId:
@@ -372,9 +380,17 @@ components:
           type: string
         surname:
           type: string
-        affiliation:
+    laboratory:
+      properties:
+        id:
+          type: number
+        name:
           type: string
-        role:
+        address:
+          type: string
+        city:
+          type: string
+        country:
           type: string
     datafile:
       required:
