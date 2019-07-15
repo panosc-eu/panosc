@@ -207,13 +207,11 @@ components:
       type: object
       properties:
         meta:
-          $ref: '#/components/schemas/metaWithPagination'
+          $ref: '#/components/schemas/meta'
         data:
           type: array
           items:
             $ref: '#/components/schemas/schedule'
-        links:
-          $ref: '#/components/schemas/links'
     datasetsResponse:
       type: object
       properties:
