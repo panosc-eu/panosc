@@ -11,7 +11,8 @@ Link for the telco: https://ill.vidyocloud.com/join/NWc9VqX5Sz
 
 1. General organisation (holidays)
 2. **Report on the Amsterdam meeting**
-   https://docs.google.com/document/d/1QiYOAjUbzAXptulnWfc5BF2jA3MK5rWEZSz__rqMzS0
+   Giuseppe: https://docs.google.com/document/d/1QiYOAjUbzAXptulnWfc5BF2jA3MK5rWEZSz__rqMzS0
+   Bjorn: https://docs.google.com/document/d/1RdbPhzudmpApeX7k6jJCGaTA4eNT7ogS11AEUY2k6gM/edit#heading=h.54v2q18nga5u
 3. Clarify on the RI side who is ready to engage in the technical tasks (when).
 4. Ongoing recruitments and related difficulties if any.
 ## Discussions:
