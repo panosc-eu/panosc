@@ -18,7 +18,7 @@ to invite in order to avoid having to rush in September
 Nicoleta explained that Dario is on leave until the beginning of August.
 There was agreement on the 4th and 5th November dates for the annual conference, however still there isn't a clear idea on whether 
 there will be some events in the following days (for WP work or working with other cluster projects).
-Jordi will create a google doc **(link here)** so everyone can collaborate on the list of invitees. Initial suggestions for whom to 
+Jordi has created [**this google doc**](https://drive.google.com/open?id=1Cz1KfP6-5NcKJzAUuoJkcBs3Sp35Mz5eVV4CoIS1pQw) so everyone can collaborate on the list of invitees. Initial suggestions for whom to 
 invite were representatives of:
 * FAIRsFAIR
 * EOSC-Hub
@@ -50,7 +50,7 @@ what authority, what are the impacts, etc. In any case Florian recommended to ad
 done in a best-efforts basis. Nicoletta also asked about communications about the MoU. Florian answer that there is no 
 need to change past news/content about the MoU.
     
-3. Update from WP Leaders
+3. **Update from WP Leaders**
     * WP1 Management: Jordi reported that he was on leave and we already talked about MoU. Jordi verified internally that 
     effort in order to produce the Financial Report seems management and will remind all partner institutions that this is 
     coming up. The plan is to explain what we must collate at the end of August, remind of the reporting period (01/12/2018 -
