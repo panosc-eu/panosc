@@ -13,19 +13,19 @@ To open `.h5` dataset in Paraview, special `.xdmf` file has to be created, this 
 
 We are developing custom 3D web application for visualization of simulation data in browser with enabled VR mode. To enable smooth visualizations we preprocess the raw data to binary buffers using transformation tool via Jupyter Notebook.
 
-<img src=ELI-use-cases/data_transform_tool.png>
+<img src=data_transform_tool.png>
 
 Examples of visualizations
 
-<img src=ELI-use-cases/web_app_preview.png>
+<img src=web_app_preview.png>
 
 ## Analytical Modelling
 
-<img src=ELI-use-cases/analytical_modeling.png>
+<img src=analytical_modeling.png>
 
 ## Analysis of PIC Simulations
 
-<img src=ELI-use-cases/analysis_simulation.png>
+<img src=analysis_simulation.png>
 
 
 
