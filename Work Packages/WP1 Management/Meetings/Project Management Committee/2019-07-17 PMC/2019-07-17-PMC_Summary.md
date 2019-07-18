@@ -71,13 +71,13 @@ need to change past news/content about the MoU.
     meeting in Amsterdam (very technical, with three solutions presented that we want to pilot). Andy asked about data transfer
     to which Jean-Francois answered that there are no news (for now only Globus online)
     
-    * WP7 Sustainability: Roberto reported a WP7 meeting that took place today about the cost model. CERIC will propose
+    * WP7 Sustainability: Roberto reported from a WP7 meeting that took place the same day about the cost model. CERIC will propose
     something and check it with their financial advisor before circulating it at the beginning of september.
     
     * WP8 Staff training in data stewardship: Thomas was excused. No news.
     
     * WP9 Outreach and Communication: Nicoletta reported work updating the website and contacting WP leaders for content. She
-    also expalined the EOSC Secretariat intiative for a video with testimonials from projects (we have 4 candidates for this 
+    also reported from the EOSC Secretariat intiative for a video with testimonials from projects (we have 4 candidates for this 
     so far). Andy thanked Nicoletta for the changes in the website server as it is much better now.
  
 **WE RAN OUT OF TIME** for the [issues](https://github.com/panosc-eu/panosc/issues), however there are two things to note:
