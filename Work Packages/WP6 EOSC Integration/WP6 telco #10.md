@@ -36,9 +36,9 @@ Installation support: EGI
 
 2) DCache
 
-A distributed dCache between ILL and DESY to allow to run analysis outside ILL on data initially stored at ILL but  cache-copied to DESY (DPool) if needed (as a test for now).
+A distributed dCache between ILL and DESY to allow to run analysis outside ILL on data initially stored at ILL but  cache-copied to DESY (DPool) if needed (as a test for now). For the pilot it is desirable to have a centos 7 server, but debin packages are also availables. 
 
-Pilots: ILL
+Pilots: ILL 
 Installation support: DESY
 
 3) Running test analysis remotely without cache the data.
@@ -52,8 +52,8 @@ Pilots: STFC and ILL
 
 Actions: 
 
-CERIC and ILL should prepare a server for September
-All should update/comment in order to improve  the use case description
+At least CERIC and ILL should have a server ready for the pilots for September.
+We should all update/comment the use case description in order to improve it.  
 
 
 
