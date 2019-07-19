@@ -1,6 +1,6 @@
 #  WP6 fortnightly telco #10
 
-16th June 2019 - 11H00 CET
+16th July 2019 - 11H00 CET
 
 Attendees : Marco (CERIC), Giuseppe (EGI), Jean-François (ILL), Idrissou (Soleil), Ian (STFC), Michael, Paul (DESY), Tamas (ELI), Miroslav (CESNET).
 
