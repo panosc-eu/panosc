@@ -1,5 +1,12 @@
 PaNOSC News links
 =================
+July 2019
+-------------
+* https://cordis.europa.eu/news/rcn/131657/en (PaNOSC WP3 kicked off at the European Spallation Source) CORDIS
+* https://cordis.europa.eu/news/rcn/131659_en.html (Closer links between PaNOSC and ExPaNDS established at the LEAPS-IT meeting) CORDIS
+* https://cordis.europa.eu/news/rcn/131660_en.html (The ESRF welcomed the 1st OASYS School) CORDIS
+* https://cordis.europa.eu/event/rcn/147341_en.html (Register now to the HDF5 European Workshop for Science and Industry) CORDIS
+
 March 2019
 -------------
 * https://mailchi.mp/ccb1226fd1ee/elines-newsletter-2318145 ELI-DC Newsletter 
