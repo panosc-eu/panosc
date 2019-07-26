@@ -7,6 +7,10 @@ July 2019
 * https://cordis.europa.eu/news/rcn/131660_en.html (The ESRF welcomed the 1st OASYS School) CORDIS
 * https://cordis.europa.eu/event/rcn/147341_en.html (Register now to the HDF5 European Workshop for Science and Industry) CORDIS
 
+May 2019
+-------------
+* https://www.eosc-portal.eu/panosc EOSC-portal
+
 March 2019
 -------------
 * https://mailchi.mp/ccb1226fd1ee/elines-newsletter-2318145 ELI-DC Newsletter 
@@ -44,4 +48,5 @@ November 2018
 April 2018
 ----------
 * https://www.eosc-hub.eu/events/eosc-hub-week-16-20-april-2018-malaga-spain/programme/the-role-of-ESFRI-clusters-in-EOSC/panosc EOSC-Hub 2018
+* https://eosc-hub.eu/events/eosc-hub-week-16-20-april-2018-malaga-spain/programme/the-role-of-ESFRI-clusters-in-EOSC EOSC-hub >> https://eosc-hub.eu/events/eosc-hub-week-16-20-april-2018-malaga-spain/programme/the-role-of-ESFRI-clusters-in-EOSC/panosc (ABSTRACT presentation J-F. Perrin at EOSC-hub week 2018)
 
