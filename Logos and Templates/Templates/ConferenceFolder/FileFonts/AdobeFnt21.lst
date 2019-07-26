@@ -1,0 +1,55 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/sintesi2/Dropbox/SINTESI-HUB TRIESTE/PaNOSC/Pacchetto_PaNOSC_Conference-Folder_24x33/Document fonts/AdobeFnt21.lst
+FileLength:1278
+FileModTime:582126965
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Muli-Black
+FamilyName:Muli Black
+StyleName:Regular
+MenuName:Muli Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Muli Black
+WritingScript:Roman
+OutlineFileName:/Users/sintesi2/Dropbox/SINTESI-HUB TRIESTE/PaNOSC/Pacchetto_PaNOSC_Conference-Folder_24x33/Document fonts/Muli-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:91260
+FileModTime:575575410
+NameArray:0,Win,1,Muli Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Muli-Regular
+FamilyName:Muli
+StyleName:Regular
+MenuName:Muli
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Muli Regular
+WritingScript:Roman
+OutlineFileName:/Users/sintesi2/Dropbox/SINTESI-HUB TRIESTE/PaNOSC/Pacchetto_PaNOSC_Conference-Folder_24x33/Document fonts/Muli-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:90300
+FileModTime:575575411
+NameArray:0,Win,1,Muli
+%EndFont
+
