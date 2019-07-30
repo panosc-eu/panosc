@@ -436,10 +436,22 @@ components:
           type: number
         name:
           type: string
+        owner:
+          type: string
+        contactEmail:
+          type: string
+        orcidOfOwner:
+          type: string
+        license:
+          type: string
+        embargoEndDate:
+          type: string
         startDate:
           type: string
         endDate:
           type: string
+        size:
+          type: number
         path:
           type: string
         technique:
@@ -458,7 +470,7 @@ components:
         - ARCHIVED
   responses:
     error400:
-      description : Bad request. Some paramters are missing.
+      description : Bad request. Some parameters are missing.
     error401:
       description: Authentication required. The user is not logged in the server.
     error403:
