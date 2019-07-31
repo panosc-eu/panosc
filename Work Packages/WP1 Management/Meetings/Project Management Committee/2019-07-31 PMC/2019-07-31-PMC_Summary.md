@@ -44,14 +44,13 @@ in the holiday period he cannot commit in name of his colleagues at ILL.
 
     * Invitation to a joint EOSC project meeting on 9-10 September 2019 in Brussels
     
-      Thomas clarified that due to a meeting that week, he won't be able to attend any meeting that week (including ExPaNDS kick-off)
+      Thomas clarified that due to a meeting that week, he won't be able to attend any meeting that week (probably including ExPaNDS kick-off)
 Jonathan said that ESS could send someone and Jean-Francois explained that attendance is restricted to two per project. It was
 therefore decided that Jean-Francois will join Andrew Gotz for this meeting in Brussels and represent PaNOSC.
 
     * ExPANDs kick-off meeting 11-12 September in Hamburg
     
-      Jonathan explained  that ESS will send someone and Thomas added that due to the ESS meeting neither him or Tobias will be able
-to make it. Jean-Francois said that he will be there and Jordi signalled his intention to go.
+      Jonathan explained  that ESS will send someone and Thomas added that due to the ESS meeting it will not be possible for both him and Tobias to make it. Jean-Francois said that he will be there and Jordi signalled his intention to go.
 Nicoletta asked how we will contribute to the meeting? This is not clear and Jordi will send an email to Knut. Jean-Francois said
 that in the agenda there is a 20min slot about ExPANDs-PaNOSC (probably a presentation by Andy will be done there) but not much more.
 Jean-Francois also asked wether ISIS will send someone and Thomas said that he thinks so.
@@ -69,8 +68,7 @@ Jean-Francois also asked wether ISIS will send someone and Thomas said that he t
     
     * WP4 Data Analysis Services: Hans was absent. No news.
     
-    * WP5 Virtual Neutron and X-ray Laboratory: Carsten was absent. Thomas reported that minutes of the last meetinig are available
-    on GitHub and that XFEL recruited someone to continue the development of SEMEX
+    * WP5 Virtual Neutron and X-ray Laboratory: Carsten was absent. Thomas reported that minutes of the last meeting are available on GitHub (https://github.com/PaNOSC-ViNYL/ViNYL-project/wiki/Meeting-notes#2019-07-22) and that XFEL recruited someone to continue the development of SIMEX.
     
     * WP6 EOSC Integration: Jean-Francois reported that someone from ELI joined the WP and will work on the user data transfer use
     case. Also, options for the Jupyter Notebox from EGI use case will be tested by ILL and CERIC-ERIC in September. Jean-Francois
