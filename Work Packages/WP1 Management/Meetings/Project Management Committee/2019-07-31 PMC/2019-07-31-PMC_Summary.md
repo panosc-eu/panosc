@@ -15,7 +15,7 @@ Minutes
 Nicoletta explained whath the rollups are: They are vertical posters that can be rolled up. The idea is that they stand near
 a speaker or desk, so they identify the person with the project. Also they are useful so the logo of the project can be seen
 in pictures/vidieos. Nicoletta explained that 3 rollup proposals have been shared and that feedback would be very welcome.
-The rollups will be printed in September (so they are available for the Trieste meeting) and they cost around 70€ to 100€ each.
+The rollups will be printed in September (so they are available for the Trieste meeting) and they cost around 70â‚¬ to 100â‚¬ each.
 Nicoletta asked whether any other partner wanted to have rollups and also that if any other promotional material is required we 
 should let her kwow.
 
@@ -27,12 +27,14 @@ needs to be formalised and Nicoletta answered that while she is not 100% sure a 
     
 3. **News from other proposals and events**
     * Request from FAIRsFAIR for communities to contact
+    
       Thomas explained that he asked internally, but due to holidays he couldn't obtain an answer. Nicoletta then pointed out that
 Angus asked for an answer by today (for 31st July 2019) and it was agreed that Thomas will email Angus and CC Nicoletta about this
 topic. Jean-Francois said that it is difficult to get people now due to the holiday period and that it could be better to provide
 the information in September (if not too late)
 
     * FAIRsFAIR data repository certification
+    
       Jonathan said that he thinks that they have already identified the repositories they want to work with and that this may not
 be releveant to us, to which Nicoletta replied that they have asked PaNOSC specifically, so she thinks that they are still looking
 for repositories. Jonathan then explained that their definition of repository could mean that we do not have any and Jean-Francois
@@ -41,11 +43,13 @@ summer which makes it very difficult to reply to. Jean-Francois will reply sayin
 in the holiday period he cannot commit in name of his colleagues at ILL.
 
     * Invitation to a joint EOSC project meeting on 9-10 September 2019 in Brussels
+    
       Thomas clarified that due to a meeting that week, he won't be able to attend any meeting that week (including ExPaNDS kick-off)
 Jonathan said that ESS could send someone and Jean-Francois explained that attendance is restricted to two per project. It was
 therefore decided that Jean-Francois will join Andrew Gotz for this meeting in Brussels and represent PaNOSC.
 
     * ExPANDs kick-off meeting 11-12 September in Hamburg
+    
       Jonathan explained  that ESS will send someone and Thomas added that due to the ESS meeting neither him or Tobias will be able
 to make it. Jean-Francois said that he will be there and Jordi signalled his intention to go.
 Nicoletta asked how we will contribute to the meeting? This is not clear and Jordi will send an email to Knut. Jean-Francois said
