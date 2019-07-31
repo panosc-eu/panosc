@@ -7,7 +7,13 @@ Agenda
 
 2. Annual Meeting in Trieste
 
-3. Update from the WP Leaders - update on what has been achieved and problems
+3. News from other proposals and events
+    * Request from FAIRsFAIR for communities to contact
+    * FAIRsFAIR data repository certification
+    * Invitation to a joint EOSC project meeting on 9-10 September 2019 in Brussels
+    * ExPANDs kick-off meeting 11-12 September in Hamburg
+
+4. Update from the WP Leaders - update on what has been achieved and problems
 	*    WP1 Management
 	*    WP2 Data Policy and Stewardship
 	*    WP3 Data Catalog Services
@@ -18,9 +24,7 @@ Agenda
 	*    WP8 Staff training in data stewardship
 	*    WP9 Outreach & Communication
 
-4. Issues https://github.com/panosc-eu/panosc/issues
-
-5. News from other proposals and events
+5. Issues https://github.com/panosc-eu/panosc/issues
 
 6. Job openings and hirings
 
