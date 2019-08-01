@@ -21,7 +21,7 @@ should let her kwow.
 
 2. **Annual Meeting in Trieste**
 
-Nicoletta explained that there are no news, as Dario is not back until mid-August. Nicoletta also said that it is still not clear
+Nicoletta explained that there are no news, as Dario is not back until the beginning of August. Nicoletta also said that it is still not clear
 whether time and meeting rooms in Elettra will be required for the WP parallel sessions. Jean-Francois asked by when the requirement
 needs to be formalised and Nicoletta answered that while she is not 100% sure a reply early September would be good.
     
