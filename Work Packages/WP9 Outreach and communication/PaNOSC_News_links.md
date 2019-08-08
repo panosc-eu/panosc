@@ -1,5 +1,9 @@
 PaNOSC News links
 =================
+August 2019
+-------------
+* https://www.fairsfair.eu/news/hdf5-european-workshop-science-and-industry (PaNOSC HDF5 European Workshop for Science and Industry) FAIRsFAIR website
+
 July 2019
 -------------
 * https://cordis.europa.eu/news/rcn/131657/en (PaNOSC WP3 kicked off at the European Spallation Source) CORDIS
