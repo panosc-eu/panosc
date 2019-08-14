@@ -13,13 +13,13 @@
 ### Linda access to Jira
 It seems Linda has wrong credentials to access the Jira board 
 
-
 ## Updates
 * Linda's student Tommy from KU is succesfully using the new Wiki at https://ucphmediawiki.esss.dk/ucph/index.php/Main_Page 
 *  Durging the summer a number of adjustments to modules etc. have been implemented.
 * DST 'PaNOSC' employee arrived.
 * iFitlab was demoed and licensing (Matlab) issues discussed.
 * Connections to WP4 data analysis and WP5 simulation are evident.
+* Jesper on paternity leave from September 1st. Kareem / Alexandre will fill in. (Kareem back mid September.)
 
 # Actions
 - [ ] Jesper: Add Linda to Jira board
