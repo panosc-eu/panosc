@@ -15,12 +15,15 @@ It seems Linda has wrong credentials to access the Jira board
 
 
 ## Updates
-Linda's student Tommy from KU is succesfully using the new Wiki at https://ucphmediawiki.esss.dk/ucph/index.php/Main_Page 
-Durging the summer a number of adjustments to modules etc. have been implemented.
-DST 'PaNOSC' employee arrived.
+* Linda's student Tommy from KU is succesfully using the new Wiki at https://ucphmediawiki.esss.dk/ucph/index.php/Main_Page 
+*  Durging the summer a number of adjustments to modules etc. have been implemented.
+* DST 'PaNOSC' employee arrived.
+* iFitlab was demoed and licensing (Matlab) issues discussed.
+* Connections to WP4 data analysis and WP5 simulation are evident.
 
 # Actions
 - [ ] Jesper: Add Linda to Jira board
+- [ ] Jesper: Look at iFitlab - formulate ticket
 - [ ] Peter: Check moodle support for user-defined PREFIX variables (mediawiki-links)
 - [ ] Peter: Try out https://github.com/jupyterhub/ltiauthenticator according to https://moodle.org/mod/forum/discuss.php?d=362641 for investigation of Moodle <-> Jupyter via LTI
 - [ ] Thomas: Write WP8 progress report
