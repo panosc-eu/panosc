@@ -451,7 +451,7 @@ components:
         endDate:
           type: string
         size:
-          type: object
+          $ref: '#/components/schemas/measurement'
         path:
           type: string
         technique:
@@ -461,13 +461,21 @@ components:
         chemicalFormula:
           type: string
         wavelength:
-          type: object
+          $ref: '#/components/schemas/measurement'
     status:
       type: string
       enum:
         - ONLINE
         - RESTORING
         - ARCHIVED
+    measurement:
+      required:
+        - value
+      properties:
+        value:
+          type: number
+        units:
+          type: string
   responses:
     error400:
       description : Bad request. Some parameters are missing.
