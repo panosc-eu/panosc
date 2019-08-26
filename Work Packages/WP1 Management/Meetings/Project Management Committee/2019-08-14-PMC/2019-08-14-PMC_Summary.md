@@ -1,4 +1,4 @@
-PaNOSC Project Management Committee meeting - 31/07/2019
+PaNOSC Project Management Committee meeting - 14/08/2019
 =======================================================================
 
 Present
@@ -32,12 +32,12 @@ https://docs.google.com/spreadsheets/d/1Cz1KfP6-5NcKJzAUuoJkcBs3Sp35Mz5eVV4CoIS1
 
 	* ExPaNDS interaction with PaNOSC Work Packages - The other WP leaders are requested to participate in the working group parallel meetings. WP5 and WP6 should participate in the same WG as WP4. WP7 has no equivalent in ExPaNDS. 
 
-    Q: will someone from WP7 attend the ExPaNDS kickoff?
+    *Q: will someone from WP7 attend the ExPaNDS kickoff?*
 
 	* [EOSC Strategic Implementation Plan](https://publications.europa.eu/en/publication-detail/-/publication/78ae5276-ae8e-11e9-9d01-01aa75ed71a1) document - Andy recommends all PaNOSC WP leaders to read this. It is a good summary of the EOSC landscape and projects.
 
 	* EOSC-hub SB meeting on 26 September in Brussels and [EOSC-hub Briefing paper](https://www.eosc-hub.eu/sites/default/files/EOSC-hub%20Briefing%20Paper%20-%20EOSC%20Federating%20Core%20Governance%20and%20Sustainability%20Public_0.pdf) - Andy recommends all WP leaders to read this too. It is a concrete proposal on what the EOSC Federating Core will/could be. It will be discussed with the other cluster projects at a meeting in Brussels.
 
-* WP updates - no major news due to the summer break
+* WP updates - no major news due to the summer break except everyone is requested to prepare the financial report and forward it to Jordi (issue missing - Jordi please create one)
 
-* Issues - no major news except all WP leaders are reminded to provide intermediate milestones and KPIs to Jordi by the end of the month.
+* Issues - all WP leaders are reminded to provide intermediate milestones and KPIs to Jordi by the end of the month.
