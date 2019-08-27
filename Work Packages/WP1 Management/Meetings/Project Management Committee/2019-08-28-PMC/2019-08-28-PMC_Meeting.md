@@ -18,6 +18,7 @@ Agenda
 	* ExPaNDS interaction with PaNOSC Work Packages
 	* [EOSC Strategic Implementation Plan](https://publications.europa.eu/en/publication-detail/-/publication/78ae5276-ae8e-11e9-9d01-01aa75ed71a1) document
 	* EOSC-hub SB meeting on 26 September in Brussels and [EOSC-hub Briefing paper](https://www.eosc-hub.eu/sites/default/files/EOSC-hub%20Briefing%20Paper%20-%20EOSC%20Federating%20Core%20Governance%20and%20Sustainability%20Public_0.pdf)
+	* Invitation to cluster meeting @ RDA (12:00-16:00 on 21 October in Helsinki)
 
 4. Update from the WP Leaders - update on what has been achieved and problems
 	*    WP1 Management
