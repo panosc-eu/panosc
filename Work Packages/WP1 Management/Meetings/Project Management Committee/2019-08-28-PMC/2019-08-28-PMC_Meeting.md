@@ -5,6 +5,10 @@ Agenda
 ------	
 
 1. Annual Meeting in Trieste
+   
+   * Agenda
+   * List of invitees
+   * Satellite meetings
 
 2. Issues https://github.com/panosc-eu/panosc/issues
     * Internal milestones : https://github.com/panosc-eu/panosc/issues/43
