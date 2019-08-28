@@ -64,9 +64,9 @@ trying to align work with ExPaNDS.
 
 WP4 Data Analysis Services: Hans was absent. Andy said that "E" was hired at XFEL. **Thomas asked something about ISIS?**
 
-WP5 Virtual Neutron and X-ray Laboratory: Minutes of the last meeting (from Monday) are available in GitHub. ** Where? LINK?**
+WP5 Virtual Neutron and X-ray Laboratory: Minutes of the last meeting (from Monday) are available in GitHub. **Where? LINK?**
 
-WP6 EOSC Integration: Jean-Francois was absent. Andy reported that Umbrella accepts that Géant will manage AAI. This is important 
+WP6 EOSC Integration: Jean-Francois was absent. Andy reported that Umbrella accepts that GÃ©ant will manage AAI. This is important 
 and will have interesting implications. WP6 was awaiting this to materialise.
 
 WP7 Sustainibility: Roberto was absent. Thomas said the next meeting for this WP will take place in September
@@ -82,7 +82,7 @@ and interviews filmed should be provided to her, so she can upload them to promo
 6. AOB
 
 Andy explained that Jamie (ILL) setup a site with Confluence for PaNOSC. Unfortunately the site was down during the call.
-** Link to the site **
+**Link to the site**
 
 The next PMC meeting clashes with ExPaNDS kick-off meeting, so it is unclear whether it will take place or instead will be moved
 to 18th or 25th September.
