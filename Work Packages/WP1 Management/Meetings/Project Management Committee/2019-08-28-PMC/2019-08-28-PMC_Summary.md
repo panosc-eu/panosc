@@ -62,9 +62,9 @@ WP2 Data Policy and Stewardship: Andy reported a planned meeting for WP2 next we
 WP3 Data Catalog Services: Tobias said that they are looking at NeXus files and finalising organisation of a workshop. They are also
 trying to align work with ExPaNDS.
 
-WP4 Data Analysis Services: Hans was absent. Andy said that "E" was hired at XFEL. **Thomas asked something about ISIS?**
+WP4 Data Analysis Services: Hans was absent. Andy said that "E" was hired at XFEL. Thomas asked if the WP had looked at the ISIS/STFC Data Analysis-as-a-Service system which is in operation. The attendants were not able to answer that question.
 
-WP5 Virtual Neutron and X-ray Laboratory: Minutes of the last meeting (from Monday) are available in GitHub. **Where? LINK?**
+WP5 Virtual Neutron and X-ray Laboratory: Minutes of the last meeting (from Monday) are available in the PaNOSC-ViNYL GitHub repository at https://github.com/PaNOSC-ViNYL/ViNYL-project/wiki/Meeting-notes
 
 WP6 EOSC Integration: Jean-Francois was absent. Andy reported that Umbrella accepts that Géant will manage AAI. This is important 
 and will have interesting implications. WP6 was awaiting this to materialise.
