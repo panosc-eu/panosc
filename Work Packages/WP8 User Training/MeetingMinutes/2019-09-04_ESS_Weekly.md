@@ -16,7 +16,7 @@
 * PaNOSC Confluence page at (LINK?)
 * We should give an e-neutrons update at the annual meeting (https://indico.esrf.fr/indico/event/36/). Linda should consider "How to prepare training material" which is already listed. Maybe too premature? (Feedback.)
 * Initial discussions of internal milestones for WP8. Align with WP8 summary from 1st annual meeting. See https://github.com/panosc-eu/panosc/blob/a61a27d3e2a23c67c607aff31893d3fbd3ae1571/Work%20Packages/WP8%20User%20Training/MeetingMinutes/snippets/IMG_9131.JPG?raw=true
-* Initial discussion of KPI's
+* Initial discussion of KPI's see https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/snippets/IMG_9132.JPG?raw=true
 
 # Actions
 - [ ] Thomas: Organise telco with all WP8 participants in prep of Annual Meeting
