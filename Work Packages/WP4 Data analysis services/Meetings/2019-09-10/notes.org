@@ -30,6 +30,10 @@
 * Updated from Architecture Group (Jamie)
 
 * Update on WP4 Milestones and use of Github (Robert)
+- Explain plan on how to manage tasks for PaNOSC in general
+- Show existing milestones at: https://github.com/orgs/panosc-eu/projects/3
+- Check if assignments are correct
+- Questions?
 
 * Annual Meeting in Trieste, 4/5 November
 - Meeting details at https://indico.esrf.fr/indico/event/36/,
