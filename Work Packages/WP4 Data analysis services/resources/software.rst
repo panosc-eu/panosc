@@ -25,6 +25,7 @@ hdf5
 
 - h5glance: Explore HDF5 files in an HTML view, https://github.com/European-XFEL/h5glance
 - hdfviewer: https://pypi.org/project/hdfviewer/
+- hdfviewer: https://code.ill.fr/panosc/data-analysis-services/hdf-viewer
 
 
 VISA applications
