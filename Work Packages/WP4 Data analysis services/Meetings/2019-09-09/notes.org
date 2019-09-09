@@ -1,0 +1,42 @@
+#+TITLE: WP4 video conference 9 September 2019
+#+OPTIONS: num:1
+
+:present: ?
+
+* Actions from last meeting
+[[source][../2019-07-02/notes.org]]
+- add snapshot of discussion/minutes document from workshop last week
+  to repository (Hans) [done]
+- add agenda to repository as well (for easier reference, Hans) [done]
+- add link to indico site [done]
+- convert milestones into github issues (or similar) (Robert) [done]
+- upload missing talks (ALL)
+- convert discussion and plans from kickoff meeting into action (ALL)
+
+* Collaboration with Expands
+- Welcome Anton Barty
+- EXPaNDS kick-off meeting
+  (https://indico.desy.de/indico/event/23649/) 10/11 September Hamburg
+
+* Status update from each facility (< 3 minutes)
+- EuXFEL  (Robert)
+- ILL (Jamie)
+- ESRF (Thomas)
+- ESS (Gareth)
+- ELI (Jakub)
+- CERIC-ERIC (Carlos)
+
+* Updated from Architecture Group (Jamie)
+
+* Update on WP4 Milestones and use of Github (Robert)
+
+* Annual Meeting in Trieste, 4/5 November
+- Meeting details at https://indico.esrf.fr/indico/event/36/,
+- Should we have a WP4 focused workshop on Wednesday
+  [/Thursday[/Friday]] after the meeting? (6, 7, 8 November)
+
+* Next steps
+- task leaders to organise work towards milestones
+- ?
+
+* AoB
