@@ -4,7 +4,8 @@
 :present: ?
 
 * Actions from last meeting
-[[source][../2019-07-02/notes.org]]
+[[../2019-07-02/notes.org][Minutes from last meeting]]
+
 - add snapshot of discussion/minutes document from workshop last week
   to repository (Hans) [done]
 - add agenda to repository as well (for easier reference, Hans) [done]
