@@ -27,7 +27,8 @@
 - ELI (Jakub)
 - CERIC-ERIC (Carlos)
 
-* Updated from Architecture Group (Jamie)
+* Update from Architecture Group (Jamie) 
+- Draft document: https://confluence.panosc.eu/display/wp4/Common+Portal+Architecture
 
 * Update on WP4 Milestones and use of Github (Robert)
 - Explain plan on how to manage tasks for PaNOSC in general
