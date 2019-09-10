@@ -1,7 +1,8 @@
 #+TITLE: WP4 video conference 9 September 2019
 #+OPTIONS: num:1
 
-:present: ?
+:present: Eric Pellegrini, Anders (STFC), Jakub Grosz, Tamasz (ELI), Jerome, Aiden,
+Thomas (ESRF), Lotte, Ashok (ESS), Jamie (ILL), Carlos, Anton Barty (DESY)
 
 * Actions from last meeting
 [[../2019-07-02/notes.org][Minutes from last meeting]]
@@ -16,19 +17,53 @@
 
 * Collaboration with Expands
 - Welcome Anton Barty
+- Welcome ?
 - EXPaNDS kick-off meeting
   (https://indico.desy.de/indico/event/23649/) 10/11 September Hamburg
 
+
 * Status update from each facility (< 3 minutes)
 - EuXFEL  (Robert)
+  - containerisation using Singularity, two different modes:
+    - to run software from inside container (ssh, X)
+    - run jupyter kernel in container
+  - getting JupyterHub installation for online data analysis
 - ILL (Jamie)
+  - deployed jupyterhub with kubernetes and ansible playbook
+  - ready for users in production
+  - containerising software
+  - VISA: example application
+  - Survey: questions completed, to be send out soon
+  - CERNVMFS
+  - confluence
+  - work with ESRF on portal
 - ESRF (Thomas)
-- ESS (Gareth)
+  - installed BinderHub instance
+  - new cluster using Slurm
+  - JupyterHub uses Slurm (as at DESY)
+  - work with ILL on portal
+  - hdf5 workshop and h5py code camp
+- ESS (Lottie)
+  - JupyterHub running on Kubernetes, deployed with puppet
+    - mounts home directories automatically
+  - explore how to link to compute resources
 - ELI (Jakub)
+  - recruitment ongoing (Web developer for portal?)
+  - and second position
+  - portal design exploration
 - CERIC-ERIC (Carlos)
+  - pyMCA docker image created for proposed use case
+  - work with other CERIC partner facilities to capture requirements (?)
+  - work on deployment of JupyterHub (with Marco from WP6)
 
-* Update from Architecture Group (Jamie) 
+
+* Update from Architecture Group (Jamie)
 - Draft document: https://confluence.panosc.eu/display/wp4/Common+Portal+Architecture
+- Stuart presents work from Stuart and Aidan (and others?) at ESRF and ILL
+- [slides]
+- agree on protocols -> language independent
+- Vision: looks similar to Code Ocean demo shown by Robert in Hamburg
+
 
 * Update on WP4 Milestones and use of Github (Robert)
 - Explain plan on how to manage tasks for PaNOSC in general
@@ -41,8 +76,18 @@
 - Should we have a WP4 focused workshop on Wednesday
   [/Thursday[/Friday]] after the meeting? (6, 7, 8 November)
 
+- Yes: plan to be present Monday to Thursday
+  - Monday and Tuesday main meeting
+  - Wednesday and Thursday: work with WP3, 4, 5? and 6
+
 * Next steps
 - task leaders to organise work towards milestones
-- ?
 
 * AoB
+- new person at ILL starting next week
+- new person at EuXFEL from October
+
+* Actions
+- put more detailed description in tasks (https://github.com/orgs/panosc-eu/projects/3)
+- Stuart: add Architecture slides to these minutes?
+- plan stay in Trieste (Monday to Thursday)
