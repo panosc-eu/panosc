@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: PANOSC API Draft v1
+  title: PANOSC API Draft v2
   description: PANOSC API Draft for data catalog WP3
   version: "0.1"
   license:
@@ -9,6 +9,7 @@ info:
 paths:
   '/proposals':
     get:
+      summary: Gets all proposals
       responses:
         '200':
           description: Returns all proposals
@@ -35,35 +36,10 @@ paths:
                 $ref: '#/components/schemas/proposalResponse'
         '400':
           $ref: '#/components/responses/error400'
-  '/proposals/{proposalId}/schedules':
+  '/schedules/{scheduleId}/datasets':
     get:
-      summary: Gets schedules (session or visit) for a given proposal
+      summary: Gets datasets for a specific schedule
       parameters:
-        - in: path
-          description: Proposal's identifier
-          name: proposalId
-          schema:
-            type: integer
-          required: true
-      responses:
-        '200':
-          description: Returns all schedules
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/schedulesResponse'
-        '400':
-          $ref: '#/components/responses/error400'
-  '/proposals/{proposalId}/schedules/{scheduleId}/datasets':
-    get:
-      summary: Gets datasets for a specific schedule of a proposal
-      parameters:
-        - in: path
-          description: proposal's identifier
-          name: proposalId
-          schema:
-            type: integer
-          required: true
         - in: path
           description: schedule's identifier
           name: scheduleId
@@ -72,29 +48,17 @@ paths:
           required: true
       responses:
         '200':
-          description: Returns all datasets for a specific schedule of a proposal.
+          description: Returns all datasets for a specific schedule.
           content:
             application/json:
               schema:
                 $ref: '#/components/schemas/datasetsResponse'
         '400':
           $ref: '#/components/responses/error400'
-  '/proposals/{proposalId}/schedules/{scheduleId}/datasets/{datasetId}/files':
+  '/datasets/{datasetId}/files':
     get:
       summary: Gets a list of files associated to a dataset
       parameters:
-        - in: path
-          description: proposalId
-          name: proposalId
-          schema:
-            type: integer
-          required: true
-        - in: path
-          description: scheduleId
-          name: scheduleId
-          schema:
-            type: integer
-          required: true
         - in: path
           description: dataset's identifier
           name: datasetId
@@ -110,44 +74,10 @@ paths:
                 $ref: '#/components/schemas/datafilesResponse'
         '400':
           $ref: '#/components/responses/error400'
-  # '/datasets':
-  #   get:
-  #     summary: Returns a set of datasets given a PID
-  #     parameters:
-  #       - in: query
-  #         description: PID
-  #         name: PID
-  #         schema:
-  #           type: string
-  #         example: 10.15151/example
-  #         required: true
-  #     responses:
-  #       '200':
-  #         description: Returns a set of datasets given a PID
-  #         content:
-  #           application/json:
-  #             schema:
-  #               $ref: '#/components/schemas/datasetResponse'
-  #       '400':
-  #         $ref: '#/components/responses/error400'
-  #       '500':
-  #         $ref: '#/components/responses/error500'
-  '/proposals/{proposalId}/schedules/{scheduleId}/datasets/{datasetId}/status':
+  '/datasets/{datasetId}/status':
     get:
-      description: Return the archive status of the data files specified by the datasetId along with a sessionId.
+      summary: Return the archive status of the data files specified by the datasetId.
       parameters:
-        - in: path
-          description: proposal's identifier
-          name: proposalId
-          schema:
-            type: integer
-          required: true
-        - in: path
-          description: schedule's identifier
-          name: scheduleId
-          schema:
-            type: integer
-          required: true
         - in: path
           description: dataset's identifier
           name: datasetId
