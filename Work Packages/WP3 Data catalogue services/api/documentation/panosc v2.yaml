@@ -36,9 +36,21 @@ paths:
                 $ref: '#/components/schemas/proposalResponse'
         '400':
           $ref: '#/components/responses/error400'
-  '/schedules/{scheduleId}/datasets':
+  '/schedules':
     get:
-      summary: Gets datasets for a specific schedule
+      summary: Gets all schedules
+      responses:
+        '200':
+          description: Returns all schedules.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/datasetsResponse'
+        '400':
+          $ref: '#/components/responses/error400'
+  '/schedules/{scheduleId}':
+    get:
+      summary: Gets a specific schedule
       parameters:
         - in: path
           description: schedule's identifier
@@ -48,13 +60,66 @@ paths:
           required: true
       responses:
         '200':
-          description: Returns all datasets for a specific schedule.
+          description: Returns a specific schedule for a given identifier.
           content:
             application/json:
               schema:
                 $ref: '#/components/schemas/datasetsResponse'
         '400':
           $ref: '#/components/responses/error400'
+  '/schedules/{scheduleId}/dataset':
+    get:
+      summary: Gets all datasets of a specific schedule
+      parameters:
+        - in: path
+          description: schedule's identifier
+          name: scheduleId
+          schema:
+            type: integer
+          required: true
+      responses:
+        '200':
+          description: Returns all datasets of a specific schedule for a given identifier.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/datasetsResponse'
+        '400':
+          $ref: '#/components/responses/error400'
+  '/datasets':
+    get:
+      summary: Gets all datasets
+      responses:
+        '200':
+          description: Returns all datasets
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/datafilesResponse'
+        '400':
+          $ref: '#/components/responses/error400'
+  '/datasets/{datasetId}':
+    get:
+      description: Return a specific dataset.
+      parameters:
+        - in: path
+          description: dataset's identifier
+          name: datasetId
+          schema:
+            type: integer
+          required: true
+      responses:
+        '200':
+          description: Returns a specific dataset for a given identifier.
+          content:
+            application/json:
+              schema:
+                items:
+                  $ref: '#/components/schemas/status'
+        '401':
+          $ref: '#/components/responses/error401'
+        '500':
+          $ref: '#/components/responses/error500'
   '/datasets/{datasetId}/files':
     get:
       summary: Gets a list of files associated to a dataset
@@ -74,28 +139,6 @@ paths:
                 $ref: '#/components/schemas/datafilesResponse'
         '400':
           $ref: '#/components/responses/error400'
-  '/datasets/{datasetId}/status':
-    get:
-      summary: Return the archive status of the data files specified by the datasetId.
-      parameters:
-        - in: path
-          description: dataset's identifier
-          name: datasetId
-          schema:
-            type: integer
-          required: true
-      responses:
-        '200':
-          description: Returns archive status for a dataset
-          content:
-            application/json:
-              schema:
-                items:
-                  $ref: '#/components/schemas/status'
-        '401':
-          $ref: '#/components/responses/error401'
-        '500':
-          $ref: '#/components/responses/error500'
   '/instruments':
     get:
       summary: Returns all instruments for the facility
