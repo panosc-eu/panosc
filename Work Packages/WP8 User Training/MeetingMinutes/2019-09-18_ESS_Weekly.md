@@ -1,4 +1,3 @@
-DRAFT
 
 # Participants
 
@@ -12,26 +11,36 @@ DRAFT
 ## Actions from last meeting
 
 ## Updates
-* Annual Meeting (4th-5th of November in Trieste) - indico is at https://indico.esrf.fr/indico/event/36/
-* PM-board meeting wednesday last week, WP8 should define internal milestones and KPI's, see https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP1%20Management/Meetings/Project%20Management%20Committee/2019-08-28-PMC/2019-08-28-PMC_Summary.md
-* PaNOSC Confluence page at (LINK?)
-* We should give an e-neutrons update at the annual meeting (https://indico.esrf.fr/indico/event/36/). Linda should consider "How to prepare training material" which is already listed. Maybe too premature? (Feedback.)
-* Initial discussions of internal milestones for WP8. Align with WP8 summary from 1st annual meeting. See https://github.com/panosc-eu/panosc/blob/a61a27d3e2a23c67c607aff31893d3fbd3ae1571/Work%20Packages/WP8%20User%20Training/MeetingMinutes/snippets/IMG_9131.JPG?raw=true
-* Initial discussion of KPI's see https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/snippets/IMG_9132.JPG?raw=true
+Simulation worker crashes during Tartu course (https://github.com/McStasMcXtrace/McWeb/issues/220).
+
+ExPANDS meeting: Thomas attended with other ESS colleagues. Training activity relies on PaNOSC e-learning platform. 36PM for Soleil, 18PM for HZDR, 7PM for EGI. UKRI, PSI, DESY, Diamond are also involved. Meeting with WP leader and group: All participants are communication-oriented. Isabel (Diamond) provided links to material at PSI (Swiss light source). We should collect all relevant materials. (We probed at PaNOSC kickoff with little response.) ExPANDS WP will be invited to annual WP8 meeting (Trieste). EGI is very interested in providing e-Learning service (EDX - not in production yet).
+
+Note: Fredrik DMSC/SWAP section leader has moodle experience, could come in handy.
+
+Doodle link for WP8 telco distributed https://doodle.com/poll/vvvhiy8m8nauhwuf.
+
+Staff training activity should be spawned soon.
+
+KPI's (https://docs.google.com/spreadsheets/d/1iivsvBrix4v6lmC2U3sOC6YEXFeY0JzXHTM9QQQZwiY/edit#gid=2060225314) and internal milestones (https://github.com/panosc-eu/panosc/issues/43) are defined
+
 
 # Actions
-- [ ] Thomas: Organise telco with all WP8 participants in prep of Annual Meeting
+- [ ] Thomas: Arrange face2face meeting with Linda
+- [ ] Thomas: Invite Fredrik to this meeting series
+- [ ] Peter / Jakob: Work on https://github.com/McStasMcXtrace/McWeb/issues/220
+- [ ] Thomas: Ensure ESS staff is on WP8 mailinglist
+- [ ] Thomas: Organise telco with all WP8 participants in prep of Annual Meeting - in prep. doodle link: https://doodle.com/poll/vvvhiy8m8nauhwuf
 - [ ] All: Consider attendance in Annual Meeting (4th-5th of November in Trieste)
-- [ ] Peter: Look for {\bf Q} as in \qbold in e-neutrons MathJax config and communicate to Alexandre
-- [ ] Alexandre: Follup-up on SNOW issue / escalation 
-- [ ] Alexandre: Check if Cite and CrossRef mediawiki plugins are installed and if they seem to work (ex: https://ucphmediawiki.esss.dk/ucph/index.php/The_scattering_cross_section_for_phonons)
+- [ ] Alexandre: Check if Cite and CrossRef mediawiki plugins are installed and if they seem to work (ex: https://ucphmediawiki.esss.dk/ucph/index.php/The_scattering_cross_section_for_phonons). In progress. It does look like this was also not working at original site i.e. [[Diffraction from crystals#label-eq:diffraction_DW|this equation]] used in place of \ref{eq:diffraction_DW}
 - [ ] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020
-- [ ] Linda (Tommy): Update development courses @e-neutrons.org to use ucph wiki
+- [ ] Linda (Tommy): Update development courses @e-neutrons.org to use ucph wiki, in progress.
 - [ ] Jesper: Look at iFitlab - formulate ticket
-- [ ] Peter: Try out https://github.com/jupyterhub/ltiauthenticator according to https://moodle.org/mod/forum/discuss.php?d=362641 for investigation of Moodle <-> Jupyter via LTI
+- [ ] Peter: Try out https://github.com/jupyterhub/ltiauthenticator according to https://moodle.org/mod/forum/discuss.php?d=362641 for investigation of Moodle <-> Jupyter via LTI. in progress (Lottie Greenwood will assist in deployment of a Jupyter before end of November)
 
 
 ## From past meetings
+- [X] Alexandre: Follup-up on SNOW issue / escalation 
+- [X] Peter: Look for {\bf Q} as in \qbold in e-neutrons MathJax config and communicate to Alexandre
 - [X] Thomas: Document progress report location (https://github.com/panosc-eu/panosc/blob/master/Submitted%20Deliverables/D1.2%20Mid-Year%20Summary%20Report/2019/PaNOSC_D1.2_Mid-Year%20Summary_20190528.pdf)
 - [X] Thomas: Add Linda to Jira board / check that relevant Linda Udby account (without '2') is allowed access - two exist??
 - [X] Peter: Recover script for URL-modification on moodle course "packages" (.mbz) and investigate usability
