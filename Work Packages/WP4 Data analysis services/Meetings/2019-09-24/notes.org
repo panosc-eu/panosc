@@ -5,7 +5,7 @@
 
 * Actions from last meeting
 
-[[../2019-09-09/notes.org][Minutes from last meeting]]
+[[../2019-09-10/notes.org][Minutes from last meeting]]
 
 - put more detailed description in tasks (https://github.com/orgs/panosc-eu/projects/3)
 - Stuart: add Architecture slides to minutes from last time
@@ -19,6 +19,8 @@
 
 * Introduction to Singularity (Robert)
 
+* Next meeting
+- is scheduled during ICALEPCS conference
+
 * AoB
-- new person at ILL starting next week
-- new person at EuXFEL from October
+
