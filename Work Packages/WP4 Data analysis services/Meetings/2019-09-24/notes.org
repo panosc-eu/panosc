@@ -17,7 +17,7 @@
 - calipso plus functionality
 - publications as use cases
 
-* Introdution to Singularity (Robert)
+* Introduction to Singularity (Robert)
 
 * AoB
 - new person at ILL starting next week
