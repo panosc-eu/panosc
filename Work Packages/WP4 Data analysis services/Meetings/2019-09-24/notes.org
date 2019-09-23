@@ -19,6 +19,8 @@
 
 * Introdution to Singularity (Robert)
 
+* Next meeting
+- is scheduled during ICALEPCS conference
+
 * AoB
-- new person at ILL starting next week
-- new person at EuXFEL from October
+
