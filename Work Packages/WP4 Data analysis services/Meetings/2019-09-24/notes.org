@@ -12,7 +12,7 @@
 
 * Status update from each facility
 
-* Report from PaNOSC kick off meeting (Hans)
+* Report from ExPaNDS kick off meeting (Hans)
 - scope
 - calipso plus functionality
 - publications as use cases
