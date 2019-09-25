@@ -48,9 +48,13 @@
 
 * AoB
 Meeting in Trieste:
+- indico site: https://indico.esrf.fr/indico/event/36/overview
 - reserve Wednesday and Thursday morning if you can
--> Carlos to create entry on indico to show that Wed and Thu are used
-   for work-package specific meetings
+- Action:
+  Carlos to create entry on indico to show that Wed and Thu are used
+  for work-package specific meetings
+  
+  Plan for Wednesday and Thursday: https://indico.esrf.fr/indico/event/36/material/2/2.pdf
 
 * Actions
 - Thomas to lead gathering of scientific use cases
