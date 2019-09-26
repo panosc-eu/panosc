@@ -48,17 +48,20 @@ speding our grant or not it will not be possible to make changes to our plans.
 2. Plenty of deliverables/milestones due end of November
 Jordi reminded everyone that by end of November will be PaNOSC's first anniversary and that we have a few milestones and deliverables
 due on the date. 
+
 We have 4 milestones due end of November:
-* MS1.2 First annual Workshop (WP1)
-* MS2.1 First version of PaNOSC policy framework (WP2)
-* MS3.2 Anthology Feedback to API tasks (WP3)
-* MS3.1 Survey of Catalogue APIs & Roadmap to EOSC integration (WP3)
+
+  * MS1.2 First annual Workshop (WP1)
+  * MS2.1 First version of PaNOSC policy framework (WP2)
+  * MS3.2 Anthology Feedback to API tasks (WP3)
+  * MS3.1 Survey of Catalogue APIs & Roadmap to EOSC integration (WP3)
 
 And also 4 deliverables due end of November:
-* D1.3 Annual Workshop report (WP1) - this will be similar to the mid-year summary report
-* D4.1 Report data analysis capture (WP4)
-* D5.1 Prototype simulation data formats (WP5)
-* D6.2 Computer cloud: integration of local compute resources (WP6)
+
+  * D1.3 Annual Workshop report (WP1) - this will be similar to the mid-year summary report
+  * D4.1 Report data analysis capture (WP4)
+  * D5.1 Prototype simulation data formats (WP5)
+  * D6.2 Computer cloud: integration of local compute resources (WP6)
 
 Jordi explained that we have a policy in place to review all deliverables by someone that was not the main editor before submitting
 them, however if we receive all deliverables in the last week of November that won't be possible, therefore it would be great if
@@ -111,7 +114,7 @@ not ready yet.
 
 5. Update from the WP Leaders - update on what has been achieved and problems
 
-**WP1 Management**: Jordi reported attendance to ExPaNDS kick-off meeting and work on 
+  **WP1 Management**: Jordi reported attendance to ExPaNDS kick-off meeting and work on 
 * carry on organising the bi-weekly meetings and reminding everyone of upcoming deliverables/milestones
 * concrete cooperation with ExPaNDS (the target is to present outcome of this excercise during our Annual Conference)
 * KPIs : more information is needed from some WP leaders (the target is again to present during the Annual Conference)
@@ -121,20 +124,20 @@ Jordi also explained that Risk Management is not a top priority at the moment, h
 something we must do and that the excercise about managing risks is showing no progress.
 Rudolf noted this, as it is likely to be an item in the Executive Board meeting during the Annual Conference.
 
-**WP2 Data Policy and Stewardship**: Andy was absent. Jordi reported that Andy met today (25/09/2019) our Project Officer (PO). Andy 
+  **WP2 Data Policy and Stewardship**: Andy was absent. Jordi reported that Andy met today (25/09/2019) our Project Officer (PO). Andy 
 discovered that René worked on ID11 twenty years ago and that he understands synchrotron + neutron world well. This should be to
 our advantage as he will be albe to help us more to achieve our objectives. Rudolf pointed out that he is also PO for a EU-funded
 project for the ESRF called Streamline and wondered who is the PO for ExPaNDS. Jordi will ask Knut/Patrick and confirm this.
 Jordi also explained that Andy is waiting for feedback on lessons learned by ILL (EuXFEL and ELI provided input last week - thanks!)
 
-**WP3 Data Catalog Services**: Tobias was absent. Petra was absent too but she had shared some notes: Financial report was shared
+  **WP3 Data Catalog Services**: Tobias was absent. Petra was absent too but she had shared some notes: Financial report was shared
 with Jordi, WP3 is working on some more internal milestones.
 
-**WP4 Data Analysis Services**: Hans explained that teh questionnaire is out, the ExPaNDS meeting was usueful and he is working
+  **WP4 Data Analysis Services**: Hans explained that teh questionnaire is out, the ExPaNDS meeting was usueful and he is working
 on the portal architecture. WP5 wants to focus on datasets for which apps exists. He also helped with the paper for ICALEPS and
 organising a Jupyter conference. A joint ExPaNDS-PaNOSC WP4 meeting in Humburg is also being planned for next year.
 
-**WP5 Virtual Neutron and X-ray Laboratory**: Juncheng reported work in three different areas:
+  **WP5 Virtual Neutron and X-ray Laboratory**: Juncheng reported work in three different areas:
 1. D5.1 drafting simulation data standard and working on molecular dinamics simulations. People on ESS are working on neutron 
 ray-tracing. He expects a draft to be completed end of October
 2. Collaboration for open PMP? ongoing  **I dind't catch this acronym, sorry, can someone correct it please?**
@@ -142,21 +145,21 @@ ray-tracing. He expects a draft to be completed end of October
 The attendees also briefly discussed that there should be some form of collaboration between WP8 and WP5, as training should be
 offered on the simulation software/services.
 
-**WP6 EOSC Integration**: Jean-Francois was absent. Jamie reported athat AAI has been taken up by Géant, a site is ste up and that
+  **WP6 EOSC Integration**: Jean-Francois was absent. Jamie reported athat AAI has been taken up by Géant, a site is ste up and that
 there will be a pilot at the end of this week. Rudolf said that this was great news and a very good progress. **Couldn't hear 
 Jamie very well, can you please EXPAND THIS please?** 
 Jamie posted the minutes of a meeting in Confluence and Jordi asked him to add a link in GitHub towards that information.
 
-**WP7 Sustainibility**: Roberto was absent. Dario said a meeting took place in the morning during which Roberto showed proposal for
+  **WP7 Sustainibility**: Roberto was absent. Dario said a meeting took place in the morning during which Roberto showed proposal for
 cost estimates and discussed it. It was agreed that the WP will create a list of activities related to sustainability (thus 
 clarifying the scope of what is to be covered in this area) so then we can get the real cost. Next meeting will be in two weeks.
 Regarding the stakeholder list, we should interact more with the members listed.
 Jordi also reminded that internal milestones and KPIs for WP7 have not been provided.
 
-**WP8 Staff training in data stewardship**: Thomas swas absent. Petra was absent too but she shared some notes: KPIs for WP8 have
+  **WP8 Staff training in data stewardship**: Thomas swas absent. Petra was absent too but she shared some notes: KPIs for WP8 have
 been distributed and the internal milestones too. Minutes are on GitHub for WP8 meetings.
 
-**WP9 Outreach & Communication**: Nicoletta was absent and Dario reported video interviews published.
+  **WP9 Outreach & Communication**: Nicoletta was absent and Dario reported video interviews published.
 
 6. Job openings
 
