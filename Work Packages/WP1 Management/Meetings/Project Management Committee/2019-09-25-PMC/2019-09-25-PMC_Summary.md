@@ -163,7 +163,8 @@ been distributed and the internal milestones too. Minutes are on GitHub for WP8 
 
 6. Job openings
 
-ILL failed in a recruitment. The ESRF will interview 3 candidates soon for 2 PaNOSC Web Developer positions
+ILL couldn't successfully complete a recruitment for a position. The ESRF will interview 3 candidates soon for 2 PaNOSC Web
+Developer positions
 
 The meeting finished with a reminder that **THE DEADLINE TO REGISTER FOR THE ANNUAL CONFERENCE IN TRIESTE 4th and 5th NOVEMBER IS
 15th OCTOBER**
