@@ -131,9 +131,9 @@ project for the ESRF called Streamline and wondered who is the PO for ExPaNDS. J
 Jordi also explained that Andy is waiting for feedback on lessons learned by ILL (EuXFEL and ELI provided input last week - thanks!)
 
   **WP3 Data Catalog Services**: Tobias was absent. Petra was absent too but she had shared some notes: Financial report was shared
-with Jordi, WP3 is working on some more internal milestones.
+with Jordi, WP3 is working on some more internal milestones. A WP3 workshop was held at the ILL last week. There was a good number of participants, including members from the ExPaNDS projects. The notes and presentations from the workshop can be found on the PaNOSC confluence: https://confluence.panosc.eu/display/wp3/WP3+ILL+Workshop+September+2019
 
-  **WP4 Data Analysis Services**: Hans explained that teh questionnaire is out, the ExPaNDS meeting was usueful and he is working
+  **WP4 Data Analysis Services**: Hans explained that the questionnaire is out, the ExPaNDS meeting was usueful and he is working
 on the portal architecture. WP5 wants to focus on datasets for which apps exists. He also helped with the paper for ICALEPS and
 organising a Jupyter conference. A joint ExPaNDS-PaNOSC WP4 meeting in Humburg is also being planned for next year.
 
@@ -145,10 +145,9 @@ ray-tracing. He expects a draft to be completed end of October
 The attendees also briefly discussed that there should be some form of collaboration between WP8 and WP5, as training should be
 offered on the simulation software/services.
 
-  **WP6 EOSC Integration**: Jean-Francois was absent. Jamie reported athat AAI has been taken up by Géant, a site is ste up and that
-there will be a pilot at the end of this week. Rudolf said that this was great news and a very good progress. **Couldn't hear 
-Jamie very well, can you please EXPAND THIS please?** 
-Jamie posted the minutes of a meeting in Confluence and Jordi asked him to add a link in GitHub towards that information.
+  **WP6 EOSC Integration**: Jean-Francois was absent. WP6 is progressing well on the AAI side, GEANT has set up an infrastructure for UmbrellaID, we are currently configuring the basic (DNS, Certificates, ...). The pilot should be available by the end of this week. Rudolf said that this was great news and a very good progress. 
+On the data transfer side (One Data, dCache, ...) the progress is slower but in a fews week there should be a few small pilots. Jean-François presented the AAI at the WP3 workshop (PaNOSC and ExPaNDS people), his feeling is that people are largely unaware of AAI in a federated environment and notably the ID translation we have for the authorisation proces. Currently investigating the possibility to have training in place for the Annual Meeting (WP6 day on the 6th). Work will start on the first deliverable "Integration of
+local compute resources into the EOSC cloud" M12. If people from PMC or other WPs wants to contribute they are more than welcome.
 
   **WP7 Sustainibility**: Roberto was absent. Dario said a meeting took place in the morning during which Roberto showed proposal for
 cost estimates and discussed it. It was agreed that the WP will create a list of activities related to sustainability (thus 
@@ -163,7 +162,7 @@ been distributed and the internal milestones too. Minutes are on GitHub for WP8 
 
 6. Job openings
 
-ILL couldn't successfully complete a recruitment for a position. The ESRF will interview 3 candidates soon for 2 PaNOSC Web
+ILL is still trying to recruit a system administrator for WP6.. The ESRF will interview 3 candidates soon for 2 PaNOSC Web
 Developer positions
 
 The meeting finished with a reminder that **THE DEADLINE TO REGISTER FOR THE ANNUAL CONFERENCE IN TRIESTE 4th and 5th NOVEMBER IS
