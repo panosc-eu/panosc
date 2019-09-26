@@ -3,7 +3,7 @@
 
 Present
 -------
- Jordi (ESRF), Rudolf (ESRF), Danielle (ESS), Hans (XFEL), Florial (ELI-DC), Juncheng (XFEL), Jamie (ILL), Ornela (CERIC-ERIC)
+ Jordi (ESRF), Rudolf (ESRF), Danielle (ESS), Hans (XFEL), Florian (ELI-DC), Juncheng (XFEL), Jamie (ILL), Ornela (CERIC-ERIC)
  and Dario (CERIC-ERIC)
 
 
@@ -84,11 +84,11 @@ Rudolf highlighted that the readiness to collaborate needs concretion in order t
 project (with more partners than PaNOSC) will be difficult and so will be the interaction between all of us and them. He also said
 that *we need to ensure that what PaNOSC delivers is useful to our facilities* and aligned to the proposal.
 
-Jordi also explained that Andy is submitting a paper about PaNOSC for ICALEPS and has asked everyone to help him by contributing.
+Jordi also explained that Andy is submitting a paper about PaNOSC for ICALEPCS and has asked everyone to help him by contributing.
 The paper is available on overleaf and several of us (e.g. Hans and Jordi) have already contributed. The paper must be submitted
 before the end of next week, so it is important that we all contribute to this as soon as possible.
 
-Jordi also explained that Andy is today at the EOSC-hub SB meeting on 26 September in Brussels and [EOSC-hub Briefing paper](https://www.eosc-hub.eu/sites/default/files/EOSC-hub%20Briefing%20Paper%20-%20EOSC%20Federating%20Core%20Governance%20and%20Sustainability%20Public_0.pdf)
+Jordi also explained that Andy is today at the EOSC-hub SB meeting on 25 September in Brussels and [EOSC-hub Briefing paper](https://www.eosc-hub.eu/sites/default/files/EOSC-hub%20Briefing%20Paper%20-%20EOSC%20Federating%20Core%20Governance%20and%20Sustainability%20Public_0.pdf)
 
 4. Annual conference in Trieste - update 
 Dario explained that the indico page for the event is now available: https://indico.esrf.fr/indico/event/36/ and that it now 
@@ -125,27 +125,26 @@ something we must do and that the excercise about managing risks is showing no p
 Rudolf noted this, as it is likely to be an item in the Executive Board meeting during the Annual Conference.
 
   **WP2 Data Policy and Stewardship**: Andy was absent. Jordi reported that Andy met today (25/09/2019) our Project Officer (PO). Andy 
-discovered that René worked on ID11 twenty years ago and that he understands synchrotron + neutron world well. This should be to
-our advantage as he will be albe to help us more to achieve our objectives. Rudolf pointed out that he is also PO for a EU-funded
-project for the ESRF called Streamline and wondered who is the PO for ExPaNDS. Jordi will ask Knut/Patrick and confirm this.
+discovered that he worked at the ESRF twenty years ago and that he understands synchrotron + neutron world well. This should be to
+our advantage as he will be able to help us more to achieve our objectives. 
 Jordi also explained that Andy is waiting for feedback on lessons learned by ILL (EuXFEL and ELI provided input last week - thanks!)
 
   **WP3 Data Catalog Services**: Tobias was absent. Petra was absent too but she had shared some notes: Financial report was shared
 with Jordi, WP3 is working on some more internal milestones.
 
-  **WP4 Data Analysis Services**: Hans explained that teh questionnaire is out, the ExPaNDS meeting was usueful and he is working
-on the portal architecture. WP5 wants to focus on datasets for which apps exists. He also helped with the paper for ICALEPS and
-organising a Jupyter conference. A joint ExPaNDS-PaNOSC WP4 meeting in Humburg is also being planned for next year.
+  **WP4 Data Analysis Services**: Hans explained that the questionnaire is out, the ExPaNDS meeting was useful and he is working
+on the portal architecture. WP5 wants to focus on datasets for which apps exists. He also helped with the paper for ICALEPCS and
+organising a Jupyter conference. A joint ExPaNDS-PaNOSC WP4 meeting in Hamburg is also being planned for next year.
 
   **WP5 Virtual Neutron and X-ray Laboratory**: Juncheng reported work in three different areas:
 1. D5.1 drafting simulation data standard and working on molecular dinamics simulations. People on ESS are working on neutron 
 ray-tracing. He expects a draft to be completed end of October
 2. Collaboration for open PMP? ongoing  **I dind't catch this acronym, sorry, can someone correct it please?**
-3. Contacts with WP4 to do something together asthere are similarities (e.g. compare simulation with real experiment data)
+3. Contacts with WP4 to do something together as there are similarities (e.g. compare simulation with real experiment data)
 The attendees also briefly discussed that there should be some form of collaboration between WP8 and WP5, as training should be
 offered on the simulation software/services.
 
-  **WP6 EOSC Integration**: Jean-Francois was absent. Jamie reported athat AAI has been taken up by Géant, a site is ste up and that
+  **WP6 EOSC Integration**: Jean-Francois was absent. Jamie reported athat AAI has been taken up by Géant, a site is set up and that
 there will be a pilot at the end of this week. Rudolf said that this was great news and a very good progress. **Couldn't hear 
 Jamie very well, can you please EXPAND THIS please?** 
 Jamie posted the minutes of a meeting in Confluence and Jordi asked him to add a link in GitHub towards that information.
@@ -156,10 +155,10 @@ clarifying the scope of what is to be covered in this area) so then we can get t
 Regarding the stakeholder list, we should interact more with the members listed.
 Jordi also reminded that internal milestones and KPIs for WP7 have not been provided.
 
-  **WP8 Staff training in data stewardship**: Thomas swas absent. Petra was absent too but she shared some notes: KPIs for WP8 have
+  **WP8 Staff training in data stewardship**: Thomas was absent. Petra was absent too but she shared some notes: KPIs for WP8 have
 been distributed and the internal milestones too. Minutes are on GitHub for WP8 meetings.
 
-  **WP9 Outreach & Communication**: Nicoletta was absent and Dario reported video interviews published.
+  **WP9 Outreach & Communication**: Nicoletta was absent and Dario reported the video interviews published.
 
 6. Job openings
 
