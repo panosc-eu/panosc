@@ -99,7 +99,7 @@ includes some extra information/documents:
 * Agenda for WP meetings 6th and 7th November -> https://indico.esrf.fr/indico/event/36/material/2/
 
 Dario also explained that there will be dinner offered on Monday 4th November.
-Rudolf asked how many people have registered so far and Dario replied that about 30 people (out of 100 expected attendees).
+Rudolf asked how many people have registered so far and Dario replied that about 20 people (out of 100 expected attendees).
 Rudolf also asked whether the people we invited are coming. Dario replied that invitations were sent and some replies declining
 attendance have been received, but mostly we didn't obtain a reply.
 Juncheng asked whether he could invite someone (**who?**) and Rudolf said YES. Rudolf also said that we need to chase up a bit
