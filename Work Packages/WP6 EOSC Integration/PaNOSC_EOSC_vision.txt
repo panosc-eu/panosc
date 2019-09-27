@@ -1,0 +1,57 @@
+PaNOSC and EOSC - what we need and what we provide
+==================================================
+Text prepared for the EOSC-hub Federating Core paper
+----------------------------------------------------
+by Andy Götz on behalf of PaNOSC
+
+PaNOSC is the INFRAEOSC-04 cluster project of ESFRI Photon 
+and Neutron sources. It represents a plethora of scientific
+disciplines using photon and neutron sources to study
+materials on a wide range of scales - from angstroms to
+microns. A large user community of roughly 30000 users
+annually profit from the Photon and Neutron sources in Europe
+(this includes the national and ESFRI sources). 
+
+PaNOSC sees EOSC as an opportunity to generalise the adoption
+of FAIR data policies at all photon and neutron sources. 
+Adopting FAIR data will enable data sharing across a wider
+community and the provisioning of services for remote data
+analysis. In order for these objectives to be realised the
+EOSC must provide the following services: (1) a common way
+of identifying, authenticating, and authorising users (AAI)
+across Europe; (2) a free service for downloading data 
+efficiently (distributed and high bandwidth); (3) a 
+(commercial or free) solution for long term archiving
+of large quantities of data (petabytes) for research infrastructures
+which do not have a local solution; (4) a search machine for
+searching and finding scientific data in a wide variety of domains; 
+(5) a catalog of (free and commercial) services for analysing
+data ranging from generic services like Jupyter notebooks to
+specific applications per scientific domain.
+
+The above needs are considered the Minimum Viable Ecosystem
+for the EOSC from the PaNOSC point of view. It would be 
+desirable for the EOSC is more than a data lake. The EOSC could
+become the GitHub of Open Science in Europe! To achieve this
+it will need to provide scientists with a personal space where
+they can create content (data analysis recipes, workflows, publications),
+store data and share their work with collaborators via a versioning
+system like GitHub.
+
+The PaNOSC RI's would in return offer (1) petabytes of raw and processed data 
+in a wide variety of scientific domains; (2) tools for generic and specific
+data simulation and data analysis ; (3) recipes and expertise for reducing 
+and analysing data; (4) training material for understanding photon and neutron
+science.
+
+Some of PaNOSC RIs have databases of data collected over the last 3 to 4
+decades are currently under-exploited e.g. paleontology data in the
+https://paleo.esrf.fr is an example of processed data which are not 
+widely known or exploited yet. These data are ideal for cross disciplinary
+applications and linking up with data from museums or other scientific
+disciplines.
+
+Picture: http://paleo.esrf.fr/galleries/paleoanthropology/fossil_Homo_sapiens/Homo_sapiens_Israel_Qafzeh10_maxilla/pic_mov/Qafzeh_maxilla_2.jpg
+
+Reference: PNAS December 7, 2010 107 (49) 20923-20928; https://doi.org/10.1073/pnas.1010906107 
+
