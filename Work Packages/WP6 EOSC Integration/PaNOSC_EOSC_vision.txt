@@ -31,9 +31,9 @@ specific applications per scientific domain.
 
 The above needs are considered the Minimum Viable Ecosystem
 for the EOSC from the PaNOSC point of view. It would be 
-desirable for the EOSC is more than a data lake. The EOSC could
-become the GitHub of Open Science in Europe! To achieve this
-it will need to provide scientists with a personal space where
+desirable for the EOSC to become more than just a data lake. 
+The EOSC should become the GitHub of Open Science in Europe! 
+To achieve this it will need to provide scientists with a personal space where
 they can create content (data analysis recipes, workflows, publications),
 store data and share their work with collaborators via a versioning
 system like GitHub.
@@ -48,7 +48,7 @@ Some of PaNOSC RIs have databases of data collected over the last 3 to 4
 decades are currently under-exploited e.g. paleontology data in the
 https://paleo.esrf.fr is an example of processed data which are not 
 widely known or exploited yet. These data are ideal for cross disciplinary
-applications and linking up with data from museums or other scientific
+applications and linking up with data from museums and/or other scientific
 disciplines.
 
 Picture: http://paleo.esrf.fr/galleries/paleoanthropology/fossil_Homo_sapiens/Homo_sapiens_Israel_Qafzeh10_maxilla/pic_mov/Qafzeh_maxilla_2.jpg
