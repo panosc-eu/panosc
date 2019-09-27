@@ -22,8 +22,9 @@ of identifying, authenticating, and authorising users (AAI)
 across Europe; (2) a free service for downloading data 
 efficiently (distributed and high bandwidth); (3) a 
 (commercial or free) solution for long term archiving
-of large quantities of data (petabytes) for research infrastructures
-which do not have a local solution; (4) a search machine for
+of large quantities of open data (petabytes) coupled to 
+(commercial or free) high-performance storage and compute 
+resources for the (re)analysis of this open data; (4) a search machine for
 searching and finding scientific data in a wide variety of domains; 
 (5) a catalog of (free and commercial) services for analysing
 data ranging from generic services like Jupyter notebooks to
