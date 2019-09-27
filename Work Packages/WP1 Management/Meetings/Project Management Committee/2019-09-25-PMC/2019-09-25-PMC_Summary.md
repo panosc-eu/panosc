@@ -102,7 +102,7 @@ Dario also explained that there will be dinner offered on Monday 4th November.
 Rudolf asked how many people have registered so far and Dario replied that about 20 people (out of 100 expected attendees).
 Rudolf also asked whether the people we invited are coming. Dario replied that invitations were sent and some replies declining
 attendance have been received, but mostly we didn't obtain a reply.
-Juncheng asked whether he could invite someone (**who?**) and Rudolf said YES. Rudolf also said that we need to chase up a bit
+Juncheng asked whether he could invite Michael Bussmann from HZRD, who is related to the SimEx library and openPMD data standard, and Rudolf said YES. Rudolf also said that we need to chase up a bit
 the people we want to attend to ensure they are coming and register before the deadline (15th October).
 We have a table in Google docs (link and access available upon request to Dario/Jordi) listing all the possible attendees. 
 We should track who has replied, who has registered and who is in the best position to chase up the ones not replying. A joint 
@@ -132,34 +132,21 @@ Jordi also explained that Andy is waiting for feedback on lessons learned by ILL
   **WP3 Data Catalog Services**: Tobias was absent. Petra was absent too but she had shared some notes: Financial report was shared
 with Jordi, WP3 is working on some more internal milestones. A WP3 workshop was held at the ILL last week. There was a good number of participants, including members from the ExPaNDS projects. The notes and presentations from the workshop can be found on the PaNOSC confluence: https://confluence.panosc.eu/display/wp3/WP3+ILL+Workshop+September+2019
 
-<<<<<<< HEAD
-  **WP4 Data Analysis Services**: Hans explained that the questionnaire is out, the ExPaNDS meeting was useful and he is working
-on the portal architecture. WP5 wants to focus on datasets for which apps exists. He also helped with the paper for ICALEPCS and
-organising a Jupyter conference. A joint ExPaNDS-PaNOSC WP4 meeting in Hamburg is also being planned for next year.
-=======
   **WP4 Data Analysis Services**: Hans explained that the questionnaire is out, the ExPaNDS meeting was usueful and he is working
 on the portal architecture. WP5 wants to focus on datasets for which apps exists. He also helped with the paper for ICALEPS and
 organising a Jupyter conference. A joint ExPaNDS-PaNOSC WP4 meeting in Humburg is also being planned for next year.
->>>>>>> 2ac13e19acb9c9c4bc366f9b418f733a3cc93ce3
 
   **WP5 Virtual Neutron and X-ray Laboratory**: Juncheng reported work in three different areas:
-1. D5.1 drafting simulation data standard and working on molecular dinamics simulations. People on ESS are working on neutron 
-ray-tracing. He expects a draft to be completed end of October
-2. Collaboration for open PMP? ongoing  **I dind't catch this acronym, sorry, can someone correct it please?**
+1. D5.1 drafting simulation data standard and working on molecular dynamics simulations. People on ESS are working on neutron from-source-to-detector simulations,
+and people on CERIC are working on Oasys X-ray optics ray-tracing simulations. He expects a draft to be completed end of October.
+2. Collaboration for open PMD ongoing.
 3. Contacts with WP4 to do something together as there are similarities (e.g. compare simulation with real experiment data)
 The attendees also briefly discussed that there should be some form of collaboration between WP8 and WP5, as training should be
 offered on the simulation software/services.
 
-<<<<<<< HEAD
-  **WP6 EOSC Integration**: Jean-Francois was absent. Jamie reported athat AAI has been taken up by Géant, a site is set up and that
-there will be a pilot at the end of this week. Rudolf said that this was great news and a very good progress. **Couldn't hear 
-Jamie very well, can you please EXPAND THIS please?** 
-Jamie posted the minutes of a meeting in Confluence and Jordi asked him to add a link in GitHub towards that information.
-=======
   **WP6 EOSC Integration**: Jean-Francois was absent. WP6 is progressing well on the AAI side, GEANT has set up an infrastructure for UmbrellaID, we are currently configuring the basic (DNS, Certificates, ...). The pilot should be available by the end of this week. Rudolf said that this was great news and a very good progress. 
 On the data transfer side (One Data, dCache, ...) the progress is slower but in a fews week there should be a few small pilots. Jean-François presented the AAI at the WP3 workshop (PaNOSC and ExPaNDS people), his feeling is that people are largely unaware of AAI in a federated environment and notably the ID translation we have for the authorisation proces. Currently investigating the possibility to have training in place for the Annual Meeting (WP6 day on the 6th). Work will start on the first deliverable "Integration of
 local compute resources into the EOSC cloud" M12. If people from PMC or other WPs wants to contribute they are more than welcome.
->>>>>>> 2ac13e19acb9c9c4bc366f9b418f733a3cc93ce3
 
   **WP7 Sustainibility**: Roberto was absent. Dario said a meeting took place in the morning during which Roberto showed proposal for
 cost estimates and discussed it. It was agreed that the WP will create a list of activities related to sustainability (thus 
