@@ -1,0 +1,9 @@
+Preliminary topics for this meeting or later:
+
+- Thomas V: scientific use cases - publication; first example from ESRF
+
+- all: report back from task groups
+
+- Jamie: progress with VISA development
+
+- Anders: container based services?
