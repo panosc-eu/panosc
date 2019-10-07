@@ -1,5 +1,0 @@
-Topics:
-
-- Jamie: progress with VISA development
-- Thomas: scientific use cases - publication; first example
-- all: report back from task groups
