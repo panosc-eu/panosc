@@ -1,0 +1,61 @@
+#+TITLE: WP4 video conference 24 September 2019
+#+OPTIONS: num:1
+
+:present:
+
+* Actions from last meeting
+
+[[../2019-09-10/notes.org][Minutes from last meeting]]
+
+- put more detailed description in tasks (https://github.com/orgs/panosc-eu/projects/3)
+- Stuart: add Architecture slides to minutes from last time
+
+* Status update from each facility
+- EuXFEL  (Robert)
+  - containers and widgets, deploying jupyter hub
+- ILL (Jamie)
+  - hosted WP3 workshop
+  - new colleague William
+  - have sent the survey out
+  - have been contacted by ExPaNDS
+  - need to complete report by the end of october
+- ESRF (Thomas)
+  - HDF5 workshop and h5py codecamp
+- ESS (Kareem)
+  - set up JupyterHub
+  - upgrading gitlab server to have gitlab registry
+- ELI (Jakub)
+  - first mock-up of design shared, URL to be inserted
+- CERIC-ERIC (Carlos)
+  - pyMC docker image
+  - reproduce the same data analysis that is done at beamline
+  - contacting partner facilities to complete survey questionnaires
+
+* Report from ExPaNDS kick off meeting (Hans)
+- scope
+- calipso plus functionality
+- publications as use cases
+
+* Introduction to Singularity (Robert)
+- TODO: insert link to slides here
+
+* Next meeting
+- is scheduled during ICALEPCS conference
+- who is going?
+  Hans and Eric
+- how to use time in two weeks
+  - work in task forces
+
+* AoB
+Meeting in Trieste:
+- indico site: https://indico.esrf.fr/indico/event/36/overview
+- reserve Wednesday and Thursday morning if you can
+- Action:
+  Carlos to create entry on indico to show that Wed and Thu are used
+  for work-package specific meetings
+  
+  Plan for Wednesday and Thursday: https://indico.esrf.fr/indico/event/36/material/2/2.pdf
+
+* Actions
+- Thomas to lead gathering of scientific use cases
+- Thomas to find example from Andy Gotz, and report back in two weeks
