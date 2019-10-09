@@ -48,13 +48,13 @@ Use priority `s` for suspended items -- are not critical now and need to be cons
 |--- |--- |--- |--- |--- | --- |
 |1|Scientist|I would like the data to be mounted to the file system on the machine||1||
 |2|Scientist|I would like to have software (applications and libraries) available to analyse the data|install any software system proposes software relevant to the datascientist (or other user) proposes software|1||
-|3|Scientist|I need to store the results of the analysis|Where are the results stored?|1||
-|4|Scientist|I would like to request new software to analyse my data||2||
-|5|Scientist|I want to submit a job to a compute cluster (parallel processing cluster for example)||3||
-|6|Scientist|I want to install software that is not available in the software repositories (or proposed by the system)||3||
-|7|Scientist|I want to know if analysis is already in progress for the same proposal||3||
-|8|Scientist|I want to be able to analyse data from 10 years ago. I need the system and software to be capable or reading and analysing the data files from this period||4||
-|9|Scientist|I would like to have software proposed to me to analyse data for my proposal||5||
+|3|Scientist|I need to store the results of the analysis|Should be downloadable. |1||
+|4|Scientist|I would like to request new software to analyse my data||s|manual process|
+|5|Scientist|I want to submit a job to a compute cluster (parallel processing cluster for example)||3|redirect to local HPC|
+|6|Scientist|I want to install software that is not available in the software repositories (or proposed by the system)||s|out of scope/manual|
+|7|Scientist|I want to know if analysis is already in progress for the same proposal||s||
+|8|Scientist|I want to be able to analyse data from 10 years ago. I need the system and software to be capable or reading and analysing the data files from this period||s||
+|9|Scientist|I would like to have software proposed to me to analyse data for my proposal||2||
 
 #### Collaborations
 
