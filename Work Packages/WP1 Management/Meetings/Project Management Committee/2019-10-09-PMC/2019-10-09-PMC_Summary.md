@@ -33,7 +33,7 @@ provided as well.
 * FAIRsFAIR data repository certification
     * Andy said that we are awaiting feedback from FAIRsFAIR. 
 * Invitation to a joint EOSC project meeting on 9-10 September 2019 in Brussels
-    * Andy said the following documents have been shared following the meeting: (final report)[https://www.eoscsecretariat.eu/news-opinion/eosc-concertation-report-public]
+    * Andy said the following documents have been shared following the meeting: [final report]([https://www.eoscsecretariat.eu/news-opinion/eosc-concertation-report-public)
 * ExPaNDs kick-off meeting 11-12 September in Hamburg
     * ExPaNDS is creating mailing lists, some of us will be added/asked to join
 * ICALEPCS
@@ -48,7 +48,7 @@ experiment data and ensure the data can be understood and he was wondering wheth
 * Invitation to cluster meeting @ RDA (12:00-16:00 on 21 October in Helsinki)
     * Andy explained that Ornela is going to represent PaNOSC.
 
-* There is a new event coming up 24th to 28th November in Budapest: The (EOSC Stakeholders meeting)[https://www.eoscsecretariat.eu/eosc-symposium]
+* There is a new event coming up 24th to 28th November in Budapest: The [EOSC Stakeholders meeting](https://www.eoscsecretariat.eu/eosc-symposium)
 
 4. Annual conference in Trieste - update 
 
