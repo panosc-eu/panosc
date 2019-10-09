@@ -16,16 +16,16 @@
 
 #### Accessing and searching for data
 
-|ID|Actor|Story|Description|Priority|
-|--- |--- |--- |--- |--- |
-|1|PTM|I need to log into the portal using my institute credentials| |1|
-|2|Scientist|I want to be able to find data to analyse for an experiment at a given institute||1|
-|3|PTM|I want to access my experimental data||1|
-|4|OAU|I do not belong to an institute but want to log in to analyse open data|AAI will be provided by the work done in WP6 | 2|
-|5|Scientist|I want to explore/search for public analysis results||2|
-|6|PTM|I would like to know who has accessed my experimental data||3|
-|7|IR|I would like to know who has accessed data for my instrument||3|
-|8|PTM|I would like to know when a data file has been modified or created for my proposal|Maintain a history of modifications|4|
+|ID|Actor|Story|Description|Priority|Comment|
+|--- |--- |--- |--- |--- | --- |
+|1|PTM|I need to log into the portal using my institute credentials| |1||
+|2|Scientist|I want to be able to find data to analyse for an experiment at a given institute||1|Why regroup OAU and PTM? Suggest to remove.|
+|3|PTM|I want to access my experimental data||1||
+|4|OAU|I do not belong to an institute but want to log in to analyse open data|AAI will be provided by the work done in WP6 | 2||
+|5|Scientist|I want to explore/search for public analysis results||10|not defined how to treat analysis data
+|6|PTM|I would like to know who has accessed my experimental data||3||
+|7|IR|I would like to know who has accessed data for my instrument||3||
+|8|PTM|I would like to know when a data file has been modified or created for my proposal|Maintain a history of modifications|4||
 
 #### Machine management
 
