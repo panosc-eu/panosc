@@ -27,19 +27,19 @@ Use priority `s` for suspended items -- are not critical now and need to be cons
 |5|Scientist|I want to explore/search for public analysis results||10|not defined how to treat analysis data
 |6|PTM|I would like to know who has accessed my experimental data||s|what about anonymous access? GDPR issues?|
 |7|IR|I would like to know who has accessed data for my instrument||s|what about anonymous access? GDPR issues?|
-|8|PTM|I would like to know when a data file has been modified or created for my proposal|Maintain a history of modifications|4||
+|8|PTM|I would like to know when a data file has been modified or created for my proposal|Maintain a history of modifications|10||
 
 #### Machine management
 
-|ID|Actor|Story|Description|Priority|
-|--- |--- |--- |--- |--- |
-|1|Scientist|I would like to request a machine that is capable of analysing the data.|The machine is created and presented to the user→ remote desktop presented to user→ the experimental data is mapped to the machine|1|
-|2|Scientist|I want to be able to extend the lifetime of my machine||1|
-|3|Scientist|I want to be informed when a machine is going to be suspended and archived||1|
-|4|Scientist|When I disconnect and then connect back to the machine I want the machine state to be preserved from the previous session||2|
-|5|Scientist|I would prefer not to log in again to the remote machine after creating it.||2|
-|6|Scientist|I would like to request custom resources (CPU, Mem, etc) for my analysis machine||2|
-|7|PTM|I want to be informed when a machine has been created to analyse my data (even if created by someone else)||3|
+|ID|Actor|Story|Description|Priority|Comment|
+|--- |--- |--- |--- |--- |---|
+|1|Scientist|I would like to request a machine that is capable of analysing the data.|The machine is created and presented to the user→ remote desktop presented to user→ the experimental data is mapped to the machine|1||
+|2|Scientist|I want to be able to extend the lifetime of my machine||5||
+|3|Scientist|I want to be informed when a machine is going to be suspended and archived||5||
+|4|Scientist|When I disconnect and then connect back to the machine I want the machine state to be preserved from the previous session||2|What does 'disconnect' mean here?|
+|5|Scientist|I would prefer not to log in again to the remote machine after creating it.||2||
+|6|Scientist|I would like to request custom resources (CPU, Mem, etc) for my analysis machine||2||
+|7|PTM|I want to be informed when a machine has been created to analyse my data (even if created by someone else)||s|data protection?|
 
 #### Analysing data
 
