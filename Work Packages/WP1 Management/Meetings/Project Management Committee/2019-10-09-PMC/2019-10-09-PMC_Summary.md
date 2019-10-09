@@ -33,22 +33,22 @@ provided as well.
 * FAIRsFAIR data repository certification
     * Andy said that we are awaiting feedback from FAIRsFAIR. 
 * Invitation to a joint EOSC project meeting on 9-10 September 2019 in Brussels
-    * Andy said the following documents have been shared following the meeting: **ANDY PLEASE LINK THE DOCS HERE**
+    * Andy said the following documents have been shared following the meeting: (final report)[https://www.eoscsecretariat.eu/news-opinion/eosc-concertation-report-public]
 * ExPaNDs kick-off meeting 11-12 September in Hamburg
     * ExPaNDS is creating mailing lists, some of us will be added/asked to join
 * ICALEPCS
     * Andy explained that ICALEPCS is being attended by Hans, Tobias and Andy. Our paper has been accepted, so we have a publication
 Hans explained that he has done a presentation about hte Jupyter paper, so we may have two publications. Also, he shared news of 
 initiatives about FAIR/Open data in Japan.
-Andy also explained that somebody talk to him about the fact that sample information is very important in order to understand the 
+Andy also explained that somebody asked a question about the fact that sample information is very important in order to understand the 
 experiment data and ensure the data can be understood and he was wondering whether we are doing enough in there.
 * [EOSC Strategic Implementation Plan](https://publications.europa.eu/en/publication-detail/-/publication/78ae5276-ae8e-11e9-9d01-01aa75ed71a1) document
 * EOSC-hub SB meeting on 26 September in Brussels and [EOSC-hub Briefing paper](https://www.eosc-hub.eu/sites/default/files/EOSC-hub%20Briefing%20Paper%20-%20EOSC%20Federating%20Core%20Governance%20and%20Sustainability%20Public_0.pdf)
-    * Andy explained the paper is a good read.
+    * Andy explained the paper is an important document towards defining EOSC.
 * Invitation to cluster meeting @ RDA (12:00-16:00 on 21 October in Helsinki)
     * Andy explained that Ornela is going to represent PaNOSC.
 
-* There is a new event coming up 24th to 28th November in Budapest: The EOSC Stakeholders meeting
+* There is a new event coming up 24th to 28th November in Budapest: The (EOSC Stakeholders meeting)[https://www.eoscsecretariat.eu/eosc-symposium]
 
 4. Annual conference in Trieste - update 
 
@@ -62,7 +62,7 @@ Dario talked about a round table with the Slovenian delegation **Dario, can you 
     * Jordi has been focusing on the Financial Report and will share raw data this week. Also, some work on milestones and its
 visibility
 * WP2 Data Policy and Stewardship
-    * Andy reported no news
+    * Andy reported no news (still waiting for ILL contribution to lesson learned document)
 * WP3 Data Catalog Services
     * Tobias was absent. Petra reported that Tobias would like to have permissions to modify the agenda for WP3 session in the 
 annual meeting. Tobias also shared with Jordi a list of internal milestones.
@@ -86,6 +86,6 @@ she can upload it in the website. Also, interivews are online and roll-ups print
 woman in science that can provide info/interview on FAIR data or PaNOSC for the website.
 Nicoleta suggested that we should target user meetings at our facilities to raise awareness and obtain feedback from users on the 
 topics of FAIR data, PaNOSC and the EOSC. Jordi supported the idea and Knut said that it would be very nice to obtain good feedback
-from users.
+from users. Andy suggested to have a brainstorming at the Annual Meeting on actions to be carried out at Users Meetings.
 
 
