@@ -4,41 +4,36 @@
 * Peter, DTU/ESS
 * Mads, ESS
 * Thomas, ESS
-* Alexandre, ESS
+* Kareem, ESS
 
 # Minutes
 
 ## Actions from last meeting
 
 ## Updates
-Simulation worker crashes during Tartu course (https://github.com/McStasMcXtrace/McWeb/issues/220).
-
-ExPANDS meeting: Thomas attended with other ESS colleagues. Training activity relies on PaNOSC e-learning platform. 36PM for Soleil, 18PM for HZDR, 7PM for EGI. UKRI, PSI, DESY, Diamond are also involved. Meeting with WP leader and group: All participants are communication-oriented. Isabel (Diamond) provided links to material at PSI (Swiss light source). We should collect all relevant materials. (We probed at PaNOSC kickoff with little response.) ExPANDS WP will be invited to annual WP8 meeting (Trieste). EGI is very interested in providing e-Learning service (EDX - not in production yet).
-
-Note: Fredrik DMSC/SWAP section leader has moodle experience, could come in handy.
-
-Doodle link for WP8 telco distributed https://doodle.com/poll/vvvhiy8m8nauhwuf.
-
-Staff training activity should be spawned soon.
-
-KPI's (https://docs.google.com/spreadsheets/d/1iivsvBrix4v6lmC2U3sOC6YEXFeY0JzXHTM9QQQZwiY/edit#gid=2060225314) and internal milestones (https://github.com/panosc-eu/panosc/issues/43) are defined
-
+- PaNOSC GA: Presence Monday-Wednesday for "all", Mads stays on to talk to Jungchen E
+- PaNOSC VC October 10th, figure out if there is basis for WP8 meeting in Trieste & if make agenda for WP meeting (Suggestion: Demo e-learning platform, what are plans at facilities, what is status at partners)
+- Discussion about Jupyterhub at ESS with external access.
+- Suggestions for future e-learning domain name: panosc.education, learning.panosc.eu ?
 
 # Actions
-- [ ] Thomas: Arrange face2face meeting with Linda
+- [ ] Kareem & Peter: Define milestones for e-neutrons migration
+- [ ] In October 10th PaNOSC VC, decide if there is basis for WP8 meeting in Trieste
+- [ ] PaNOSC GA: WP5+8 try to schedule meeting for 3h Wednesday morning, including public demo of e-neutrons at start or end
 - [ ] Thomas: Invite Fredrik to this meeting series
 - [ ] Peter / Jakob: Work on https://github.com/McStasMcXtrace/McWeb/issues/220
 - [ ] Thomas: Ensure ESS staff is on WP8 mailinglist
-- [ ] Thomas: Organise telco with all WP8 participants in prep of Annual Meeting - in prep. doodle link: https://doodle.com/poll/vvvhiy8m8nauhwuf
-- [ ] All: Consider attendance in Annual Meeting (4th-5th of November in Trieste)
 - [ ] Alexandre: Check if Cite and CrossRef mediawiki plugins are installed and if they seem to work (ex: https://ucphmediawiki.esss.dk/ucph/index.php/The_scattering_cross_section_for_phonons). In progress. It does look like this was also not working at original site i.e. [[Diffraction from crystals#label-eq:diffraction_DW|this equation]] used in place of \ref{eq:diffraction_DW}
 - [ ] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020
 - [ ] Linda (Tommy): Update development courses @e-neutrons.org to use ucph wiki, in progress.
-- [ ] Jesper: Look at iFitlab - formulate ticket
+- [ ] DST: Look at iFitlab - formulate ticket
 - [ ] Peter: Try out https://github.com/jupyterhub/ltiauthenticator according to https://moodle.org/mod/forum/discuss.php?d=362641 for investigation of Moodle <-> Jupyter via LTI. in progress (Lottie Greenwood will assist in deployment of a Jupyter before end of November)
 
 
 ## From past meetings
+- [X] All: Consider attendance in Annual Meeting (4th-5th of November in Trieste)
+- [X] Thomas: Organise telco with all WP8 participants in prep of Annual Meeting - in prep. doodle link: https://doodle.com/poll/vvvhiy8m8nauhwuf
+- [X] Thomas: Arrange face2face meeting with Linda
 - [X] Alexandre: Follup-up on SNOW issue / escalation 
 - [X] Peter: Look for {\bf Q} as in \qbold in e-neutrons MathJax config and communicate to Alexandre
 - [X] Thomas: Document progress report location (https://github.com/panosc-eu/panosc/blob/master/Submitted%20Deliverables/D1.2%20Mid-Year%20Summary%20Report/2019/PaNOSC_D1.2_Mid-Year%20Summary_20190528.pdf)
