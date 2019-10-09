@@ -1,9 +1,13 @@
 Preliminary topics for this meeting or later:
 
+
 - Thomas V: scientific use cases - publication; first example from ESRF
 
 - all: report back from task groups
 
 - Jamie: progress with VISA development
 
-- Anders: container based services?
+- Anders Markvardsen (STFC) :“Update on a Data Analysis as a Service
+  platform in the process of being rolled out at ISIS” and to cover: A
+  brief overview of what it is and where it is at in the rollout
+  process.
