@@ -12,6 +12,8 @@
 |Proposal Team Member (PTM)|External user and Instrument Responsible|
 |Scientist|Regroups Proposal Team Member and Open Access User|
 
+Use priority `s` for suspended items -- are not critical now and need to be considered further.
+
 ### Scientific Use Cases
 
 #### Accessing and searching for data
@@ -23,8 +25,8 @@
 |3|PTM|I want to access my experimental data||1||
 |4|OAU|I do not belong to an institute but want to log in to analyse open data|AAI will be provided by the work done in WP6 | 2||
 |5|Scientist|I want to explore/search for public analysis results||10|not defined how to treat analysis data
-|6|PTM|I would like to know who has accessed my experimental data||3||
-|7|IR|I would like to know who has accessed data for my instrument||3||
+|6|PTM|I would like to know who has accessed my experimental data||s|what about anonymous access? GDPR issues?|
+|7|IR|I would like to know who has accessed data for my instrument||s|what about anonymous access? GDPR issues?|
 |8|PTM|I would like to know when a data file has been modified or created for my proposal|Maintain a history of modifications|4||
 
 #### Machine management
