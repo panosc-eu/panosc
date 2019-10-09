@@ -40,6 +40,7 @@ Use priority `s` for suspended items -- are not critical now and need to be cons
 |5|Scientist|I would prefer not to log in again to the remote machine after creating it.||2||
 |6|Scientist|I would like to request custom resources (CPU, Mem, etc) for my analysis machine||2||
 |7|PTM|I want to be informed when a machine has been created to analyse my data (even if created by someone else)||s|data protection?|
+|8|Scientist|I would like to request a Jupyter notebook from which I can manually analyse the data.|Notebook server created , user sees file structure of data set (if notebooks are there, they can be opened)|1||
 
 #### Analysing data
 
@@ -59,18 +60,18 @@ Use priority `s` for suspended items -- are not critical now and need to be cons
 
 |ID|Actor|Story|Description|Priority|Comments|
 |--- |--- |--- |--- |--- | --- |
-|1|Scientist|I want to be able to collaborate with a colleague to analyse data together|Screen sharing, Chat, Video|2||
-|2|Scientist|While collaborating in a data analysis remote desktop session I would like to take control of the analysis (keyboard and mouse input)||3||
-|3|PTM|I would like to invite someone to collaborate on data analysis who is not part of the proposal team|Grant access|3||
-|4|Scientist|I would like to request to participate in the data analysis collaboration but I am not part of the proposal team|Request access|3||
-|5|OAU|I want to be able to contact (email) the proposal team about their data or published results||3||
+|1|Scientist|I want to be able to collaborate with a colleague to analyse data together|Screen sharing Remote Desktop|6||
+|2|Scientist|While collaborating in a data analysis remote desktop session I would like to take control of the analysis (keyboard and mouse input)||10||
+|3|PTM|I would like to invite someone to collaborate on data analysis who is not part of the proposal team|Grant access|s|should be done at each facility and then propagate automatically?|
+|4|Scientist|I would like to request to participate in the data analysis collaboration but I am not part of the proposal team|Request access|s|should be done through facility hosting the data set|
+|5|OAU|I want to be able to contact (email) the proposal team about their data or published results|Display Orcid instead?|3||
 
 #### Recording/playback of data analysis
 
 |ID|Actor|Story|Description|Priority|Comments|
 |--- |--- |--- |--- |--- | --- |
-|1|Scientist|I have finished analysing my data and I want make my process and results discoverable|How? Generate DOI? Pushed to metadata catalogue? Landing page? Search engines?|3||
-|2|Scientist|I would like to know which jupyter notebooks have been used for a particular proposal (associate it to the proposal with the data catalogue)||3||
+|1|Scientist|I have finished analysing my data and I want make my process and results discoverable|How? Generate DOI? Pushed to metadata catalogue? Landing page? Search engines?|s|Manual process|
+|2|Scientist|I would like to know which Jupyter notebooks have been used for a particular proposal (associate it to the proposal with the data catalogue)||3||
 |3|Scientist|I want to see the analysis (process and results) made by somebody else on data I can access|historical analysis, historical datafrom an analysis DOI? (machine, data, environment)replay?|4||
 |4|Scientist|I would like to know what Remote Desktop analysis has been performed on a particular dataset previously and by whom||5||
 |5|Scientist|I want to see the analysis performed on a particular dataset (eg watch a video or follow analysis actions)||5||
@@ -82,41 +83,42 @@ Use priority `s` for suspended items -- are not critical now and need to be cons
 
 |ID|Actor|Story|Description|Priority|Comments|
 |--- |--- |--- |--- |--- |---|
-|1|Scientist|I want to know how much quota I have remaining||2||
-|2|Scientist|I want to be able to increase my quota||2||
-|3|Instrument responsible|I want to increase someone's quota||3||
-|4|OAU|I want to be able to buy credits to increase my quota in order to access analysis machines||5||
+|1|Scientist|I want to know how much quota I have remaining||3||
+|2|Scientist|I want to be able to increase my quota||6||
+|3|Instrument responsible|I want to increase someone's quota||s||
+|4|OAU|I want to be able to buy credits to increase my quota in order to access analysis machines||s|out of scope|
 
 #### Assistance
 
 |ID|Actor|Story|Description|Priority|Comments|
 |--- |--- |--- |--- |--- |---|
-|1|Scientist|I require help using my machine and require support staff / local contact to guide me.|Support staff can access the running machine (like a collaborator) and take control|2||
-|2|Scientist|I want to find data analysis examples and tutorials|Link to WP8|4||
+|1|Scientist|I require help using my machine and require support staff / local contact to guide me.|Support staff can access the running machine (like a collaborator) and take control|s|PaNOSC has no resources for such support staff|
+|2|Scientist|I want to find data analysis examples and tutorials|Link to WP8|2||
 
 ### Administrative Use Cases
 
 |ID|Actor|Story|Description|Priority|Comments|
 |--- |--- |--- |--- |--- |---|
-|1|Admin|I need to be able to deploy updates with minimal down time|eg new web servers, new code release|1||
-|2|Admin|I need to be able to manually scale the compute resources when necessary (directly on the compute infrastructure)|ie increasing/decreasing the resources for a given machine (nodes)|1||
-|3|Admin|I need to block users due to abuse||1||
-|4|Admin|I want to monitor all activity (resources being used, number of connections) over all machines and on a particular machine|Dashboard overview and details on particular machines|1||
-|5|Admin|I want to see the machines states (active, suspended, archived, deleted (soft & hard)…) of all machines created||1||
-|6|Admin|I need to notify users that we will take analysis resources offline|Eg for maintenance or updates. Give notification time (eg 1 day, 1 hour…)|1||
-|7|Admin|I want to be able to add and manage system images (ie distros, compute resources)||1||
-|8|Admin|I want to manage quotas|eg limit cpu and memory per user, use tokens system|1||
+|1|Admin|I need to be able to deploy updates with minimal down time|eg new web servers, new code release|3||
+|2|Admin|I need to be able to manually scale the compute resources when necessary (directly on the compute infrastructure)|ie increasing/decreasing the resources for a given machine (nodes)|s|use local infrastructure tools|
+|3|Admin|I need to block users due to abuse||3||
+|4|Admin|I want to monitor all activity (resources being used, number of connections) over all machines and on a particular machine|Dashboard overview and details on particular machines|s|use local technology first|
+|5|Admin|I want to see the machines states (active, suspended, archived, deleted (soft & hard)…) of all machines created||2||
+|6|Admin|I need to notify users that we will take analysis resources offline|Eg for maintenance or updates. Give notification time (eg 1 day, 1 hour…)|5|only needed for public release|
+|7|Admin|I want to be able to add and manage system images (ie distros, compute resources)||2||
+|8|Admin|I want to manage quotas|eg limit cpu and memory per user, use tokens system|4||
 |9|Admin|I want to manage user roles|eg admin|1||
-|10|Admin|I want to see what is happening on a Remote Desktop in case of abuse|Connect to RD|2||
-|11|Admin|I want machines to be automatically archived after a given number of days after their creation.||3||
-|12|Admin|I want to restore a machine that has been archived||3||
-|13|Admin|I want to be able to see analysis resources/state for all other facilities||4||
-|14|Admin|I want to be able to specify and build a remote desktop or jupyter environment|eg specify a container software and hardware requirements|4||
+|10|Admin|I want to see what is happening on a Remote Desktop in case of abuse|Connect to RD|5||
+|11|Admin|I want machines to be automatically archived after a given number of days after their creation.||s|out of scope|
+|12|Admin|I want to restore a machine that has been archived||s|out of scope|
+|13|Admin|I want to be able to see analysis resources/state for all other facilities||s||
+|14|Admin|I want to be able to specify and build a remote desktop |eg specify a container software and hardware requirements|4||
+|15|Admin|I want to be able to specify and build a jupyter environment|eg binderhub/repo2docker?|3||
 
 ### FM and IFC Use Cases
 
 |ID|Actor|Story|Description|Priority|Comments|
 |--- |--- |--- |--- |--- |---|
-|1|Facility|I want to see how many resources have been used during a given period (eg number of machines created, CPU hours, DOIs minted)|KPIs|1||
-|2|IFC|Another institute wants to participate in Data Analysis as a Service. I would like to add another facility to the service providers||1||
+|1|Facility|I want to see how many resources have been used during a given period (eg number of machines created, CPU hours, DOIs minted)|KPIs|5||
+|2|IFC|Another institute wants to participate in Data Analysis as a Service. I would like to add another facility to the service providers||s|Will be a manual process?|
 
