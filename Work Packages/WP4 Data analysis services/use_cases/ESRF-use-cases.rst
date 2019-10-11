@@ -20,11 +20,16 @@ Sulfur K-edge Micro- and Full-field XANES Identifies Marker for Preparation Meth
   The sulfur signature following heat-treatment is not only unique but also retained following accelerated aging of each pigment mixed as a paint with linseed oil.
   Further, XANES spectra using an attenuated focused microbeam were gathered on lazurite particles from five historical paint samples.
   In each, profiles matching that of pigment derived from heat-treated rock were identified, providing a marker for artists’ pigments that had been extracted from heat-treated lapis lazuli.
-
+* **Authors**: Gambardella A., Cotte M., De nolf W., Schnetz K., Erdmann R., Van elsas R., Gonzalez V., Wallert A., Eveno M., Keune K.
 * **Dataset**:
   *Gambardella A., Cotte M., De nolf W., Schnetz K., Erdmann R., Van elsas R., Gonzalez V., Wallert A., Eveno M., Keune K. (2019). Sulfur K-edge Micro- and Full-field XANES Identifies Marker for Preparation Method of Ultramarine Pigment from Lapis Lazuli in Historical Paints. European Synchrotron Radiation Facility (ESRF).* `doi:10.15151/ESRF-DC-186933507 <https://data.datacite.org/10.15151/ESRF-DC-186933507>`_ 
 * **Analysis notebooks**: https://github.com/alessaan/rhapsody-in-blue
 * **Publication**:
+
+* **Binder**: |rhapsody-in-blue myBinder Launcher|
+
+.. |rhapsody-in-blue myBinder Launcher| image:: https://mybinder.org/badge_logo.svg
+   :target: https://mybinder.org/v2/gh/alessaan/rhapsody-in-blue/master
 
 ----------------------------------------
  Use cases based on scientific software
