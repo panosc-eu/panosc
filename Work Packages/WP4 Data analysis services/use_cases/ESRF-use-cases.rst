@@ -26,10 +26,13 @@ Sulfur K-edge Micro- and Full-field XANES Identifies Marker for Preparation Meth
 * **Analysis notebooks**: https://github.com/alessaan/rhapsody-in-blue
 * **Publication**:
 
+* **Additional material**: `Notebook illustrating how to download datasets from ESRF <download_ESRF_datasets.ipynb>`_
 * **Binder**: |rhapsody-in-blue myBinder Launcher|
 
 .. |rhapsody-in-blue myBinder Launcher| image:: https://mybinder.org/badge_logo.svg
    :target: https://mybinder.org/v2/gh/alessaan/rhapsody-in-blue/master
+
+
 
 ----------------------------------------
  Use cases based on scientific software
