@@ -2,7 +2,7 @@
 
 15th Oct 2019 - 11H00 CET
 
-Attendees :   Giuseppe (EGI), Jean-François (ILL), Lazlo (ELI), Ian (STFC), Brian (ESS)
+Attendees :   Giuseppe (EGI), Jean-François (ILL), Lajos (ELI), Ian (STFC), Brian (ESS)
 
 Link for the telco: https://ill.vidyocloud.com/join/NWc9VqX5Sz
 
