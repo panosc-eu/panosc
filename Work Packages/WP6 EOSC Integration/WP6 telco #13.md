@@ -39,12 +39,12 @@ Next meeting: Annual conference (4-6th Nov Trieste).
 
 2. Current activities
 
-   AAI: Pilot set up with only the UmbrellaID Idp. Fisrt SP to be setup this week, demo at the user meeting.
+   AAI: Pilot has been set up with only the UmbrellaID Idp (EduGAIN and ORCID will be introduced in the 2 step). Fisrt SP to be setup this week, demo at the user meeting.
 
-   Configuration of OneZone, One provider has been deployed and the lumia (User Id Translation) set up. reporter by Giuseppe.
+   Configuration of OneZone done. One provider has been deployed with lumia (User Id Translation) at CERIC. Reported by Giuseppe.
 
    Report on data transfer ILL -> STFC. We have been trying transfers with GridFTP from ILL to STFC. We find the problem that we do not have compatible sets of certificates at both sites. After lots of copying certs around, we find that a CRL (certificate revocation list) related to ILL was considered out-of-date by the STFC server.
 
-3.  Discussion on the report, it will be based on the use of services like Jupyter.
+3.  Discussion on the report, it will be based on the use of services.
 
-4. Giuseppe tlak about the presentation do,ne by EGI at EaPEC 2019. Slides are available at https://documents.egi.eu/public/ShowDocument?docid=3515 and a video is available at https://www.youtube.com/watch?v=ODv592Uzja4
+4. Giuseppe talk about the presentation do,ne by EGI at EaPEC 2019. Slides are available at https://documents.egi.eu/public/ShowDocument?docid=3515 and a video is available at https://www.youtube.com/watch?v=ODv592Uzja4
