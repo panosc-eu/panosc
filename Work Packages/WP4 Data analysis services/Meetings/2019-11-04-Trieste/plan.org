@@ -1,0 +1,29 @@
+Draft schedule for WP4 specific activities in Trieste (https://indico.esrf.fr/indico/event/36/)
+
+* Wednesday
+
+** EGI: EGI Notebooks, DataHub, Binder,  Wednesday morning 9:00
+ and discussion
+ Giuseppe Larocca (60-90 mins)
+
+** Architecture outline (Stuart, Jamie), Wednesday 10:00
+and discussions
+60 mins
+
+** reproducible science studies (Robert, Vincent) and discussion, Wednesday 11:00
+
+** Interaction with WP3 and WP6, Wednesday 14:-15:30
+ https://indico.esrf.fr/indico/event/36/timetable/#20191106.detailed
+
+** Interactions with WP8, Wednesday 16:00 - 17:00
+
+* Thursday
+** 9:00 Anders Markvardsen (STFC) :“Update on a Data Analysis as a Service platform"
+in the process of being rolled out at ISIS” and to cover: A brief
+overview of what it is and where it is at in the rollout process.
+
+** Review internal milestones and output from task groups
+** Discussion
+** Agreenig next steps
+** Addressing problems from yesterday
+** Joint implementation / testing / design
