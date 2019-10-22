@@ -6,30 +6,59 @@
 Each contribution <= 2 minutes
 
 - internal milestone 1: Oct 2019 Sample jupyter notebooks  (Thomas+Robert)
+  - slight delay
+  - not sure every facility has created a reproducible use case
+  - should prepare place where each facility puts one such use case
+  - for ESRF:
+    - tutorials are good starting point: data is small, analysis is there
+    - first 'real' use case based on notebooks
+      - 17 notebooks, starting from some GigaBytes, spectroscopy, pyMCA?
+    This two-step approach maybe useful for other sites as well.
+    - Present example in Trieste
 
 - internal milestone 2: Nov 2019 User interface design (portal),
   (Jakub + Gareth + Stuart + Jamie)
+  - slight delay
+  - initial discussions with Jamie and Stuart
+  - technologies: react
+  - Should discuss more in Trieste
 
 - internal milestone 3: Feb 2020 Architecture selection of required
   technologies and specification (Stuart+Eduard+Aidan)
+  - [Jamie]
+  - Meeting with ESRF about portal development
+  - suggest to bring milestone forward
+  - expect to start full time development in 2 weeks
+  - hope to have minimal prototype by March 2020
+    - login
+    - create notebook / remote desktop
+  - documents on confluence
+  - multiple iterations
 
 - internal milestone 4: Mar 2020 Compute resources API specification
   (Stuart+Jamie)
+  - propose to remove this; it is part of internal milestone 3
 
 - internal milestone 5: Jun 2020 Sample Remote desktop with local data
   (Stuart + Jamie, VISA)
+  - propose to remove this - it is part of the iterative design and
+    implementation
 
 - internal milestone 6: Jun 2020 Sample Jupyter Notebooks execute in
   BinderEnvironment with local data (Robert+Thomas)
+  - Robert: thinking about Singularity; create Singularity spawner for
+    JupyterHub
+  - Thomas: consider replacing kubernetis with Slurm
+    - nbnovnc?
 
 - internal milestone 7: Oct 2020 Prototype implementation for portal
   (Carlos + Eduard + Jamie)
+  - contribute to internal milestone 3
 
 - internal milestone 8: February 2021 Sample Jupyter Notebooks execute
   in BinderEnvironment with remote data (Thomas+Robert+Jamie)
 
-- internal milestone 9: Mar 2021 Launch Remote Desktop and Jupyter
-  analysis from Portal (Eduard)
+- internal milestone 9: Use API from WP3 for Portal (Jamie)
   - Need metadata catalog to be searchable at this point -> align with WP3
   - WP3 demonstrator: scheduled for March 2021
 
@@ -47,19 +76,22 @@ Each contribution <= 2 minutes
 List of internal milestones and activities at https://github.com/orgs/panosc-eu/projects/3
 
 
-* Introduction reproducible science data study (Thomas)
+* Introduction reproducible science data study (Thomas Vincent)
+-> Trieste
+- when downloading data (from somewhere), it is important to be able
+  to download only the parts we need
 
 * Status of Jupyter use and Jupyter Hub provision
 
-| Facility   | use notebooks | Jupyter hub status | Remote desktop status | Comment |
-|------------+---------------+--------------------+-----------------------+---------|
-| CERIC-ERIC |               |                    |                       |         |
-| ELI        |               |                    |                       |         |
-| ESRF       |               |                    |                       |         |
-| ESS        |               |                    |                       |         |
-| EuXFEL     |               |                    |                       |         |
-| ILL        |               |                    |                       |         |
-|            |               |                    |                       |         |
+| Facility   | use notebooks  | Jupyter hub status   | Remote desktop status          | Comment                    |   |
+|------------+----------------+----------------------+--------------------------------+----------------------------+---|
+| CERIC-ERIC | in preparation | prototype is up      | prototype (X11)                |                            | ( |
+| ELI        | yes            | no                   | no                             | scientists asking for JHub |   |
+| ESRF       | yes            | prototype/production | NoMachine (NX)                 | not available from outside |   |
+| ESS        |                |                      |                                |                            |   |
+| EuXFEL     | yes            | in production        | in production (FastX)          |                            |   |
+| ILL        | no             | in production        | in production next week (VISA) | JHub no users              |   |
+|            |                |                      |                                |                            |   |
 
 
 * Meeting in Trieste
@@ -82,6 +114,11 @@ List of internal milestones and activities at https://github.com/orgs/panosc-eu/
 
 
 * Any other Business
+** Thomas (ESRF)
+- interviewed for 2 positions (for WP4 and WP5)
+** Jamie (ILL)
+- deadline for survey is coming up: 31 October
+- deliverable deadline: End of November
 
 
 * Preliminary topics for discussion at a later point
