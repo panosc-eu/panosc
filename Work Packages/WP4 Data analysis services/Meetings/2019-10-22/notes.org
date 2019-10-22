@@ -1,34 +1,47 @@
 #+TITLE: WP4 Video meeting <2019-10-22 Tue 15:00>
 
+
 * Report from internal milestone activities
 
 Each contribution <= 2 minutes
 
 - internal milestone 1: Oct 2019 Sample jupyter notebooks  (Thomas+Robert)
 
-- internal milestone 2: Nov 2019 User interface design (portal), (Jakub + Gareth + Stuart + Jamie)
+- internal milestone 2: Nov 2019 User interface design (portal),
+  (Jakub + Gareth + Stuart + Jamie)
 
-- internal milestone 3: Feb 2020 Architecture selection of required technologies and specification (Stuart+Eduard+Aidan)
+- internal milestone 3: Feb 2020 Architecture selection of required
+  technologies and specification (Stuart+Eduard+Aidan)
 
-- internal milestone 4: Mar 2020 Compute resources API specification (Stuart+Jamie)
+- internal milestone 4: Mar 2020 Compute resources API specification
+  (Stuart+Jamie)
 
-- internal milestone 5: Jun 2020 Sample Remote desktop with local data (Stuart + Jamie, VISA)
+- internal milestone 5: Jun 2020 Sample Remote desktop with local data
+  (Stuart + Jamie, VISA)
 
-- internal milestone 6: Jun 2020 Sample Jupyter Notebooks execute in BinderEnvironment with local data (Robert+Thomas)
+- internal milestone 6: Jun 2020 Sample Jupyter Notebooks execute in
+  BinderEnvironment with local data (Robert+Thomas)
 
-- internal milestone 7: Oct 2020 Prototype implementation for portal (Carlos + Eduard + Jamie)
+- internal milestone 7: Oct 2020 Prototype implementation for portal
+  (Carlos + Eduard + Jamie)
 
-- internal milestone 8: February 2021 Sample Jupyter Notebooks execute in BinderEnvironment with remote data (Thomas+Robert+Jamie)
+- internal milestone 8: February 2021 Sample Jupyter Notebooks execute
+  in BinderEnvironment with remote data (Thomas+Robert+Jamie)
 
-- internal milestone 9: Mar 2021 Launch Remote Desktop and Jupyter analysis from Portal (Eduard)
+- internal milestone 9: Mar 2021 Launch Remote Desktop and Jupyter
+  analysis from Portal (Eduard)
   - Need metadata catalog to be searchable at this point -> align with WP3
   - WP3 demonstrator: scheduled for March 2021
 
-- internal milestone 10: Nov 2021 Demonstrator prototype completed (Eduard + Robert + Jamie + Thomas)
+- internal milestone 10: Nov 2021 Demonstrator prototype completed
+  (Eduard + Robert + Jamie + Thomas)
 
-- internal milestone 11: Nov 2021 First iteration of Documentation/Training materials (Kareem + Thomas) [Python training in Jupyter, particular analysis for selected analysis types, …]
+- internal milestone 11: Nov 2021 First iteration of
+  Documentation/Training materials (Kareem + Thomas) [Python training
+  in Jupyter, particular analysis for selected analysis types, …]
 
-- internal milestone 12: May 2021, Obtained user feedback after beta testing / validation (Thomas)
+- internal milestone 12: May 2021, Obtained user feedback after beta
+  testing / validation (Thomas)
 
 
 List of internal milestones and activities at https://github.com/orgs/panosc-eu/projects/3
@@ -53,13 +66,14 @@ List of internal milestones and activities at https://github.com/orgs/panosc-eu/
 
 ** who will attend (please add)
 
-| CERIC-ERIC |                                                                                                                         |
-| EGI        | Giuseppe La Rocca,                                                                                                      |
-| ELI        |                                                                                                                         |
-| ESRF       |                                                                                                                         |
-| ESS        |                                                                                                                         |
-| EuXFEL     | Robert Rosca, Thomas Kluyver, JunCheng E, Hans Fangohr, Thomas Tschentscher, Steve Aplin, Luis Maia, Sandor Brockhauser |
-| ILL        | Jamie Hall, William Turner                                                                                                                        |
+| CERIC-ERIC |                                                                              |
+| EGI        | Giuseppe La Rocca,                                                           |
+| ELI        |                                                                              |
+| ESRF       |                                                                              |
+| ESS        |                                                                              |
+| EuXFEL     | Robert Rosca, Thomas Kluyver, JunCheng E, Hans Fangohr, Thomas Tschentscher, |
+| EuXFEL     | Steve Aplin, Luis Maia, Sandor Brockhauser, Krzysztof Wrona                  |
+| ILL        | Jamie Hall, William Turner                                                   |
 
 
 ** rough schedule
