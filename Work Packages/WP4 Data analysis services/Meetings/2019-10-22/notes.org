@@ -59,7 +59,7 @@ List of internal milestones and activities at https://github.com/orgs/panosc-eu/
 | ESRF       |                                                                                                                         |
 | ESS        |                                                                                                                         |
 | EuXFEL     | Robert Rosca, Thomas Kluyver, JunCheng E, Hans Fangohr, Thomas Tschentscher, Steve Aplin, Luis Maia, Sandor Brockhauser |
-| ILL        |                                                                                                                         |
+| ILL        | Jamie Hall, William Turner                                                                                                                        |
 
 
 ** rough schedule
