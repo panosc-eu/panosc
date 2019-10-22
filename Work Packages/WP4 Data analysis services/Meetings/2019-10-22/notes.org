@@ -98,7 +98,7 @@ List of internal milestones and activities at https://github.com/orgs/panosc-eu/
 
 ** who will attend (please add)
 
-| CERIC-ERIC |                                                                              |
+| CERIC-ERIC | Carlos                                                                       |
 | EGI        | Giuseppe La Rocca,                                                           |
 | ELI        |                                                                              |
 | ESRF       |                                                                              |
