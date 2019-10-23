@@ -11,7 +11,7 @@ Minutes
 -------	
 
 
-1. Annual conference in Trieste - update 
+**1. Annual conference in Trieste - update** 
 
 Dario explained that everyone that registered for Wednesday and/or Thursday will receive an email from Elettra with the credentials.
 The timetable for the buses to Elettra is also available in Indico within the supporting information of the event.
@@ -38,7 +38,7 @@ this and confirm whether this is possible.
 Jordi inquired about the Executive Board agenda and Rudolf confirmed that this is OK, with the only pending item is confirming  the
 approval method of the next chair.
 
-2. Update from the WP Leaders - update on what has been achieved and problems
+**2. Update from the WP Leaders - update on what has been achieved and problems**
 * WP1 Management
     * Jordi reminded all WP leaders of the upcoming milestones and deliverables end of November (D1.3, MS2.1, MS3.1, MS3.2, D4.1, 
 D5.1 and D6.2), to which Jean-Francoies replied that the date for D6.2 is wrong (due month 36, not month 12). Jordi will review the
@@ -46,14 +46,14 @@ target dates of all deliverables and milestones in the portal as this one from t
 that MS2.1 will be ready, however further work will take place until the end of the year to enhance it. No one else raised concerns
 to achieve the planned deliverables/milestones.
 
-    * Jordi also reminded of the missing raw data for the Internal Financial Report (STFC) and missing replies from Questionnaires (WP2,
-WP4, WP6, WP8, ESRF, ILL, XFEL, ESS, CERIC and ELI).
+    * Jordi talked about issue [45](https://github.com/panosc-eu/panosc/issues/45) : we are missing raw data for the Internal Financial Report (STFC) and missing replies from Questionnaires (WP2,
+WP4, WP6, WP8, ESRF, ILL, XFEL, ESS, CERIC and ELI). 
 
     * Jordi requested again support dealing with the issue [41](https://github.com/panosc-eu/panosc/issues/41), as we do not have concrete KPIs to measure progress. Jordi
 clarified that ideally we would select some KPIs (this is TO DO) and then track their values at 5 points in time (Just before PaNOSC,
 each subsequent year of execution and project completion).
 
-    *Then Jordi summarised the work done on the concrete collaboration between ExPaNDS and PaNOSC (issue 46)[https://github.com/panosc-eu/panosc/issues/46]
+    * Then Jordi summarised the work done on the concrete collaboration between ExPaNDS and PaNOSC ([issue 46](https://github.com/panosc-eu/panosc/issues/46))
       * PaNOSC and ExPaNDS work together within their WP2 (Data Policy) in order to establish FAIR best practices and practical guide about what to consider for FAIRness and how could it be implemented at photon and neutron sources. It was suggested that Brian Matthews (ExPaNDS could work with WP2 PaNOSC staff)
       * If either ExPaNDS or PaNOSC organise Jupyter Notebook workshops/conferences we should plan these events together, to ensure maximum participation and transfer of knowledge.
         *Andy then pointed out that this should be done not only with ExPaNDS but also with the other cluster projects. Hans pointed out that a
@@ -102,20 +102,21 @@ Andy said that Cluster projects met in September in Brussels and that was agreed
 wondering whether all should collaborate or it is only PaNOSC not collaborating as we have not received any news form the other
 cluster projects.
 
-3. Issues https://github.com/panosc-eu/panosc/issues
+**3. Issues https://github.com/panosc-eu/panosc/issues**
 * This was covered during WP1 - Management above.
 
-4. News from other proposals and events
+**4. News from other proposals and events**
 * FAIRsFAIR data repository certification
     * Andy said that we are awaiting feedback from FAIRsFAIR. 
 * Invitation to cluster meeting @ RDA (12:00-16:00 on 21 October in Helsinki)
     * Andy said he received a one page summary from Ornela, but he is not so sure we can share its contents right now
+    * It was also explained that there was criticism of the Stromer Report 
 * The [EOSC Stakeholders meeting](https://www.eoscsecretariat.eu/eosc-symposium) 24th to 28th November in Budapest
     * Knut will attend to represent ExPaNDS, however it is not clear at this stage who will represent PaNOSC. Andy or Jordi could be
 possible candidates, however everyone is encouranged to volunteer to attend this meeting so we can better share the travel between
 all partners.
 
-5. AOB
+**5. AOB**
 * Andy asked everyone whether they have questions they would like to raise with the EB. Please email any desired question to 
 Jordi and Andy by 29th October if you want these raised.
 * Andy explained that he presented PaNOSC remotely to the [CNRS](http://www.cnrs.fr/en) and that they were positively impressed 
