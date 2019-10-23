@@ -82,12 +82,9 @@ October. He also announced a joint session with WP3, WP4 and WP6 in Trieste Wedn
     * Juncheng is working on the deliverable due end of November and a draft version for review will be available very soon.
 Andy announced that they have a preferred candidate for WP5 (recruitment not 100% confirmed yet)
 * WP6 EOSC Integration
-    * Jean-Francois reported difficulties with the WP6 meeting attendance. EGI and Geant are working, but the other partners not so
-much. 
-    * He also reported that AAI is on track with the prototype and that the 6th (in Trieste) he will need a representative from each
-partner to talk about the topic as this will affect all institutes.
-    * Regarding data transfer  EGI made progress and ELI too. Florian said that unfortunately the ELI representative for WP6 will only
-be available in Trieste 4th and 5th but not the 6th.
+    * Jean-Francois reported difficulties with the WP6 meeting attendance. EGI and Geant are working, but there is still a lack of attendance to the forthnighlty meetings for most of the RI partners. Even if people do not have yet the ressources to engage in the activities, regular attendance is important for the decision process.
+    * He also reported that AAI is on track with the prototype and that the 6th (in Trieste) he will need a representative from each partner to talk about the topic as this will affect all institutes.
+    * Regarding data transfer EGI made progress with CERIC and ELI too. Florian said that unfortunately the ELI representative for WP6 will only be available in Trieste 4th and 5th but not the 6th. Jean-François will meet the person and asked for a few slides that he could present the 6th.
 * WP7 Sustainibility
     * Roberto was absent. Dario reported that he will share news by email on Friday. **(THIS WILL THEN BE ADDED HERE)**
 * WP8 Staff training in data stewardship
