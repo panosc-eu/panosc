@@ -13,22 +13,23 @@
 ## Actions from last meeting
 
 ## Updates
+Discussed agenda for WP 5+8 meeting in Trieste (see upload). Discussed Linda's slides about workshop(s) and timing.
+
 
 # Actions
-- [ ] Kareem & Peter: Define milestones for e-neutrons migration
-- [ ] In October 10th PaNOSC VC, decide if there is basis for WP8 meeting in Trieste
-- [ ] PaNOSC GA: WP5+8 try to schedule meeting for 3h Wednesday morning, including public demo of e-neutrons at start or end
-- [ ] Thomas: Invite Fredrik to this meeting series
+- [ ] Kareem & Peter: Define milestones for e-neutrons migration (e.g. in Trieste)
 - [ ] Peter / Jakob: Work on https://github.com/McStasMcXtrace/McWeb/issues/220
-- [ ] Thomas: Ensure ESS staff is on WP8 mailinglist
+- [ ] Thomas: Ensure ESS staff is on WP8 mailinglist (in progress)
 - [ ] Alexandre: Check if Cite and CrossRef mediawiki plugins are installed and if they seem to work (ex: https://ucphmediawiki.esss.dk/ucph/index.php/The_scattering_cross_section_for_phonons). In progress. It does look like this was also not working at original site i.e. [[Diffraction from crystals#label-eq:diffraction_DW|this equation]] used in place of \ref{eq:diffraction_DW}
 - [ ] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020
-- [ ] Linda (Tommy): Update development courses @e-neutrons.org to use ucph wiki, in progress.
+- [ ] Linda: Update development courses @e-neutrons.org to use ucph wiki, in progress.
 - [ ] DST: Look at iFitlab - formulate ticket
 - [ ] Peter: Try out https://github.com/jupyterhub/ltiauthenticator according to https://moodle.org/mod/forum/discuss.php?d=362641 for investigation of Moodle <-> Jupyter via LTI. in progress (Lottie Greenwood will assist in deployment of a Jupyter before end of November)
 
-
 ## From past meetings
+- [X] Thomas: Invite Fredrik to this meeting series
+- [X] PaNOSC GA: WP5+8 try to schedule meeting for 3h Wednesday morning, including public demo of e-neutrons at end
+- [X] In October 10th PaNOSC VC, decide if there is basis for WP8 meeting in Trieste
 - [X] All: Consider attendance in Annual Meeting (4th-5th of November in Trieste)
 - [X] Thomas: Organise telco with all WP8 participants in prep of Annual Meeting - in prep. doodle link: https://doodle.com/poll/vvvhiy8m8nauhwuf
 - [X] Thomas: Arrange face2face meeting with Linda
