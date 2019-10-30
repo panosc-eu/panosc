@@ -13,7 +13,7 @@
 ## Actions from last meeting
 
 ## Updates
-Discussed agenda for WP 5+8 meeting in Trieste (see upload). Discussed Linda's slides about workshop(s) and timing.
+Discussed agenda for WP 5+8 meeting in Trieste (see [upload](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/snippets/PaNOSC_WP5-8_annualmeeting.pdf)). Discussed [Linda's slides about workshop(s) and timing](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/snippets/PaNOSC_WP5-8_annualmeeting_education.pdf). Peter and Linda did a walk-trough of the Labster game.
 
 
 # Actions
