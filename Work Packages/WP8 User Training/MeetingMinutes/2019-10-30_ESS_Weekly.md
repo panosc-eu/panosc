@@ -5,6 +5,8 @@
 * Mads, ESS
 * Thomas, ESS
 * Linda, UCPH/ESS (Skype)
+* Alexandre, ESS
+* Fredrik, ESS
 
 # Minutes
 
