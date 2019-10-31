@@ -43,7 +43,7 @@ Next meeting: Annual conference (4-6th Nov Trieste).
 
    Configuration of OneZone done. One provider has been deployed with lumia (User Id Translation) at CERIC. Reported by Giuseppe.
 
-   Report on data transfer ILL -> STFC. We have been trying transfers with GridFTP from ILL to STFC. We find the problem that we do not have compatible sets of certificates at both sites. After lots of copying certs around, we find that a CRL (certificate revocation list) related to ILL was considered out-of-date by the STFC server.
+   Report on data transfer ILL -> STFC. We have been trying transfers with GridFTP from ILL to STFC. We find the problem that we do not have compatible sets of certificates at both sites. After lots of copying certs around, we find that a CRL (certificate revocation list) related to ILL was considered out-of-date by the STFC server. Update 30/10/19: In fact, it was the client (ILL) which had an out-of-date CRL for the UK eScience CA. Ian Johnson provided a in-date CRL to ILL. This allowed the transfer to proceed further than before; the remote user (Holger) was authenticated OK, write permission to the destination file was agreed, but the transfer got a 'handshake error' before the transfer of data could start. Ian is still investigating.
 
 3.  Discussion on the report, it will be based on the use of services.
 
