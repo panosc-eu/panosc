@@ -1,0 +1,70 @@
+#+TITLE: Agenda / questions for WP4 workshop at Trieste 6 and 7 November 2019
+
+* <2019-11-06 Wed>
+
+Agenda: please check: https://indico.esrf.fr/indico/event/36/timetable/#20191106.detailed
+
+** Wed 9:00 EGI Notebooks
+ and discussion
+ Giuseppe Larocca (30 mins)
+
+** Wed 9:30 Architecture outline (Stuart, Jamie)
+and discussions
+
+** Wed 11:00 reproducible science studies (Robert, Vincent) and discussion
+
+** Interaction with WP3 and WP6, Wednesday 14:00-15:30
+ https://indico.esrf.fr/indico/event/36/timetable/#20191106.detailed
+
+** Interactions with WP8 Training, Wednesday 16:00 - 17:00
+
+* <2019-11-07 Thu>
+** 9:00 Franz Lang (STFC) :“Update on a Data Analysis as a Service platform"
+in the process of being rolled out at ISIS” and to cover: A brief
+overview of what it is and where it is at in the rollout process.
+
+** Carlos: HDF5 viewer demo
+
+
+
+* Questions and issues for WP4 (in unscheduled time)
+
+** KPIs
+- what KPIs have we got?
+- how can we take a measurement?
+
+** PaN Software catalogue
+- https://software.pan-data.eu
+- work planned on this in WP6
+- do we know about it and engage with it?
+
+** What training for WP4?
+- work with WP8
+- training in
+  - Jupyter?
+  - facility specific training?
+  - Nexus files?
+
+- who is the target audience?
+  - panosc staff?
+  - facility staff (beamline scientists)
+  - users?
+  - other? (Public?)
+
+** Reproducible data sets and publications
+- Useful example for reproducible data set
+    https://github.com/alessaan/rhapsody-in-blue
+- need to work with scientists
+
+
+** Portal for March 2020
+- deploy locally
+- who can do it? what help is needed?
+
+** Next meeting
+- when?
+- where?
+- who?
+
+** Joint updating of internal milestones
+https://github.com/orgs/panosc-eu/projects/2
