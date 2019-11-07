@@ -1,0 +1,128 @@
+#+TITLE: Agenda / questions for WP4 workshop at Trieste 6 and 7 November 2019
+:present: Carlos, Giuseppe, Thomas V, Thomas K, Jamie, Franz, Bille,Jakub, Kareem, Majid, Dario (Elettra), Hans
+
+* <2019-11-06 Wed>
+
+Agenda: please check: https://indico.esrf.fr/indico/event/36/timetable/#20191106.detailed
+
+** Wed 9:00 EGI Notebooks
+ and discussion
+ Giuseppe Larocca (30 mins)
+
+*** Onedata
+- Spaces: virtual volume
+- space can be shared by different people
+- oneprovider is the software for one-data
+- onezone - authentication and authorization
+  - already set up for PaNOSC
+
+- data access via web or REST API
+*** PyFilesystem
+- only for Python
+- supports now onedata amongst many other 'file systems'
+
+*** Notebook configuration
+- use gitub/EGI-Foundation/notebooks/Issues to request extra packages
+
+** Wed 10:30 Architecture outline (Jamie)
+** Wed 11:00 reproducible science studies (Robert, Vincent) and discussion
+
+** Interaction with WP3 and WP6, Wednesday 14:00-15:30
+ https://indico.esrf.fr/indico/event/36/timetable/#20191106.detailed
+
+Discussion:
+- Tobias: who decides which computational resource is started? WP3 or WP4?
+- Alun: how do you know about the computational resources that are available?
+
+** Interactions with WP8 Training, Wednesday 16:00 - 17:00
+
+- http://e-neutrons.org
+- can use notebooks
+- simulation based data generation and analysis are options
+  (for most common use cases)
+- List of existing training materials on Github
+- training topics
+  - physics
+  - analysis methods
+  - analysis tools
+  - Jupyter?
+  - FAIR
+  - best practice for FAIR?
+  - interactive documentation/tutorials
+- target groups:
+  - students
+  - users
+  - staff (beamline scientists)
+
+
+* <2019-11-07 Thu>
+** 9:00 Franz Lang (STFC) :“Update on a Data Analysis as a Service platform"
+in the process of being rolled out at ISIS” and to cover: A brief
+overview of what it is and where it is at in the rollout process.
+
+** 9:30 Carlos: HDF5 viewer demo
+
+
+* Questions and issues for WP4 (in unscheduled time)
+
+** KPIs
+- what KPIs have we got?
+- how can we take a measurement?
+
+KPIs discussed so far:
+- Percentage of facilities offering JupyterHub or remote desktop for
+  analysis services
+- Number of users making use of JupyterHub or remote desktop for
+  analysis services at partner facilities
+- Number of data analysis tools available through remote services
+
+Required data
+
+- Their values before PaNOSC (they may be zero in some cases)
+- Their values on Y1 of PaNOSC (so at 30th November 2019)
+- Their values on each subsequent anniversary of PaNOSC
+- Target values for when the project finishes on Y4 (Optional)
+
+** PaN Software catalogue
+- https://software.pan-data.eu
+- work planned on this in WP6
+- do we know about it and engage with it?
+
+** What training for WP4?
+- work with WP8
+- training in
+  - Jupyter?
+  - facility specific training?
+  - Nexus files?
+
+- who is the target audience?
+  - panosc staff?
+  - facility staff (beamline scientists)
+  - users?
+  - other? (Public?)
+
+** Reproducible data sets and publications
+- Useful example for reproducible data set
+    https://github.com/alessaan/rhapsody-in-blue
+- need to work with scientists
+
+
+** Portal for March 2020
+- deploy locally
+- who can do it? what help is needed?
+
+** Next meeting
+- when?
+- where?
+- who?
+
+** Joint updating of internal milestones
+https://github.com/orgs/panosc-eu/projects/2
+
+** Actions
+- Develop best pracitce guidelines for reproducible publications
+  - example ESRF (and SCS/MID@EuXFEL)
+  -> training
+
+- Person in charge of authentication should be in touch with WP6. Who
+  is this for each facility?
