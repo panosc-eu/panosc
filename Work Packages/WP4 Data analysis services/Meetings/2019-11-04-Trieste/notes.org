@@ -87,9 +87,9 @@ IPyWidgets
 KPIs discussed so far:
 - Percentage of facilities offering JupyterHub or remote desktop for
   analysis services
-- Number of users making use of JupyterHub or remote desktop for
+- Number of unique users making use of JupyterHub or remote desktop for
   analysis services at partner facilities
-- Number of data analysis tools available through remote services
+- Number of "techniques" available through remote services
 
 Required data
 
