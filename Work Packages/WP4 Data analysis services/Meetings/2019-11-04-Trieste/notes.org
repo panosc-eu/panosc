@@ -60,8 +60,23 @@ Discussion:
 in the process of being rolled out at ISIS” and to cover: A brief
 overview of what it is and where it is at in the rollout process.
 
+- isis.analysis.stfc.ac.uk
+
+
 ** 9:30 Carlos: HDF5 viewer demo
 
+Discussion
+- hd5 viewer of wider interest
+- new ESRF recruit may be able to lead the unification of this
+
+IPyWidgets
+- what is missing?
+  - masking tool
+
+
+** REANA
+- platform similar to PaNOSC vision for particle physics
+- Robert to send paper around.
 
 * Questions and issues for WP4 (in unscheduled time)
 
