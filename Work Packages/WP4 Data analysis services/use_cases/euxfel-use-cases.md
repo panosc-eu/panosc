@@ -12,7 +12,7 @@ Programmers create/change the code inside the notebooks as they work on the data
 
 ### PyFAI
 
-[Same as ESRF](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/use_cases/ESRF-use-cases.rst#pyfai)
+[Same as ESRF](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/use_cases/ESRF/pyfai.rst)
 
 ### Calibration
 
