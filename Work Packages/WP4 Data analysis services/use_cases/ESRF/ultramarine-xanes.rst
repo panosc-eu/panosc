@@ -15,7 +15,7 @@ Sulfur K-edge Micro- and Full-field XANES Identifies Marker for Preparation Meth
 * **Authors**: Gambardella A., Cotte M., De nolf W., Schnetz K., Erdmann R., Van elsas R., Gonzalez V., Wallert A., Eveno M., Keune K.
 * **Dataset**:
   *Gambardella A., Cotte M., De nolf W., Schnetz K., Erdmann R., Van elsas R., Gonzalez V., Wallert A., Eveno M., Keune K. (2019). Sulfur K-edge Micro- and Full-field XANES Identifies Marker for Preparation Method of Ultramarine Pigment from Lapis Lazuli in Historical Paints. European Synchrotron Radiation Facility (ESRF).* `doi:10.15151/ESRF-DC-186933507 <https://data.datacite.org/10.15151/ESRF-DC-186933507>`_ 
-* **Analysis notebooks**: https://github.com/alessaan/rhapsody-in-blue
+* **Analysis notebooks**: https://github.com/alessaan/rhapsody-in-blue (See README for more details)
 * **Publication**:
 
 * **Additional material**: `Notebook illustrating how to download datasets from ESRF <download_ESRF_datasets.ipynb>`_
