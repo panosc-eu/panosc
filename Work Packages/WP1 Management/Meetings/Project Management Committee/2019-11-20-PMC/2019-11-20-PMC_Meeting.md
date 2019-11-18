@@ -5,10 +5,10 @@ Agenda
 ------	
 
 1. Deliverables due end of November
-	WP1: Annual workshop report - draft shared, awaiting feedback
-	WP4: Report data analysis capture
-	WP5: Prototype simulation data formats - draft shared, awaiting feedback
-Also, some milestones due (MS1.2, MS2.1, MS3.1, MS3.2)
+ * WP1: Annual workshop report - draft shared, awaiting feedback
+ * WP4: Report data analysis capture
+ * WP5: Prototype simulation data formats - draft shared, awaiting feedback
+ * Also, some milestones due (MS1.2, MS2.1, MS3.1, MS3.2)
 
 2. Update of annual meeting in Trieste
 
@@ -21,7 +21,7 @@ Also, some milestones due (MS1.2, MS2.1, MS3.1, MS3.2)
 | WP3 Data Catalog Services | **Milestones MS3.1 and MS3.2 due end Nov** | 
 | WP4 Data Analysis Services | **Deliverable D4.1 due end Nov** | 
 | WP5 Virtual Neutron and X-ray Laboratory | **Deliverable D5.1 due end Nov** | 
-| WP6 EOSC Integration | **Deliverable D6.2 due end Nov** | 
+| WP6 EOSC Integration | | 
 | WP7 Sustainibility |  | 
 | WP8 Staff training in data stewardship |  | 
 | WP9 Outreach & Communication |  | 
