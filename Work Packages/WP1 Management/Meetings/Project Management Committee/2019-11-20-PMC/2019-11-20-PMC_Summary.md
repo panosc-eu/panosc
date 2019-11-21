@@ -52,8 +52,8 @@ thanked the organisers of the annual event.
     * During the meeting it was also a good opportunity to meet each other in the WP
    
 * WP6 EOSC Integration
-    * Jean-Francois was absent. Giuseppe reported that the joint WP4-5-6 session went well and confirmed that EGI can provide resources
-so it is not a problem at all if any partner requires resources.
+    * Jean-Francois was absent. Giuseppe reported that the joint WP4-5-6 session went well and confirmed that EGI can provide resources so it is not a problem at all if any partner requires resources. 
+    * It was then briefly discussed that due to the difficulties at ILL and ESRF to recruit System Administrators for WP6 we could maybe look into moving some effort from these two partners into EGI, who could offer these skills.
 
 * WP7 Sustainibility
     * Roberto was absent. It was briefly discussed the Strawman Report and we commented it.
