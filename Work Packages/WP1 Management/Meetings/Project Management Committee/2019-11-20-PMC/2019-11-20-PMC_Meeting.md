@@ -31,6 +31,7 @@ Agenda
 5. News from other proposals and events
     * FAIRsFAIR data repository certification
     * The [EOSC Stakeholders meeting](https://www.eoscsecretariat.eu/eosc-symposium) 24th to 28th November in Budapest
+    * Position Paper on EOSC by PaNOSC (added to the agenda 20/11/2019 by A. Gotz)
 
 6. Job openings and hirings
 
