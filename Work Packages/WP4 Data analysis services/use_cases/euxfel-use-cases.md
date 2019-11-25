@@ -10,6 +10,8 @@ Broadly speaking, notebook usecases can be split up into two categories based on
 
 Programmers create/change the code inside the notebooks as they work on the data. Non-programmers only execute the notebooks to look at its outputs, or use the notebooks via widgets/interactive plotting.
 
+A basic example going through our data access package is available on MyBinder [here](https://mybinder.org/v2/gh/RobertRosca/panosc-trieste-demo/v0.0.1), alternatively the example can be run locally via a Singularity image from [here](https://cloud.sylabs.io/library/_container/5dbdf45634cc93d1ac4a0e2d), or using [this repository](https://github.com/RobertRosca/panosc-trieste-demo) it is possible to install the software directly or re-build the singularity/docker images.
+
 ### PyFAI
 
 [Same as ESRF](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/use_cases/ESRF/pyfai.rst)
