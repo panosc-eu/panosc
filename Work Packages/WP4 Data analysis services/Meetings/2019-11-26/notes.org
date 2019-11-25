@@ -1,6 +1,24 @@
 #+TITLE: WP4 Video meeting <2019-11-26 Tue 15:00>
 
 
-* Report from Portal
-* Report from reproducible science data and analysis sets
+
+* Update from WP4 Questionnaire (Jamie)
+* Report from reproducible science data and analysis sets (Thomas Vincent/Robert)
+* (Time permitting:) Update from Portal (Jamie/Stuart/?)
+
+* Next meeting
+** Video meeting
+- Tuesday 10 December 15:00 
+  - 30 min only?
+- Tuesday 14 January 15:00
+** In person meeting
+- post portal release?
+- where?
 * Any other business
+- Suggestions for future topics?
+
+* Future topics
+- REANA
+- KPIs
+- Training material
+
