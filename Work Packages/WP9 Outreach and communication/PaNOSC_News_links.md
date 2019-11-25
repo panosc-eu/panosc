@@ -1,5 +1,21 @@
 PaNOSC News links
 =================
+November 2019
+-------------
+* https://cordis.europa.eu/article/id/411604-first-panosc-publication-released-at-icalepcs19/en (1st PaNOSC publication released at ICALECPS19 / CORDIS-Wire website
+* https://cordis.europa.eu/article/id/411602-video-interview-with-dr-alessa-gambardella-on-the-advantages-the-eosc-could-bring-to-research/en (Interview with Dr. Alessa Gambardella / CORDIS-Wire website)
+* https://www.ceric-eric.eu/2019/11/22/another-milestone-reached-with-the-1st-panosc-annual-meeting-organized-by-ceric/ (Post-event news - PaNOSC annual meeting / CERIC-ERIC website)
+* https://www.youtube.com/watch?v=Qtv0ZALcxl0 (PaNOSC video on 1st PaNOSC annual meeting / PaNOSC youtube channel)
+* https://cordis.europa.eu/article/id/411601-another-milestone-reached-with-the-1st-panosc-annual-meeting/en (Post-event news - PaNOSC annual meeting / CORDIS-Wire website)
+
+September 2019
+-------------
+* https://www.fairsfair.eu/events/join-panosc-1st-annual-meeting (Announcement 1st PaNOSC annual meeting / FAIRsFAIR website)
+* https://www.mariecuriealumni.eu/events-rss/panosc-1st-annual-meeting (Announcement 1st PaNOSC annual meeting / Marie Curie Alumni Association website)
+* http://www.eosc-life.eu/news/panosc-1st-annual-meeting/ (Announcement 1st PaNOSC annual meeting / EOSC life website)
+* https://cordis.europa.eu/event/rcn/147444/en?isPermaLink=true&WT.mc_id=RSS-Feed&WT.rss_f=event&WT.rss_a=147444&WT.rss_ev=a (Announcement 1st PaNOSC annual meeting / CORDIS-Wire website)
+* https://indico.esrf.fr/indico/event/36/overview (1st PaNOSC annual meeting on Indico)
+
 August 2019
 -------------
 * https://www.fairsfair.eu/news/hdf5-european-workshop-science-and-industry (PaNOSC HDF5 European Workshop for Science and Industry) FAIRsFAIR website
