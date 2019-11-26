@@ -1,5 +1,5 @@
 # PaNOSC WP4 use cases at ESS
-##Intro
+## Intro
 This document describes applications that scientists would like to have available via the portal for WP4, and gives links to relevant documentation and use cases for them.
 
 ## Mantid / Sci++
