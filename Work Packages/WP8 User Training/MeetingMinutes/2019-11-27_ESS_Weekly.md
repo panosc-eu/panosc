@@ -2,31 +2,30 @@
 # Participants
 
 * Peter, DTU/ESS
-* Mads, ESS
 * Thomas, ESS
-* Linda, UCPH/ESS (Skype)
 * Alexandre, ESS
-* Fredrik, ESS
 
 # Minutes
 
 ## Actions from last meeting
 
 ## Updates
-Discussed agenda for WP 5+8 meeting in Trieste (see [upload](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/snippets/PaNOSC_WP5-8_annualmeeting.pdf)). Discussed [Linda's slides about workshop(s) and timing](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/snippets/PaNOSC_WP5-8_annualmeeting_education.pdf). Peter and Linda did a walk-trough of the Labster game.
-
+Lotti from DST has set up a Jupyter-hub with Moodle authentification, see https://jira.esss.lu.se/browse/DSTK-3946. We tried / demoed during the meeting.
 
 # Actions
-- [ ] Kareem & Peter: Define milestones for e-neutrons migration (e.g. in Trieste)
+- [ ] Thomas: Put up doodle for monthly WP8 meeting
+- [ ] Peter: Communicate with ELI wrt. Jhub (Jakub) on status
+- [ ] Peter to test the DST Moodle-Jupyter setup for "returning" something from the Moodle side
+- [ ] Kareem, Alexandre & Peter: Define milestones for e-neutrons migration (VC on Thursday Dec 5th 11:00?)
 - [ ] Peter / Jakob: Work on https://github.com/McStasMcXtrace/McWeb/issues/220
 - [ ] Thomas: Ensure ESS staff is on WP8 mailinglist (in progress)
 - [ ] Alexandre: Check if Cite and CrossRef mediawiki plugins are installed and if they seem to work (ex: https://ucphmediawiki.esss.dk/ucph/index.php/The_scattering_cross_section_for_phonons). In progress. It does look like this was also not working at original site i.e. [[Diffraction from crystals#label-eq:diffraction_DW|this equation]] used in place of \ref{eq:diffraction_DW}
 - [ ] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020
 - [ ] Linda: Update development courses @e-neutrons.org to use ucph wiki, in progress.
 - [ ] DST: Look at iFitlab - formulate ticket
-- [ ] Peter: Try out https://github.com/jupyterhub/ltiauthenticator according to https://moodle.org/mod/forum/discuss.php?d=362641 for investigation of Moodle <-> Jupyter via LTI. in progress (Lottie Greenwood will assist in deployment of a Jupyter before end of November)
 
 ## From past meetings
+- [X] Peter: Try out https://github.com/jupyterhub/ltiauthenticator according to https://moodle.org/mod/forum/discuss.php?d=362641 for investigation of Moodle <-> Jupyter via LTI. in progress (Lottie Greenwood will assist in deployment of a Jupyter before end of November)
 - [X] Thomas: Invite Fredrik to this meeting series
 - [X] PaNOSC GA: WP5+8 try to schedule meeting for 3h Wednesday morning, including public demo of e-neutrons at end
 - [X] In October 10th PaNOSC VC, decide if there is basis for WP8 meeting in Trieste
