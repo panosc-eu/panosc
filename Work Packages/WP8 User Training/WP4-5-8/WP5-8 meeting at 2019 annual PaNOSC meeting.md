@@ -73,7 +73,7 @@ Who should be involved
    * After some discussion of the milestones it was agreed to organize a face-to-face meeting for the beginning of next year where ExPaNDS also should be included and that there most likely should be two workshops, one on making a course and one for employing the e-learning platform but that it should be discussed in more detail at the upcoming meeting. Perhaps the LSF course could be used to drive the development of all courses.
    * Engagement from ILL and ESRF is still missing, but Thomas mentioned that he had spoken to both ILL and ESRF who has said they will commit. 
    * Juncheng, Aljosa, and Mousumi commited to help out. 
-      * Mousumi teaches at the university which can be used for testing the e-learning platform and its material
+      * Mousumi teaches at the university which can be used for testing the e-learning platform and its material. Mousumi should coordinate with Florian.
       * Aljosa has a background from ILL and is just experienced in both photons and neutrons
    * It would be useful with an e-learning course on how to develop course material for the e-learning platform.
    
@@ -91,6 +91,7 @@ Who should be involved
  
  [ ] Thomas to organize monthly meetings
  [ ] Thomas to organize together with ExPaNDS and perhaps WP5 a meeting in spring 2020.
+ [ ] Mousumi to coordinate with Florian for ELI contributions.
    
    
 
