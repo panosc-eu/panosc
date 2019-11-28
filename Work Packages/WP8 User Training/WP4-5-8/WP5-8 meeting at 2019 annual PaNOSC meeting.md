@@ -71,16 +71,16 @@ WP8 status updates
 Who should be involved
 ======================
    * After some discussion of the milestones it was agreed to organize a face-to-face meeting for the beginning of next year where ExPaNDS also should be included and that there most likely should be two workshops, one on making a course and one for employing the e-learning platform but that it should be discussed in more detail at the upcoming meeting. Perhaps the LSF course could be used to drive the development of all courses.
-   * Engagement from ILL and ESRF is still missing, but Thomas mentioned that he had spoken to both ILL and ESRF who has said they will commit. 
+   * Engagement from ILL and ESRF is still missing, but Thomas mentioned that he had spoken to both ILL and ESRF who have reaffirmed their commitment. 
    * Juncheng, Aljosa, and Mousumi commited to help out. 
-      * Mousumi teaches at the university which can be used for testing the e-learning platform and its material. Mousumi should coordinate with Florian.
+      * Mousumi teaches at the university which can be exploited for testing the e-learning platform and its material. Mousumi should coordinate with Florian about her contribution to WP8.
       * Aljosa has a background from ILL and is just experienced in both photons and neutrons
    * It would be useful with an e-learning course on how to develop course material for the e-learning platform.
    
    
    Simulations in the e-learning platform
    ======================================
-   * Peter demonstrated the web widget version of the simulation capabilities in e-neutrons.org, whereas Mads demonstrated a Jupyter notebook running everything from ray-tracing simulations through reduction to analysis
+   * Peter demonstrated the web widget version of the simulation capabilities in e-neutrons.org, whereas Mads demonstrated a Jupyter notebook running everything from ray-tracing simulations through reduction to analysis. The ray-tracing simulations were run with McStasScript developed in the course of PaNOSC.
    * Aljosa on OASYS. Not well documented and hard to figure out how it works. Interface is based on Qt/Python. It should be possible to interact directly with Python layer, but currently it is not known how to do it. Perhaps Carsten knows, since simex has some kind of an interface to oasys. Orange can be made to run in a browser but it is not easily integratable with other web apps.
    * Juncheng gave a presentation on SIMEX. SIMEX seems to be the path into the e-learning platform for the photon world. It should be pretty straigtforward to interface xfel, but also syncrhotrons if the interface with OASYS works.
    * Mousumi on simulations relevant for ELI. It is possible to do experiment simulations for ELI, e.g. based on TDDFT, but not instrument specific ones as is known from other photon sources and the neutron sources.
@@ -90,8 +90,8 @@ Who should be involved
  =======
  
  [ ] Thomas to organize monthly meetings
- [ ] Thomas to organize together with ExPaNDS and perhaps WP5 a meeting in spring 2020.
- [ ] Mousumi to coordinate with Florian for ELI contributions.
+ [ ] Thomas to organize f2f meeting in spring together with ExPaNDS and perhaps WP5 a meeting in spring 2020.
+ [ ] Mousumi to coordinate with Florian for ELI contributions to WP8.
    
    
 
