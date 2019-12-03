@@ -1,5 +1,8 @@
-Supporting material for meeting 04-12-2019
+PaNOSC WP 7 meeting - 04/12/2019
+========================================================
 
+Supporting material
+------
 
 a) List of items we should consider as inputs to the cost model in order to define a clear cost reflecting only the part that has to do with PaNOSC:
 –Infrastructure build to the sole purpose to be FAIR
