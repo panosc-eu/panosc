@@ -22,7 +22,7 @@ the final deliverable and documents supporting a milestone should be added to Gi
 Rudolf suggested to extend the period to two weeks and to send reminders, so finally it was agreed that:
     + WP1 will remind WP Leaders and PMC attendees 4 weeks before the deliverable/milestone is due
     + WP Leader will provide the final version (from the WP point of view) of the deliverable to WP1 Leader at least 2 weeks before the due date in MS Word format
-    + This will enable enough time for the finnal validation and submision
+    + This will enable enough time for the final validation and submision
     
 **2. M18 - Plenty of deliverables + mid-term report**
 
