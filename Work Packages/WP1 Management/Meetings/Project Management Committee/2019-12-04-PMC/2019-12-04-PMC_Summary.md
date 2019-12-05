@@ -29,6 +29,7 @@ Rudolf suggested to extend the period to two weeks and to send reminders, so fin
 Jordi explained that in M18 we have plenty of deliverables and milestones due, far more than last November. This is likely to cause issues in order to validate before submitting in the EC Portal. On top of that, it is scheduled that a review meeting will take place with our Project Officer, which will add to the workload.
 
 In order to ensure that we can do deliver, Jordi asked if any planned deliverable could be advanced:
+* D1.2b -> Jordi could not provide the mid-year summary report early, as otherwise will not cover the half-year
 * D2.1 -> Andy committed to have the final deliverable ready by the end of March
 * D3.1 -> Tobias was absent, therefore an answer will be expected on the next PMC
 * D4.2 -> Hans was absent, therefore an answer will be expected on the next PMC
