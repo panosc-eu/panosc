@@ -101,5 +101,10 @@ there is any other need please let us know. He is starting to review the Data Po
 **4. News from other proposals and events**
 
 Andy explained that FAIRsFAIR is providing 10K euros, but it is not clear what we need to do for them and for the data repository certification.
-Andy attended the EOSC Stakeholders meeting 24th to 28th November and explained
+Andy attended the EOSC Stakeholders meeting 24th to 28th November and explained that:
+    * Clusters shared taht there is no official channel for clusters to give feedback for the EOSC
+    * EOSC EB has received the position papers
+    * Clusters are worried that the EOSC could end up beings just re-labelling of what is already existing
+    * EOSC Board - Governance Working Group will change the way is organised
+    * There may be a *Hackathon* between clusters for technical people (HDF5, Jupyter, etc.) 
 
