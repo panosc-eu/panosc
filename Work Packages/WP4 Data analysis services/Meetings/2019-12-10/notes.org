@@ -26,7 +26,7 @@
 
 * Next meetings
 ** Video meeting
-[[https://github.com/panosc-eu/panosc/blob/master/Work%2520Packages/WP4%2520Data%2520analysis%2520services/Meetings/2020-01-14/notes.org][14 January 2020, 15:00]]
+[[file:~/git/panosc/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-01-14/notes.org][14 January 2020, 15:00]] (https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-01-14/notes.org)
 ** In person
 - what weeks would be sensible?
 - Probably soon after portal release?
