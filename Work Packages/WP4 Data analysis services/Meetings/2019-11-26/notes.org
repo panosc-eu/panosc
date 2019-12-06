@@ -3,22 +3,14 @@
 
 
 * Update from WP4 Questionnaire (Jamie)
-* Report from reproducible science data and analysis sets (Thomas Vincent/Robert)
-* (Time permitting:) Update from Portal (Jamie/Stuart/?)
+
+- Review of draft for deliverable
+- subsequent work between partners and contributors.
 
 * Next meeting
-** Video meeting
 - Tuesday 10 December 15:00 
-  - 30 min only?
-- Tuesday 14 January 15:00
-** In person meeting
-- post portal release?
-- where?
-* Any other business
-- Suggestions for future topics?
+- Jamie will chair
 
-* Future topics
-- REANA
-- KPIs
-- Training material
+* AoB
+- Other topics postponed to next meeting.
 

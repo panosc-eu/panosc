@@ -1,1 +1,47 @@
-* REANA
+#+TITLE: WP4 Video meeting <2019-12-10 Tue 15:00>
+
+* KPIs
+- KPIs are defined during Trieste meeting (https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2019-11-04-Trieste/notes.org#kpis)
+- They are
+  - KPI1: Percentage of facilities offering JupyterHub or remote desktop for analysis
+    services
+  - KPI2: Number of unique users making use of JupyterHub or remote desktop for
+    analysis services at partner facilities
+  - KPI3: Number of “techniques” available through remote services
+
+- We need to find the corresponding numbers from every facility from 
+  - before the project started, i.e. month0 (=M0) and 
+  - after the first year, i.e. on 30 November 2019, (=M12)
+
+|------------+-----------+----------+-----------+----------+-----------|
+| KPI 1 M0   | KPI 1 M12 | KPI 2 M0 | KPI 2 M12 | KPI 3 M0 | KPI 3 M12 |
+|------------+-----------+----------+-----------+----------+-----------|
+| CERIC-ERIC |           |          |           |          |           |
+| ELI        |           |          |           |          |           |
+| ESS        |           |          |           |          |           |
+| EuXEL      |           |          |           |          |           |
+| ESRF       |           |          |           |          |           |
+| ILL        |           |          |           |          |           |
+|------------+-----------+----------+-----------+----------+-----------|
+
+* Next meetings
+** Video meeting
+14 January 2020, 15:00
+** In person
+- what weeks would be sensible?
+- Probably soon after portal release?
+- who could host?
+
+* Update from Portal (Jamie/Stuart/?)
+* Progress reports from each site
+* Any other business
+
+-----
+
+* Future topics
+- Report from reproducible studies
+- REANA
+- Training material
+
+
+  
