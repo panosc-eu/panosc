@@ -91,7 +91,7 @@ there is any other need please let us know. He is starting to review the Data Po
 * WP9 Outreach and Communication
     * Nicoletta explaiend that he is having updates and videos for the website, however she is stil awaiting feedback from partners for one of the WP9 internal milestones.
     * Nicoletta verified as well that the material sent has been received by the ESRF and ILL.
-    * Work is ongoing on adapting the ILL DOI video, with the source content obtained and the person in charge of its realization at ILL contacted, however it is unlikely that it will be ready for February (ESRF's User Meeting)
+    * Work is ongoing on adapting the ILL DOI video, with the source content obtained and the information about the supplier collected, however it is unlikely that it will be ready for February (ESRF's User Meeting)
     * Nicoletta is also in touch with the ExPaNDS communication representative (from DIAMOND)
     
 * ExPaNDS
