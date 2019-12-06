@@ -26,13 +26,13 @@
 
 * Next meetings
 ** Video meeting
-14 January 2020, 15:00
+[[https://github.com/panosc-eu/panosc/blob/master/Work%2520Packages/WP4%2520Data%2520analysis%2520services/Meetings/2020-01-14/notes.org][14 January 2020, 15:00]]
 ** In person
 - what weeks would be sensible?
 - Probably soon after portal release?
 - who could host?
 
-* Update from Portal (Jamie/Stuart/?)
+* Update from Portal (Jamie/Stuart)
 * Progress reports from each site
 * Any other business
 

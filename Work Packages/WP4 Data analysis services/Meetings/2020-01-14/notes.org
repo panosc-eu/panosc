@@ -1,14 +1,24 @@
 #+TITLE: WP4 Video meeting <2020-01-14 Tue 15:00>
 
-* Report from reproducible science data and analysis sets (Thomas Vincent/Robert)
-* (Time permitting:) Update from Portal (Jamie/Stuart/?)
+* Report from reproducible science data and analysis sets from each site
+** Overview Thomas V / Robert
+** CERIC-ERIC
+** ELI
+** ESS
+** EuXFEL
+** ESRF
+** ILL
+
+* Update from Portal (Jamie/Stuart)
 
 * Next meeting
 ** Video meeting
 - Tuesday 4th February 15:00
 ** In person meeting
-- post portal release?
-- where?
+- Where and when?
+- Who will be attending?
+- How will we organise ourselves?
+
 * Any other business
 - Suggestions for future topics?
 
