@@ -89,10 +89,10 @@ Who should be involved
  Actions
  =======
  
- [ ] Thomas to organize monthly meetings
- [ ] Thomas to organize f2f meeting in spring together with ExPaNDS and perhaps WP5 a meeting in spring 2020.
- [ ] Mousumi to coordinate with Florian for ELI contributions to WP8.
-   
+    [ ] Thomas to organize monthly meetings
+    [ ] Thomas to organize f2f meeting in spring together with ExPaNDS and perhaps WP5 a meeting in spring 2020.
+    [ ] Mousumi to coordinate with Florian for ELI contributions to WP8.
+    
    
 
 
