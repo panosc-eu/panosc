@@ -21,7 +21,7 @@
 
 |            | KPI1 M0 | KPI 1 M12              | KPI 2 M0 | KPI 2 M12 | KPI 3 M0   | KPI 3 M12   |
 | ---------- | --------|----------------------- | -------- | --------- | ---------- | ----------- |
-| CERIC-ERIC |         |                        |          |           |            |             |
+| CERIC-ERIC |    0    | (JupyterHub)           | 0        | 0         | 0          | 0           |
 | ELI        |    0    |                        | 0        | 0         | 0          | 1           |
 | ESS        |    1    | (JupyterHub)           | 0        | 0         | 0          | 0           |
 | EuXEL      |    1    | (JupyterHub/FastX)     | -        | 150       | 2          | 2           |
