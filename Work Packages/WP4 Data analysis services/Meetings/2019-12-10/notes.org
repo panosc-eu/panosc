@@ -1,5 +1,7 @@
 #+TITLE: WP4 Video meeting <2019-12-10 Tue 15:00>
 
+* Please find [[file:summary.md][minutes of the meeting here]]
+
 * KPIs
 - KPIs are defined during Trieste meeting (https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2019-11-04-Trieste/notes.org#kpis)
 - They are
@@ -13,16 +15,16 @@
   - before the project started, i.e. month0 (=M0) and 
   - after the first year, i.e. on 30 November 2019, (=M12)
 
-|------------+-----------+----------+-----------+----------+-----------|
-| KPI 1 M0   | KPI 1 M12 | KPI 2 M0 | KPI 2 M12 | KPI 3 M0 | KPI 3 M12 |
-|------------+-----------+----------+-----------+----------+-----------|
-| CERIC-ERIC |           |          |           |          |           |
-| ELI        |           |          |           |          |           |
-| ESS        |           |          |           |          |           |
-| EuXEL      |           |          |           |          |           |
-| ESRF       |           |          |           |          |           |
-| ILL        |           |          |           |          |           |
-|------------+-----------+----------+-----------+----------+-----------|
+|------------+---------+-----------+----------+-----------+----------+-----------|
+|            | KPI1 M0 | KPI 1 M12 | KPI 2 M0 | KPI 2 M12 | KPI 3 M0 | KPI 3 M12 |
+|------------+---------+-----------+----------+-----------+----------+-----------|
+| CERIC-ERIC |         |           |          |           |          |           |
+| ELI        |         |           |          |           |          |           |
+| ESS        |         |           |          |           |          |           |
+| EuXEL      |         |           |          |           |          |           |
+| ESRF       |         |           |          |           |          |           |
+| ILL        |         |           |          |           |          |           |
+|------------+---------+-----------+----------+-----------+----------+-----------|
 
 * Next meetings
 ** Video meeting

@@ -19,14 +19,14 @@
   - before the project started, i.e. month0 (=M0) and
   - after the first year, i.e. on 30 November 2019, (=M12)
 
-| KPI 1 M0   | KPI 1 M12                | KPI 2 M0 | KPI 2 M12 | KPI 3 M0   | KPI 3 M12   |
-| ---------- | ------------------------ | -------- | --------- | ---------- | ----------- |
-| CERIC-ERIC |                          |          |           |            |             |
-| ELI        | 0                        | 0        | 0         | 0          | 1           |
-| ESS        | 1 (JupyterHub)           | 0        | 0         | 0          | 0           |
-| EuXEL      | 1 (JupyterHub/FastX)     | -        | 150       | 2          | 2           |
-| ESRF       | 1 (JupyterHub/NoMachine) | 20       | 0         | 1 beamline | 3 beamlines |
-| ILL        | 1 (JupyterHub/VISA)      | 0        | 1         | 0          | 2           |
+|            | KPI1 M0 | KPI 1 M12              | KPI 2 M0 | KPI 2 M12 | KPI 3 M0   | KPI 3 M12   |
+| ---------- | --------|----------------------- | -------- | --------- | ---------- | ----------- |
+| CERIC-ERIC |         |                        |          |           |            |             |
+| ELI        |    0    |                        | 0        | 0         | 0          | 1           |
+| ESS        |    1    | (JupyterHub)           | 0        | 0         | 0          | 0           |
+| EuXEL      |    1    | (JupyterHub/FastX)     | -        | 150       | 2          | 2           |
+| ESRF       |    1    | (JupyterHub/NoMachine) | 20       | 0         | 1 beamline | 3 beamlines |
+| ILL        |    1    | (JupyterHub/VISA)      | 0        | 1         | 0          | 2           |
 
 # Next meetings
 
