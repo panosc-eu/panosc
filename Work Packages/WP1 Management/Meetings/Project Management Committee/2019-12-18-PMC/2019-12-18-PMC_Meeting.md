@@ -12,12 +12,14 @@ Agenda
 | ---- | ------------- | -------- | -------- |
 | D1.2b Mid-year Summary | end May | May 2020 | Cannot cover whole 1/2 year if submitted early |
 | D2.1 PaNOSC data policy framework updated | end March 2020 | May 2020 | |
-| D3.1 API definition | end May ? | May 2020 | |
+| D3.1 API definition | end May ??? | May 2020 | |
 | D4.2 Prototype remote desktop and Jupyter service | ??? | May 2020 | | 
 | D6.1 EGI data-hub integration with facilities' data repositories | mid-May | May 2020 | |
 | D7.1 PaN EOSC Stakeholder Feedbacks | ??? |  |
 
-3. Update from the WP Leaders - update on what has been achieved and problems
+3. INFRAEOSC-03 & meeting 10/01/2020 in Brussels
+
+4. Update from the WP Leaders - update on what has been achieved and problems
 
 | WP | Notes |
 | -- | ----- |
@@ -31,13 +33,13 @@ Agenda
 | WP8 Staff training in data stewardship | IMS8.2 Solution for Jupyter integration & IMS8.6 Wish-list from partners - end Dec | 
 | WP9 Outreach & Communication | IMS9.1 Report on Y1 outreach activities - end Dec + IMS9.2, IMS9.3, IMS9.4 | 
 
-4. News from other proposals and events
-    * INFRAEOSC-03 & meeting 10/01/2020 in Brussels
+5. News from other proposals and events
+    * INFRAEOSC-03 & meeting 10/01/2020 in Brussels (point 3 of the agenda)
     * FAIRsFAIR data repository certification
     * EOSC-Life Annual Meeting (Florence 03/03/2019)
 
-5. Issues https://github.com/panosc-eu/panosc/issues
+6. Issues https://github.com/panosc-eu/panosc/issues
 
-6. Job openings and hirings
+7. Job openings and hirings
 
-7. AOB
+8. AOB
