@@ -7,6 +7,7 @@ Agenda
 1. Milestones supporting documents in GitHub + Internal Milestones supporting documents in GitHub
 
 2. M18 - Deliverables + Milestones that can be advanced
+
 | Item | Original date | New Date | Comments |
 | ---- | ------------- | -------- | -------- |
 | D1.2b Mid-year Summary | end May | May 2020 | Cannot cover whole 1/2 year if submitted early |
