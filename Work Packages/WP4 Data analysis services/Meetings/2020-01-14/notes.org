@@ -10,8 +10,11 @@
 ** ILL
 
 * Update from Portal (Jamie/Stuart)
-
-* Next Deliverable
+- when is it ready for deployment?
+* Internal Milestone month 12
+- IMS 4.1a architecture and design of DAAS - end Nov
+- Robert R to draft something based on planning in emails
+* Next Deliverable (April 2020)
   - Request from Management to move this from month 18 to month 16.5
   - "Deliverable 4.2. Prototype remote desktop and Jupyter service (M18, DEM,
     CO, ILL)"
