@@ -11,6 +11,15 @@
 
 * Update from Portal (Jamie/Stuart)
 
+* Next Deliverable
+  - Request from Management to move this from month 18 to month 16.5
+  - "Deliverable 4.2. Prototype remote desktop and Jupyter service (M18, DEM,
+    CO, ILL)"
+  - Short report describing:
+    - situation at each facility, URLs to entry points/documentation
+    - comparison of infrastructure (if appropriate)
+    - summary
+  - who can lead this?
 * Next meeting
 ** Video meeting
 - Tuesday 4th February 15:00
