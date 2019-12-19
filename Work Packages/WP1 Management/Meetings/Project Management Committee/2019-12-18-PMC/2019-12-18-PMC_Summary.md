@@ -26,7 +26,7 @@ Jordi asked WP leaders to confirm whether deliverables due M18 can be advanced o
 
 The current planning is therefore:
 
-| Item | Original date | New Date | Comments |
+| Item | New date | Original Date | Comments |
 | ---- | ------------- | -------- | -------- |
 | D1.2b Mid-year Summary | end May | May 2020 | Cannot cover whole 1/2 year if submitted early |
 | D2.1 PaNOSC data policy framework updated | end April 2020 | May 2020 | |
