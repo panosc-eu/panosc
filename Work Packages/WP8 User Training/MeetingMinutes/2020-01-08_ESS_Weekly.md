@@ -14,6 +14,7 @@ WP8: Various updates, see completed actions below
 ## Updates
 
 # Actions
+- [ ] Mads: Communicate event dates for WP5 meeting in Hamburg to Peter and Erik(DTU)
 - [ ] Thomas: Get Brian and Ari to discuss issue of 'user-transferral' from existing e-neutrons
 - [ ] Thomas: Put up doodle for monthly WP8 meeting
 - [ ] Peter / Jakob: Work on https://github.com/McStasMcXtrace/McWeb/issues/220
