@@ -9,6 +9,7 @@
 
 ## Actions from last meeting
 WP5: McStasScript well received at ORNL for SNS and HFIR guide updates etc.
+WP8: Various updates, see completed actions below
 
 ## Updates
 
