@@ -10,8 +10,8 @@ Agenda
 
 3. Next Deliverables & Milestones 
 
-| Item | New date | Original Date | 
-| ---- | ------------- | -------- | 
+| Deliverable | New date | Original Date | 
+| ----------- | -------- | ------------- | 
 | D1.2b Mid-year Summary | end May | May 2020 | 
 | D2.1 PaNOSC data policy framework updated | end April | May 2020 | 
 | D3.1 API definition | end May | May 2020 | 
@@ -19,9 +19,12 @@ Agenda
 | D6.1 EGI data-hub integration with facilities' data repositories | mid-May | May 2020 | 
 | D7.1 PaN EOSC Stakeholder Feedbacks | **TBC** | May 2020 | 
 
-| Item | Due date |
-| ---- | ------------- |
+| Milestone | Due date |
+| --------- | -------- |
 | MS8.3 pan-learning.org up and running | **February 2020** |
+
+| Internal Milestone | Due date |
+| ------------------ | -------- |
 | IMS3.2 API Feedback from ExPaNDS | March 2020 |
 | IMS3.3 Community Meeting on NeXus Ontologies | March 2020 |
 | IMS8.2 Solution for Jupyter integration found [T8.2] | December 2019 |
@@ -46,7 +49,7 @@ Agenda
 | WP5 Virtual Neutron and X-ray Laboratory |  | 
 | WP6 EOSC Integration |  | 
 | WP7 Sustainibility |  | 
-| WP8 Staff training in data stewardship |  | 
+| WP8 Staff training in data stewardship | MS8.3 due February | 
 | WP9 Outreach & Communication | | 
 
 6. Issues https://github.com/panosc-eu/panosc/issues
