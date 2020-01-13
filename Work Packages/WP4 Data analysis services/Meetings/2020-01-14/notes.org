@@ -8,6 +8,9 @@ Apologies: Jamie
 ** ELI
 ** ESS
 ** EuXFEL
+ - Two examples [[https://github.com/European-XFEL-examples][shown in this repository]] so far
+ - Simex example is WIP
+ - Two repositories reproducing results/plots from published papers are being worked on
 ** ESRF
 ** ILL
 
