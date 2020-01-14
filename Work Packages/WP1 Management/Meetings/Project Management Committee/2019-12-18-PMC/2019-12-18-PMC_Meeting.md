@@ -19,7 +19,13 @@ Agenda
 
 3. INFRAEOSC-03 & meeting 10/01/2020 in Brussels
 
-4. Update from the WP Leaders - update on what has been achieved and problems
+4. ESFRI + EOSC cluster projects meeting 13/01/2020 in Brussels
+
+5. DRAFT Agenda for mid term review meeting in Brussels
+
+6. Collaboration with ExPaNDS 
+
+7. Update from the WP Leaders - update on what has been achieved and problems
 
 | WP | Notes |
 | -- | ----- |
@@ -33,13 +39,14 @@ Agenda
 | WP8 Staff training in data stewardship | IMS8.2 Solution for Jupyter integration & IMS8.6 Wish-list from partners - end Dec | 
 | WP9 Outreach & Communication | IMS9.1 Report on Y1 outreach activities - end Dec + IMS9.2, IMS9.3, IMS9.4 | 
 
-5. News from other proposals and events
+8. News from other proposals and events
     * INFRAEOSC-03 & meeting 10/01/2020 in Brussels (point 3 of the agenda)
+    * ESFRI + EOSC cluster projects meeting 13/01/2020 in Brussels (point 4 of the agenda)
     * FAIRsFAIR data repository certification
     * EOSC-Life Annual Meeting (Florence 03/03/2019)
 
-6. Issues https://github.com/panosc-eu/panosc/issues
+9. Issues https://github.com/panosc-eu/panosc/issues
 
-7. Job openings and hirings
+10. Job openings and hirings
 
-8. AOB
+11. AOB
