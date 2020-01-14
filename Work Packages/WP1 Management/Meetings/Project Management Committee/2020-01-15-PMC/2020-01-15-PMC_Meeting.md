@@ -62,6 +62,7 @@ Agenda
 7. News from other proposals and events
     * INFRAEOSC-03 & meeting 10/01/2020 in Brussels (point 1 of the agenda)
     * FAIRsFAIR data repository certification
+    * FAIRsFAIR [open call for FAIR champions](https://www.fairsfair.eu/form/open-call-european-fair-champions)
     * EOSC-Life Annual Meeting (Florence 03/03/2019)
 
 8. Job openings and hirings
