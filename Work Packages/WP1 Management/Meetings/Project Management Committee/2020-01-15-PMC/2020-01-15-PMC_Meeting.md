@@ -38,8 +38,6 @@ Agenda
 
 *Please do add Milestones and Internal Milestones supporting documents in GitHub*
 
-5. INFRAEOSC-03 + cluster meeting 10/01/2020 in Brussels
-
 5. Update from the WP Leaders - update on what has been achieved and problems
 
 | WP | Notes |
