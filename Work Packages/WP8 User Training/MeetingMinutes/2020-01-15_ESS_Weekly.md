@@ -11,8 +11,7 @@
 ## Actions from last meeting
 
 ## Updates
-DST good progress on puppet description. Details communicated on issues with RPM dependencies for McStas/McXtrace. Updates from ExPANDS wrt. personnel.
-Peter has discussed hw configurations with DST.
+DST good progress on puppet description. Details communicated on issues with RPM dependencies for McStas/McXtrace. Updates from ExPANDS wrt. personnel. Peter has discussed hw configurations with DST. Thomas got invitation to participate in DANS EOSC training workshop, asked Vincent (Hercules organiser) to go - otherwise Linda or Thomas himself will go.
 
 # Actions
 - [ ] Peter: Ask Brian/Jesper for link / specs for beefy node discussed.
