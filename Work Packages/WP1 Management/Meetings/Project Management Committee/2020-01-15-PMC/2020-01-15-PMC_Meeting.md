@@ -8,7 +8,9 @@ Agenda
 
 2. Draft agenda for the Review meeting in Brussels 
 
-3. Next Deliverables & Milestones 
+3. Collaboration with ExPaNDS
+
+4. Next Deliverables & Milestones 
 
 | Deliverable | New date | Original Date | 
 | ----------- | -------- | ------------- | 
@@ -36,7 +38,7 @@ Agenda
 
 *Please do add Milestones and Internal Milestones supporting documents in GitHub*
 
-4. INFRAEOSC-03 & meeting 10/01/2020 in Brussels
+5. INFRAEOSC-03 + cluster meeting 10/01/2020 in Brussels
 
 5. Update from the WP Leaders - update on what has been achieved and problems
 
@@ -61,7 +63,8 @@ Agenda
 
 7. News from other proposals and events
     * INFRAEOSC-03 & meeting 10/01/2020 in Brussels (point 1 of the agenda)
-    * FAIRsFAIR data repository certification
+    * EOSC and CNRS (22/1/2020)
+    * FAIRsFAIR data repository certification (6/2/2020)
     * FAIRsFAIR [open call for FAIR champions](https://www.fairsfair.eu/form/open-call-european-fair-champions)
     * EOSC-Life Annual Meeting (Florence 03/03/2019)
 
