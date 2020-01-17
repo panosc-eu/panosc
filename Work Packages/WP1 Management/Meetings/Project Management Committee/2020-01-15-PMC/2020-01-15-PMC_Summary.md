@@ -11,25 +11,25 @@ Minutes
 
 **1. INFRAEOSC-03 & meeting 10/01/2020 in Brussels** 
 
-Rudolf explained that during the meeting that took place in Brussels 10/01/2019 the call is to go on. The proposal is managed by Technopolis (a consutancy company) and the meeting took place in their offices. It was the first meeting with the research infrastructures (RIs) involved (previously there were only the E-Infrastructures & Technopolis). It is understood that the call will offer approximately:
+Rudolf provided feedack on the meeting that took place in Brussels on 10/01/2019 to discuss the proposal for InfraEOSC-03. The proposal is managed by Technopolis (a consutancy company) and the meeting took place in their offices. It was the first meeting with the research infrastructures (RIs) involved (previously there were only the E-Infrastructures & Technopolis). It is understood that the call will offer approximately:
 
    *  1 M€ for RDA
    * 10 M€ for Procurement
    * 30 M€ extra for E-Infrastructures and clusters
 
-A proposed set of Work Packages (WP) was presented (the WP structure was created by E-Infrastructures without RIs) with the target to submit it **21st April? NOT SURE ABOUT THE DATE**, however it is not clear at this stage with the current WP structure what is the role that the cluster projects (PaNOSC, ESCAPE, etc.) could play. The minutes of the meeting are not yet available (Technopolis will publish them) and there seem to be a rather tight schedule for the proposal to be organised. 
+A proposed set of Work Packages (WP) was presented (the WP structure was created by E-Infrastructures without RIs) with the target to submit the proposal before 22 April, however it is not clear at this stage with the current WP structure what is the role that the cluster projects (PaNOSC, ESCAPE, etc.) could play. The minutes of the meeting are not yet available (Technopolis will publish them) and there is a rather tight schedule to write the proposal. 
 
 The assumption is that cluster projects may provide data. In order for cluster projects (which are no legal entities) to participate the approach would be that one partner per cluster participates in the call, with the possibility of other partners participating as linked 3rd parties. The next round of conversation will be by video conference, however no formal date has been proposed yet.
 
-At this point Jean-François (who also attended the meeting) explained that he understands that this call will be a bit like INFRA-EOSC 06, it won't be successful without the clusters and that cluster projects role could be one of providing specifications.
+At this point Jean-François (who also attended the meeting) explained that he understands that this call will be a bit like InfraEOSC-06, it won't be successful without the clusters and that cluster projects role could be one of providing specifications.
 
-Rudolf replied that WPs are aligned to technical issues and running parallel to INFRA-EOSC 07, therefore 03 and 07 seem to be doing similar work with the same participating entities, therefore the proposal needs to be well written to avoid duplication.
+Rudolf replied that WPs are aligned to technical issues and running parallel to InfraEOSC-07, therefore 03 and 07 seem to be doing similar work with the same participating entities, therefore the proposal needs to be well written to avoid duplication.
 
 Andy asked whether during the meeting there was any mention of money that could be allocated/reserved for RIs and Rudolf replied No, because cluster projects do not have a clear role to play yet.
 
 Hans also mentioned that **the BOSSE proposal from a few months ago may get into INFRA-EOSC 07? NOT SURE ABOUT THIS**
 
-At this point we moved on into the meeting 13/01/2020 that was attended by Andy in Brussels by ESFRI + cluster projects to botain the view and feeling of cluster projects about the EOSC. During the meeting some criticism of the EOSC took place (structure can be perceived as complex/messy and doubts about having a minimum viable ecosystem by the target timescales). Andy explained that there is interest in creating a legal organisation by the end of 2020 for the EOSC but this will need validation by EU Financing (EU countries' finance ministers agreement in Autumn).
+At this point we moved on into the meeting 13/01/2020 that was attended by Andy in Brussels by ESFRI + cluster projects to obtain the view and feeling of cluster projects about the EOSC. During the meeting some criticism of the EOSC took place (structure can be perceived as complex/messy and doubts about having a minimum viable ecosystem by the target timescales). Andy explained that there is the intention to create a legal organisation by the end of 2020 for the EOSC but this will need validation by EU Financing (EU countries' finance ministers agreement in Autumn).
 
 
 **2. Draft agenda for the Review meeting in Brussels** 
