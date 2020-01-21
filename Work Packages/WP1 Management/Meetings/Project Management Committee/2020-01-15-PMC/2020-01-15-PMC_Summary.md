@@ -11,7 +11,7 @@ Minutes
 
 **1. INFRAEOSC-03 & meeting 10/01/2020 in Brussels** 
 
-Rudolf provided feedack on the meeting that took place in Brussels on 10/01/2019 to discuss the proposal for InfraEOSC-03. The proposal is managed by Technopolis (a consutancy company) and the meeting took place in their offices. It was the first meeting with the research infrastructures (RIs) involved (previously there were only the E-Infrastructures & Technopolis). It is understood that the call will offer approximately:
+Rudolf provided feedack on the meeting that took place in Brussels on 10/01/2020 to discuss the proposal for InfraEOSC-03. The proposal is managed by Technopolis (a consutancy company) and the meeting took place in their offices. It was the first meeting with the research infrastructures (RIs) involved (previously there were only the E-Infrastructures & Technopolis). It is understood that the call will offer approximately:
 
    *  1 M€ for RDA
    * 10 M€ for Procurement
@@ -19,7 +19,7 @@ Rudolf provided feedack on the meeting that took place in Brussels on 10/01/2019
 
 A proposed set of Work Packages (WP) was presented (the WP structure was created by E-Infrastructures without RIs) with the target to submit the proposal before 22 April, however it is not clear at this stage with the current WP structure what is the role that the cluster projects (PaNOSC, ESCAPE, etc.) could play. The minutes of the meeting are not yet available (Technopolis will publish them) and there is a rather tight schedule to write the proposal. 
 
-The assumption is that cluster projects may provide data. In order for cluster projects (which are no legal entities) to participate the approach would be that one partner per cluster participates in the call, with the possibility of other partners participating as linked 3rd parties. The next round of conversation will be by video conference, however no formal date has been proposed yet.
+The assumption is that cluster projects may provide data. In order for cluster projects (which are not legal entities) to participate the approach would be that one partner per cluster participates in the call, with the possibility of other partners participating as linked 3rd parties. The next round of conversation will be by video conference, however no formal date has been proposed yet.
 
 At this point Jean-François (who also attended the meeting) explained that he understands that this call will be a bit like InfraEOSC-06, it won't be successful without the clusters and that cluster projects role could be one of providing specifications.
 
@@ -29,12 +29,12 @@ Andy asked whether during the meeting there was any mention of money that could 
 
 Hans also mentioned that **the BOSSE proposal from a few months ago may get into INFRA-EOSC 07? NOT SURE ABOUT THIS**
 
-At this point we moved on into the meeting 13/01/2020 that was attended by Andy in Brussels by ESFRI + cluster projects to obtain the view and feeling of cluster projects about the EOSC. During the meeting some criticism of the EOSC took place (structure can be perceived as complex/messy and doubts about having a minimum viable ecosystem by the target timescales). Andy explained that there is the intention to create a legal organisation by the end of 2020 for the EOSC but this will need validation by EU Financing (EU countries' finance ministers agreement in Autumn).
+At this point we moved on into the meeting of 13/01/2020 that was attended by Andy in Brussels by ESFRI + cluster projects to obtain the view and feeling of cluster projects about the EOSC. During the meeting some criticism of the EOSC took place (structure can be perceived as complex/messy and doubts about having a minimum viable ecosystem by the target timescales). Andy explained that there is the intention to create a legal organisation by the end of 2020 for the EOSC but this will need validation by EU Financing (EU countries' finance ministers agreement in Autumn).
 
 
 **2. Draft agenda for the Review meeting in Brussels** 
 
-Andy explained that we expect the review meeting covering the first 18 months of project execution to take place just after the 18th months have ended, therefore end of June / July. Also, a Executive Board meeting for PaNOSC is planned to take place soon via video conference and he would like to propose a draft agenda for validation.
+Andy explained that we expect the review meeting covering the first 18 months of project execution to take place just after the 18th month have ended, therefore end of June / July. Also, an Executive Board meeting for PaNOSC is planned to take place soon via video conference and he would like to propose a draft agenda for validation.
 
 Tobias asked whether an exact date has been chosen for the review meeting and Andy replied that no, but the review will cover 18 months (until the end of May) and some time will be left to read the deliverables/reports submitted in May, therefore he expects it to take place end of June or July.
 
@@ -51,9 +51,9 @@ Andy then explained that he would like to present something specific for the Exe
    * **Simulations** : Juncheng explained that he can show simulations running, however they may be local, not online. Andy said that if they look remote that would be better. 
    Juncheng said that it could be put in a Jupyter Notebook like a web service, even if it is in a local computer. Hans said that it should be possible to run simulations in the MAX IV cluster.
    * **Data Analysis** : Hans said that Jupyter Notebooks could be demoed. 
-   Jordi said tha something linking different WPs through Jupyter Notebooks and data analysis woudl be great. Thomas said that maybe we could have a simulation that runs and we could compare its results with real data experiment. 
+   Jordi said that something linking different WPs through Jupyter Notebooks and data analysis would be great. Thomas said that maybe we could have a simulation that runs and we could compare its results with real data experiment. 
    Andy then asked for a proposal that would be covering WP3, WP4 and WP5.
-   * **FAIR Data** : Andy also asked wether it could be possible to show how much open data we are generating and offering. Tobias said we could show data in public domain, maybe through OpenAIRE
+   * **FAIR Data** : Andy also asked whether it could be possible to show how much open data we are generating and offering. Tobias said we could show data in public domain, maybe through OpenAIRE
    * **Training and Websites** : Jordi said that we could show the pan-learning.org and PaNOSC website that are running well. We then confirmed that by the end of February e-neutrons should be renamed pan-learning, so that shouldn't be a problem.
 
 Jordi then said that for other WPs it would be good as well to show what we have achieved, like for example in Sustainability showing a report on what we have done and how we are working with Rupert Lueck, providing specific measures from our communities. Rudolf said that the PaNOSC Executive Board has had access to a draft Tinman report (the successor to Strawman report), however it is not clear whether this could be shared, however he will do try to share it with the WP7 (Roberto and Florian) at least.
@@ -63,9 +63,9 @@ Jordi then said that for other WPs it would be good as well to show what we have
 Andy opened this point of the agenda by announcing that Knut is leaving and that he will be replaced by Patrick Fuhrmann (DESY) at ExPaNDS. He also said that ExPaNDS depends on us and we must really put effort to work togheter. WP leaders should be in each others mailing lists and invite/attend each others video conference meetigs as more synchronisation is required. 
 
 Tobias said that this is already taking place and working for WP3. Jean-François explained that no equivalent to WP6 exists in ExPaNDS to which Andy replied that Patrick will be the contact for this.
-Nicoletta asked whether we will have a common face-to-face Annual Meeting with ExPaNDS and Andy explained that htis is the plan. This meeting could take place in Prague and be organised by ELI. Rudolf then asked to move quickly to book it and organise it to ensure all key stakeholders can attend.
+Nicoletta asked whether we will have a common face-to-face Annual Meeting with ExPaNDS and Andy explained that this is the plan. This meeting could take place in Prague and be organised by ELI. Rudolf then asked to move quickly to book it and organise it to ensure all key stakeholders can attend.
 
-Jordi explained that he had a meeting with Sophie (ExPaNDS) and plans to have a follo-up every month. Furthermore, he has documented the outcome of the meeting in the comments of [issue #46](https://github.com/panosc-eu/panosc/issues/46)
+Jordi explained that he had a meeting with Sophie (ExPaNDS) and plans to have a follow-up every month. Furthermore, he has documented the outcome of the meeting in the comments of [issue #46](https://github.com/panosc-eu/panosc/issues/46)
 
 
 **4. Next Deliverables & Milestones**
@@ -81,8 +81,8 @@ Jordi very quickly explained that:
 As the meeting was running a bit delayed only these points were raised:
 
    * **Manolo and WP5** : Jordi will have a call with Manolo (currently at Berkeley) by the end of the month. Juncheng is organising a WP5 meeting in April and it was agreed that if WP5 and XFEL have the required funds they should go ahead and invite Manolo.
-   * **EOSC Portal** : Jean-François said that there was a meeting the previous week about improving the portal and that input from WP leaders is requried for the services to be offered. Jean-François will send an email to WP2, WP3, WPR4 and WP5 leaders to check if his proposal for this is accurate.
-   * **PaNOSC Portal** : Hans explained that originally we wanted to have our portal in March, however as of today Jamie (ILL) doesn't think this is a realistic target. We will need to either add more resources, reduce the scope, delay the target date or a mixture of the three. Andy agreed to reducing the scope, however he warned that a reduced scope should still be useful. Jean-François asked why do we have a March deadline, is there a good reason? to which Hans replied that :
+   * **EOSC Portal** : Jean-François said that there was a meeting the previous week about improving the portal and that input from WP leaders is required for the services to be offered. Jean-François will send an email to WP2, WP3, WP4 and WP5 leaders to check if his proposal for this is accurate.
+   * **PaNOSC Portal** : Hans explained that originally we wanted to have our portal in March, however as of today Jamie (ILL) doesn't think this is a realistic target. We will need to either add more resources, reduce the scope, delay the target date or a mixture of the three. Andy agreed to reducing the scope, however he warned that a reduced scope should still be useful. Jean-François asked why do we have a March deadline, is there a good reason? to which Hans replied that:
         * to support the delivery showing remote analysis services
         * to have input from all facilities
     It was agreed however that hte deliverable of analysis services *is possible* without the portal, however clear scope and support from other RIs for Jamie is required.
