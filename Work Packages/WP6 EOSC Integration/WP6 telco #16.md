@@ -4,7 +4,7 @@
 
 ​	Next meeting : 18th of Feb 2020
 
-Attendees :  Kareem, Marco, Jean-François
+Attendees :  Kareem, Marco, Jean-François, Rudolf, Christos, Michael, Miroslav 
 Excused: Giuseppe
 
 Link for the telco: https://ill.vidyocloud.com/join/NWc9VqX5Sz
@@ -12,7 +12,7 @@ Link for the telco: https://ill.vidyocloud.com/join/NWc9VqX5Sz
 
 ## Agenda:
 
-1. Information on the current activities : AAI and Data transfer (One data, user driven data transfer solution such as Globus)
+1. Information on the current activities : AAI and Data transfer (One data, user driven data transfer solution such as Globus, Archive pilot)
 3. Need for AAI training?
 3. Software catalogue ( https://software.pan-data.eu )
 
@@ -57,9 +57,8 @@ Link for the telco: https://ill.vidyocloud.com/join/NWc9VqX5Sz
               The cluster is running at CESNET-MCC.
               During the configuration of the K8s cluster there was an initial issue with the RAM in the hypervisor hosting the VMs. 
               This issue should be fixed now after the VMs were moved to another hypervisor.
-            
-
-   - Task: Customization of the K8s cluster to deploy the JupyterHub notebooks for the PaNOSC users
+          
+- Task: Customization of the K8s cluster to deploy the JupyterHub notebooks for the PaNOSC users
    - Status: In progress. 
    - Description:
               Installation of the K8s ngnix-ingress, nfs-provisioner are         working.
