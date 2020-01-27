@@ -14,12 +14,12 @@ Agenda
 
 | Deliverable | New date | Original Date | 
 | ----------- | -------- | ------------- | 
-| D1.2b Mid-year Summary | end May | May 2020 | 
-| D2.1 PaNOSC data policy framework updated | end April | May 2020 | 
-| D3.1 API definition | end May | May 2020 | 
-| D4.2 Prototype remote desktop and Jupyter service | mid-April | May 2020 |  
-| D6.1 EGI data-hub integration with facilities' data repositories | mid-May | May 2020 | 
-| D7.1 PaN EOSC Stakeholder Feedbacks | **TBC** | May 2020 | 
+| D1.2b Mid-year Summary | **end May** | *May 2020* | 
+| D2.1 PaNOSC data policy framework updated | **end April** | *May 2020* | 
+| D3.1 API definition | **end May** | *May 2020* | 
+| D4.2 Prototype remote desktop and Jupyter service | **mid-April** | *May 2020* |  
+| D6.1 EGI data-hub integration with facilities' data repositories | **mid-May** | *May 2020* | 
+| D7.1 PaN EOSC Stakeholder Feedbacks | **TBC** | *May 2020* | 
 
 | Milestone | Due date |
 | --------- | -------- |
