@@ -12,9 +12,11 @@ Agenda
 
 4. Possible joint participation with ExPaNDS in SXNS event in Lund, 23-26 June 2020, at the cost of 1500 EUR per project.
 
-5. Mailing lists issues
+5. INFRAEOSC-07 A1 project proposal by EGI
 
-6. REMINDER OF Next Deliverables & Milestones 
+6. Mailing lists issues
+
+7. REMINDER OF Next Deliverables & Milestones 
 
 | Deliverable | New date | Original Date | 
 | ----------- | -------- | ------------- | 
@@ -42,7 +44,7 @@ Agenda
 
 *Please do add Milestones and Internal Milestones supporting documents in GitHub*
 
-7. Update from the WP Leaders - update on what has been achieved and problems
+8. Update from the WP Leaders - update on what has been achieved and problems
 
 | WP | Notes |
 | -- | ----- |
@@ -56,20 +58,20 @@ Agenda
 | WP8 Staff training in data stewardship | MS8.3 due February | 
 | WP9 Outreach & Communication | | 
 
-8. Issues https://github.com/panosc-eu/panosc/issues
+9. Issues https://github.com/panosc-eu/panosc/issues
  * [Cooperation with ExPaNDS](https://github.com/panosc-eu/panosc/issues/46) - update
  * [Internal Milestones](https://github.com/panosc-eu/panosc/issues/43) - do we need extra internal milestones for 2020?
  * [KPIs](https://github.com/panosc-eu/panosc/issues/41) - update
  * [Risk Management](https://github.com/panosc-eu/panosc/issues/25) - update
  * [Observer status](https://github.com/panosc-eu/panosc/issues/9) - update
 
-9. News from other proposals and events
+10. News from other proposals and events
     * INFRAEOSC-03
     * EOSC and CNRS (22/1/2020)
     * FAIRsFAIR data repository certification (6/2/2020)
     * FAIRsFAIR [open call for FAIR champions](https://www.fairsfair.eu/form/open-call-european-fair-champions)
     * EOSC-Life Annual Meeting (Florence 03/03/2019)
 
-10. Job openings and hirings
+11. Job openings and hirings
 
-11. AOB
+12. AOB
