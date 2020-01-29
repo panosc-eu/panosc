@@ -34,7 +34,7 @@ ExPANDS doesn’t have a sustainability work package but they have to write a ce
 
 •	New deputy of WP 7
 
-Ornela de Giacomo will be deputy work package leader for WP 7 ad interim as Roberto is going to be very busy with other activities at least until June. Despite that he will collaborate in order to ensure the correct execution of the WP. 
+Ornela de Giacomo will be deputy work package leader for WP 7 ad interim as Roberto is going to be very busy with other activities at least until June 2020. Despite that he will collaborate in order to ensure the correct execution of the WP. 
 
 •	AOB
 
