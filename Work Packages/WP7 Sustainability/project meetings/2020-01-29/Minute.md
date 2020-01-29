@@ -30,7 +30,7 @@ Minutes
 
 •	Connection with ExPANDS
 
-ExPANDS doesn’t have a sustainability work package but they have to write a certain number of deliverable related to this topic. Roberto proposed to invite Valentina Piffer (PSI), which is part of the ExPANDS team, to our WP 7 meetings. All the present agreed on this proposal. 
+ExPANDS doesn’t have a sustainability work package but they have to write a certain number of deliverables related to this topic. Roberto proposed to invite Valentina Piffer (PSI), which is part of the ExPANDS team, to our WP 7 meetings. All the present agreed on this proposal. 
 
 •	New deputy of WP 7
 
