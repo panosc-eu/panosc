@@ -95,7 +95,7 @@ Jordi reminded everyone of the upcoming deliverables and milestones. Jordi also 
 
    **WP3 - Data Catalog Services** : Tobias still doesn't have feedback for integrating sources for API and has a meeting scheduled 11th and 12th February for API definition (related to D3.1 due end od May)
 
-   ** WP4 - Dta Analysis Services** : Hans was absent (XFEL user meeting). **Jamie couldn't be heard PLEASE HELP WITH THIS**. Jamie also reported a gap in communication and coordination between partners for WP4 to which Andy replied that next week the ESRF has staff starting which should help WP4
+   **WP4 - Dta Analysis Services** : Hans was absent (XFEL user meeting). **Jamie couldn't be heard PLEASE HELP WITH THIS**. Jamie also reported a gap in communication and coordination between partners for WP4 to which Andy replied that next week the ESRF has staff starting which should help WP4
 
    **WP5 - Virtual Neutron and X-ray Laboratory** : Juncheng was absent (XFEL user meeting). Jordi reported that Manolo (ESRF on sabattical until mid-June) won't be able to attend the WP5 face-to-face meeting planned for April, however he can be contacted by email. Manolo is due to return to the ESRF 17th June 2020 and in the meantime the work for WP5 at the ESRF will be unfortunately delayed.
 
