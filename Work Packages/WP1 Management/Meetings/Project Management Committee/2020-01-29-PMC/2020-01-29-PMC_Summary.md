@@ -4,7 +4,7 @@
 
 Present
 -------
-Jordi (ESRF), Andy (ESRF),  Jamie (ILL), Petra (ESS), Tobias (ESS), Thomas (ESS), Jasper (ESS), Jon (ESS),  Roberto (CERIC-ERIC), Nicoletta (CERIC-ERIC), Giuseppe (EGI) and Sophie (ExPaNDS-DESY)
+Jordi (ESRF), Andy (ESRF),  Jamie (ILL), Petra (ESS), Tobias (ESS), Thomas (ESS), Jesper (ESS), Jon (ESS),  Roberto (CERIC-ERIC), Nicoletta (CERIC-ERIC), Giuseppe (EGI) and Sophie (ExPaNDS-DESY)
 
 Minutes
 -------	
@@ -117,8 +117,8 @@ Roberto said that due to other commitments Ornela will become deputy WP7 leader 
 
    **WP8 - Staff training in data stewardship** : Thomas explained a meeting between ExPaNDS and PaNOSC is planned for next week and that Linda is still in sick leave. A plan B may need to be put in place for the training sessions about how to use and create content in the training site.
 
-Jasper asked whether money could be supplied for hardware required for the training site to which Andy replied that it is not possible as Hardware does not fully depreciate over the lifetime of PaNOSC, however we could potentially get computing resources from EGI or use the money we have reserved for cloud resources.
-Jasper replied that he would like to minimise extra work, as the training site is not readily  portable to other hardware or virtual platform.
+Jesper asked whether money could be supplied for hardware required for the training site to which Andy replied that it is not possible as Hardware does not fully depreciate over the lifetime of PaNOSC, however we could potentially get computing resources from EGI or use the money we have reserved for cloud resources.
+Jesper replied that he would like to minimise extra work, as the training site is not readily  portable to other hardware or virtual platform.
 
    **WP9 - Outreach & Communication** : Nicoletta reported the videos (see WP6 above) and the SXNS event. It is not clear whether she will attend the ESOF.
 
