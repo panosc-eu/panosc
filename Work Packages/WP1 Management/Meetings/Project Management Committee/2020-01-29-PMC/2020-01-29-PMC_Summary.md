@@ -113,6 +113,8 @@ During the WP7 meeting *D7.1 PaN EOSC Stakeholder Feedbacks* was also discussed.
 
 This topic needs to be further discussed to ensure there is agreement in PaNOSC about what to deliver.
 
+Roberto said that due to other commitments Ornela will become deputy WP7 leader and will take a more active role on WP7 during the next six months, covering for Roberto.
+
    **WP8 - Staff training in data stewardship** : Thomas explained a meeting between ExPaNDS and PaNOSC is planned for next week and that Linda is still in sick leave. A plan B may need to be put in place for the training sessions about how to use and create content in the training site.
 
 Jasper asked whether money could be supplied for hardware required for the training site to which Andy replied that it is not possible as Hardware does not fully depreciate over the lifetime of PaNOSC, however we could potentially get computing resources from EGI or use the money we have reserved for cloud resources.
