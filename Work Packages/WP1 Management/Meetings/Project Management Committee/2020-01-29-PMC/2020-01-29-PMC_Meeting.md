@@ -4,7 +4,7 @@ PaNOSC Project Management Committee meeting - 29/01/2020
 Agenda
 ------	
 
-1. Feedback from Executive Committee meeting
+1. Feedback from Executive Board meeting
 
 2. Dates + Draft agenda for the Review meeting in Brussels 
 
@@ -25,7 +25,7 @@ Agenda
 | D3.1 API definition | **end May** | *May 2020* | 
 | D4.2 Prototype remote desktop and Jupyter service | **mid-April** | *May 2020* |  
 | D6.1 EGI data-hub integration with facilities' data repositories | **mid-May** | *May 2020* | 
-| D7.1 PaN EOSC Stakeholder Feedbacks | **TBC** | *May 2020* | 
+| D7.1 PaN EOSC Stakeholder Feedbacks | **April?** | *May 2020* | 
 
 | Milestone | Due date |
 | --------- | -------- |
