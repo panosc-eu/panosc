@@ -99,7 +99,7 @@ Jordi reminded everyone of the upcoming deliverables and milestones. Jordi also 
 
    **WP5 - Virtual Neutron and X-ray Laboratory** : Juncheng was absent (XFEL user meeting). Jordi reported that Manolo (ESRF on sabattical until mid-June) won't be able to attend the WP5 face-to-face meeting planned for April, however he can be contacted by email. Manolo is due to return to the ESRF 17th June 2020 and in the meantime the work for WP5 at the ESRF will be unfortunately delayed.
 
-Thomas also reported a MACSTAS hackaton this week.
+Thomas also reported a McStas hackaton this week.
 
    **WP6 - EOSC Integration** : Jean-Francois was absent. Jaimie reported a Globus connect discussion and email and a planned telco with EGI and others. AAI work is oingoung and Confluence is now connected to EduGain?
 
