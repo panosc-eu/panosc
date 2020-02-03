@@ -3,9 +3,10 @@
 * Actions from last meeting
 - Robert, Jakub and Jamie to work on internal Milestone
 - Hans to suggest meeting dates with Anton/Expands
+  - 11 to 15 May 2020
 - Hans to talk to Andy regarding plan for M18 deliverable
 - Jakub to work with Jamie on Portal towards prototype in March
-  - involve other sites where possibel
+  - involve other sites where possible
 - All: contribute example data sets and analysis as hard-coded data examples for
   protoype.
 - All: Consider volunteering for coordinating the M18 deliverable report
@@ -13,8 +14,9 @@
 * Introduction and update from Portal (Jakub, Jamie)
 - Documentation available at https://confluence.panosc.eu/display/wp4/Development 
 - presentation https://confluence.panosc.eu/display/wp4/Presentations
-- ELI: show prototype of interface
+- ELI: design-sketch/mock-up of interface
 - ILL: outline prototype status, direction and anticipated deadlines
+- Scope for contributions?
 
 * Next Deliverable (April 2020)
   - Request from Management to move this from month 18 to month 16.5
