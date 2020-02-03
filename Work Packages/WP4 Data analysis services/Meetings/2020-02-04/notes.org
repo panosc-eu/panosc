@@ -1,8 +1,4 @@
-#+TITLE: WP4 Video meeting <2020-01-14 Tue 15:00>
-
-Apologies: Jamie, Stuart
-
-:present: Thomas Vincent, Aiden, Thomas K, Robert, Hans, Lottie, Jakub (ELI), 
+#+TITLE: WP4 Video meeting <2020-02-04 Tue 15:00>
 
 * Actions from last meeting
 - Robert, Jakub and Jamie to work on internal Milestone
