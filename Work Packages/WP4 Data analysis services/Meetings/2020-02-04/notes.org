@@ -1,0 +1,56 @@
+#+TITLE: WP4 Video meeting <2020-01-14 Tue 15:00>
+
+Apologies: Jamie, Stuart
+
+:present: Thomas Vincent, Aiden, Thomas K, Robert, Hans, Lottie, Jakub (ELI), 
+
+* Actions from last meeting
+- Robert, Jakub and Jamie to work on internal Milestone
+- Hans to suggest meeting dates with Anton/Expands
+- Hans to talk to Andy regarding plan for M18 deliverable
+- Jakub to work with Jamie on Portal towards prototype in March
+  - involve other sites where possibel
+- All: contribute example data sets and analysis as hard-coded data examples for
+  protoype.
+- All: Consider volunteering for coordinating the M18 deliverable report
+
+* Introduction and update from Portal (Jakub, Jamie)
+- Documentation available at https://confluence.panosc.eu/display/wp4/Development 
+- presentation https://confluence.panosc.eu/display/wp4/Presentations
+- ELI: show prototype of interface
+- ILL: outline prototype status, direction and anticipated deadlines
+
+* Next Deliverable (April 2020)
+  - Request from Management to move this from month 18 to month 16.5
+    Having started in December 2018, Month 16.5 should be middle of April
+
+  - "Deliverable 4.2. Prototype remote desktop and Jupyter service (M18, DEM,
+    CO, ILL)"
+    
+  - some demonstration at review meeting
+
+* Next meeting
+** Video meeting
+- Tuesday 25th February 15:00 (then again two-weekly)
+
+** In person meeting
+  - portal focused meeting at ESRF in March (When exactly)
+  - bigger meeting with Expands in approx May in Hamburg (action for Hans)
+
+* Updates from sites
+** CERIC-ERIC
+** ELI
+** ESRF
+** ESS
+** ILL
+** XFEL
+  
+* Any other business
+- Additional suggestions for future topics?
+
+* Future topics
+- REANA
+- Training material
+- LIGO Open Science Centre
+** Reproducible use cases
+- missing from some facilities
