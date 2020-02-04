@@ -1,5 +1,10 @@
 #+TITLE: WP4 Video meeting <2020-02-04 Tue 15:00>
 
+:present: Jiri, Jakub, Stuart, Jamie, William, ?, Axel, Aidan, Thomas, Andy, Sandor,
+Hans, Lottie
+
+* Welcome Jiri and Axel
+
 * Actions from last meeting
 - Robert, Jakub and Jamie to work on internal Milestone
 - Hans to suggest meeting dates with Anton/Expands
@@ -9,6 +14,8 @@
   - involve other sites where possible
 - All: contribute example data sets and analysis as hard-coded data examples for
   protoype.
+  - EuXFEL: https://github.com/European-XFEL-examples
+  - others? https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP4%20Data%20analysis%20services ?
 - All: Consider volunteering for coordinating the M18 deliverable report
   - Done: ESS will lead
 
@@ -19,6 +26,73 @@
 - ILL: outline prototype status, direction and anticipated deadlines
 - Scope for contributions?
 
+** Presentation Jakub / Jiri
+*** Walkthrough of mock-ups
+- searchable data sets shown on the left
+- filtered results on the right, or all data sets shown
+- search possibility at the top
+- once logged in, display messages, own data sets, running sessions on the right
+- once clicked on a specific data set
+  - explore data set details with a preview
+  - keep minimal 
+- ELI focussed on front-end
+- Objectives
+  - user-friendly
+  - fast & lightweight
+  - easily extendable
+  - data driven
+  - minimalist UI, ligth and dark themes
+  - use widely adopted framework (re-act)
+- Architecture / prototype (Jiri)
+  - have demo data for prototype
+  - super minimal filtering
+- Demo
+  - who defines categories for filters?
+  - prototype of the detail page
+  - inspired by CERN and NASA data portal
+  - feedback requested
+- Discussion
+  - Filters and experiment categories -> WP3 is working on these
+  
+** Presentation Jamie (and team)
+- Focus on backend of portal
+- Notebook service:
+  - integrate notebook components "into the portal"
+    - nice and centralised
+- Assumptions about file locations?
+- 27 March deadline to get core services developed
+  - focus on basic functionality
+- By end of March, it should be possible to install microservices 
+  - it is easy when you have kubernetes running (helm ...)
+
+- code on https://github.com/panosc-portal
+
+- plan for later iteration to integrate the data
+
+- mock data server?
+  - yes
+  - could serve reproducible data sets being collected 
+    - this will provide analysis routines that could be fired up from the portal
+      in a later iteration
+
+- Objective for now
+  - for each institute to create container / notebook and access it
+- Objective for later
+  - worry about integration of data
+
+Discussion
+
+- What if you haven't got a kubernetes cluster?
+  - install kubernetes (could be in a container, doesn't need a strong machine
+    at this point)
+  - need private registry
+
+- Requested feedback
+  - feedback on the back-end
+  
+- When demo is ready to be deployed at facilities, Jamie and team will send an
+  email, about two weeks from now. (TODO)
+ 
 * Next Deliverable (April 2020)
   - Request from Management to move this from month 18 to month 16.5
     Having started in December 2018, Month 16.5 should be middle of April
@@ -36,20 +110,18 @@
 
 ** In person meeting
   - portal focused meeting at ESRF in March (When exactly)
+    - ESRF will run code camp for portal development
+    - one person from every site should attend
   - bigger meeting with Expands in May in Hamburg  (11 to 14 May proposed)
 
 * Updates from sites
-** CERIC-ERIC
-** ELI
-** ESRF
-** ESS
-** ILL
-** XFEL
-  
+(skipped for time reasons)
+
 * Any other business
 - Additional suggestions for future topics?
 
 * Future topics
+- Update from Portal
 - REANA
 - Training material
 - LIGO Open Science Centre
