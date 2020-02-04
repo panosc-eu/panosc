@@ -3,13 +3,14 @@
 * Actions from last meeting
 - Robert, Jakub and Jamie to work on internal Milestone
 - Hans to suggest meeting dates with Anton/Expands
-  - 11 to 15 May 2020
+  - 11 to 14 May 2020
 - Hans to talk to Andy regarding plan for M18 deliverable
 - Jakub to work with Jamie on Portal towards prototype in March
   - involve other sites where possible
 - All: contribute example data sets and analysis as hard-coded data examples for
   protoype.
 - All: Consider volunteering for coordinating the M18 deliverable report
+  - Done: ESS will lead
 
 * Introduction and update from Portal (Jakub, Jamie)
 - Documentation available at https://confluence.panosc.eu/display/wp4/Development 
@@ -25,6 +26,8 @@
   - "Deliverable 4.2. Prototype remote desktop and Jupyter service (M18, DEM,
     CO, ILL)"
     
+  - ESS will lead this, please support them.
+
   - some demonstration at review meeting
 
 * Next meeting
@@ -33,7 +36,7 @@
 
 ** In person meeting
   - portal focused meeting at ESRF in March (When exactly)
-  - bigger meeting with Expands in approx May in Hamburg (action for Hans)
+  - bigger meeting with Expands in May in Hamburg  (11 to 14 May proposed)
 
 * Updates from sites
 ** CERIC-ERIC
