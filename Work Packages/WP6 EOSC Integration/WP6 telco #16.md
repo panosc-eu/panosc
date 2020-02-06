@@ -21,7 +21,7 @@ Link for the telco: https://ill.vidyocloud.com/join/NWc9VqX5Sz
 1. #### AAI.
 
    Still working on the pilots (issue with the chosen OIDC plugin for confluence fixed).
-   We are now able to authenticate users with UmbrellaID powerd by EDUTeams suing OIDC. 
+   We are now able to authenticate users with UmbrellaID powered by EDUTeams using OIDC. 
    Nevertheless we are still in phase 1 ( EDUTeams acting as a transparent proxy ) and we miss a correct email adress to match UmbrellaID users and local confluence users.
 
    We are now working on a forthnigly  bases meeting (2H00). The GEANT team has been extended to 3 persons.
