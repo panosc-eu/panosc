@@ -22,16 +22,15 @@ Agenda
 | WP8 Staff training in data stewardship | MS8.3 due February | 
 | WP9 Outreach & Communication | | 
 
-4. INFRAEOSC-07 A1 project proposal by EGI
-
-5. News from other proposals and events
+4. News from other proposals and events
+    * INFRAEOSC-07 A1 project proposal by EGI
     * INFRAEOSC-03
     * EOSC and CNRS (22/1/2020)
     * FAIRsFAIR data repository certification (6/2/2020)
     * FAIRsFAIR [open call for FAIR champions](https://www.fairsfair.eu/form/open-call-european-fair-champions)
     * EOSC-Life Annual Meeting (Florence 03/03/2019)
 
-6. REMINDER OF Next Deliverables & Milestones 
+5. REMINDER OF Next Deliverables & Milestones 
 
 | Deliverable | New date | Original Date | 
 | ----------- | -------- | ------------- | 
@@ -59,13 +58,13 @@ Agenda
 
 *Please do add Milestones and Internal Milestones supporting documents in GitHub*
 
-7. Issues https://github.com/panosc-eu/panosc/issues
+6. Issues https://github.com/panosc-eu/panosc/issues
  * [Cooperation with ExPaNDS](https://github.com/panosc-eu/panosc/issues/46) - update
  * [Internal Milestones](https://github.com/panosc-eu/panosc/issues/43) - do we need extra internal milestones for 2020?
  * [KPIs](https://github.com/panosc-eu/panosc/issues/41) - update
  * [Risk Management](https://github.com/panosc-eu/panosc/issues/25) - update
  * [Observer status](https://github.com/panosc-eu/panosc/issues/9) - update
 
-8. Job openings and hirings
+7. Job openings and hirings
 
-9. AOB
+8. AOB
