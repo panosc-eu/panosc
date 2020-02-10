@@ -28,7 +28,7 @@ Agenda
     * EOSC and CNRS (22/1/2020)
     * FAIRsFAIR data repository certification (6/2/2020)
     * FAIRsFAIR [open call for FAIR champions](https://www.fairsfair.eu/form/open-call-european-fair-champions)
-    * EOSC-Life Annual Meeting (Florence 03/03/2019)
+    * EOSC-Life Annual Meeting (Florence 03/03/2020)
 
 5. REMINDER OF Next Deliverables & Milestones 
 
