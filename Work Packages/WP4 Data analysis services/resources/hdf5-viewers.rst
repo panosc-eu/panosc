@@ -17,6 +17,7 @@ Web-based
 
 - `hdf5-web-gui <https://gitlab.com/MAXIV-SCISW/HDF5-VIEWER/hdf5-web-gui>`_ (`online demo <http://demo.maxiv.lu.se/hdf5-web-gui/html/>`_):
   A web GUI for viewing the contents of HDF5 files, using hdf5-simple-server in the backend.
+- `h5nuvola <https://github.com/ElettraSciComp/h5nuvola>`_: Web interface and services for remote data browsing and visualisation of HDF5 files.
 
 
 Desktop
