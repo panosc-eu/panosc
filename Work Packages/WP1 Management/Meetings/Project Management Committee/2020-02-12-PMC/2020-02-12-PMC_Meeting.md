@@ -4,6 +4,8 @@ PaNOSC Project Management Committee meeting - 12/02/2020
 Agenda
 ------	
 
+0. Change of time for PMC meetings (13:30 instead of 14:30)
+
 1. Dates + Draft agenda for the Review meeting in Brussels 
 
 2. Update on the next Annual Meeting with ExPaNDS
