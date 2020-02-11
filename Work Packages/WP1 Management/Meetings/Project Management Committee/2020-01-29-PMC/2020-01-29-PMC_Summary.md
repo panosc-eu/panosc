@@ -11,25 +11,25 @@ Minutes
 
 **1. Feedback from Executive Board meeting** 
 
-Andy reported that it took place as planned and that Thomas Tschentscher will collect the minutes of the
+Andy reported that it took place as planned and that Thomas Tschentscher will distribute the minutes of the
 meeting. Some of the topics raised where INFRAEOSC 03 and 07 calls (Rudolf to represent us for these), the
 proposed agenda for the review meeting (accepted) and the venue/date for a joint annual meeting with ExPaNDS.
 
 
 **2. Dates + Draft agenda for the Review meeting in Brussels** 
 
-Andy explained that the demo approach discussed in the previous PMC has been validated by the EB (as pre previous point of the agenda).  It has been confirmed as well that Thomas Tschentscher (EB Chair) won't be able to attend. Andy has been tasked (as per issue [52](https://github.com/panosc-eu/panosc/issues/52)) to clarify with our project officer the exact dates for the review meeting, to ensure everyone is able to attend (or at least maximise the number of attendees from PaNOSC).
+Andy explained that the demo approach discussed in the previous PMC has been validated by the EB (as per previous point of the agenda).  It has been confirmed as well that Thomas Tschentscher (EB Chair) won't be able to attend. Andy has been tasked (as per issue [52](https://github.com/panosc-eu/panosc/issues/52)) to clarify with our project officer the exact date of the review meeting, to ensure everyone is able to attend (or at least maximise the number of attendees from PaNOSC).
 
 **3. Date for next Annual Meeting with ExPaNDS**
 
-Andy said that a joint meeting with ExPaNDS was as well validated by the EB and a date range proposed: 19th October to 1st November (i.e. the last two weeks of October). ELI is the proposed host. 
+Andy said that a joint annual meeting with ExPaNDS was as well validated by the EB and a date range proposed: 19th October to 1st November (i.e. the last two weeks of October). ELI-DC has proposed to host the meeting. 
 
 Sophie said that a possible format could be four days:
-* 1st day for join plenary
+* 1st day for joint plenary
 * 2nd day for PaNOSC/ExPaNDS separate plenary sessions
-* 3rd and 4th days for WP work
+* 3rd and 4th days for WP breakout meetings
 
-The wasn't a full agreement on whether two full days of plenary sessions is required, as maybe 1 1/2 days is enough, however no one suggested a duration different than the four days proposed.
+There wasn't full agreement on whether two full days of plenary sessions is required as 1 1/2 days maybe enough, however, no one suggested a duration different than the four days proposed.
 
 Andy suggested to start around lunch time, enabling people to travel on the same day.
 
