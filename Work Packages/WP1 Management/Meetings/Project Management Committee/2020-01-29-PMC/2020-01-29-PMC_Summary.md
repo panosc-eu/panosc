@@ -33,7 +33,7 @@ There wasn't full agreement on whether two full days of plenary sessions is requ
 
 Andy suggested to start around lunch time, enabling people to travel on the same day.
 
-Thomas asked about the amount of people expected to attend to which the reply was around 100. ExPaNDS kick-off was attended by 46 people and PaNOSC annual meeting by ~70, with significant overlap between the two, therefore ~100 would be goo.
+Thomas asked about the amount of people expected to attend to which the reply was around 100. ExPaNDS kick-off was attended by 46 people and PaNOSC annual meeting by ~70, with significant overlap between the two, therefore ~100 would be a good estimate.
 
 A new issue ([issue 53](https://github.com/panosc-eu/panosc/issues/53)) has been created for Florian to confirm details (exact dates & max attendee number) for the annual meeting.
 
@@ -107,7 +107,7 @@ Giuseppe said that everything is progressing well and that next step is to conne
 
 Nicoletta said that a new video is available available from [our website](https://www.panosc.eu/news/) or our [youtube channel](https://www.youtube.com/channel/UC7ULx4C4OCbKlpAp0Xtd4wQ/featured)
 
-   **WP7 - Sustainibility** : Roberto reported a meeting of WP7 taking place [29/01/2020 in the morning](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/project%20meetings/2020-01-29/Minute.md) in which it was discussed the Tinman report.  Roberto asked everyone to share feedback by Monday 3rd Feburary, so he can draft and share a joint PaNOSC response Tuesday the 4th. That would let time for a possible meeting Wednesday or Thursday and share feedback by Friday 7th (deadline for feedback).  Roberto will also be in touch with Rupert (EOSC Secretariat Sustainability WG co-chair) about what kind of feedback is expected in the meantime.
+   **WP7 - Sustainibility** : Roberto reported a meeting of WP7 taking place [29/01/2020 in the morning](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/project%20meetings/2020-01-29/Minute.md) during which ithe Tinman report was discussed.  Roberto asked everyone to share feedback by Monday 3rd Feburary, so he can draft and share a joint PaNOSC response by Tuesday the 4th. That would let time for a possible meeting Wednesday or Thursday and share feedback by Friday 7th (deadline for feedback).  Roberto will also be in touch with Rupert (EOSC Secretariat Sustainability WG co-chair) about what kind of feedback is expected in the meantime.
 
 During the WP7 meeting *D7.1 PaN EOSC Stakeholder Feedbacks* was also discussed. Roberto could deliver a draft list of stakeholders by March. Jordi said that a list of stakholders does not contain feedback (as the title suggests) and it is similar to the already achieved milestone *MS7.1 Stakeholder database ready*. In the grant agreement the description of D7.1 is not clear. 
 
@@ -120,7 +120,7 @@ Roberto said that due to other commitments Ornela will become deputy WP7 leader 
 Jesper asked whether money could be supplied for hardware required for the training site to which Andy replied that it is not possible as Hardware does not fully depreciate over the lifetime of PaNOSC, however we could potentially get computing resources from EGI or use the money we have reserved for cloud resources.
 Jesper replied that he would like to minimise extra work, as the training site is not readily  portable to other hardware or virtual platform.
 
-   **WP9 - Outreach & Communication** : Nicoletta reported the videos (see WP6 above) and the SXNS event. It is not clear whether she will attend the ESOF.
+   **WP9 - Outreach & Communication** : Nicoletta reported on the videos (see WP6 above) and the SXNS event. It is not clear whether she will attend the ESOF.
 
 
 
