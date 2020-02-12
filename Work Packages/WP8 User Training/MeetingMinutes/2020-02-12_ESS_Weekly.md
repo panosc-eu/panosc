@@ -13,7 +13,7 @@
 ## Updates
 We can not buy HW through PaNOSC, but cloud-resources are OK. We should look into potential use of cloud-services, e.g. Amazon.
 Wrt. the face2face meeting, Thomas agreed with PaNOSC & ExPANDS partners that we will await clarity on key staff-situation. First
-monthly meeting held, see [[Monthly-2020-02-05.md]]. Alexandre reports that puppet deployment is in place. Peter to do thorough test
+monthly meeting held, see [Monthly-2020-02-05.md](Monthly-2020-02-05.md). Alexandre reports that puppet deployment is in place. Peter to do thorough test
 and minor adjustments if needed, documenting any change. ESS now proudly owns elephant.school domain. :-)
 
 # Actions
