@@ -10,7 +10,7 @@ Agenda
 
 2. Update on the next Annual Meeting with ExPaNDS
 
-3. Create a PaNOSC space on Zenodo and ppload deliverables to generate a DOI
+3. Create a PaNOSC space on Zenodo and upload deliverables to generate a DOI
 
 4. Update from the WP Leaders - update on what has been achieved and problems
 
@@ -32,6 +32,7 @@ Agenda
     * EOSC and CNRS (22/1/2020)
     * FAIRsFAIR data repository certification (6/2/2020)
     * FAIRsFAIR [open call for FAIR champions](https://www.fairsfair.eu/form/open-call-european-fair-champions)
+    * EOSC training workshop (28/2/2020)
     * EOSC-Life Annual Meeting (Florence 03/03/2020)
 
 6. REMINDER OF Next Deliverables & Milestones 
