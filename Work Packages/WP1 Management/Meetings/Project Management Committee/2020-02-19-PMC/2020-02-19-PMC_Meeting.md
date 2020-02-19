@@ -1,4 +1,4 @@
-PaNOSC Project Management Committee meeting - 12/02/2020
+PaNOSC Project Management Committee meeting - 19/02/2020 (originally planned for 12/02/2020)
 ========================================================
 
 Agenda
