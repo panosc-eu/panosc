@@ -4,15 +4,15 @@ PaNOSC Project Management Committee meeting - 12/02/2020
 Agenda
 ------	
 
-0. Change of time for PMC meetings (13:30 instead of 14:30)
+1. Change of time for PMC meetings (13:30 instead of 14:30)
 
-1. Dates + Draft agenda for the Review meeting in Brussels 
+2. Dates + Draft agenda for the Review meeting in Brussels 
 
-2. Update on the next Annual Meeting with ExPaNDS
+3. Update on the next Annual Meeting with ExPaNDS
 
-3. Create a PaNOSC space on Zenodo and upload deliverables to generate a DOI
+4. Create a PaNOSC space on Zenodo and upload deliverables to generate a DOI
 
-4. Update from the WP Leaders - update on what has been achieved and problems
+5. Update from the WP Leaders - update on what has been achieved and problems
 
 | WP | Notes |
 | -- | ----- |
@@ -26,7 +26,7 @@ Agenda
 | WP8 Staff training in data stewardship | MS8.3 due February | 
 | WP9 Outreach & Communication | DOI video| 
 
-5. News from other proposals and events
+6. News from other proposals and events
     * INFRAEOSC-07 A1 project proposal by EGI
     * INFRAEOSC-03
     * EOSC and CNRS (22/1/2020)
@@ -35,7 +35,7 @@ Agenda
     * EOSC training workshop (28/2/2020)
     * EOSC-Life Annual Meeting (Florence 03/03/2020)
 
-6. REMINDER OF Next Deliverables & Milestones 
+7. REMINDER OF Next Deliverables & Milestones 
 
 | Deliverable | New date | Original Date | 
 | ----------- | -------- | ------------- | 
@@ -63,13 +63,13 @@ Agenda
 
 *Please do add Milestones and Internal Milestones supporting documents in GitHub*
 
-7. Issues https://github.com/panosc-eu/panosc/issues
+8. Issues https://github.com/panosc-eu/panosc/issues
  * [Cooperation with ExPaNDS](https://github.com/panosc-eu/panosc/issues/46) - update
  * [Internal Milestones](https://github.com/panosc-eu/panosc/issues/43) - do we need extra internal milestones for 2020?
  * [KPIs](https://github.com/panosc-eu/panosc/issues/41) - update
  * [Risk Management](https://github.com/panosc-eu/panosc/issues/25) - update
  * [Observer status](https://github.com/panosc-eu/panosc/issues/9) - update
 
-8. Job openings and hirings
+9. Job openings and hirings
 
-9. AOB
+10. AOB
