@@ -25,7 +25,9 @@
 * Preparation of review meeting (Hans)
 - Probably second half of June
 
-* WP4 presentation at review meeting (Robert R, Thomas K)
+* Presentation at review meeting (Robert R, Juncheng, Thomas K)
+Notes from planning some time ago:
+
 - what demos for WP4 (Robert and Thomas K)
   - remote data analysis
   - what features do we want to show?
@@ -36,9 +38,9 @@
     - Painting story from ESRF?
     
   - Prototype remote desktop?
-    -> ILL
+    -> ILL?
       
-  - what linked up demo?
+- what linked up demo (Juncheng, Thomas K)?
     - Thomas Holm Rod suggested in video meeting 
       - neutron analysis where we have simulation and experiment data
       - analyse that
