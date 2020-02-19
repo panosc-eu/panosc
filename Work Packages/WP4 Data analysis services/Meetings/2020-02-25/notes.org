@@ -1,0 +1,69 @@
+#+TITLE: WP4 Video meeting <2020-02-25 Tue 15:00>
+
+:present: 
+
+* Actions from last meeting
+- Robert, Jakub and Jamie to work on internal Milestone
+- Hans to suggest meeting dates with Anton/Expands
+  - 11 to 14 May 2020
+- All: contribute example data sets and analysis as hard-coded data examples for
+  protoype.
+  - EuXFEL: https://github.com/European-XFEL-examples
+  - others? https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP4%20Data%20analysis%20services ?
+
+* Upcoming Code Camp (Thomas V)
+24-27 March, ESS, ILL, https://indico.esrf.fr/indico/event/43/
+
+* Update from Portal (Jakub, Jamie)
+- Documentation available at https://confluence.panosc.eu/display/wp4/Development 
+- presentations https://confluence.panosc.eu/display/wp4/Presentations
+ 
+* Update Deliverable 4.2, Lottie and team (April 2020)
+  - "Deliverable 4.2. Prototype remote desktop and Jupyter service (M18, DEM,
+    CO, ILL)"
+
+* Preparation of review meeting
+- Probably second half of June
+
+* WP4 presentation at review meeting (Robert R, Thomas K)
+- what demos for WP4 (Robert and Thomas K)
+  - remote data analysis
+  - what features do we want to show?
+    - work in browser / no software installation 
+    - mix of annotation, code and images
+    - use of HPC resources where required
+  - Example
+    - Painting story from ESRF?
+    
+  - Prototype remote desktop?
+    -> ILL
+      
+  - what linked up demo?
+    - Thomas Holm Rod suggested in video meeting 
+      - neutron analysis where we have simulation and experiment data
+      - analyse that
+    - Juncheng and Thomas K to explore
+
+    - Mcstas - neutron simulation tool 
+      - Mads (ESS)
+
+* Next meeting
+** Video meeting
+- Tuesday 10 March 15:00 
+
+** In person meeting
+  - bigger meeting with Expands in May in Hamburg  (11 to 14 May proposed)
+
+* Updates from sites
+(skipped for time reasons)
+
+* Any other business
+- Additional suggestions for future topics?
+
+* Future topics
+- Update from Portal
+- REANA
+- Training material
+- LIGO Open Science Centre
+** Reproducible use cases
+- missing from some facilities
