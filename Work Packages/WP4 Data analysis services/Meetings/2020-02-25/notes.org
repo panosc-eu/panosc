@@ -2,7 +2,7 @@
 
 :present: 
 
-* Actions from last meeting
+* Actions from last meeting (Hans)
 - Robert, Jakub and Jamie to work on internal Milestone
 - Hans to suggest meeting dates with Anton/Expands
   - 11 to 14 May 2020
@@ -18,11 +18,11 @@
 - Documentation available at https://confluence.panosc.eu/display/wp4/Development 
 - presentations https://confluence.panosc.eu/display/wp4/Presentations
  
-* Update Deliverable 4.2, Lottie and team (April 2020)
+* Update Deliverable 4.2 (Lottie and team)
   - "Deliverable 4.2. Prototype remote desktop and Jupyter service (M18, DEM,
     CO, ILL)"
 
-* Preparation of review meeting
+* Preparation of review meeting (Hans)
 - Probably second half of June
 
 * WP4 presentation at review meeting (Robert R, Thomas K)
@@ -47,15 +47,14 @@
     - Mcstas - neutron simulation tool 
       - Mads (ESS)
 
-* Next meeting
+* Next meeting (Hans)
 ** Video meeting
 - Tuesday 10 March 15:00 
 
 ** In person meeting
-  - bigger meeting with Expands in May in Hamburg  (11 to 14 May proposed)
+- bigger meeting with Expands in May in Hamburg  (11 to 14 May proposed)
 
 * Updates from sites
-(skipped for time reasons)
 
 * Any other business
 - Additional suggestions for future topics?
