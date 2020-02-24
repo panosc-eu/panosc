@@ -57,6 +57,7 @@ Andy said that we could try to use this call to onboard user communities. Rudolf
 **5. News from WP leaders**
 
 By this time the meeting was running a bit behind schedule.
+
 **WP4** : Hans reported from a meeting with ExPaNDS in Hamburg that was useful and that conversations about architecture and portal took place. A four-day long code camp to deploy the portal is planned at the end of March at the ESRF and ILL campus.
 
 **WP9** : Nicoletta reported the E-SOFT? event and asked whether we want to attend.
