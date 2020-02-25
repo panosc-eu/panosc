@@ -1,0 +1,17 @@
+#+TITLE: WP4 Video meeting <2020-03-10 Tue 15:00>
+
+:present:
+
+* Actions from last meeting
+- Storyboards (see [[../2020-02-25/notes.org][minutes from 25 Feb 2020]
+
+* Review of visualisation tools (Axel, Loic)
+
+* Next meetings
+** Video meeting
+- 24 March 2020 15:00
+
+** In person meeting
+- Code Camp in Grenoble, 24-27 March, ESRF, ILL, https://indico.esrf.fr/indico/event/43/
+- bigger meeting with Expands in May in Hamburg  (11 to 14 May proposed)
+
