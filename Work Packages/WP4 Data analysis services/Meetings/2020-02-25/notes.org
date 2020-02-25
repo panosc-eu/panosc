@@ -1,8 +1,10 @@
 #+TITLE: WP4 Video meeting <2020-02-25 Tue 15:00>
 
-:present: Robert R, Hans, Axel, Loic, Andy, Juncheng, William, Jamie, Andrea
-Manzi (EGI), Jakub Jiri (ELI) Kareem (ESS) Robert (ELI-Alps), Sandor, Franz Lang
-(STFC), Aidan
+:present: 
+
+Robert R, Hans, Axel, Loic, Andy, Juncheng, William, Jamie, Andrea Manzi (EGI),
+Jakub Jiri (ELI) Kareem (ESS) Robert (ELI-Alps), Sandor, Franz Lang (STFC),
+Aidan
 
 
 * Actions from last meeting (Hans)
@@ -92,29 +94,10 @@ Andy:
     - Mcstas - neutron simulation tool 
       - Mads (ESS)
 
-- Action: develop Story boards of what could be shown for next meeting
-  - These should be short descriptions of what could be shown
-  - try to provide the context (what do we show: the portal, some analysis
-    procedure, finding data through the portal, simulation, reproducible science
-    example, ...)
-  - what resources/infrastructure would be needed/could be used
-  - don't be too detailed; initially we just need this to fine tune what we will
-    present
-  - content wise, we need to cover the following:
-    - remote desktop analysis services (we have a deliverable for this),
-      this would be remote data analysis in notebook or virtual machine
-    - the PaNOSC vision and work started (portal, EGI integration)
-    - ?
-  
-    - We expect storyboard on the topics that have been discussed from
-    - Robert
-    - Juncheng
-    - Thomas K
-    - Thomas V (Blue paint)
-    - Jakub / Science story
-    - Jakub / Portal / user interface
-  - If there are no confidentiality issues, please add storyboards to 
-    [[../2020-06-review-meeting/storyboards.md][this document]]
+- Action:
+
+  See below.
+
 
 * Next meeting (Hans)
 ** Video meeting
@@ -137,3 +120,29 @@ Andy:
 - LIGO Open Science Centre
 ** Reproducible use cases
 - missing from some facilities
+
+
+* Actions
+ Develop Story boards of what could be shown for next meeting
+  - These should be short descriptions of what could be shown
+  - try to provide the context (what do we show: the portal, some analysis
+    procedure, finding data through the portal, simulation, reproducible science
+    example, ...)
+  - what resources/infrastructure would be needed/could be used
+  - don't be too detailed; initially we just need this to fine tune what we will
+    present
+  - content wise, we need to cover the following:
+    - remote desktop analysis services (we have a deliverable for this),
+      this would be remote data analysis in notebook or virtual machine
+    - the PaNOSC vision and work started (portal, EGI integration)
+    - ?
+  
+  - We expect storyboard on the topics that have been discussed from
+    - Robert
+    - Juncheng
+    - Thomas K
+    - Thomas V (Blue paint)
+    - Jakub / Science story
+    - Jakub / Portal / user interface
+  - If there are no confidentiality issues, please add storyboards to 
+    [[../2020-06-review-meeting/storyboards.md][this document]]
