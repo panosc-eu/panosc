@@ -3,9 +3,13 @@
 :present:
 
 * Actions from last meeting
-- Storyboards (see [[../2020-02-25/notes.org][minutes from 25 Feb 2020]
+- Storyboards (see https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-02-25/notes.org#actions)
 
 * Review of visualisation tools (Axel, Loic)
+
+* Updates Portal
+
+* Updates Review meeting planning (short introduction of each story board)
 
 * Next meetings
 ** Video meeting
