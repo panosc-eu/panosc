@@ -17,4 +17,5 @@ Link for the telco: https://zoom.us/j/3600887342
 
 ## Discussions:
 
-Michael presentation is available 
+
+Michael demonstarted the infrastructure in place at DESY, it is based on Rancher, Helm, Gitlab, Openstack, K8s ... read the presentation, the level of integration is really impressive.
