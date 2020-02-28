@@ -17,3 +17,4 @@ Link for the telco: https://zoom.us/j/3600887342
 
 ## Discussions:
 
+Michael presentation is available 
