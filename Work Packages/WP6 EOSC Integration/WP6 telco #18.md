@@ -11,7 +11,9 @@ Link for the telco: https://zoom.us/j/3600887342
 
 ## Agenda:
 
-Demonstration of the kubernetes+helm+rancher stack in the DESY compute cloud
+1. Demonstration of the kubernetes+helm+rancher stack in the DESY compute cloud
+2. Organisation of the AAI training (location, indico, Agenda, date, PanOSC + ExPaNDS, Preparation of the participants...).
+3. AOB
 
 ## Discussions:
 
