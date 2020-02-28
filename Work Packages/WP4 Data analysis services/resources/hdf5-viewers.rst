@@ -30,11 +30,12 @@ Desktop
 
 * `List of data analysis tools <http://download.nexusformat.org/doc/html/utilities.html#data-analysis>`_ with NeXus_ support from the NeXus_ website.
 
-* Other Python-based viewer not mentionned in previous list:
+* Other Python-based viewers not mentioned in previous lists:
 
   - `ViTables <http://vitables.org/>`_ is a GUI for browsing and editing files in both PyTables and HDF5 formats.
   - `h5pyViewer <https://pypi.org/project/h5pyViewer>`_ contains classes and tools to view *.hdf5 files.
   - `silx view <http://www.silx.org/doc/silx/latest/applications/view.html>`_ command is provided to open data files in a graphical user interface.
+  - `NexPy <https://github.com/nexpy/nexpy>`_ provides tools to access/write NeXus files in Python and a simple GUI. The linked project `NXremote <https://github.com/nexpy/nxremote>`_ allows for remote access to NeXus files.
 
 * `List of viewers for HDF-EOS (Hierarchical Data Format - Earth Observing System) <http://hdfeos.org/software/tool.php#HDFVIEW>`_
 
