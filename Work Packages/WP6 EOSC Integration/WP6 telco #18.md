@@ -17,5 +17,6 @@ Link for the telco: https://zoom.us/j/3600887342
 
 ## Discussions:
 
+Michael demonstarted the infrastructure in place at DESY, it is based on Rancher, Helm, Gitlab, Openstack, K8s ... read the presentation https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP6%20EOSC%20Integration/Slides/2020-02-28%20Rancher-Helm/PaNOSC-WP6-Rancher-Helm.pdf, the level of integration is really impressive.
 
-Michael demonstarted the infrastructure in place at DESY, it is based on Rancher, Helm, Gitlab, Openstack, K8s ... read the presentation, the level of integration is really impressive.
+We also discussed the organisation of the AAI training, a email will follow in March.
