@@ -8,11 +8,11 @@ Agenda
 
 2. Update on the next Annual Meeting with ExPaNDS
 
-3. Update on PaNOSC space on Zenodo and upload deliverables to generate a DOI
+3. Update on Milestone 8.3 pan-learning.org up and running
 
 4. ExPaNDS Technical Coordination Board
 
-5. Update on Milestone 8.3 pan-learning.org up and running
+5. Update on PaNOSC space on Zenodo and upload deliverables to generate a DOI
 
 6. News from other proposals and events
     * INFRAEOSC-07 A1 project proposal by EGI
