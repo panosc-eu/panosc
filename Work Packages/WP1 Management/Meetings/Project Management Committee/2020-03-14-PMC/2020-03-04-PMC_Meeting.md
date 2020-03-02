@@ -43,7 +43,7 @@ Agenda
 - *Globus Connect: We (EGI and me) had a meeting with Globus Connect, we should receive soon the first commercial proposal.*
 - *Archving pilot, the server has been reinstalled using Centos 7, we will start real test transfer using FTS next week.*
 
-On the ILL side: we have eventually recruited a sysadmin for PaNOSC, he should start in June.
+*On the ILL side: we have eventually recruited a sysadmin for PaNOSC, he should start in June.*
 
 8. REMINDER OF Next Deliverables & Milestones 
 
