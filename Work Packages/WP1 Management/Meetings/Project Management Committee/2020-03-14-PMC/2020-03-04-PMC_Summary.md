@@ -11,14 +11,14 @@ Florian (ELI-DC), Andy (ESRF), Rudolf (ESRF), Jordi (ESRF), Juncheng (XFEL), Pet
 Minutes
 -------	
 
-**1. Dates + Draft agenda for the Review meeting in Brussels ** 
+**1. Dates + Draft agenda for the Review meeting in Brussels** 
 
 No news. ESRF will contact our project officer to try to confirm more details for this Review Meeting, which is expected to take place during the last two weeks in June.
 
 
 **2. Update on the next Annual Meeting with ExPaNDS** 
 
-There is a meeting between PaNOSC and ExPaNDS scheduled for 04/03/2020 at 15:00h to finalise discussions on this topic. There is concern from some at ExPaNDS as the planned dates in November (9th afternoon to 11th) match those of an RDA meeting in Costa Rica, however the position at PaNOSC's PMC is that if possible at all it would be better to keep the current dates.
+There is a meeting between PaNOSC and ExPaNDS scheduled for 04/03/2020 at 15:00h to finalise discussions on this topic. There is concern from some at ExPaNDS as the planned dates in November (9th afternoon to 11th midday) match those of an RDA meeting in Costa Rica, however the position at PaNOSC's PMC is that if possible at all it would be better to keep the current dates.
 
 Florian also confirm that the ESFRI Chair is available to attend the Annual Meeting on 9th November in the afternoon, which would be great.
 
@@ -48,29 +48,29 @@ It was agreed as well that Jordi will send an email to PMC members to update the
 
 Before moving to the update from WP leaders, it was decided to briefly talk about two project proposals:
 
-**INFRAEOSC-07**: No longer relevant and will be removed from future agendas.
+* **INFRAEOSC-07**: No longer relevant and will be removed from future agendas.
 
-**INFRAEOSC-03**: Rudolf explained that work is ongoing at a fast pace with the proposal and reminded everyone that he asked PaNOSC and ExPaNDS partner RIs to provide feedback on whether they want to participate by 04/03/2020 EOB, unfortunately no feedback has been received so far.
+* **INFRAEOSC-03**: Rudolf explained that work is ongoing at a fast pace with the proposal and reminded everyone that he asked PaNOSC and ExPaNDS partner RIs to provide feedback on whether they want to participate by 04/03/2020 EOB, unfortunately no feedback has been received so far.
 
-By joining the proposal, there could be some funding available (3.5M€ for our Science Cluster), a commitment to deliver the actions that Rudolf listed in his email and also the opportunity to shape the proposal that is being written.
+  * By joining the proposal, there could be some funding available (3.5M€ for our Science Cluster), a commitment to deliver the actions that Rudolf listed in his email and also the opportunity to shape the proposal that is being written.
 
-Andy said that he expects DESY, PSI and Soleil to participate and provide feedback before the deadline.
+  * Andy said that he expects DESY, PSI and Soleil to participate and provide feedback before the deadline.
 
-Florian explained that while he finds very interesting and important the proposal he is concerned about the already overstreched workforce at ELI and the capacity to deliver the commitments from the call.
+  * Florian explained that while he finds very interesting and important the proposal he is concerned about the already overstreched workforce at ELI and the capacity to deliver the commitments from the call.
 
-It was agreed that it is important that ESRF is not alone representing PaNOSC and the photon and neutron community.
+  * It was agreed that it is important that ESRF is not alone representing PaNOSC and the photon and neutron community.
 
-**FAIRsFAIR data repository certification** : ESRF is participating on this and there are no news for now.
+* **FAIRsFAIR data repository certification** : ESRF is participating on this and there are no news for now.
 
-**FAIRsFAIR open call for FAIR champions** : Nicoletta explained that we can participate on this until the end of August, however apparently no one has done so from PaNOSC so far. It was agreed that Nicoletta will remind everyone of this and that Jordi will put this item higher up in the agenda, so hopefully after a couple of PMC meetings we can get a nice view of who would like to be a FAIR champion.
+* **FAIRsFAIR open call for FAIR champions** : Nicoletta explained that we can participate on this until the end of August, however apparently no one has done so from PaNOSC so far. It was agreed that Nicoletta will remind everyone of this and that Jordi will put this item higher up in the agenda, so hopefully after a couple of PMC meetings we can get a nice view of who would like to be a FAIR champion.
 
-Andy explaind that PaNOSC is all about FAIR and therefore we are all "FAIR champions" and that he expects PaNOSC participants to volunteer as FAIR champions.
+  * Andy explaind that PaNOSC is all about FAIR and therefore we are all "FAIR champions" and that he expects PaNOSC participants to volunteer as FAIR champions.
 
-**EOSC-Life Annual Meeting** : Rudolf reported that this is taking place with the location changed from Florence to Brussels due to the ongoing coronavirus scare. He attended remotely the first day of meetings and found it interesting. Rudolf explained that there were conversations about EOSC biggest threat (lack of uptake by users? making parallel work converge? etc.) and collaboration between clusters.
+* **EOSC-Life Annual Meeting** : Rudolf reported that this is taking place with the location changed from Florence to Brussels due to the ongoing coronavirus scare. He attended remotely the first day of meetings and found it interesting. Rudolf explained that there were conversations about EOSC biggest threat (lack of uptake by users? making parallel work converge? etc.) and collaboration between clusters.
 
-Jamie asked wether are any concrete technical/tangible information about the EOSC and Rudolf said that while there is plenty of information and documentation, there is not a single library with content and still not a simple definition of what is the EOSC. Rudolf recommended reading the Tinman report, which is expected to evolve/be improved in a new report: The Ironlady report.
+  * Jamie asked wether are any concrete technical/tangible information about the EOSC and Rudolf said that while there is plenty of information and documentation, there is not a single library with content and still not a simple definition of what is the EOSC. Rudolf recommended reading the Tinman report, which is expected to evolve/be improved in a new report: The Ironlady report.
 
-Rudolf also explained that the Commission wanst to have a legal entity created by the end of the year. Florian asked what form would this take and Rudolf said that he believes it will be a Belgian AISBL and that the timescales are challenging.
+  * Rudolf also explained that the Commission wanst to have a legal entity created by the end of the year. Florian asked what form would this take and Rudolf said that he believes it will be a Belgian AISBL and that the timescales are challenging.
 
 
 **7. Update from the WP Leaders - update on what has been achieved and problems**
@@ -89,10 +89,10 @@ It was agreed that it would be a nice idea to try to plan a meeting with all WPs
 
 * **WP6 - EOSC Integration** : Jordi read the news that Jean-Francois shared with him by email:
 
-AAI: the integration of UmbrellaID/Eduteam with keycloak has been achieved, we now just need to integrate with a shibboleth instance, before engaging in step 2 (Edugain, Orcid, ...)*
-- *AAI: We are preparing a hands-on training session (focusing on keycloak for the integration into the RIs) for PaNOSC and ExPANDS partners for May at Amsterdam.  The 2-half days (lunch time to lunch time) session will be limited to 15 people, an indico site will be set up.*
-- *Globus Connect: We (EGI and me) had a meeting with Globus Connect, we should receive soon the first commercial proposal.*
-- *Archving pilot, the server has been reinstalled using Centos 7, we will start real test transfer using FTS next week.
+  - AAI: the integration of UmbrellaID/Eduteam with keycloak has been achieved, we now just need to integrate with a shibboleth instance, before engaging in step 2 (Edugain, Orcid, ...)*
+  - AAI: We are preparing a hands-on training session (focusing on keycloak for the integration into the RIs) for PaNOSC and ExPANDS partners for May at Amsterdam.  The 2-half days (lunch time to lunch time) session will be limited to 15 people, an indico site will be set up.
+  - Globus Connect: We (EGI and me) had a meeting with Globus Connect, we should receive soon the first commercial proposal.
+  - Archving pilot, the server has been reinstalled using Centos 7, we will start real test transfer using FTS next week.
 
 * **WP7 - Sustainibility** : Ornela was absent / had problems with her computer. Dario reported that Roberto is working on the first half of the deliverable for May and Jordi enquired about the scope of the deliverable (stakeholder list or feedback from them as well?).
 
