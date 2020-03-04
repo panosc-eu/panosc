@@ -18,9 +18,9 @@ No news. ESRF will contact our project officer to try to confirm more details fo
 
 **2. Update on the next Annual Meeting with ExPaNDS** 
 
-There is a meeting between PaNOSC and ExPaNDS scheduled for 04/03/2020 at 15:00h to finalise discussions on this topic. There is concern from some at ExPaNDS as the planned dates in November (9th afternoon to 11th midday) match those of an RDA meeting in Costa Rica, however the position at PaNOSC's PMC is that if possible at all it would be better to keep the current dates.
+There is a meeting between PaNOSC and ExPaNDS scheduled for 04/03/2020 at 15:00 to finalise discussions on this topic. There is concern from some at ExPaNDS as the planned dates in November (9th afternoon to 11th midday) match those of an RDA plenary meeting in Costa Rica, however the position at PaNOSC's PMC is that if possible at all it would be better to keep the current dates.
 
-Florian also confirm that the ESFRI Chair is available to attend the Annual Meeting on 9th November in the afternoon, which would be great.
+Florian also confirms that the ESFRI Chair is available to attend the Annual Meeting on 9th November in the afternoon, which would be great.
 
 **3. Update on Milestone 8.3 pan-learning.org up and running**
 
@@ -36,7 +36,7 @@ Jamie has then been nominated to ExPaNDS TCB and Jordi will inform Sophie of tha
 
 **5. Update on PaNOSC space on Zenodo and upload deliverables to generate a DOI**
 
-Nicoletta explaiend that she found out that Carsten had created a Zenodo community for PaNOSC already last year and that rather than creating a new one we are using the existing one. The curator for this community in Zenodo is publications@panosc.eu and Jordi and Andy have access to it.
+Nicoletta explained that she found out that Carsten had created a Zenodo community for PaNOSC already last year and that rather than creating a new one we are using the existing one. The curator for this community in Zenodo is publications@panosc.eu and Jordi and Andy have access to it.
 
 It was clarified that ExPaNDS has its own Zenodo community separated from ours.
 
@@ -68,22 +68,24 @@ Before moving to the update from WP leaders, it was decided to briefly talk abou
 
 * **EOSC-Life Annual Meeting** : Rudolf reported that this is taking place with the location changed from Florence to Brussels due to the ongoing coronavirus scare. He attended remotely the first day of meetings and found it interesting. Rudolf explained that there were conversations about EOSC biggest threat (lack of uptake by users? making parallel work converge? etc.) and collaboration between clusters.
 
-  * Jamie asked wether are any concrete technical/tangible information about the EOSC and Rudolf said that while there is plenty of information and documentation, there is not a single library with content and still not a simple definition of what is the EOSC. Rudolf recommended reading the Tinman report, which is expected to evolve/be improved in a new report: The Ironlady report.
+  * Jamie asked wether are any concrete technical/tangible information about the EOSC and Rudolf said that while there is plenty of information and documentation accessible via [EOSC secretariat](https://www.eoscsecretariat.eu/), there is not a single library with content and still not a simple definition of what is the EOSC. Rudolf recommended reading the Tinman report, which is expected to evolve/be improved in a new report: The Ironlady report.
 
   * Rudolf also explained that the Commission wanst to have a legal entity created by the end of the year. Florian asked what form would this take and Rudolf said that he believes it will be a Belgian AISBL and that the timescales are challenging.
+  
+  * **EOSC Validation Workshop on the draft Landscape Report** : Florian will attend and represent PaNOSC. The workshop is taking place in Brussels on 23-24 March.
 
 
 **7. Update from the WP Leaders - update on what has been achieved and problems**
 
 * **WP1 - Management** : Jordi explained ongoing work for collaboration with Expands (see minutes of last meeting at the end of [issue 46](https://github.com/panosc-eu/panosc/issues/46)), reminding WP leaders that do not have a complete set of KPIs that these are required, reminded everyone of upcoming milestones / deliverables, said that he will contact WP leaders to review existing risks and also that a new Internal Financial Report will be created in May covering up to the end of April.
 
-* **WP2 - Data Policy and Stewardship** : Andy reported an Icat meeting and face to face meeting end of May in Prague. He also explained that the deliverable which was planned to be advanced to April will not be finished until May.
+* **WP2 - Data Policy and Stewardship** : Andy reported an Icat meeting and face-to-face meeting end of May in Prague. He also explained that the deliverable which was planned to be advanced to April will not be finished until May.
 
 * **WP3 - Data Catalog Services** : Tobias was absent. Petra reported that Gareth is leaving ESS in one month and that they are looking for a replacement. Everyone was sad to hear the news as Gareth is a well like and valuable member of WP3.
 
 * **WP4 Data Analysis Services** : Hans was absent. Jamie reported that  the Coding workshop in Grenoble, 24-27 March, https://indico.esrf.fr/indico/event/43/ has been postponed (because of Covid19 and travel restrictions from institutions), however Andy asked ELI to come to Grenoble. ESS will not be able to attend, however some useful work can be done and this should be considered.
 
-* **WP5 - Virtual Neutron and X-ray Laboratory** : Juncheng reported that a face to face meeting is scheduled for 23rd and 24th April (this meeting could end up being remote if travel restrictions remain in place). Juncheng also said the preparation of the demo for the revie wmeeting is ongoing and that he believes that simulation data could be produced and have a 
+* **WP5 - Virtual Neutron and X-ray Laboratory** : Juncheng reported that a face-to-face meeting is scheduled for 23rd and 24th April (this meeting could end up being remote if travel restrictions remain in place). Juncheng also said the preparation of the demo for the review meeting is ongoing and that he believes that simulation data could be produced and have a 
 
 It was agreed that it would be a nice idea to try to plan a meeting with all WPs doing a demo, so it flows all well (WP3, WP4, WP5 and WP6).
 
