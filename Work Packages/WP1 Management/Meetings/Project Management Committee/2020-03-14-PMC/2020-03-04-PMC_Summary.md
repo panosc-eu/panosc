@@ -4,7 +4,7 @@
 
 Attendees
 -------
-Florian (ELI-DC), Andy (ESRF), Rudolf (ESRF), Jordi (ESRF), Juncheng (XFEL), Petra (ESS), Jamie (ILL), Nicoletta (CERIC) and Dario(CERIC), Ornela (CERIC)
+Florian (ELI-DC), Andy (ESRF), Rudolf (ESRF), Jordi (ESRF), Juncheng (XFEL), Petra (ESS), Jamie (ILL), Nicoletta (CERIC), Dario(CERIC) and Ornela (CERIC)
 
 
 
