@@ -60,8 +60,7 @@ By this time the meeting was running a bit behind schedule.
 
 **WP4** : Hans reported from a meeting with ExPaNDS in Hamburg that was useful and that conversations about architecture and portal took place. A four-day long code camp to deploy the portal is planned at the end of March at the ESRF and ILL campus.
 
-**WP9** : Nicoletta reported the E-SOFT? event and asked whether we want to attend.
-Nicoletta also talked about some other things I couldn't hear.
+**WP9** : Nicoletta reported about the SSHOC initiative to organize the EOSC cluster joint stakeholder forum on 8-9 July at ESOF 2020 in Trieste, and asked whether we want to attend. Partner will not have much to show by that date, and the budget has not been defined yet. Further updates will come in the following days.
 Andy said that he will get in touch the ESRF's User Office and Nicoletta as they are interested in participating in the DOI video.
 
 **WP8** : Thomas reported two meetings this week and a planned joint face-to-face workshop with ExPaNDS, however due a sick-leave a plan B must be found. 
