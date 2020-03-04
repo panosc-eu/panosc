@@ -94,7 +94,7 @@ It was agreed that it would be a nice idea to try to plan a meeting with all WPs
   - Globus Connect: We (EGI and me) had a meeting with Globus Connect, we should receive soon the first commercial proposal.
   - Archving pilot, the server has been reinstalled using Centos 7, we will start real test transfer using FTS next week.
 
-* **WP7 - Sustainibility** : Ornela was absent / had problems with her computer. Dario reported that Roberto is working on the first half of the deliverable for May and Jordi enquired about the scope of the deliverable (stakeholder list or feedback from them as well?).
+* **WP7 - Sustainibility** : Ornela had problems with her connection. Dario reported that Roberto is working on the first draft of the deliverable due in May, that should be ready today. WP7 agreed in last meeting to work online on this document, while moving forward with the following deliverable in parallel. Jordi enquired about the scope of the deliverable (stakeholder list or feedback from them as well?). The partnership agreed to get feedback on the availability of stakeholders and enrich the list with a plan on the feedbacks that will be requested from each stakeholder, with the help of WP leaders.
 
 * **WP8 - Staff training in data stewardship** : Thomas was absent. Jordi already reported on the milestones 8.3 being missed. Petra reported planning ongoing for a meeting in Copenhagen.
 
