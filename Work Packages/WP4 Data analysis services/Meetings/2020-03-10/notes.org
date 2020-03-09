@@ -5,11 +5,19 @@
 * Actions from last meeting
 - Storyboards (see https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-02-25/notes.org#actions)
 
+* Code camp cancellation
+
 * Review of visualisation tools (Axel, Loic)
 
 * Updates Portal
 
 * Updates Review meeting planning (short introduction of each story board)
+  - Robert
+  - Juncheng
+  - Thomas K
+  - Thomas V (Blue paint)
+  - Jakub / Science story
+  - Jakub / Portal / user interface
 
 * Next meetings
 ** Video meeting
