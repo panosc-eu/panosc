@@ -85,7 +85,7 @@ Before moving to the update from WP leaders, it was decided to briefly talk abou
 
 * **WP4 Data Analysis Services** : Hans was absent. Jamie reported that  the Coding workshop in Grenoble, 24-27 March, https://indico.esrf.fr/indico/event/43/ has been postponed (because of Covid19 and travel restrictions from institutions), however Andy asked ELI to come to Grenoble. ESS will not be able to attend, however some useful work can be done and this should be considered.
 
-* **WP5 - Virtual Neutron and X-ray Laboratory** : Juncheng reported that a face-to-face meeting is scheduled for 23rd and 24th April (this meeting could end up being remote if travel restrictions remain in place). Juncheng also said the preparation of the demo for the review meeting is ongoing and that he believes that simulation data could be produced and have a 
+* **WP5 - Virtual Neutron and X-ray Laboratory** : Juncheng reported that a face-to-face meeting is scheduled for 23rd and 24th April (this meeting could end up being remote if travel restrictions remain in place). Juncheng also said the preparation of the demo for the review meeting is ongoing and that he believes that simulation data could be produced and have a workflow with demo. A meeting in order to prepare the demo will be planned.
 
 It was agreed that it would be a nice idea to try to plan a meeting with all WPs doing a demo, so it flows all well (WP3, WP4, WP5 and WP6).
 
