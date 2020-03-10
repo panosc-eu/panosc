@@ -1,29 +1,75 @@
 #+TITLE: WP4 Video meeting <2020-03-10 Tue 15:00>
 
-:present:
+:present: Axel, Loic, Jerome, Thomas V (ESRF, Andrey (Elletra), Willaim, Aidan,
+Stuart, jJamie (ILL) Franz (STFC), Lottie (ESS), Jakub & Jiri (ELI), Kareem
+(ESS), Thomas K, Robert R, Sandor , Hans (EEuXFEL), Majid (Soleil)
+
 
 * Actions from last meeting
-- Storyboards (see https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-02-25/notes.org#actions)
+- Storyboards (see
+  https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-02-25/notes.org#actions)
 
 * Code camp cancellation
 
-* Review of visualisation tools (Axel, Loic)
+Thomas V:
+- Face2face front-end and back-end developers cannot be replaced
+- for people reading documentation do not have to wait until the code camp time
 
-* Updates Portal
+Feedback from Andy Goetz:
+
+#+BEGIN_QUOTE
+I cannot join the meeting tomorrow so here is my suggestion: every site reads
+the online documentation, adds their comments and gives a feedback on how they
+see this fitting their use cases and how they plan to deploy it on their site.
+#+END_QUOTE
+
+
+Discussion:
+- each site to review architecture and documentation (Jamie will re-circulate relevant links)
+- each site to 'deploy' current portal prototype (only on laptop)
+- discuss and feedback (to portal team and others in the work package) how
+  current design will be able to connect to the local infrastructure at each site
+- start to think about data access options
+- report back in next meeting
+
+* Review of visualisation tools (Axel, Loic)
+See notebook at ?
 
 * Updates Review meeting planning (short introduction of each story board)
-  - Robert
-  - Juncheng
-  - Thomas K
-  - Thomas V (Blue paint)
-  - Jakub / Science story
-  - Jakub / Portal / user interface
+
+- Robert, Juncheng, Thomas K
+  - simulated lycosmye data
+  - show notebooks that go through this
+  - interwork package work
+  - from structure 
+- Thomas V (Blue paint)
+  - data available on data portal at ESRF
+  - analysis code in github repo from scientist
+  - what is missing is a ready-to-use environment
+    - need some gui steps; can prepare container / binder
+  - can redo a few steps of the analysis
+- Jakub / Science story
+  - start with publication, search portal with DOI, open the data, ...
+- Jakub / Portal / user interface
+  - browse open data, locate example, show detail page, launch notebook or VM,
+    show some visualisation in notebook, get some parameters
+- ?: Demo prototype of remote analysis service
+  - virtual machine?
+  - Notebook
+
+Please add story boards (i.e. extended version of the notes above) to
+https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-06-review-meeting/storyboards.md
 
 * Next meetings
 ** Video meeting
 - 24 March 2020 15:00
 
 ** In person meeting
-- Code Camp in Grenoble, 24-27 March, ESRF, ILL, https://indico.esrf.fr/indico/event/43/
-- bigger meeting with Expands in May in Hamburg  (11 to 14 May proposed)
+- meeting with Expands in May in Hamburg  (11 to 14 May proposed).
+  - may or may not take place depending on coronavirus developments
+  - keep time reserved, even if we cannot meet in person, it is likely to be a video-based gathering
+
+* Any other business
+None
+
 

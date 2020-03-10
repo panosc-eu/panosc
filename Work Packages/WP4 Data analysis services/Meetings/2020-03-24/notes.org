@@ -1,0 +1,21 @@
+#+TITLE: WP4 Video meeting <2020-03-24 Tue 15:00>
+
+* Portal architecture and prototype discussion
+Feedback from all sites
+
+** CERIC-ERIC
+** ELI
+** ESRF
+** ESS
+** EuXFEL
+** ILL
+** EXPaNDS partner 1
+** EXPaNDS partner 2
+
+* Next meeting
+
+7 April 2020, 15:00
+
+* Any other business
+
+
