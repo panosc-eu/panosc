@@ -33,7 +33,7 @@ Discussion:
 - report back in next meeting
 
 * Review of visualisation tools (Axel, Loic)
-See notebook at ?
+See notebook at https://mybinder.org/v2/gh/nvaytet/pyviz-investigation/master
 
 * Updates Review meeting planning (short introduction of each story board)
 
