@@ -48,6 +48,7 @@ See notebook at ?
   - what is missing is a ready-to-use environment
     - need some gui steps; can prepare container / binder
   - can redo a few steps of the analysis
+  - See https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/use_cases/ESRF/ultramarine-xanes.rst
 - Jakub / Science story
   - start with publication, search portal with DOI, open the data, ...
 - Jakub / Portal / user interface
