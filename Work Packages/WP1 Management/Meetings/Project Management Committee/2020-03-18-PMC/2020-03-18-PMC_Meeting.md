@@ -56,7 +56,6 @@ Agenda
 
 6. News from other proposals and events
     * INFRAEOSC-03
-    * EOSC and CNRS (22/1/2020)
     * FAIRsFAIR data repository certification (6/2/2020)
     * FAIRsFAIR [open call for FAIR champions](https://www.fairsfair.eu/form/open-call-european-fair-champions)
     * EOSC training workshop (28/2/2020)
