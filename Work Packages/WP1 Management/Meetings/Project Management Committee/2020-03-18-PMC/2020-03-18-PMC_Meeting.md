@@ -38,7 +38,7 @@ Agenda
 | IMS8.6 Wish-list from partners defined [T8.3] | **December 2019** |
 | IMS8.7 Worksop scheduled [T8.3] | **February 2020** |
 | IMS8.8 First facility specific course integrated [T8.3] | May 2020 |
-| IMS9.1 Report on Y1 outreach activities published | **December 2019** |
+| [IMS9.1 Report on Y1 outreach activities published](https://github.com/panosc-eu/panosc/blob/master/Submitted%20Internal%20Milestones/IMS9.1%20Report%20onf%20Y1%20outreach%20activities/IM9_V2.docx) | **December 2019** |
 
 *Please do add Milestones and Internal Milestones supporting documents in GitHub*
 
