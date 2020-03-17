@@ -3,16 +3,17 @@ PaNOSC Project Management Committee meeting - 18/03/2020
 
 Agenda
 ------	
+1. Proposed reviewer
 
-1. Update on Milestone 8.3 pan-learning.org up and running
+2. Update on Milestone 8.3 pan-learning.org up and running
 
-2. Update on Deliverable 7.1 PaNOSC Stakeholder Feedback
+3. Update on Deliverable 7.1 PaNOSC Stakeholder Feedback
 
-3. Feedback to WP7 *→ see Ornela's email from 05/03*
+4. Feedback to WP7 *→ see Ornela's email from 05/03*
 
-4. INFRAEOSC-03 update
+5. INFRAEOSC-03 update
 
-5. Update from the WP Leaders - update on what has been achieved and problems
+6. Update from the WP Leaders - update on what has been achieved and problems
 
     *REMINDER of next Deliverables and Milestones* 
 
@@ -54,19 +55,19 @@ Agenda
 | WP8 Staff training in data stewardship | MS8.3 due February | 
 | WP9 Outreach & Communication | DOI video | 
 
-6. News from other proposals and events
+7. News from other proposals and events
     * INFRAEOSC-03
     * FAIRsFAIR data repository certification (6/2/2020)
     * FAIRsFAIR [open call for FAIR champions](https://www.fairsfair.eu/form/open-call-european-fair-champions)
     * EOSC training workshop (28/2/2020)
 
-7. Issues https://github.com/panosc-eu/panosc/issues
+8. Issues https://github.com/panosc-eu/panosc/issues
     * [Cooperation with ExPaNDS](https://github.com/panosc-eu/panosc/issues/46) - update
     * [Internal Milestones](https://github.com/panosc-eu/panosc/issues/43) - do we need extra internal milestones for 2020?
     * [KPIs](https://github.com/panosc-eu/panosc/issues/41) - update
     * [Risk Management](https://github.com/panosc-eu/panosc/issues/25) - update
     * [Observer status](https://github.com/panosc-eu/panosc/issues/9) - update
 
-8. Job openings and hirings
+9. Job openings and hirings
 
-9. AOB
+10. AOB
