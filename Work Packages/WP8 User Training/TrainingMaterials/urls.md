@@ -13,4 +13,6 @@
 ### Particle accelerators
 * https://npap.eu/mooc/
 
+### Open Science
+* The Open Science WG recommends this MOOC: https://opensciencemooc.eu/
 
