@@ -16,23 +16,23 @@ Andy shared an email from our Project Officer that introduced a candidate review
 
 Jordi will send a reminder asking everyone to say something before the end of the week if there is an issue with this.
 
-Andy reminded everyone that the idea is for the meeting to take place in the 2nd half of June and be done remotely.
+Andy stated that the meeting will take place in the 2nd half of June and will be done remotely.
 
 
 **2. Update on Milestone 8.3 pan-learning.org up and running** 
 
-There is a meeting for the WP8 scheduled 18/03/2020 at 14:30h (immediately after the PMC meeting) and what was said there was:
+There is a meeting for the WP8 scheduled 18/03/2020 at 14:30h (immediately after the PMC meeting) and it was said that:
 
 *Only thing missing now is a welcome page and to get it running under the pan-learning.org. AAI, single sign on, and connection to EOSC was discussed, where a EOSC meeting in Amsterdam was supposed to give some input. Due to COVID-19 this meeting was cancelled. ESS will get in contact with Jean-Francois about this matter. The e-learning platform is running on a virtual machine at ESS. Access to ESS cluster and cloud computing resources should be setup.*
 
 *Design for new e-learning platform Thomas mentioned that we need a design for the e-learning platform and Florian confirmed that ELI probably could do this. The work probably boils down to working CCS according. Florian and Thomas will discuss in seperate meeting how to proceed.*
 
-*Updates from ExPaNDS Nothing to report. Waiting for e-learning platform to be ready for use.*
+*Updates from ExPaNDS: Nothing to report. Waiting for e-learning platform to be ready for use.*
 
 
 Jonathan explained that the key person from Copenhanguen University is on long-term sick and that a the task of finding a replacement is ongoing.
 
-Thomas clarified later on that a person has been found (that already worked in e-neutrons), however details about the contract have to be ironed out.
+Thomas clarified later that a person has been found (that already worked in e-neutrons), however details about the contract have to be ironed out.
 
 Andy explained that it is important that the website is available soon, as ExPaNDS is relying on this (if a solution cannot be found they may create their own learning/training solution).
 
@@ -46,26 +46,26 @@ Dario explained that a meeting for WP7 took place last week and that D7.1 draft 
 
 Jordi will create a Google document that could be edited concurrently so everyone can easily contribute and also read each others contributions for this request for help from Ornela.
 
-Rudolf suggested to include the most important questions obtained via this feedback in the deliverable D7.1
+Rudolf suggested to include the most important questions obtained via this feedback in the deliverable D7.1.
 
-Dario also took the time to say tha work on D7.2 has started by drafing cost metrics (in a confidential document) and a meeting will take place next week.
+Dario also said that work on D7.2 has started by drafting cost metrics (in a confidential document) and a meeting will take place next week.
 
 
 **5. INFRAEOSC-03 update**
 
-Rudolf explained that the proposal is not advancing well and that deadlines have been moved back by two months to 18th June (for INFRAEOSC-07 as well).
+Rudolf explained that the proposal is not advancing as well as it could and that the submission deadlines for InfraEOSC-03 and 07 have been moved back by two months to 18th June.
 
 It is still not clear how the RIs partners could join the Consortium (full beneficiaries is not the preferred approach of the Commission).
 
-There are as well question on whether UK partners could join that do not have an answer yet.
+There is also the question whether UK partners can join the proposal and there is no answer to this up to now.
 
-WP definitions are advancing, however these are very theoretical and not practical.
+WP definitions are advancing, however the descriptions are very theoretical and not sufficiently clear or practical according to Rudolf.
 
-There was a videoconference 17/03 for two hours with 35 people, however it felt like there is a lack of coodination and steering, with RIs issues/concerns not being considered.
+There was a videoconference 17/03 for two hours with 35 people, however he felt that there is a lack of overall coodination.
 
-Rudolf will write a PaNOSC position paper explaining tha we have little time to engage in INFRAEOSC 03, however ILL may participate and DESY and PSI have showed interest in participating too. Diamond and Soleil could participate as well.
+Rudolf will notify the InfraEOSC-03 consortium that the PaNOSC partners have little time to engage in INFRAEOSC 03, however ILL may participate and DESY and PSI have shown interest in participating too. Diamond and Soleil may want to participate as well.
 
-Florian asked about Technopolis and their role as Coordinator and Andy explained that while it seems that the Commission would prefer a different Coordinator for the project (so Technopolis would only coordinate the proposal) no concrete action is being taken to change this, so it is well possible that Technopolies is the candidate to coordinate the project.
+Florian asked about Technopolis and their role as Coordinator and Rudolf explained that while it seems that the Commission would prefer a different Coordinator for the project (so Technopolis would only coordinate the proposal) no concrete action is being taken to change this, so it is well possible that Technopolies remains the project coordinator.
 
 **5. Update on PaNOSC space on Zenodo and upload deliverables to generate a DOI**
 
