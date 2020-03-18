@@ -67,7 +67,7 @@ Rudolf will notify the InfraEOSC-03 consortium that the PaNOSC partners have lit
 
 Florian asked about Technopolis and their role as Coordinator and Rudolf explained that while it seems that the Commission would prefer a different Coordinator for the project (so Technopolis would only coordinate the proposal) no concrete action is being taken to change this, so it is well possible that Technopolies remains the project coordinator.
 
-**5. Update on PaNOSC space on Zenodo and upload deliverables to generate a DOI**
+**6. Update on PaNOSC space on Zenodo and upload deliverables to generate a DOI**
 
 Nicoletta explained that she found out that Carsten had created a Zenodo community for PaNOSC already last year and that rather than creating a new one we are using the existing one. The curator for this community in Zenodo is publications@panosc.eu and Jordi and Andy have access to it.
 
@@ -77,15 +77,15 @@ It was also clarified that while anyone can upload content to Zenodo and link it
 
 It was agreed as well that Jordi will send an email to PMC members to update their information in the [stakeholders page](https://github.com/panosc-eu/panosc/wiki/PaNOSC-Stakeholders), so it contains their ORCid.
 
-**6. Update from the WP Leaders - update on what has been achieved and problems**
+**7. Update from the WP Leaders - update on what has been achieved and problems**
 
-* **WP9 - Outreach & Communication** : Nicoletta explained that progesss is being done in the DOI video, with the script being rewritten (to change ILL references to PaN sources) and logos from different RIs to be added. Nicoletta will share the script so everyone could contribute.
+* **WP9 - Outreach & Communication** : Nicoletta explained that progesss is being done on the DOI video, with the script being rewritten (to change ILL references to PaN sources) and logos from different RIs to be added. Nicoletta will share the script so everyone can contribute.
 
 Jean-Francois suggested to involve Datacite as they could help.
 
-Nicoletta also explained that the website has been updated adn that many events all over europe have been cancelled.
+Nicoletta also explained that the website has been updated adn that many events all over Europe have been cancelled.
 
-Andy asked news about the Open Science Forum in Trieste and Nicoletta answered that there are no news from the organisation, however she thinks that it will be cancelled.
+Andy asked news about the Open Science Forum in Trieste and Nicoletta answered that there are no news from the organisation, however she thinks that it will also be cancelled.
 
 
 
@@ -93,10 +93,10 @@ Andy asked news about the Open Science Forum in Trieste and Nicoletta answered t
 
 Thomas explained that the face to face meeting has been cancelled due to the ongoing COVID-19 pandemic and that he is expecting MS8.3 to be ready by the end of the month.
 
-Andy also explained that hte Hercules school took place remotely with up to 60 attendees.
+Andy also reported that the Hercules school is taking place remotely with up to 60 attendees.
 
 
-* **WP7 - Sustainibility** : Ornela was absent. Dario reinstated the points 3 and 4 of the agenda, which summarised the main hot topics for WP7 at the moment.
+* **WP7 - Sustainibility** : Ornela was absent. Dario referred to points 3 and 4 of the agenda, which summarised the main hot topics for WP7 at the moment.
 
 Ornela sent an email stating that:
 
@@ -107,11 +107,11 @@ Ornela sent an email stating that:
 
 AAI: progressing well, moving into 2nd step, to get attributes from users. The 3rd step to follow will be to move the service providers to the new infrastructure.
 
-Giussepe said tha integration data transfer pilot and UmbrellaID integration are done and that he is testing it with Jupyter Notebooks.
+Giussepe said that the integration of the data transfer pilot and UmbrellaID are done and that he is testing it with Jupyter Notebooks.
 
 Jean-Francois also said that the AAI trainign has been cancelled after discussions with Géant.
 
-Andy asked whether there is an alternative to Globus or any other news regarding the file transfer to which Jean-Francois replied that FTS has only been tested for archiving and not file transfer. FTS is difficult that could replace Globus as it is not as usuer friendly, however development is ongoing. Giuseppe confirmed that FTS could not replace Globus yet.
+Andy asked whether there is an alternative to Globus or any other news regarding the file transfer to which Jean-Francois replied that FTS has only been tested for archiving and not file transfer. FTS is difficult for replacing Globus as it is not as usuer friendly, however development is ongoing. Giuseppe confirmed that FTS could not replace Globus yet.
 
 
 * **WP5 - Virtual Neutron and X-ray Laboratory** : Juncheng reported that a face to face meeting was moved to remote, however he still plans to have a face to face meeting once the COVID-19 pandemic is over.
@@ -119,31 +119,31 @@ Andy asked whether there is an alternative to Globus or any other news regarding
 Juncheng asked how best to test the simulation API within a PaNOSC framework. An ongoing discussion took place to clarify that if resources are required these can be obtained via EGI and that it is required that WP5, WP6, WP4 and WP3 work together to ensure a compatible way of working. Andy suggested that Juncheng contacts Hans to get the data portal.
 
 
-* **WP4 Data Analysis Services** : Hans was absent. Jamie reported that Robert Rosca (XFEL) got contacted by Cern about the portal architecture and that a meeting with them will take palce. Jamie reported as well that the CodeCamp was delayed.
+* **WP4 Data Analysis Services** : Hans was absent. Jamie reported that Robert Rosca (XFEL) got contacted by CERN about the portal architecture and that a meeting with them will take place. Jamie reported as well that the CodeCamp was delayed.
 
 He encouraged all RIs to try the portal, check its architecture and specs and provide feedback.
 
 Thomas asked whether the work being done by ESRF and Ceric on HDF5 is being coordinated to ensure that is useful to all institutes and Andy replied by asking who in ESS is the contact for WP4 and he/she should get involved. There is plenty of work ongoing on HDF5 viewers and he expects the final solution to be good for everyone. Finally Andy recommended to contact Axel and Loic for more details.
 
-Andy said that he will share the Icat meeting presentation
+Andy said that he will share the Icat meeting presentations.
 
 
-* **WP3 - Data Catalog Services** : Tobias excused himself for not having ready the KPIs for the work package. He reported an Icat face to face meeting and discussing the possibility of harvesting open metadata. 
+* **WP3 - Data Catalog Services** : Tobias excused himself for not having the KPIs ready for the work package. He reported on an Icat face to face meeting and discussing the possibility of harvesting open metadata. 
 
-Work on the Search API is ogoing and there is broad agreeemnt for its version 1.0, however Gareth is leaving 25th March which will create problems.
+Work on the Search API is ongoing and there is broad agreeemnt for its version 1.0, however Gareth is leaving 25th March which will create problems.
 
 Andy asked what's the plan to replace Gareth and Tobias replied that a contractor that was helping him has been hired and there is agreement at ESS to find a replacement.
 
 
-* **WP2 - Data Policy and Stewardship** : Andy reported a draft v4 of the Data Policy Framework and that work to analyse FAIR how it matches with it will follow.
+* **WP2 - Data Policy and Stewardship** : Andy reported on a draft v4 of the Data Policy Framework and that work to analyse FAIR how it matches with it will follow.
 
 
-* **WP1 - Management** : Jordi explained that after asking for KPIs for the WP leaders that have not yet provided some figures he will also asked to everyone that has a risk assigned to review it and comment on it.
+* **WP1 - Management** : Jordi explained that after asking for KPIs from the WP leaders that have not yet provided some figures, he will also ask everyone that has a risk assigned to review it and comment on it.
 
 
-**AOB**
+**8. AOB**
 
-Andy asked for a dedicated Review Meeting, so we start to focus more on it. A report should be ready at the beginning of June, with the remote review meeting expected to take place in the 2nd half of June.
+Andy asked for a dedicated PMC meeting to discuss the Review Meeting, so we start to focus more on it. A report should be ready at the beginning of June, with the remote review meeting expected to take place in the 2nd half of June.
 
 
 
