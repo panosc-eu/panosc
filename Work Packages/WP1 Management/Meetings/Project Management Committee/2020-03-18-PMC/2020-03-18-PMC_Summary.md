@@ -23,13 +23,12 @@ Andy reminded everyone that the idea is for the meeting to take place in the 2nd
 
 There is a meeting for the WP8 scheduled 18/03/2020 at 14:30h (immediately after the PMC meeting) and what was said there was:
 
->>
-Only thing missing now is a welcome page and to get it running under the pan-learning.org. AAI, single sign on, and connection to EOSC was discussed, where a EOSC meeting in Amsterdam was supposed to give some input. Due to COVID-19 this meeting was cancelled. ESS will get in contact with Jean-Francois about this matter. The e-learning platform is running on a virtual machine at ESS. Access to ESS cluster and cloud computing resources should be setup.
+*Only thing missing now is a welcome page and to get it running under the pan-learning.org. AAI, single sign on, and connection to EOSC was discussed, where a EOSC meeting in Amsterdam was supposed to give some input. Due to COVID-19 this meeting was cancelled. ESS will get in contact with Jean-Francois about this matter. The e-learning platform is running on a virtual machine at ESS. Access to ESS cluster and cloud computing resources should be setup.*
 
-Design for new e-learning platform Thomas mentioned that we need a design for the e-learning platform and Florian confirmed that ELI probably could do this. The work probably boils down to working CCS according. Florian and Thomas will discuss in seperate meeting how to proceed.
+*Design for new e-learning platform Thomas mentioned that we need a design for the e-learning platform and Florian confirmed that ELI probably could do this. The work probably boils down to working CCS according. Florian and Thomas will discuss in seperate meeting how to proceed.*
 
-Updates from ExPaNDS Nothing to report. Waiting for e-learning platform to be ready for use.
-<<
+*Updates from ExPaNDS Nothing to report. Waiting for e-learning platform to be ready for use.*
+
 
 Jonathan explained that the key person from Copenhanguen University is on long-term sick and that a the task of finding a replacement is ongoing.
 
@@ -100,9 +99,9 @@ Andy also explained that hte Hercules school took place remotely with up to 60 a
 * **WP7 - Sustainibility** : Ornela was absent. Dario reinstated the points 3 and 4 of the agenda, which summarised the main hot topics for WP7 at the moment.
 
 Ornela sent an email stating that:
->>
-Regarding D7.1, the progress report would be the following: the draft is being modified according to the partner’s feedback. The idea is to achieve soon a final version ready to be submitted in May. IF we manage to collect some feedback from stakeholders before, we will include it in the document, otherwise we will submit it as it is.
-<<
+
+*Regarding D7.1, the progress report would be the following: the draft is being modified according to the partner’s feedback. The idea is to achieve soon a final version ready to be submitted in May. IF we manage to collect some feedback from stakeholders before, we will include it in the document, otherwise we will submit it as it is.*
+
 
 * **WP6 - EOSC Integration** : Jean-Francois explained that he received feedback from Globus Connect and it is more expensive than what he thought (150K€/year for the six RIs in PaNOSC) which in his view is too expensive.
 
