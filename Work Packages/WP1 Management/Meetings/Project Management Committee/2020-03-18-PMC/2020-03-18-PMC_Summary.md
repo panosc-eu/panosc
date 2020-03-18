@@ -22,6 +22,7 @@ Andy reminded everyone that the idea is for the meeting to take place in the 2nd
 **2. Update on Milestone 8.3 pan-learning.org up and running** 
 
 There is a meeting for the WP8 scheduled 18/03/2020 at 14:30h (immediately after the PMC meeting) and what was said there was:
+
 >>
 Only thing missing now is a welcome page and to get it running under the pan-learning.org. AAI, single sign on, and connection to EOSC was discussed, where a EOSC meeting in Amsterdam was supposed to give some input. Due to COVID-19 this meeting was cancelled. ESS will get in contact with Jean-Francois about this matter. The e-learning platform is running on a virtual machine at ESS. Access to ESS cluster and cloud computing resources should be setup.
 
