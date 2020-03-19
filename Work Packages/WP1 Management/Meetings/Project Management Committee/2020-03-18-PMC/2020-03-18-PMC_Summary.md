@@ -85,7 +85,7 @@ Jean-Francois suggested to involve Datacite as they could help.
 
 Nicoletta also explained that the website has been updated adn that many events all over Europe have been cancelled.
 
-Andy asked news about the Open Science Forum in Trieste and Nicoletta answered that there are no news from the organisation, however she thinks that it will also be cancelled.
+Andy asked news about the EuroScience Open Forum in Trieste ESOF2020 in July and Nicoletta answered that there are no news from the organisation, however she thinks there is a high probablity it will also be cancelled.
 
 
 
@@ -109,14 +109,14 @@ AAI: progressing well, moving into 2nd step, to get attributes from users. The 3
 
 Giussepe said that the integration of the data transfer pilot and UmbrellaID are done and that he is testing it with Jupyter Notebooks.
 
-Jean-Francois also said that the AAI trainign has been cancelled after discussions with Géant.
+Jean-Francois also said that the AAI training has been cancelled after discussions with Géant.
 
-Andy asked whether there is an alternative to Globus or any other news regarding the file transfer to which Jean-Francois replied that FTS has only been tested for archiving and not file transfer. FTS is difficult for replacing Globus as it is not as usuer friendly, however development is ongoing. Giuseppe confirmed that FTS could not replace Globus yet.
+Andy asked whether there is an alternative to Globus or any other news regarding the file transfer to which Jean-Francois replied that FTS has only been tested for archiving and not file transfer. FTS is difficult for replacing Globus as it is not as user friendly, however development is ongoing. Giuseppe confirmed that FTS could not replace Globus yet.
 
 
 * **WP5 - Virtual Neutron and X-ray Laboratory** : Juncheng reported that a face to face meeting was moved to remote, however he still plans to have a face to face meeting once the COVID-19 pandemic is over.
 
-Juncheng asked how best to test the simulation API within a PaNOSC framework. An ongoing discussion took place to clarify that if resources are required these can be obtained via EGI and that it is required that WP5, WP6, WP4 and WP3 work together to ensure a compatible way of working. Andy suggested that Juncheng contacts Hans to get the data portal.
+Juncheng asked how best to test the simulation API within a PaNOSC framework. An ongoing discussion took place to clarify that if resources are required these can be obtained via EGI and that it is required that WP5, WP6, WP4 and WP3 work together to ensure a compatible way of working. Andy suggested that Juncheng contacts Hans to get the data portal installed at EuXFEL.
 
 
 * **WP4 Data Analysis Services** : Hans was absent. Jamie reported that Robert Rosca (XFEL) got contacted by CERN about the portal architecture and that a meeting with them will take place. Jamie reported as well that the CodeCamp was delayed.
@@ -143,7 +143,7 @@ Andy asked what's the plan to replace Gareth and Tobias replied that a contracto
 
 **8. AOB**
 
-Andy asked for a dedicated PMC meeting to discuss the Review Meeting, so we start to focus more on it. A report should be ready at the beginning of June, with the remote review meeting expected to take place in the 2nd half of June.
+Andy asked for a dedicated PMC meeting to discuss the Review Meeting, so we start to focus more on it. A report should be ready at the beginning of June, with the remote review meeting expected to take place in the 2nd half of June. Proposal is to organise a meeting next week to profit from the current situation where everyone is working from home.
 
 
 
