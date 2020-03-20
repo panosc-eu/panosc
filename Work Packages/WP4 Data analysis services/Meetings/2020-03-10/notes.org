@@ -32,6 +32,26 @@ Discussion:
 - start to think about data access options
 - report back in next meeting
 
+
+
+From Jamie's email:
+#+BEGIN_QUOTE
+
+Each partner should give their feedback for:
+
+1. The portal deployment at your institute. Installation documentation can be
+   found here: https://github.com/panosc-portal/panosc-portal-demo-deployment
+
+2. The common portal design. The documentation can be found here:
+   https://confluence.panosc.eu/x/lwCm
+
+We want to make sure that all partners share the same vision and any possible
+technical/deployment problems for your institute are taken into account.
+
+I have created a document on confluence where you can give feedback for your
+institute: https://confluence.panosc.eu/x/cIAVAQ
+#+END_QUOTE
+
 * Review of visualisation tools (Axel, Loic)
 See notebook at https://mybinder.org/v2/gh/nvaytet/pyviz-investigation/master
 
