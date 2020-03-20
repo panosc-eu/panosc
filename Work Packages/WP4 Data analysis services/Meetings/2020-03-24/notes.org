@@ -1,21 +1,40 @@
 #+TITLE: WP4 Video meeting <2020-03-24 Tue 15:00>
 
 * Portal architecture and prototype discussion
-Feedback from all sites
+Discussion of feedback from all sites as discussed in the last meeting
+(https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-03-10/notes.org)
 
-** CERIC-ERIC
+We are interested in 2 questions, addressed from each site:
+
+1. The portal deployment at your institute. Installation documentation can be
+   found here: https://github.com/panosc-portal/panosc-portal-demo-deployment
+
+2. The common portal design. The documentation can be found here:
+   https://confluence.panosc.eu/x/lwCm 
+
+The written summaries are expected /ahead of this meeting/ at https://confluence.panosc.eu/x/cIAVAQ
+
 ** ELI
 ** ESRF
 ** ESS
 ** EuXFEL
 ** ILL
+** CERIC-ERIC
 ** EXPaNDS partner 1
 ** EXPaNDS partner 2
 
+
+* Review meeting
+- Video meeting instead of in-person meeting
+- Storyboards at https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-06-review-meeting/storyboards.md
+
 * Next meeting
 
-7 April 2020, 15:00
+7 April 2020, 15:
 
 * Any other business
+
+
+* Actions
 
 
