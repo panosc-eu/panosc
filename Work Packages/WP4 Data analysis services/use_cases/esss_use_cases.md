@@ -11,6 +11,7 @@ It is usually used through a GUI, but also offers a python API.
 * Source code: [Mantid · GitHub](https://github.com/mantidproject)
 * License: [GPL-v3](https://www.gnu.org/licenses/gpl.html)
 * Hardware requirements: tbd
+* Example notebook: [Mantid notebook](http://sourceforge.net/projects/mantid/files/IPython%20Notebook/Introduction%20to%20using%20Mantid%20with%20IPython%20Notebook.ipynb/download)
 
 sci++ is a collection of libraries for handling multi-dimensional data arrays with labeled dimensions, starting as an offshoot from Mantid. Intended to handle cases xarray does not cover sufficiently, such as handling of neutron scattering data, handling of physical units, propagation of uncertainties, support for event data.
 
@@ -18,6 +19,7 @@ sci++ is a collection of libraries for handling multi-dimensional data arrays wi
 * Source code: [Sci++ · GitHub](https://github.com/scipp)
 * License: [GPL-v3](https://www.gnu.org/licenses/gpl.html)
 * Hardware requirements: tbd
+* Example binder: [scipp - neutron jupyter demo](https://github.com/scipp/scipp-neutron-jupyter-demo)
 
 * Visualisation use case examples: [Mantid/Sci++](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/ESS_Visualization_UseCases/%5B%23DAS-36%5D%20dataset.pdf)
 
@@ -29,6 +31,7 @@ Sasview is the GUI frontend, and sasmodels refers to the backend, which can be a
 * Source code: [SasView · GitHub](https://github.com/SasView/)
 * License: [sasview/LICENSE.TXT at master · SasView/sasview · GitHub](https://github.com/SasView/sasview/blob/master/LICENSE.TXT)
 * Hardware requirements: tbd
+* Example notebook: 
 
 
 ## McStas 
@@ -38,6 +41,7 @@ McStas is a tool for simulating neutron scattering instruments and experiments. 
 * Source code: [McStas and McXtrace (McCode) · GitHub](https://github.com/McStasMcXtrace/)
 * License: [GPL-v2](https://www.gnu.org/licenses/gpl.html)
 * Hardware requirements: tbd
+* Example notebook: [McStasScript demo](https://github.com/PaNOSC-ViNYL/McStasScript/blob/master/examples/McStasScript_demo.ipynb)
 
 ## Qens
 Models for fitting Quasi Elastic Neutron Scattering (QENS) data. Already uses binderhub for demonstration purposes.
@@ -46,3 +50,4 @@ Models for fitting Quasi Elastic Neutron Scattering (QENS) data. Already uses bi
 * Source code: [GitHub - QENSlibrary/QENSmodels](https://github.com/QENSlibrary/QENSmodels)
 * License: [GPL-v3](https://www.gnu.org/licenses/gpl.html)
 * Hardware requirements: tbd
+* Example binder: [QENS example](https://github.com/QENSlibrary/QENSmodels/tree/master/examples-binder)

@@ -3,7 +3,6 @@
 :present: Franz, Jamie, 
 
 * Update from WP4 Questionnaire (Jamie)
-
 D4.1 Survey data analysis requirements and solutions at the partner sites, and
 horizon scan other emerging tools and technologies. 
 
@@ -46,13 +45,10 @@ STFC very happy share experience from the ISIS data analysis as a service
 
 * Report from reproducible science data and analysis sets (Thomas Vincent/Robert)
 
-* (Time permitting:) Update from Portal (Jamie/Stuart/?)
 
 
 * Next meeting
-** Video meeting
-- Tuesday 10 December 15:00 
-  - 30 min only?
+- 30 min only?
 - Tuesday 14 January 15:00
 ** In person meeting
 - post portal release?
@@ -66,4 +62,8 @@ STFC very happy share experience from the ISIS data analysis as a service
 - REANA
 - KPIs
 - Training material
+- Jamie will chair
+
+* AoB
+- Other topics postponed to next meeting.
 

@@ -1,0 +1,124 @@
+#+TITLE: WP4 Video meeting <2020-01-14 Tue 15:00>
+
+Apologies: Jamie, Stuart
+
+:present: Thomas Vincent, Aiden, Thomas K, Robert, Hans, Lottie, Jakub (ELI), 
+
+* Report from reproducible science data and analysis sets from each site
+** Overview Thomas V / Robert
+** EuXFEL
+ - Two examples [[https://github.com/European-XFEL-examples][shown in this repository]] so far
+ - Simex example is WIP
+ - Two repositories reproducing results/plots from published papers are being worked on
+
+** CERIC-ERIC
+- nobody present
+** ELI
+- theoretician who uses jupyter notebook will provide dataset and notebook for
+  publications, and create binder 
+** ESS
+- use-case in preparation
+** ESRF
+- painting 
+- tutorials from pyFAI, and other packages
+- uses GPU as an interesting corner case
+** ILL
+- nobody present
+
+* Towards data analysis services (Hans)
+
+Discussion:
+
+ESRF:
+- first step of analysis is often the same
+  - to reduce the data
+- then it diverges
+
+- nice to see more complete examples, even if very specialised
+
+ESS:
+- working with data from simulation
+
+ELI:
+- working on standardising data from simulation
+
+Hans:
+- policy change so we don't need to chase users
+Thomas V:
+- beamline scientists want to delegate work to users
+Franz:
+- facilities could require report from users
+
+
+* Internal Milestone month 12
+- IMS 4.1a architecture and design of DAAS - end Nov
+- Robert R to draft something based on planning in emails, in cooperation with ILL
+
+* Brief Update from Portal (Stuart)
+- when is it ready for deployment?
+  - not in March
+
+- What can we do?
+  - Thomas V: reduce scope of prototype 
+    - uses snapshots 
+    - reduce functionality
+  - Franz: working with Jamie
+  - Jakub: working on front-end of portal
+  - ESRF: new person arrives in Feb, won't be able to help immediately
+- Common view:
+  - better to have very low quality/funcionality now than more complex resul later
+
+* Next Deliverable (April 2020)
+  - Request from Management to move this from month 18 to month 16.5
+    
+    Having started in December 2018, Month 16.5 should be middle of April
+
+  - "Deliverable 4.2. Prototype remote desktop and Jupyter service (M18, DEM,
+    CO, ILL)"
+    
+  - Short report describing:
+    - Demo remote desktop and Jupyter services at facilities
+    - situation at each facility, URLs to entry points/documentation
+    - comparison of infrastructure (if appropriate)
+    - summary
+
+  - who can lead this?
+
+* Next meeting
+** Video meeting
+- Tuesday 4th February 15:00 (irregular)
+- Tuesday 25th February 15:00 (then again two-weekly)
+
+** In person meeting
+- Where and when?
+  - bit later would be better
+  - Feb/March is very early, May more realistic
+  - Hamburg or ESRF
+  - not before March
+  - April/May better
+Option:
+  - portal focused meeting at ESRF in March
+  - bigger meeting with Expands in May in Hamburg
+  
+* Any other business
+- Suggestions for future topics?
+
+* Future topics
+- ELI: show prototype of interface
+- ILL: outline prototype status
+
+For even later?
+- REANA
+- Training material
+- LIGO Open Science Centre
+
+
+* Actions:
+- Robert, Jakub and Jamie to work on internal Milestone
+- Hans to suggest meeting dates with Anton/Expands
+- Hans to talk to Andy regarding plan for M18 deliverable
+- Jakub to work with Jamie on Portal towards prototype in March
+  - involve other sites where possibel
+- All: contribute example data sets and analysis as hard-coded data examples for
+  protoype.
+- All: Consider volunteering for coordinating the M18 deliverable report
