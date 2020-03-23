@@ -34,6 +34,7 @@ The written summaries are expected /ahead of this meeting/ at https://confluence
 
 * Any other business
 
+- Latest HDF5 viewer development (HSDS POSIX adapter, metadata viewer, visualization selector, data providers) 
 
 * Actions
 
