@@ -1,0 +1,35 @@
+#+TITLE: WP4 Video meeting <2020-04-07 Tue 15:00>
+
+* Actions from last meeting
+
+* Portal architecture and prototype discussion - updates
+
+1. The portal deployment at your institute. Installation documentation can be
+   found here: https://github.com/panosc-portal/panosc-portal-demo-deployment
+
+2. The common portal design. The documentation can be found here:
+   https://confluence.panosc.eu/x/lwCm 
+
+The written summaries are available at https://confluence.panosc.eu/x/cIAVAQ
+
+* Review meeting
+- Video meeting instead of in-person meeting
+- Storyboards at https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-06-review-meeting/storyboards.md
+  - Story outlines (ideas where discussed [[https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-02-25/notes.org#presentation-at-review-meeting-robert-r-juncheng-thomas-k][here]])
+    - [ ] Thomas K / JunCheng / Thomas Holm Rod (Neutron example and/or crystallography?)
+    - [ ] Thomas V: blue paint
+    - [ ] Jakub: Science story
+    - [ ] Jakub: Portal / user interface
+    - [X] Robert: reproducible paper
+    - [X] Robert: new analysis on existing data
+    - [ ] ILL: Remote Desktop example
+    - [ ] ? : Demo remote analysis using Jupyter Notebook 
+
+* Update from HDF5 at ESRF (Axel)
+
+* Next meeting
+
+21 April 2020, 15:00
+
+* Any other business
+
