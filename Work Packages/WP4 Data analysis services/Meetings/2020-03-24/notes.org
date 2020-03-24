@@ -20,9 +20,7 @@ The written summaries are expected /ahead of this meeting/ at https://confluence
 ** EuXFEL
 ** ILL
 ** CERIC-ERIC
-** EXPaNDS partner 1
-** EXPaNDS partner 2
-
+** STFC / ISIS
 
 * Review meeting
 - Video meeting instead of in-person meeting
