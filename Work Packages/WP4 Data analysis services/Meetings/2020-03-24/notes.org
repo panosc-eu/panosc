@@ -34,14 +34,18 @@ The written summaries are expected /ahead of this meeting/ at https://confluence
     - [ ] Jakub: Portal / user interface
     - [X] Robert: reproducible paper
     - [X] Robert: new analysis on existing data
+    - [ ] ILL: Remote Desktop example
+    - [ ] ? : Demo remote analysis using Jupyter Notebook 
+   
 
 * Next meeting
 
-7 April 2020, 15:
+7 April 2020, 15
 
 * Any other business
 
-- Latest HDF5 viewer development (HSDS POSIX adapter, metadata viewer, visualization selector, data providers) 
+- Axel (ESRF): Latest HDF5 viewer development (HSDS POSIX adapter, metadata viewer,
+  visualization selector, data providers)
 
 * Actions
 
