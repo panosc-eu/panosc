@@ -27,6 +27,13 @@ The written summaries are expected /ahead of this meeting/ at https://confluence
 * Review meeting
 - Video meeting instead of in-person meeting
 - Storyboards at https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-06-review-meeting/storyboards.md
+  - Story outlines (ideas where discussed [[https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-02-25/notes.org#presentation-at-review-meeting-robert-r-juncheng-thomas-k][here]])
+    - [ ] Thomas K / JunCheng / Thomas Holm Rod (Neutron example and/or crystallography?)
+    - [ ] Thomas V: blue paint
+    - [ ] Jakub: Science story
+    - [ ] Jakub: Portal / user interface
+    - [X] Robert: reproducible paper
+    - [X] Robert: new analysis on existing data
 
 * Next meeting
 
