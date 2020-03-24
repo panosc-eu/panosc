@@ -8,7 +8,7 @@ Draft agenda
 
 3.	Feedback from other WPs. The file with the proposed topics/questions is available here https://docs.google.com/spreadsheets/d/1KLT3niIfvhGXsO6LcRKnJXHv9gdO-gZ6pncEJSagGWM/edit?usp=sharing
 
-4.	Task 7.2 - Metrics and cost for the Photon and Neutron community EOSC. Discussion of the approach. The template is available here: 
+4.	Task 7.2 - Metrics and cost for the Photon and Neutron community EOSC. Discussion of the approach. The template is available here: https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model_V2.xlsx
 
 5.	AOB
 
