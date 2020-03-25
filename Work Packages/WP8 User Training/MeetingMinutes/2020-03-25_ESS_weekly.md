@@ -1,41 +1,37 @@
 
 # Participants
 
-* Peter, DTU/ESS
-* Thomas, ESS
-* Mads, ESS
-* Alexandre, ESS
-* Viktor, NBI
+* Peter, DTU/ESS (remote)
+* Thomas, ESS (remote)
+* Alexandre, ESS (remote)
+* Mads, ESS (remote)
 
 # Minutes
 
 ## Actions from last meeting
 
 ## Updates
-Viktor present for potential involvement in PaNOSC. 
-Missing bits of e-neutrons migration:
-* A dedicated sim. hostname for execution of the Django apps (require / as base url)
-* Disk-space considerations
-* Find a way to run (non-simulation) background tasks, e.g. cron
-* Add PaNOSC logo and data policies, relation to e-neutrons.org etc.
-* Add Wordpress "welcome-page" area
-* Add pan-learning.org
-ETA: Two weeks
-
+Missing deployment tasks, see tasks below. ETA: 1 week
+Agreement with Jesper (IND) and Viktor (NBI) to organise workshops. Still need to solve payment procedure.
 
 # Actions
-- [ ] Thomas: Make next week meeting the joined PaNOSC-ExPANDS meeting (18/3 14:30)
-- [ ] Thomas: Invite Jesper from UCPH-IND to a future meeting
+- [ ] Alexandre: Add pan-learning.org
+- [ ] Alexandre:  Definition of "admin" (enrolment tasks etc.) and "user" mailinglists (for communication)
+- [ ] Peter: Check all frontpage links
+- [ ] Peter: Draft invitation-emails to PaNOSC WP8, existing e-neutrons users, general announcement
+- [ ] Peter: Obsoletion-notice on the old system
 - [ ] WP8: Find suggestions for rebranding-strategy (Due: March MM)
-- [ ] Thomas: Follow up with Ari wrt. 'user-transferral'
 - [ ] Peter: Work on https://github.com/McStasMcXtrace/McWeb/issues/220
-- [ ] Thomas: Ensure ESS staff is on WP8 mailinglist (in progress - potentially migrate to ESS-driven mailman list)
-- [ ] Peter: Test e-neutrons.esss.dk site
-- [ ] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020 (awaiting Linda return)
-- [ ] Linda: Update development courses @e-neutrons.org to use ucph wiki, in progress. (awaiting Linda return)
-- [ ] DST: Look at iFitlab - formulate ticket (Likely Jupyter is the alternative, going forward)
+- [ ] Peter: Look for tools to check for broken / wrong links on the moodle-side
 
 ## From past meetings
+- [-] DST: Look at iFitlab - formulate ticket (Likely Jupyter is the alternative, going forward)
+- [-] Linda: Update development courses @e-neutrons.org to use ucph wiki, in progress. (awaiting Linda return)
+- [-] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020 (awaiting Linda return)
+- [X] Peter: Test e-neutrons.esss.dk site
+- [X] Thomas: Ensure ESS staff is on WP8 mailinglist (in progress - potentially migrate to ESS-driven mailman list)
+- [X] Thomas: Make next week meeting the joined PaNOSC-ExPANDS meeting (18/3 14:30)
+- [X] Thomas: Invite Jesper from UCPH-IND to a future meeting
 - [X] Alexandre: In march, check with Jesper about ESS-run PaNOSC-mailinglist(s)
 - [X] Alexandre: Once Peter has tested the new site thoroughly, will migrate MediaWiki content from ucph wiki to the new system.
 - [X] Mads: Communicate event dates for WP5 meeting in Hamburg to Peter and Erik(DTU) (indication: Late march/early april)
