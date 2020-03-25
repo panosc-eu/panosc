@@ -15,6 +15,8 @@ Missing deployment tasks, see tasks below. ETA: 1 week
 Agreement with Jesper (IND) and Viktor (NBI) to organise workshops. Still need to solve payment procedure.
 
 # Actions
+- [ ] Thomas: Set up meeting for workshop-taskforce
+- [ ] Mads and Viktor: To discuss Jupyter-replacement of the iFitlab
 - [ ] Alexandre: Add pan-learning.org
 - [ ] Alexandre:  Definition of "admin" (enrolment tasks etc.) and "user" mailinglists (for communication)
 - [ ] Peter: Check all frontpage links
