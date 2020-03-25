@@ -56,3 +56,33 @@ Show mockup of save and share dialogue. Explain how usually sharing your code ca
 Final slide can be somebody else starting up the scientists analysis to build on top of it, concluding by saying this facilitates collaboration.
 
 Try to slip FAIR points onto slides where relevant.
+
+## Simulated Serial Crystallography
+
+### Scenarios
+
+New researchers want to get hands-on experience of data processing for
+serial crystallography. Starting from a working example of a simulation coupled
+to an analysis pipeline, they can explore how different experimental conditions
+and different analysis options affect the results. For instance, they could
+estimate how much data is needed in a given experimental setup.
+
+Research software engineers working on serial crystallography analysis and
+simulation want to test new software methods. By replacing either component of
+a working example, they can compare the quality and performance of new
+developments against a baseline.
+
+### Presentation
+
+- Overview of serial crystallography: diffraction patterns from individual,
+  randomly oriented crystals.
+- Challenge of turning diffraction patterns into 3D molecular structure
+- Introduce simulation: a way to validate methods
+- Show a few simulated detector images (compare to real images?)
+- Illustrate getting from simulated images to (at least) unit cell parameter
+  histograms as first scientific result.
+  - Probably relies on "here's one I prepared earlier" to handle necessary data
+    volume
+- Show how easily we can change simulation/analysis parameters and re-run.
+- Simulation examples don't have to run where the data is - can we automatically
+  pick a facility to run it where load is low.
