@@ -27,9 +27,9 @@ Agreement with Jesper (IND) and Viktor (NBI) to organise workshops. Still need t
 - [ ] Peter: Look for tools to check for broken / wrong links on the moodle-side
 
 ## From past meetings
-- [-] DST: Look at iFitlab - formulate ticket (Likely Jupyter is the alternative, going forward)
-- [-] Linda: Update development courses @e-neutrons.org to use ucph wiki, in progress. (awaiting Linda return)
-- [-] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020 (awaiting Linda return)
+- ~~[ ] DST: Look at iFitlab - formulate ticket (Likely Jupyter is the alternative, going forward)~~
+- ~~[ ] Linda: Update development courses @e-neutrons.org to use ucph wiki, in progress. (awaiting Linda return)~~
+- ~~[ ] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020 (awaiting Linda return)~~
 - [X] Peter: Test e-neutrons.esss.dk site
 - [X] Thomas: Ensure ESS staff is on WP8 mailinglist (in progress - potentially migrate to ESS-driven mailman list)
 - [X] Thomas: Make next week meeting the joined PaNOSC-ExPANDS meeting (18/3 14:30)
