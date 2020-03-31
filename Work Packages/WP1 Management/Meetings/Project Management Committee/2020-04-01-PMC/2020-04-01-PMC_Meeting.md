@@ -3,7 +3,7 @@ PaNOSC Project Management Committee meeting - 01/04/2020
 
 Agenda
 ------	
-1. Update on Milestone 8.3 pan-learning.org up and running
+1. Update on Milestone 8.3 pan-learning.org 
 
 2. Review meeting updates + review report writing
 
