@@ -74,3 +74,5 @@ Agenda
 10. Job openings and hirings
 
 11. AOB
+
+**PLEASE NOTE : This meeting will take place through Vydio, but the next one will be via zoom:  https://esrf.zoom.us/j/333079917**
