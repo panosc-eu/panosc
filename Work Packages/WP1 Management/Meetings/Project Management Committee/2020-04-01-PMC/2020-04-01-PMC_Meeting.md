@@ -48,7 +48,7 @@ Agenda
 | WP6 EOSC Integration |  | 
 | WP7 Sustainibility |  | 
 | WP8 Staff training in data stewardship | MS8.3 due February | 
-| WP9 Outreach & Communication | DOI video | 
+| WP9 Outreach & Communication |  | 
 
 4. Compute resources requirements - *does any work package needs anything?*
 
