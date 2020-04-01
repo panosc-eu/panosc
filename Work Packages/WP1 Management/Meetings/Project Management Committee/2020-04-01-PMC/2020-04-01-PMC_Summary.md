@@ -91,29 +91,9 @@ Jean-Francois invited Thomas to attend the next WP6 to discuss how these resourc
 
 Andy noted that it would be good to have a standard way to request resources instead of having to attend a WP6 meeting and Jean-Francois committed to have a discussion about this topic within WP6.
 
+**5. AOB**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**8. AOB**
-
-Andy asked for a dedicated PMC meeting to discuss the Review Meeting, so we start to focus more on it. A report should be ready at the beginning of June, with the remote review meeting expected to take place in the 2nd half of June. Proposal is to organise a meeting next week to profit from the current situation where everyone is working from home.
+A meeting will be scheduled next week (8th April) for the Review Meeting. Also, we will replace Vydeo by Zoom from now on.
 
 
 
