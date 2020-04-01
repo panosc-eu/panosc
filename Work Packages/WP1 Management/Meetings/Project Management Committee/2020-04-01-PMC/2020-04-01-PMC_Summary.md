@@ -91,7 +91,7 @@ Jean-Francois invited Thomas to attend the next WP6 to discuss how these resourc
 
 Andy noted that it would be good to have a standard way to request resources instead of having to attend a WP6 meeting and Jean-Francois committed to have a discussion about this topic within WP6.
 
-**8. AOB**
+**5. AOB**
 
 A meeting will be scheduled next week (8th April) for the Review Meeting. Also, we will replace Vydeo by Zoom from now on.
 
