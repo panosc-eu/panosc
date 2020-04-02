@@ -5,15 +5,17 @@ Reference documents / information stored here: https://drive.google.com/drive/fo
 
 Agenda
 ------	
-1. Review Meeting dates
+1. Review Meeting dates - *Tuesday 16th June*
 
-2. Review Report template
+2. List of invited attendees for the meeting
 
-3. Review Report examples
+3. Review Report template
 
-4. Review Meeting content & structure
+4. Review Report examples
 
-5. Demos
+5. Review Meeting content & structure
+
+6. Demos
 
 * WP3, WP4, WP5, WP6, WP8, WP2, WP7, WP9, WP1 ? --> Use search API, process some data, simulate something, anything else to show EOSC Integration work, e-learning platform and then the WPs that cannot demo using software
 
@@ -21,4 +23,4 @@ Agenda
 
 * Any other ideas?
 
-6. Rehearsal for Review Meeting
+7. Rehearsal for Review Meeting
