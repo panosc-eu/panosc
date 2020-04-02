@@ -18,3 +18,5 @@ Agenda
 * WP6, WP3, WP5, WP4, WP8, WP2, WP7, WP9, WP1? --> Show and tell for WP6, then search API, simulate some data, data analysis, e-learning and then the WPs taht cannot demo using software
 
 * Any other ideas?
+
+6. Rehearsal for Review Meeting
