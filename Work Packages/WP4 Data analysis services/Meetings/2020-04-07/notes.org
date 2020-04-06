@@ -12,7 +12,6 @@
 * Portal architecture and prototype discussion - updates
 
 ** Context
-
 1. The portal deployment at your institute. Installation documentation can be
    found here: https://github.com/panosc-portal/panosc-portal-demo-deployment
 
@@ -38,7 +37,9 @@ Look out for similar technologies emerging in other projects.
   (https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP1%20Management/Meetings/Project%20Management%20Committee/2020-04-08-PMC_ReviewMeeting/2020-04-08-PMC_Meeting.md)
 
 - What are our objectives:
-  - Support deliverable 4.2 
+  - Support deliverable 4.2 - show demonstrations of remote data analysis
+  - Demonstrate vision for PaNOSC data access and analysis 
+    - this is okay if full of mock-ups
 
 ** WP4 contributions (Thomas K, Thomas V, Robert, Jakub, ...)
 - Storyboards at https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-06-review-meeting/storyboards.md
