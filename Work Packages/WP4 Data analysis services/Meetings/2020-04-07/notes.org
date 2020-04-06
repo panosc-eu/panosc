@@ -65,7 +65,8 @@ Look out for similar technologies emerging in other projects.
 - Should we use this as an example activity of PaNOSC Open Science activity for data analysis in the cloud?
 
 * Update from HDF5 at ESRF (Axel)
-
+- demo has moved to https://h5web.netlify.app
+- heatmap
 
 * Next meeting
 21 April 2020, 15:00
