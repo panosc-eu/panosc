@@ -64,8 +64,10 @@ Look out for similar technologies emerging in other projects.
 
 * Update from HDF5 at ESRF (Axel)
 
+
 * Next meeting
 21 April 2020, 15:00
 
 * Any other business
+- Zoom?
 
