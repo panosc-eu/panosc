@@ -1,5 +1,7 @@
 #+TITLE: WP4 Video meeting <2020-04-07 Tue 15:00>
 
+[[https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-03-24/notes.org][Minutes from last meeting]]
+
 * Actions from last meeting
 - Follow up from Portal discusions / SLURM support (see item below)
 - Story boards for review meeting (see item below)
