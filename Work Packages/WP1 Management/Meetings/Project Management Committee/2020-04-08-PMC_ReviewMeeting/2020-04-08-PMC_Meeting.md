@@ -9,9 +9,9 @@ Agenda
 
 2. List of invited attendees for the meeting
 
-3. Review Report template
+3. Review Report template - *[EC Website template](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/grant-management/reports/periodic-reports_en.htm)*
 
-4. Review Report examples
+4. Review Report examples - *on [Google docs](https://docs.google.com/document/d/14uex44kH-9Nb70Qfaqkvqkoty-EIIFKsnqGykYn3EZ0/edit)*
 
 5. Review Meeting content & structure
 
