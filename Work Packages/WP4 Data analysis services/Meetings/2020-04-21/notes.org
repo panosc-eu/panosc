@@ -1,0 +1,22 @@
+#+TITLE: WP4 Video meeting <2020-04-21 Tue 15:00>
+
+* Actions from last meeting
+
+* Portal architecture and prototype discussion - updates
+1. The portal deployment at your institute. Installation documentation can be
+   found here: https://github.com/panosc-portal/panosc-portal-demo-deployment
+
+2. The common portal design. The documentation can be found here:
+   https://confluence.panosc.eu/x/lwCm 
+
+The written summaries are available at https://confluence.panosc.eu/x/cIAVAQ
+
+* Review meeting
+* Update from HDF5 at ESRF (Axel)
+
+* Next meeting
+
+5 May 2020, 15:00
+
+* Any other business
+
