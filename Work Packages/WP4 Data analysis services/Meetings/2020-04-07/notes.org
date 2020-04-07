@@ -1,5 +1,10 @@
 #+TITLE: WP4 Video meeting <2020-04-07 Tue 15:00>
 
+:present: Dan, Franz, Aidan, Andrea, Andy, Axel, Hans, Jakub, Jamie, Jiri, Loic,
+Lottie, Matteo, Robert, Sandor, Thomas V, Thomas K, Frank, William, (probably
+more)
+
+
 [[https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-03-24/notes.org][Minutes from last meeting]]
 
 * Actions from last meeting
@@ -10,19 +15,20 @@
 * Deliverable D4.2 (Lottie)
 - Deliverable 4.2. Prototype remote desktop and Jupyter service (M18, DEM, CO, ILL)
 - Update from Lottie
+  - most use cases for JupyterHub are there
+    - ILL and EuXFEL available from the outside
+  - waiting for remote Desktop use cases
 
 * Portal architecture and prototype discussion - updates
 
-** Context
-1. The portal deployment at your institute. Installation documentation can be
-   found here: https://github.com/panosc-portal/panosc-portal-demo-deployment
-
-2. The common portal design. The documentation can be found here:
-   https://confluence.panosc.eu/x/lwCm 
-
-The written summaries are available at https://confluence.panosc.eu/x/cIAVAQ
+** Development  
+- slowed down at ILL due to lock down
+- William is working on the deployment
+- ELI working on front-end
 
 ** Slurm support (Robert)
+- Robert sent survey around to gather requirements for SLURM backend
+- ESRF, CERIC-ERIC, ELETTRA have replied to survey
 
 ** Deploy portal prototype on production hardware / with production teams
 Any additional feedback already?
@@ -30,7 +36,13 @@ Any additional feedback already?
 ** Feedback from Management meeting
 Look out for similar technologies emerging in other projects.
 
-* Review meeting
+- REANA?
+  - workflows with workflow languages
+  - similar concept so that computation can be done on different cloud provides / SLURM
+  - meeting with REANA develpoment team is planned
+  - People interested to join the REANA video meeting, please contact Robert.
+
+* 18 month Review meeting
 ** Context (Hans)
 - Video meeting instead of in-person meeting
 - Meeting is on 16 June, all day
@@ -43,17 +55,75 @@ Look out for similar technologies emerging in other projects.
   - Demonstrate vision for PaNOSC data access and analysis 
     - this is okay if full of mock-ups
 
+- Also extrapolate to link to EOSC:
+  - what would the users get as a service once EOSC is running
+
+- would be good in periodic report.
+
 ** WP4 contributions (Thomas K, Thomas V, Robert, Jakub, ...)
 - Storyboards at https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-06-review-meeting/storyboards.md
   - Story outlines (ideas where discussed [[https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-02-25/notes.org#presentation-at-review-meeting-robert-r-juncheng-thomas-k][here]])
-    - Thomas K / JunCheng / Thomas Holm Rod (Neutron example and/or crystallography?)
-    - Thomas V: blue paint
-    - Jakub: Science story
-    - Jakub: Portal / user interface
-    - Robert: reproducible paper
-    - Robert: new analysis on existing data
-    - ILL: Remote Desktop example
-    - ? : Demo remote analysis using Jupyter Notebook 
+
+*** Robert: reproducible paper / Making FAIR data reality
+- Binder-based reproduction of XGM paper
+  - idea: maybe show reproduced figures in README of repo
+- been taken to PaNOSC branded version of Binder / Portal?
+  - paper is in the github repository
+- data-access is a mock-up only
+- Andy to ask EGI to set up Binder instance that could be used here.
+
+*** Thomas Kluyver: simulated serial crystallography
+- with Juncheng 
+- couple crystallograpy simulation pipeline
+- with data analysis (CrystFEL) to show we can go (nearly) full circle
+  - from protein structure, to cell dimensions of macrocell
+- simple version exists, need polishing.
+
+- What resources do you need to do the simulation?
+  - don't need to simulate a massive amount of data
+
+- Anton: good idea to simulate experiment before it is conducted.
+
+*** Thomas Vincent: Paint example
+- using MyBinder
+- data is downloaded in the beginning of the notebook
+- a number of notebooks, one to create one figures
+- remote desktop within the Jupyter environment
+  - Jupyter-Desktop-Server
+- will be showcased in 'advances in science' end of the month
+
+*** Jakub
+- showcase portal user interface and user experience
+- browse the data catalogue
+- basic filtering
+- select one example data set
+  - particle in cell simulation
+- go to details page, then click on to publication
+- back to details page, launch notebook to modify parameter and update
+  visualisation
+
+*** VISA demo
+- Jamie to investigate
+
+*** Remote Desktop could come from Franz (STFC/ExPaNDS)
+Anton: 
+- ExPands may have more examples suitable to remote Desktop because of the
+  legacy software
+
+*** Axel: HDF5 demo
+- to be prepared
+
+*** Discussion
+- for each demo, we need explanation of 
+  - where the data is, where the code is, where the code runs
+    -> graphical overview, best consistent across multiple talks
+- need to give overall concept in the beginning (-> Andy)
+
+For selection of presentations and fine tuning:
+- What are the unique points we are bringing across?
+- what do we need to cover
+- how much time have we got
+-> for Andy and Hans to take forwarded initially
 
 * Coronavirus data analysis (Hans)
 - Hans (and Robert and David from EuXFEL) have drafted some data analysis of infection spread 
@@ -64,6 +134,8 @@ Look out for similar technologies emerging in other projects.
   - local plots for Germany (could be extended to other countries)
 - Should we use this as an example activity of PaNOSC Open Science activity for data analysis in the cloud?
 
+- Related: - https://github.com/JayWelsh/coronamap
+
 * Update from HDF5 at ESRF (Axel)
 - demo has moved to https://h5web.netlify.app
 - heatmap
@@ -72,5 +144,13 @@ Look out for similar technologies emerging in other projects.
 21 April 2020, 15:00
 
 * Any other business
-- Zoom?
+
+* Actions
+- Jamie/ILL: provide input to Lottie for D4.2 report
+- ILL, ESS, CERIC-ERIC to reply to Robert's survey on Slurm
+- Jamie/ILL: find aremote Desktop demo
+- Axel: prepare hdf5-tool demo
+- Hans & Andy: review suggestions for presentations
+- People potentially interested to support the coronavirus plots, please get in
+  touch with Hans
 
