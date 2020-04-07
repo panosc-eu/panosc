@@ -86,3 +86,32 @@ developments against a baseline.
 - Show how easily we can change simulation/analysis parameters and re-run.
 - Simulation examples don't have to run where the data is - can we automatically
   pick a facility to run it where load is low.
+
+
+# ESRF Suggestion
+
+## Reusing Sulfur K-edge Micro- and Full-field XANES Identifies Marker for Preparation Method of Ultramarine Pigment from Lapis Lazuli in Historical Paints Data Analysis
+
+Based on data: https://doi.esrf.fr/10.15151/ESRF-DC-186933507 and notebooks/instructions available here: https://github.com/alessaan/rhapsody-in-blue
+
+### Scenario
+
+Scientist wants to reprocess some data (https://doi.esrf.fr/10.15151/ESRF-DC-186933507) for either review or educational purpose.
+
+The link to the data (through its DOI) and data analysis environment and notebooks (repository with notebook and requirements, container or binder environment) is available from the publication or given as supplemental material.
+
+Once logged in to the PaNOSC portal, the link gives the user access to both the datasets and the environment to reproduce the analysis including the software configuration to use, the notebooks and instructions that were used to produce the publication and computing resources to run the processing.
+
+They can reprocess the data, the intermediate results and eventually expand on the analysis.
+
+## Presentation
+
+See https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/use_cases/ESRF/ultramarine-xanes.rst for resources.
+
+- Start related data analysis either through binder or as a container.
+- Either the portal provides access to the datasets, or download required datasets with the help of https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/use_cases/ESRF/download_ESRF_datasets.ipynb
+
+To illustrate usage, it is possible to (both are based on small datasets):
+- Rerun first step of the analysis based on PyMCA GUI following the instructions in https://github.com/alessaan/rhapsody-in-blue/blob/master/01_2015_Treatment-I_notes_only_for_pyMCA.ipynb (Requires remote desktop).
+- Rerun generation of a figure with a notebook: https://github.com/alessaan/rhapsody-in-blue/blob/master/12_Figure1_Treatment.ipynb
+
