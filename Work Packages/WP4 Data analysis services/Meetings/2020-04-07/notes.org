@@ -1,7 +1,7 @@
 #+TITLE: WP4 Video meeting <2020-04-07 Tue 15:00>
 
-:present: Dan, Franz, Aidan, Andrea, Andy, Axel, Hans, Jakub, Jamie, Jiri, Loic,
-Lottie, Matteo, Robert, Sandor, Thomas V, Thomas K, Frank, William, (probably
+/present:/ Dan, Franz, Aidan, Andrea, Andy, Axel, Hans, Jakub, Jamie, Jiri, Loic,
+Lottie, Matteo, Robert, Sandor, Thomas V, Thomas K, Frank, William (probably
 more)
 
 
