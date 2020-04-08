@@ -3,6 +3,8 @@ PaNOSC Review Meeting preparation - 08/04/2020
 
 Reference documents / information stored here: https://drive.google.com/drive/folders/1SicuHQlIRIqx8CsbwSvWWf0lRKHYvvyE?usp=sharing
 
+Issue with some info here: https://github.com/panosc-eu/panosc/issues/52
+
 Agenda
 ------	
 1. Review Meeting dates - *Tuesday 16th June*
