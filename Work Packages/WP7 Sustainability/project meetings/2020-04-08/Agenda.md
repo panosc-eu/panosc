@@ -1,4 +1,4 @@
-Draft agenda
+Agenda
 
 PaNOSC WP 7 meeting - 08/04/2020
 
@@ -10,4 +10,6 @@ PaNOSC WP 7 meeting - 08/04/2020
 
 4.	Task 7.2 - Metrics and cost for the Photon and Neutron community EOSC. Discussion of the approach. Decision of next steps.
 
-5.	AOB
+5.	EOSC Rules Of Participation (Andy)
+
+6. AOB
