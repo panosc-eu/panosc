@@ -28,7 +28,10 @@ Jordi explained that he proposes to limit the number of attendees (so we are not
 
 Jean-François said that for WP6 it would be very good and it would make loads of sense to have Giuseppe (EGI). Andy explained that when he had a meeting of this kind many years ago it was only attended by the people that presented. Andy also explained that our PO said that the **minimum configuration** is the WP leaders (or their representatives), the PO, the reviewer and the coordinator (in our case the coordinator is at the same time WP2 leader). Rudolf suggested to invite someone from our Executive Board and Andy suggested the Chair of the EB.
 
-It was agreed that we could have more than just the minimum configuration, however any addition should be justified. Relevant people that can add up to our review meeting and improve it will be welcomed. Jordi will create a document in google docs, so everyone can add/suggest attendees and the role they would play.
+It was agreed that we could have more than just the minimum configuration, however any addition should be justified. Relevant people that can add up to our review meeting and improve it will be welcomed. 
+
+Jordi created after the meeting [this document in google docs](https://docs.google.com/spreadsheets/d/1eDqc0xxNJBLl7xgu5iIYDnvbATENcIV7-Wr7vlP5Nf0/edit#gid=0), so everyone can add/suggest attendees and the role they would play:
+https://docs.google.com/spreadsheets/d/1eDqc0xxNJBLl7xgu5iIYDnvbATENcIV7-Wr7vlP5Nf0/edit#gid=0
 
 **6. Demos**
 
