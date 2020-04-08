@@ -76,7 +76,7 @@ Jordi suggested early June for a rehersal of the review meeting. That would be e
 
 Andy added that half a day would be needed for this.
 
-It was agreed that Jordi will put a doodle together to organise this.
+It was agreed that Jordi will put a doodle together to organise this: https://doodle.com/poll/hsubfh5iuyk45iub
 
 **AOB**
 
