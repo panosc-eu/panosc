@@ -10,7 +10,7 @@ Attendees :  Marco, Jean-François, Rudolf, Christos, Andy, Ian J., Philippe
 ## Agenda:
 
 1. DataHub progress (Giuseppe can't attend but he forwarded some notes)
-- Review of actions
+2. Review of actions
 3. AOB
 
 ## Discussions:
