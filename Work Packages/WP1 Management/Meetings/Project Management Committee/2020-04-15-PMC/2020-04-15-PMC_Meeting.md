@@ -6,7 +6,9 @@ Agenda
 * *Reminder : the review meeting and mid-term report were discussed during last week PMC and will be discussed again during next week PMC*
 * **PLEASE NOTE : This meeting will take place through zoom:  https://esrf.zoom.us/j/333079917**
 
-1. Update from the WP Leaders - update on what has been achieved and problems
+1. Do we move the meeting back to 14:00h?
+
+2. Update from the WP Leaders - update on what has been achieved and problems
 
     *Please do add Milestones and Internal Milestones supporting documents in GitHub*
 
@@ -44,29 +46,29 @@ Agenda
 | WP8 Staff training in data stewardship | | 
 | WP9 Outreach & Communication | DOI Video [(Script  here)](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP9%20Outreach%20and%20communication/DOI%20Video/DOI%20VIDEO_script_def.docx) | 
 
-2. Compute resources requirements - *does any work package needs anything?*
+3. Compute resources requirements - *does any work package needs anything?*
 
-3. Sharing of Open Data about SAR-CoV-2
+4. Sharing of Open Data about SAR-CoV-2
 
-4. Annual Joint Meeting updates
+5. Annual Joint Meeting updates
 
-5. INFRAEOSC-03 update
+6. INFRAEOSC-03 update
 
-6. News from other proposals and events
+7. News from other proposals and events
     * INFRAEOSC-03
     * FAIRsFAIR data repository certification (6/2/2020)
     * FAIRsFAIR [open call for FAIR champions](https://www.fairsfair.eu/form/open-call-european-fair-champions)
     * EOSC training workshop (28/2/2020)
 
-7. Issues https://github.com/panosc-eu/panosc/issues
+8. Issues https://github.com/panosc-eu/panosc/issues
     * [Cooperation with ExPaNDS](https://github.com/panosc-eu/panosc/issues/46) - update
     * [Internal Milestones](https://github.com/panosc-eu/panosc/issues/43) - do we need extra internal milestones for 2020?
     * [KPIs](https://github.com/panosc-eu/panosc/issues/41) - update
     * [Risk Management](https://github.com/panosc-eu/panosc/issues/25) - update
     * [Observer status](https://github.com/panosc-eu/panosc/issues/9) - update
 
-8. Job openings and hirings
+9. Job openings and hirings
 
-9. AOB
+10. AOB
 
 
