@@ -27,6 +27,6 @@ Thanks to this fix he managed to create a first notebook that:
 
 The full workflow is described in this high-level architecture:
 
-![](Materials/OneData Pilot architecture.png)
+![](https://raw.githubusercontent.com/panosc-eu/panosc/master/Work%20Packages/WP6%20EOSC%20Integration/Materials/OneData%20Pilot%20architecture.png)
 
 As soon as Marco will finalize the configuration of the second provider at CERIC-ERIC we can start to benchmark with the data transfer considering different data sets ranging from 10GB up to 100GB.
