@@ -4,6 +4,7 @@ PaNOSC Project Management Committee meeting - 15/04/2020
 Agenda
 ------	
 * *Reminder : the review meeting and mid-term report were discussed during last week PMC and will be discussed again during next week PMC*
+* **PLEASE NOTE : This meeting will take place through zoom:  https://esrf.zoom.us/j/333079917**
 
 1. Update from the WP Leaders - update on what has been achieved and problems
 
@@ -33,7 +34,7 @@ Agenda
 
 | WP | Notes |
 | -- | ----- |
-| WP1 Management |  |
+| WP1 Management | [D1.5 in progress](https://docs.google.com/document/d/1X96DtpDITHmHwcHVNgRrcMSOZyjwb9C2/edit) |
 | WP2 Data Policy and Stewardship |  | 
 | WP3 Data Catalog Services |  | 
 | WP4 Data Analysis Services |  | 
@@ -68,4 +69,4 @@ Agenda
 
 9. AOB
 
-**PLEASE NOTE : This meeting will take place through zoom:  https://esrf.zoom.us/j/333079917**
+
