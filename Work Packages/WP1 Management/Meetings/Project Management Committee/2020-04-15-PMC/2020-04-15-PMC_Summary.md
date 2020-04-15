@@ -47,7 +47,7 @@ Andy added that the recent Hercules remote course was maybe recorded anf if so w
 
 * **WP9 - Outreach & Communication** : Nicoletta reported progress on getting agreement to add logos of Research Facilities (30 out of 33 have been collected, including [LENS](https://www.lens-initiative.org/) and [LEAPS](https://leaps-initiative.eu/) ) to the DOI video (Diamond is still missing).
 
-Nicoletta also explained that the work with ILL is progressing towards a common action aiming at contacting journals to stimulate inclusion of "data DOIs in accepted papers". A draft letter for editors has been prepared, as well as a contact list. The final version will be sent together with the video on DOI currently being upgraded. In the discussion with ILL, the question was raised on whether we should contact directly journals' editors in chief, or staff members (e.g. comms officers, administrattive staff). In the 1st scenario, it would be preferable that the letter is signed by the directors of our RIs (+ LENS and LEAPS). 
+Nicoletta also explained that the work with ILL is progressing towards a common action aiming at contacting journals to stimulate inclusion of "data DOIs in accepted papers". A draft letter for editors has been prepared, as well as a contact list. The final version will be sent together with the video on DOI currently being upgraded. In the discussion with ILL, the question was raised on whether we should contact directly journals' editors in chief, or staff members (e.g. comms officers, administrattive staff). The first option is preferable. In this case, it would be better if such letter is signed by the directors of our RIs (+ LENS and LEAPS?). 
 
 Jordi said that while ambitious, the idea of a letter signed by our directors seemed good.
 
