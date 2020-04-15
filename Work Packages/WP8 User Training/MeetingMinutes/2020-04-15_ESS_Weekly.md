@@ -11,16 +11,29 @@
 ## Actions from last meeting
 
 ## Updates
-Missing deployment tasks, see tasks below. ETA: 1 week
-Agreement with Jesper (IND) and Viktor (NBI) to organise workshops. Still need to solve payment procedure.
+* Mads had a meeting Shervin from ILL getting mutual status report
+* Thomas had workshop-taskforce meeting resulting in email with charge to Jesper Bruun and Victor and follow-up meeting
+* Florian started to lookn into how and when they can contribute
+* Mads have discussed with Lottie regarding easier access for mcstasscript to cluster resources
+
+pan-learning.org is now up running. Remaining tasks are:
+ 
+* Jupyter integration
+* Integration of EOSC authentication and authorization infrastructure (AAI) (depends on WP6)
+* Integration with cloud resources (depends on Wp6)
+* Integration of other simulation engines than McStas (depends on WP5)
+ 
+and some maintenance tasks:
+* Change visual representation / design so that all partners can see themselves in it
+* Upgrade Python and Django, expand test suite in the process. This can quickly become a sincere issue because the platform is running Python 2.7 which is not supported anymore.
+* Expand test suite with tests not related to Django (if it makes sense)
+* Separating the github repository ‘mcweb’ from the ‘mcstasmcxtrace’ organisation (I need to confer with Peter on this one)
+
+
 
 # Actions
-- [ ] Thomas: Set up meeting for workshop-taskforce
+- [ ] Thomas: setup meeting with Jean-Francois regarding AAI 
 - [ ] Mads and Viktor: To discuss Jupyter-replacement of the iFitlab
-- [ ] Alexandre: Add pan-learning.org
-- [ ] Alexandre:  Definition of "admin" (enrolment tasks etc.) and "user" mailinglists (for communication)
-- [ ] Peter: Check all frontpage links
-- [ ] Peter: Draft invitation-emails to PaNOSC WP8, existing e-neutrons users, general announcement
 - [ ] Peter: Obsoletion-notice on the old system
 - [ ] WP8: Find suggestions for rebranding-strategy (Due: March MM)
 - [ ] Peter: Work on https://github.com/McStasMcXtrace/McWeb/issues/220
@@ -30,6 +43,11 @@ Agreement with Jesper (IND) and Viktor (NBI) to organise workshops. Still need t
 - ~~[ ] DST: Look at iFitlab - formulate ticket (Likely Jupyter is the alternative, going forward)~~
 - ~~[ ] Linda: Update development courses @e-neutrons.org to use ucph wiki, in progress. (awaiting Linda return)~~
 - ~~[ ] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020 (awaiting Linda return)~~
+- [X] Alexandre:  Definition of "admin" (enrolment tasks etc.) and "user" mailinglists (for communication)
+- [X] Peter: Check all frontpage links
+- [X] Peter: Draft invitation-emails to PaNOSC WP8, existing e-neutrons users, general announcement
+- [X] Alexandre: Add pan-learning.org
+- [X] Thomas: Set up meeting for workshop-taskforce
 - [X] Peter: Test e-neutrons.esss.dk site
 - [X] Thomas: Ensure ESS staff is on WP8 mailinglist (in progress - potentially migrate to ESS-driven mailman list)
 - [X] Thomas: Make next week meeting the joined PaNOSC-ExPANDS meeting (18/3 14:30)
