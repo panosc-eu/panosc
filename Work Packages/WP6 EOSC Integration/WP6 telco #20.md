@@ -5,6 +5,7 @@ Friday 14th April 2020 - 11H00 CET
 ​	Next meeting : 28th of April 2020 at 11H00 CET
 
 Attendees :  Marco, Jean-François, Rudolf, Christos, Andy, Ian J., Philippe
+
 Giuseppe (excused, sent his notes)
 
 
