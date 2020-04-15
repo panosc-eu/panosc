@@ -45,19 +45,15 @@ Many partners of PaNOSC and ExPaNDS are looking forward the workshops in order t
 Andy added that the recent Hercules remote course was maybe recorded anf if so we could use it (GDPR permitting).
 
 
-* **WP9 - Outreach & Communication** : Nicoletta reported progress on getting agreement to add logos of Research Facilities, [LENS](https://www.lens-initiative.org/) and [LEAPS](https://leaps-initiative.eu/) to the DOI video (Diamond is still missing).
+* **WP9 - Outreach & Communication** : Nicoletta reported progress on getting agreement to add logos of Research Facilities (30 out of 33 have been collected, including [LENS](https://www.lens-initiative.org/) and [LEAPS](https://leaps-initiative.eu/) ) to the DOI video (Diamond is still missing).
 
-Nicoletta also explained that the ILL Communications Officer proposed an action related to "data DOIs in accepted papers". Nicoletta wondered whether the best way of engaging with this could be:
-
-    * An open letter signed by the directors of our RIs
-    * Contacting directly the editors of these journals
-    * Any other / A mix of these
+Nicoletta also explained that the work with ILL is progressing towards a common action aiming at contacting journals to stimulate inclusion of "data DOIs in accepted papers". A draft letter for editors has been prepared, as well as a contact list. The final version will be sent together with the video on DOI currently being upgraded. In the discussion with ILL, the question was raised on whether we should contact directly journals' editors in chief, or staff members (e.g. comms officers, administrattive staff). In the 1st scenario, it would be preferable that the letter is signed by the directors of our RIs (+ LENS and LEAPS). 
 
 Jordi said that while ambitious, the idea of a letter signed by our directors seemed good.
 
-Nicoletta also reported issues regarding keeping up to date the calendar for PaNOSC and Jordi said that he agreed to try to integrate it into his work calendar , as this way he could review it, but he has not done so yet.
+Nicoletta also reported issues regarding keeping up to date the calendar for PaNOSC and Jordi said that he agreed to try to integrate it into his work calendar, as this way he could review it, but he has not done so yet.
 
-Nicoletta also mentioned about FAIRsFAIR’s request the community feedback on their deliverables: https://www.fairsfair.eu/fairsfair-deliverables-community-review
+Nicoletta also mentioned that FAIRsFAIR requested the community feedback on their deliverables: https://www.fairsfair.eu/fairsfair-deliverables-community-review
 
 
 * **WP1 - Management** : Jordi reported a meeting with ExPaNDS to talk about how we are both working together ([link](https://github.com/panosc-eu/panosc/issues/46)), ongoing work to organise the annual meeting ([link](https://github.com/panosc-eu/panosc/issues/53)) and its rehearsal and reminded everyone that has not filled in information regarding KPIs or Risks to do so (this will be part of the review meeting).
