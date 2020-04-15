@@ -10,7 +10,7 @@ Andy (ESRF), Jordi (ESRF), Hans (XFEL), Nicoletta (CERIC), Dario(CERIC), Jean-Fr
 Minutes
 -------	
 
-Before starting the meeting Roberto shared the news that Emilio (participating in WP3 and WP4) has resign from his role at CERIC and therefore CERIC will open a position.
+Before starting the meeting Roberto shared the news that Emilio (participating in WP3 and WP4) has resigned from his role at CERIC and therefore CERIC will open a position.
 
 **1. Do we move the meeting back to 14:00h?** 
 
@@ -19,6 +19,7 @@ There has been broad agreement on moving back the meeting to Wednesdays at 14:00
 
 **3. Update from the WP Leaders - update on what has been achieved and problems**
 
+Summary table of upcoming deliverables:
 | Deliverable | New date | Original Date | 
 | ----------- | -------- | ------------- | 
 | D1.2b Mid-year Summary | **end May** | *May 2020* | 
