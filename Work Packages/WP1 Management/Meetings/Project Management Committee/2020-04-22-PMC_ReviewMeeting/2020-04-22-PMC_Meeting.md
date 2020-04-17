@@ -24,11 +24,13 @@ Agenda
 
 | item to prepare | info | date |
 | --------------- | ---- | ---- |
-| Prepare draft M18 Review Report | *and send it to PO/Reviewer* | 1st June |
 | Prepare demos | | from now until rehearsal date |
-| Prepare presentations | *using KPIs?* | until rehearsal date | 
-| Submitting May deliverables | | end of May the latest |
+| Prepare presentations | *using KPIs?* | from now until rehearsal date | 
+| Prepare draft M18 Review Report | *and send it to PO/Reviewer* | from now until 1st June |
+| Submitting May deliverables | | until end of May the latest |
 | Requesting financial info | | 1st June |
+| Rehearsal date | | TBC, early June |
+| **Review meeting** | | 16th June |
 | Obtain Financial info | | 20th June |
 | Complete M18 Review Report | | 10th July |
 | Submit M18 Review Report | | 31st July |
