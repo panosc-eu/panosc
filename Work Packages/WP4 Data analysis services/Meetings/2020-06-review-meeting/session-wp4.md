@@ -1,8 +1,7 @@
-Presentation Work Package 4, draft
-==================================
+# Presentation Work Package 4, draft
 
-1. Introduction, Hans, \~10 mins
---------------------------------
+## 1. Introduction, Hans, \~10 mins
+
 
 -   WP4 motivation
     -   data analysis extracts meaning from data
@@ -36,8 +35,8 @@ Presentation Work Package 4, draft
             - architecture?
             
 
-Context for each demo
----------------------
+
+### Context for each demo
 
 For all demonstrations, it is important to explain:
 
@@ -49,8 +48,8 @@ For all demonstrations, it is important to explain:
 
 We should have a consistent way of showing this (ideally graphically).
 
-2. Data portal, Jakub, \~10 mins
---------------------------------
+
+## 2. Data portal, Jakub, \~10 mins
 
 Key points to cover:
 
@@ -69,8 +68,8 @@ Details:
 -   back to details page, launch notebook to modify parameter and update
     visualisation
 
-3. Simulation, Thomas, \~10 mins
---------------------------------
+
+## 3. Simulation, Thomas, \~10 mins
 
 Key points to cover:
 
@@ -89,8 +88,8 @@ Details:
 -   if possible, run on EGI provided Binder (would be nice link to
     EOSC), alternatively Maxwell would be okay
 
-4. Towards FAIR with Reproducible paper, Robert, 10 mins
---------------------------------------------------------
+
+## 4. Towards FAIR with Reproducible paper, Robert, 10 mins
 
 Key points:
 
@@ -112,8 +111,8 @@ Details:
 -   comment on data situation: data set so small that it is embedded
     with software
 
-5. User provided reproducible publication, Thomas V, 10 mins
-------------------------------------------------------------
+
+## 5. User provided reproducible publication, Thomas V, 10 mins
 
 Key points:
 
@@ -131,8 +130,8 @@ Details:
 -   example for scientist pushing envelop of reproducibility -\>
     re-usability
 
-6. Remote Desktop, could come from Franz (STFC/ExPaNDS), 10 mins
-----------------------------------------------------------------
+
+## 6. Remote Desktop, could come from Franz (STFC/ExPaNDS), 10 mins
 
 Key points:
 
@@ -143,8 +142,8 @@ Details:
 
 -   neutrons and different remote analysis technology (?)
 
-7. General purpose tools: HDF5 viewer, Axel, 10 mins
-----------------------------------------------------
+
+## 7. General purpose tools: HDF5 viewer, Axel, 10 mins
 
 Key points:
 
@@ -161,8 +160,8 @@ Details:
 
 
 
-Overall timings
----------------
+# Overall timings
+
 
 - assume 90 minute slot in total
 - currently 7 presentations -> 20 minutes spare
