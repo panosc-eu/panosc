@@ -23,5 +23,5 @@ Sulfur K-edge Micro- and Full-field XANES Identifies Marker for Preparation Meth
 * **Docker container**: https://hub.docker.com/r/t20100/rhapsody-in-blue
 
 .. |rhapsody-in-blue myBinder Launcher| image:: https://mybinder.org/badge_logo.svg
-   :target: https://mybinder.org/v2/gh/t20100/rhapsody-in-blue/binder
+   :target: https://mybinder.org/v2/gh/t20100/rhapsody-in-blue/binder?filepath=introduction.ipynb
 
