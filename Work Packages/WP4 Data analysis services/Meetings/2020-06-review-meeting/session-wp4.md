@@ -13,27 +13,28 @@ Presentation Work Package 4, draft
     -   provide data analysis together with data
     -   control and execute data analysis remotely
     -   enable better reproducibility and re-usability
+    
 -   Details are in reports
 -   Focus on demonstrations today
--   what will be demonstrate \[tidy up next sections\]
-    -   portal
-    -   reproducibility
-    -   link to publications
-    -   running simulaions, how could it be useful/very expensive
-        beamtime
-    -   interactive
+    -   data portal (slide with image)
+    -   Jupyter Notebook and remote Desktop as remote analysis infrastructures
+    -   Remote simulation to support experiments
+    -   Link to publications & Reproducibility 
+    -   sharing and linking with Expands
     -   tool provision
-        -   hdf5 integration into the web
+        -   HDF5 integration into the web
         -   contribute to generic tools
--   sharing and linking with Expands
-
+    
 -   Summary: how does this help science today and in the future?
     -   facilities make it easier for users
     -   allows other scientists to take the work further
     -   how does this link with EOSC
-    -   highlight shortcomings
+    -   highlight shortcomings and challenges
         -   different scientific domains have different challenges
-        -   ?
+        -   data access
+        -   central EOSC hosted portal 
+            - architecture?
+            
 
 Context for each demo
 ---------------------
@@ -48,7 +49,7 @@ For all demonstrations, it is important to explain:
 
 We should have a consistent way of showing this (ideally graphically).
 
-2. Data portal, Jakup, \~10 mins
+2. Data portal, Jakub, \~10 mins
 --------------------------------
 
 key points to cover:
@@ -60,7 +61,7 @@ key points to cover:
 Details:
 
 -   showcase portal user interface and user experience
--   browse the data catalogue
+-   browse the data catalog
 -   basic filtering
 -   select one example data set
 -   particle in cell simulation
@@ -117,8 +118,8 @@ Details:
 key points:
 
 -   example of scientist who produced reproducible analysis out of her
-    own initiative, and published this on github
--   downloads data from ESRF catalogue
+    own initiative, and published this on GitHub
+-   downloads data from ESRF catalog
 
 Details:
 
@@ -126,8 +127,8 @@ Details:
 -   show part of the process (one notebook, describe GUI interaction if
     required)
 -   paper is nearly published
--   example for scientist pushing envelop of reporducibility -\>
-    re-uability
+-   example for scientist pushing envelop of reproducibility -\>
+    re-usability
 
 6. Remote Desktop, could come from Franz (STFC/ExPaNDS), 10 mins
 ----------------------------------------------------------------
@@ -144,15 +145,24 @@ Details:
 7. General purpose tools: HDF5 viewer, Axel, 10 mins
 ----------------------------------------------------
 
-keypoints:
+key points:
 
 -   general purpose
--   reading data from HDF5 webserver
+-   reading data from HDF5 web server
 -   contribute to wider community (beyond Photon and Neutron Science)
 
 Details:
 
--   introduce hdf5 briefly, and comment on wide spread use
+-   introduce HDF5 briefly, and comment on wide spread use
 -   HDF5 viewer demo
 -   dissemination plans (open source)
 -   show or report on (plans for) integration with JupyterLab
+
+
+
+Overall timings
+---------------
+
+- assume 90 minute slot in total
+- currently 7 presentations -> 20 minutes spare
+  - 2 additional minutes questions per presentation, so we can fill a 90 minute slot.
