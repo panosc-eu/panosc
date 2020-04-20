@@ -52,7 +52,7 @@ We should have a consistent way of showing this (ideally graphically).
 2. Data portal, Jakub, \~10 mins
 --------------------------------
 
-key points to cover:
+Key points to cover:
 
 -   portal
 -   finding data
@@ -72,7 +72,7 @@ Details:
 3. Simulation, Thomas, \~10 mins
 --------------------------------
 
-key points to cover:
+Key points to cover:
 
 -   beam very expensive, produces lots of data (also expensive)
 -   use simulation to prepare experiment, check feasibility, optimise
@@ -80,6 +80,7 @@ key points to cover:
 -   across-facility example
 -   explain quantities of data
 -   can use simulation results to test and improve analysis processes
+-   Example for Jupyter Notebook driven computation and analysis
 
 Details:
 
@@ -91,15 +92,14 @@ Details:
 4. Towards FAIR with Reproducible paper, Robert, 10 mins
 --------------------------------------------------------
 
-key points:
+Key points:
 
 -   example starts from published results
 -   compare figures from paper and re-computation
 -   has been reproduced by somebody who is not an author with help of
     the author
-
-\[- enables re-usability\]
-
+-   enables re-usability
+-   Jupyter Notebook example
 -   improvement: if created at publication time, can create extra DOI
     for analysis
 
@@ -115,11 +115,12 @@ Details:
 5. User provided reproducible publication, Thomas V, 10 mins
 ------------------------------------------------------------
 
-key points:
+Key points:
 
 -   example of scientist who produced reproducible analysis out of her
     own initiative, and published this on GitHub
 -   downloads data from ESRF catalog
+-   Jupyter Notebook and GUI example
 
 Details:
 
@@ -133,7 +134,7 @@ Details:
 6. Remote Desktop, could come from Franz (STFC/ExPaNDS), 10 mins
 ----------------------------------------------------------------
 
-key points:
+Key points:
 
 -   show case remote desktop as remote analysis technology
 -   shows neutron example
@@ -145,7 +146,7 @@ Details:
 7. General purpose tools: HDF5 viewer, Axel, 10 mins
 ----------------------------------------------------
 
-key points:
+Key points:
 
 -   general purpose
 -   reading data from HDF5 web server
