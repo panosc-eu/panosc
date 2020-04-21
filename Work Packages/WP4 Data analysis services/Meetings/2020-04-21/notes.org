@@ -1,5 +1,10 @@
 #+TITLE: WP4 Video meeting <2020-04-21 Tue 15:00>
 
+:present: Aidan (ESRF), Andrea (CERIC-ERIC), Dan (PSI), Franz (ISI), Hans
+(EuXFEL), Jakub (ELI), Lottie (ESS), Majid, Robert (EuXFEL), Stuart (ILL),
+Thomas V (ESRF), William (ILL), Jiri Maier, Jamie (ILL), Sandor (EuXFEL), 
+Marco (CERIC) (probably more who joined a bit later).
+
 * Actions from last meeting
 - Jamie/ILL: provide input to Lottie for D4.2 report
 - ILL, ESS, CERIC-ERIC to reply to Robert's survey on Slurm
@@ -35,6 +40,10 @@
 * Review meeting (Hans)
 - Draft plan for WP4 presentations, see https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-06-review-meeting/session-wp4.rst
 
+- immediate feedback:
+  - seems quite packed
+  - do we have a dedicated discussion slot later in the programme?
+
 * EGI Webinars
 Programme available at https://www.egi.eu/events/egi-introduces-webinar-series/
 
@@ -56,4 +65,11 @@ Draft schedule: (as of 17 April):
 
 * Any other business
 
-- Quick summary of the [extended wp4 survey](https://confluence.panosc.eu/display/wp4/Task+4.1+-+Extended+Survey+Summary)
+- Quick summary of the extended wp4 survey:
+  https://confluence.panosc.eu/display/wp4/Task+4.1+-+Extended+Survey+Summary
+
+
+* Actions
+- All PaNOSC partners: review deliverable 4.2
+- Hans & Andy: schedule dry run through of presentations
+- Presenters: prepare presentations

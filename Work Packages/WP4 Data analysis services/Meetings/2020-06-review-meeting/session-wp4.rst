@@ -59,6 +59,7 @@ For all demonstrations, it is important to explain:
    compute facility, cloud compute)
 -  where is the software / script coming from that is executed?
 -  where is the data located that is used?
+-  say what is mocked and what isn't
 -  [probably more]
 
 We should have a consistent way of showing this (ideally graphically).
