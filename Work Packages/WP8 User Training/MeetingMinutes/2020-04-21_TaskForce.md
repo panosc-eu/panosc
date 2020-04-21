@@ -21,8 +21,8 @@
 ## Updates from ExPaNDS
 * WP4 collecting reference data sets for training. We should make those data sets available from the e-learning platform. 
 
-Next meeting:
-* Decide when we have feedback from Jesper and Victor and coordinators
+## Next meeting:
+* May 5 at 3 pm is placeholder. Final decision when we have feedback from Victor, Jesper and coordinators
 
 
 Tasks
