@@ -47,3 +47,4 @@ Draft schedule: (as of 17 April):
 
 * Any other business
 
+- Quick summary of the [extended wp4 survey](https://confluence.panosc.eu/display/wp4/Task+4.1+-+Extended+Survey+Summary)
