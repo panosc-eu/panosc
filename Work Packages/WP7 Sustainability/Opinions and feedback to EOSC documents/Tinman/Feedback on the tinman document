@@ -1,0 +1,67 @@
+Feedback on the tinman document, submitted on 09/02/2020
+
+Setup and management of the EOSC Secretariat supporting the EOSC Governance 
+
+Rupert Lueck and Lidia Borrell-Damián, Co-Chairs of the EOSC Sustainability Working Group (WG), invite you as representatives of the EOSC projects to provide feedback and insight on a tinman report prepared by the Sustainability WG.
+This document explores possible means for sustaining the European Open Science Cloud beyond its initial phase which terminates at the end of 2020. This independent document builds on an earlier strawman version and the feedback that it received. It considers the financing model, legal vehicle, governance structure as well as the regulatory and policy environment of the EOSC with a first iteration to establish a Minimum Viable EOSC (MVE) addressing the needs of publicly funded researchers exploiting openly available data and subsequent iterations.
+This still is a work in progress and the Sustainability WG would appreciate your feedback on the different sections of the tinman report. Please note that this document is not public and should not be shared or distributed further.
+The Deadline for contribution is the 9th of February, 2020!
+
+START SURVEY 
+Please indicate your name and surname * 
+ 
+Please indicate your organisation * 
+PaNOSC
+
+Would you like to be contacted in case of follow-up questions from the EOSC Sustainability WG? * 
+Yes, I accept to receive follow-up emails 
+
+
+Section 1.1: First Iteration - EOSC-Core 
+Please provide your feedback: 
+
+Although it is stated that “the approach taken in this document is to place the researcher as an end-user at the centre and to determine what added-value the EOSC will bring to them”, the value proposition of the EOSC core does not emerge clearly in the tinman document. The EOSC-core services are either not well defined or do not present an added value considering similar services are already available e.g in google dataset search services or in the cluster communities the advantage of deploying these services as EOSC is not clear.
+The sustainability of the MV EOSC core is analysed, with the assumption that “funding for contributing data infrastructures and making data FAIR… continues to be funded by other means”. While some infrastructure is being developed in the framework of the EOSC related projects, the sustainability of this infrastructure feeding into the MVE is still to be proved, particularly in relation to long term data curation. Currently it is a concern of these projects how to secure funding for the years following the conclusion of the cluster projects. Hence, giving the sustainability of the data infrastructures feeding into the core for granted is bold but risky.
+
+This risk could be mitigated if the EOSC Core would also offer storage and preservation of open data. 
+
+It is mentioned that the sustainability of the EOSC will depend on the use and acknowledgement by users, and a system of rewards and incentives to encourage them to participate should be put in place. We very much agree this is a crucial point, we would benefit from a more elaborated proposal for these rewards and incentives, specifying who is responsible of adopting and enforcing it (employers, funders, national authorities, the EC, etc).  It should also be taken into account that although researchers need to agree on the data policy (will there be an EOSC data policy?), and therefore engage in the EOSC, most of the clusters are developing their infrastructure in such a way that the data fed into the EOSC would be the managed by research infrastructures and not by the individual researchers. It will be research infrastructures bearing the costs and deploying resources for data and metadata acquisition, FAIRification, storage, curation and preservation, therefore incentives should also consider the essential and active role of research infrastructures in the process.
+
+The document does not describe how or who will implement the EOSC-core nor how much it will cost. Later on the document discusses the legal entity in some detail but not the technical implementation and sustainability. By not treating the problem of the resources and know-how required to implement it makes the proposal for an MVE unconvincing.
+
+Section 1.2: First iteration – EOSC-Exchange 
+Please provide your feedback: 
+
+If the MVE will be a legal entity, this means it will become a new data infrastructure that will require funding to operate. The value proposition needs to emerge clearly to convince funders (national governments apparently) that they should invest in this infrastructure. In other words, it is necessary for the viability and sustainability of the EOSC, that funding the MVE is worth even at the cost of cutting the budget of other research infrastructures. 
+
+Section 1.3: First iteration – Funding model 
+Please provide your feedback: 
+
+Regarding the complete shift of financial responsibility from the EC to the participant’s financial contributions, we should consult our stakeholders (e.g. to our user communities and funding agencies). We would like to stress that most RIs are funded by national governments that will already need to increase funding for RIs to manage, curate and store data after the end of the cluster projects, at the same time increasing their contributions for the MVE maintenance and use by the community. To be convincing, the value added should be demonstrated and be far beyond the EOSC cost. The current formulation does not clearly state the added value.
+
+
+Section 2 + 3: Second and third iteration – serving the public sector and industry 
+Please provide your feedback: 
+
+Serving the public sector: how will authentication work? Who will certify that user belongs to the public sector? What is the added value of the EOSC for the public sector? How does the EOSC prevent a monopoly of exploiting data in the EOSC by large commercial companies. One possibility is to protect data with CC-BY-NC like licence to prevent large companies over-exploiting open data to their advantage without investing back in the EOSC?
+
+Section 4: Governance Structure 
+Please provide your feedback: 
+General Assembly composed of one representative per member: meaning Member States? If so, please use capital M. If not, the list of stakeholders is long: how large will the GA grow? 
+
+In the opinion of some RIs represented in PaNOSC, from their experience, an AISBL would not be the best legal form to deal with the governance. An ERIC could be a more appropriate instrument.
+
+Why is the legal structure treated in detail when the technical and added value is not?
+
+Section 5: Timelines 
+Please provide your feedback: 
+The plan and timeline is clear even if challenging considering the current status.
+Some of the PaNOSC partners find the timeline unrealistic.
+
+Section 6: Further considerations 
+Please provide your feedback: 
+
+PaNOSC appreciates the efforts put in this document, which shows a significant improvement compared to the first draft but is still far from complete
+PaNOSC issued a position paper on the strawman document and some other clusters provided feedback, identifying similar weaknesses. However, we don’t see those suggestions taken into account in the tinman document.
+This tinman version is preliminary, too little specific or detailed in some aspects to express an opinion. The outputs of the other four working groups of the executive board will inevitably influence the sustainability of the EOSC. For this reason, we would like to see how these outputs will shape the EOSC, its rules of participation, architecture, policies, etc. Only after these elements and the core of the EOSC will be defined, it will be possible to produce an informed and meaningful opinion.
+
