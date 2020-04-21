@@ -20,6 +20,10 @@
 - Details will be added to this indico page soon:
   https://indico.desy.de/indico/event/25925/
 * Report on Deliverable 4.2 (Lottie)
+ - Draft google doc here: https://docs.google.com/document/d/12INNR1LN65NpnY58-FrvyUAgiUkr1GwnbOL78no6SsY/edit?usp=sharing
+ - Note that the MS Word -> google docs conversion has changed some formatting/image resolution
+ - Please review and give feedback before Monday 27th April.   
+ 
 
 * Review meeting (Hans)
 - Draft plan for WP4 presentations, see https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-06-review-meeting/session-wp4.rst
