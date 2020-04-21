@@ -26,6 +26,21 @@
 
 * Update from HDF5 at ESRF (Axel)
 
+* EGI Webinars
+Programme available at https://www.egi.eu/events/egi-introduces-webinar-series/
+
+Draft schedule: (as of 17 April):
+
+- 22 Apr Gergely Sipos, "Webinar: EGI Federation - Advanced Computing for Research"
+- 24 Apr Alexandre Bonvin, "Webinar: WeNMR - Structural biology in the cloud - 10 years of experience of using EGI services"
+- 30 Apr Enol Fernandez, "Webinar: Introduction of the EGI Cloud Compute service"
+- 07 May Enol Fernandez, "Webinar: The EGI Notebooks service: Support for analytics and big data visualisation in the cloud"--
+- 27 May Nicolas Liampotis, Valeria Ardizzone, "Webinar: The EGI AAI Check-In service for scientific communities"Gergely Sipos | Head of Services, Solutions, Support | EGI Foundation (Amsterdam, The Netherlands) 
+- 04 Jun Andrea Manzi, Lukasz Dutka, "Webinar: The EGI Datahub to federate distributed data sets for data-intensive applications in the cloud"
+- 10 Jun Enol Fernandez, "Webinar: Managing Docker containers and Kubernetes clusters in the EGI Cloud"
+- 24 Jun Miguel Caballer Fernández, "Webinar: The Infrastructure Manager (IM)"
+- 01 Jul Giuseppe La Rocca, "Webinar: Create elastic virtual clusters in the EGI Cloud with the EC3/IM"
+
 * Next meeting
 
 5 May 2020, 15:00
