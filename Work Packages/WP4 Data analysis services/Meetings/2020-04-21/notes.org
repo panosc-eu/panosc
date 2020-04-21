@@ -8,6 +8,7 @@
 - People potentially interested to support the coronavirus plots, please get in touch 
   updated webpage: http://oscovida.github.io/
 
+
 * Container orchestration workshop (Robert)
 - planned for Wednesday 22nd April, 9:30 - 16:30 (CEST)
 - Draft programme
@@ -19,16 +20,20 @@
 
 - Details will be added to this indico page soon:
   https://indico.desy.de/indico/event/25925/
+
+* Update Open Science COVID19 Analysis
+- online at http://oscovida.github.io
+- contributions welcome
+  - local data for partner countries
+  - software engineering help
+
 * Report on Deliverable 4.2 (Lottie)
  - Draft google doc here: https://docs.google.com/document/d/12INNR1LN65NpnY58-FrvyUAgiUkr1GwnbOL78no6SsY/edit?usp=sharing
  - Note that the MS Word -> google docs conversion has changed some formatting/image resolution
  - Please review and give feedback before Monday 27th April.   
- 
 
 * Review meeting (Hans)
 - Draft plan for WP4 presentations, see https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-06-review-meeting/session-wp4.rst
-
-* Update from HDF5 at ESRF (Axel)
 
 * EGI Webinars
 Programme available at https://www.egi.eu/events/egi-introduces-webinar-series/
