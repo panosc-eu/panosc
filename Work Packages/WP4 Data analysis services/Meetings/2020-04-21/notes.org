@@ -8,6 +8,17 @@
 - People potentially interested to support the coronavirus plots, please get in touch 
   updated webpage: http://oscovida.github.io/
 
+* Container orchestration workshop (Robert)
+- planned for Wednesday 22nd April, 9:30 - 16:30 (CEST)
+- Draft programme
+
+  - 9:30 - 11:00 AAI 
+  - 11:00 - 12:30 Openstack (VMs) 
+  - 13:30 - 15:30 Kubernetes (Clusters) 
+  - 15:00 - 16:30 PaNOSC Portal deployment (Deployments)
+
+- Details will be added to this indico page soon:
+  https://indico.desy.de/indico/event/25925/
 * Report on Deliverable 4.2 (Lottie)
 
 * Review meeting (Hans)
