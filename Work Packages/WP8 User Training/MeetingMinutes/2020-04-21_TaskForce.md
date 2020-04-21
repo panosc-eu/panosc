@@ -12,6 +12,7 @@
 ###  Updates from ESS
 * Updated Victor and Jesper on what we discussed at last meeting, but haven't heard back
 * Working on how to redirect payment for secondment agreement 
+Repository for django-code from pan-learning.org is at https://github.com/pan-learning-org/djangotools (send Peter an email if you want to be part of the related GitHub organisation)
 
 ### Updates from ELI
 * WP4 people would be happy to get involved
