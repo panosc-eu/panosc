@@ -30,5 +30,5 @@ Tasks
 - [ ] Thomas: Compile list of potential participants for workshop
 - [ ] Florian: Reach out to coordinators of PaNOSC and ExPaNDS to get top-level alignment
 - [ ] Thibaud: Start making a gantt chart in google sheet
-- [ ] Nazaré: Update list of courses 
+- [ ] Nazaré: Update [list of courses](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/TrainingMaterials/urls.md)
 
