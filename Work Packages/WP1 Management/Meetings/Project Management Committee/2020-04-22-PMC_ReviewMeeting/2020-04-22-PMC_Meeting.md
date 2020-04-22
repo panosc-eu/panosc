@@ -11,6 +11,7 @@ Agenda
 1. List of invited attendees for the meeting ([see Google spreadsheet](https://docs.google.com/spreadsheets/d/1eDqc0xxNJBLl7xgu5iIYDnvbATENcIV7-Wr7vlP5Nf0/edit#gid=0))
 
 2. Review Meeting dates - *Tuesday 16th June* + Rehearsal date ([doodle](https://doodle.com/poll/hsubfh5iuyk45iub))
+![image](https://user-images.githubusercontent.com/42926461/79948586-6a236a00-8474-11ea-973e-a245671934eb.png)
 
 3. Summary for publication - *is this required?*
 
