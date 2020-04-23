@@ -65,6 +65,8 @@ Jean-François pointed out that demos will be very short and that he would like 
 
 Carsten said that he would like WP5 demo to take place before WP4 demo, as this can represent the workflow better. Hans answered that he will engage with Juncheng and Carsten for the demos and how best to show the workflow.
 
+Hans shared the WP4 plan for demos: https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-06-review-meeting/session-wp4.rst
+
 Andy said that after attending several WP meeting he thinks it would be good to have demos focusing on Serial Crystallography.
 
 Thomas explained that for WP8 he could show the training platform and some of its features.
