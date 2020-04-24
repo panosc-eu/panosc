@@ -61,7 +61,8 @@ Draft schedule: (as of 17 April):
 
 * Next meeting
 
-5 May 2020, 15:00
+** 5 May 2020, 15:00 - run through of potential demos
+- presenters only
 
 * Any other business
 
