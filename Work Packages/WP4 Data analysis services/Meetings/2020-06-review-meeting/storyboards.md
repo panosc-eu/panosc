@@ -115,3 +115,16 @@ To illustrate usage, it is possible to (both are based on small datasets):
 - Rerun first step of the analysis based on PyMCA GUI following the instructions in https://github.com/alessaan/rhapsody-in-blue/blob/master/01_2015_Treatment-I_notes_only_for_pyMCA.ipynb (Requires remote desktop).
 - Rerun generation of a figure with a notebook: https://github.com/alessaan/rhapsody-in-blue/blob/master/12_Figure1_Treatment.ipynb
 
+
+# ESS suggestion
+
+## Comparing simulated data with experimental data
+
+Perform simulations of some kind of sample and upload matching data from data catalogue. Reduce and analyse both experimental and simulated data and compare results. 
+
+Example of how simulations and analysis can be performed from the same notebook can be found in the [use cases folder](https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP4%20Data%20analysis%20services/use_cases/ESS-examples)
+
+## Comparing data for the sample from different facilities
+
+In the spirit of PaNOSC, simulate and / or upload data for the same sample from different facilities (or instruments), analyze them and discuss the differences. 
+

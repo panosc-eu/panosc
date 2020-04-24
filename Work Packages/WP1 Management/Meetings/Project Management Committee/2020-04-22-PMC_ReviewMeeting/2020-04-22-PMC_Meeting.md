@@ -12,6 +12,8 @@ Agenda
 
 2. Review Meeting dates - *Tuesday 16th June* + Rehearsal date ([doodle](https://doodle.com/poll/hsubfh5iuyk45iub))
 
+![image](https://user-images.githubusercontent.com/42926461/79952856-5596a000-847b-11ea-9505-db7301781729.png)
+
 3. Summary for publication - *is this required?*
 
 4. Review Report template - *[EC Website template](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/grant-management/reports/periodic-reports_en.htm)* *and also [editable version for us here](https://docs.google.com/document/d/1S0Urn-BLYVrPDjUxCEpKYHMlK3jIHEhC/edit?dls=true)*
