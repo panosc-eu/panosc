@@ -14,7 +14,7 @@ Agenda
 
 | Deliverable | New date | Original Date | 
 | ----------- | -------- | ------------- | 
-| D1.2b Mid-year Summary | **end May** | *May 2020* | 
+| D1.2b Mid-year Summary ([link to contribute](https://docs.google.com/document/d/1X96DtpDITHmHwcHVNgRrcMSOZyjwb9C2/edit#heading=h.gjdgxs)) | **end May** | *May 2020* | 
 | D2.1 PaNOSC data policy framework updated | **end April** | *May 2020* | 
 | D3.1 API definition | **end May** | *May 2020* | 
 | D4.2 Prototype remote desktop and Jupyter service | **mid-April** | *May 2020* |  
@@ -43,6 +43,8 @@ Agenda
 | WP7 Sustainibility |  | 
 | WP8 Staff training in data stewardship | | 
 | WP9 Outreach & Communication | DOI Video [(Script  here)](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP9%20Outreach%20and%20communication/DOI%20Video/DOI%20VIDEO_script_def.docx) | 
+
+**Mid-term report** is due end 31st July, with draft required for Review Meeting by 1st June ([link to contribute](https://docs.google.com/document/d/1S0Urn-BLYVrPDjUxCEpKYHMlK3jIHEhC/edit?dls=true)) 
 
 2. Compute resources requirements - *does any work package needs anything?*
 
