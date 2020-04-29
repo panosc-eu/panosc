@@ -14,7 +14,7 @@ Agenda
 
 | Deliverable | New date | Original Date | 
 | ----------- | -------- | ------------- | 
-| D1.2b Mid-year Summary | **end May** | *May 2020* | 
+| D1.2b Mid-year Summary ([link to contribute](https://docs.google.com/document/d/1X96DtpDITHmHwcHVNgRrcMSOZyjwb9C2/edit#heading=h.gjdgxs)) | **end May** | *May 2020* | 
 | D2.1 PaNOSC data policy framework updated | **end April** | *May 2020* | 
 | D3.1 API definition | **end May** | *May 2020* | 
 | D4.2 Prototype remote desktop and Jupyter service | **mid-April** | *May 2020* |  
