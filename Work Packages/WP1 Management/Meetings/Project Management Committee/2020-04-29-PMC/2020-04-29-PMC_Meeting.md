@@ -44,6 +44,8 @@ Agenda
 | WP8 Staff training in data stewardship | | 
 | WP9 Outreach & Communication | DOI Video [(Script  here)](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP9%20Outreach%20and%20communication/DOI%20Video/DOI%20VIDEO_script_def.docx) | 
 
+**Mid-term report** is due end 31st July, with draft required for Review Meeting by 1st June ([link to contribute](https://docs.google.com/document/d/1S0Urn-BLYVrPDjUxCEpKYHMlK3jIHEhC/edit?dls=true)) 
+
 2. Compute resources requirements - *does any work package needs anything?*
 
 3. Annual Joint Meeting updates
