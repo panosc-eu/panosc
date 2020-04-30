@@ -32,7 +32,7 @@ Jordi also explained that the [Mid-term Report is available online](https://docs
 
 Jordi also asked all WP leaders to provide new values for hte KPIs. We have collected the 1st set of values for each WP (except WP8) and now is the right moment to provide a second set of values, so we can show progress during the review meeting. [The file to contribute the information is available through this link](https://docs.google.com/spreadsheets/d/1iivsvBrix4v6lmC2U3sOC6YEXFeY0JzXHTM9QQQZwiY/edit#gid=0)
 
-Jordi also reminded everyone that we should review the risks as part of the Mid-term report, and [the file is available on here](https://docs.google.com/spreadsheets/d/1gfh0SI8IvM61URcpv2_0FSs3QcOBOXKH/edit#gid=1755662956)
+Jordi also reminded everyone that we should review the risks as part of the Mid-term report, and [the file is available here](https://docs.google.com/spreadsheets/d/1gfh0SI8IvM61URcpv2_0FSs3QcOBOXKH/edit#gid=1755662956)
 
 * **WP2 - Data Policy and Stewardship** : Andy reported reaching an important milestone, with the Data Policy Framwork finishing and being checked against the FAIR Maturity document from RDA (**ANDY TO ADD LINK to the document**).
 
