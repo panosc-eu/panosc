@@ -61,7 +61,7 @@ Nicoletta also mentioned that FAIRsFAIR requested the community feedback on thei
 Jordi also explained that while we agreed to do an Internal Financial Report with data until end of April, as part of the Mid-term report we will need to submit plenty of financial information, therefore he suggested to do the Internal Financial Report at the same time as the Mid-term report and only ask for financial information once. The suggestion was accepted.
 
 
-* **WP2 - Data Policy and Stewardship** : Andy reported work on reviewing the Data Policy Franework, which is well advanced. A discussion on Fairness of Data Analysis & Software will take place with Hans and now the WP team is focusing on reviewing the Data Policy Framework against the FAIR Maturity document from RDA (**ANDY TO ADD LINK to the document**).
+* **WP2 - Data Policy and Stewardship** : Andy reported work on reviewing the Data Policy Franework, which is well advanced. A discussion on Fairness of Data Analysis & Software will take place with Hans and now the WP team is focusing on reviewing the Data Policy Framework against the FAIR Maturity document from RDA, the [FAIR Data Maturity Model](https://www.rd-alliance.org/system/files/FAIR%20Data%20Maturity%20Model_%20specification%20and%20guidelines_v0.90.pdf).
 
 Andy praised the collaboration with ExPaNDS on WP2 and also reported reading/discussing loads of articles related to FAIR, RDA outputs, etc. 
 
