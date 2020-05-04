@@ -16,11 +16,11 @@
   - (old) after the first year, i.e. on 30 November 2019, (=M12)
   - (new) a snapshot from beginning of May 2020 (=M17)
 
-|            |  KPI1 M0 | KPI 1 M12               | KPI1 M17 | KPI 2 M0 | KPI 2 M12 | KPI2 M17 |   KPI 3 M0 |   KPI 3 M12 | KPI3 M17 |
-| ---------- | -------- | ----------------------- | -------- | -------- | --------- | -------- | ---------- | ----------- | -------- |
-| CERIC-ERIC |        0 | (JupyterHub)            |          |        0 |         0 |          |          0 |           0 |          |
-| ELI        |        0 |                         |          |        0 |         0 |          |          0 |           1 |          |
-| ESS        |        1 | (JupyterHub)            |          |        0 |         0 |          |          0 |           0 |          |
-| EuXEL      |        1 | (JupyterHub/FastX)      |          |        - |       150 |          |          2 |           2 |          |
-| ESRF       |        1 | (JupyterHub/NoMachine)  |          |       20 |         0 |          | 1 beamline | 3 beamlines |          |
-| ILL        |        1 | (JupyterHub/VISA)       |          |        0 |         1 |          |          0 |           2 |          |
+|            |  KPI1 M0 | KPI 1 M12               | KPI1 M17               | KPI 2 M0 | KPI 2 M12 | KPI2 M17 |   KPI 3 M0 |   KPI 3 M12 | KPI3 M17 |
+| ---------- | -------- | ----------------------- | ---------------------- | -------- | --------- | -------- | ---------- | ----------- | ----------- |
+| CERIC-ERIC |        0 | (JupyterHub)            |                        |        0 |         0 |          |          0 |           0 |             |
+| ELI        |        0 |                         |                        |        0 |         0 |          |          0 |           1 |             |
+| ESS        |        1 | (JupyterHub)            |                        |        0 |         0 |          |          0 |           0 |             |
+| EuXEL      |        1 | (JupyterHub/FastX)      |                        |        - |       150 |          |          2 |           2 |             |
+| ESRF       |        1 | (JupyterHub/NoMachine)  | (JupyterHub/NoMachine) |       20 |         0 |        0 | 1 beamline | 3 beamlines | 3 beamlines |
+| ILL        |        1 | (JupyterHub/VISA)       |                        |        0 |         1 |          |          0 |           2 |             |
