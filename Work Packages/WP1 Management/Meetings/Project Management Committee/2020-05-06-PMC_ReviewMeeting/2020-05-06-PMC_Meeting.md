@@ -19,16 +19,16 @@ Agenda
 
 4. Planning the review meeting
 
-| item to prepare | info | date |
+| item to prepare | info | dates |
 | --------------- | ---- | ---- |
-| Prepare demos | | from now until rehearsal date |
-| Prepare presentations | *using KPIs?* | from now until rehearsal date | 
+| Prepare demos | | from now until rehearsal date (5th June) |
+| Prepare presentations | *using KPIs?* | from now until rehearsal date (5th June) | 
 | Prepare draft M18 Review Report | *and send it to PO/Reviewer* | from now until 1st June |
 | Submitting May deliverables | | until end of May the latest |
-| Requesting financial info | | 1st June |
-| Rehearsal date | | TBC, early June |
+| Requesting financial info | *up to end of May*| 1st June |
+| Rehearsal | | 5th June, all afternoon|
 | **Review meeting** | | 16th June |
-| Obtain Financial info | | 20th June |
+| Obtain Financial info | | latest 20th June |
 | Complete M18 Review Report | | 10th July |
 | Submit M18 Review Report | | 31st July |
 
