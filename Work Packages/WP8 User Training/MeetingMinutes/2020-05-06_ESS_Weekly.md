@@ -19,44 +19,28 @@ https://docs.google.com/spreadsheets/d/1iivsvBrix4v6lmC2U3sOC6YEXFeY0JzXHTM9QQQZ
 
 https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/2020-05-05_TaskForce.md
 
-### Organization of workshop
 
 ### Working with ELI
 
-### pan-learning.org status
 
-* Mads had a meeting Shervin from ILL getting mutual status report
-* Thomas had workshop-taskforce meeting resulting in email with charge to Jesper Bruun and Victor and follow-up meeting
-* Florian started to lookn into how and when they can contribute
-* Mads have discussed with Lottie regarding easier access for mcstasscript to cluster resources
-
-pan-learning.org is now up running. Remaining tasks are:
- 
-* Jupyter integration
-* Integration of EOSC authentication and authorization infrastructure (AAI) (depends on WP6)
-* Integration with cloud resources (depends on Wp6)
-* Integration of other simulation engines than McStas (depends on WP5)
- 
-and some maintenance tasks:
-* Change visual representation / design so that all partners can see themselves in it
-* Upgrade Python and Django, expand test suite in the process. This can quickly become a sincere issue because the platform is running Python 2.7 which is not supported anymore.
-* Expand test suite with tests not related to Django (if it makes sense)
-* Separating the github repository ‘mcweb’ from the ‘mcstasmcxtrace’ organisation (I need to confer with Peter on this one)
-
+### AAI & cloud computing
+Kareem, Alexandre, Peter, Thomas had meeting with Jean-Froancois and Cristos regarding AAI and cloud computing. Jean will send a request to ELI and DESY, and Kareem and Alexandre will proceed with seeting up AAI
 
 
 # Actions
-- [ ] Thomas: setup meeting with Jean-Francois regarding AAI 
 - [ ] Mads and Viktor: To discuss Jupyter-replacement of the iFitlab
+- [ ] Thomas: Review obsoletion notice for old system
 - [ ] Peter: Obsoletion-notice on the old system
 - [ ] WP8: Find suggestions for rebranding-strategy (Due: March MM)
 - [ ] Peter: Work on https://github.com/McStasMcXtrace/McWeb/issues/220
 - [ ] Peter: Look for tools to check for broken / wrong links on the moodle-side
+- [ ] Peter: Expose login on front-page
 
 ## From past meetings
 - ~~[ ] DST: Look at iFitlab - formulate ticket (Likely Jupyter is the alternative, going forward)~~
 - ~~[ ] Linda: Update development courses @e-neutrons.org to use ucph wiki, in progress. (awaiting Linda return)~~
 - ~~[ ] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020 (awaiting Linda return)~~
+- [X] Thomas: setup meeting with Jean-Francois regarding AAI 
 - [X] Alexandre:  Definition of "admin" (enrolment tasks etc.) and "user" mailinglists (for communication)
 - [X] Peter: Check all frontpage links
 - [X] Peter: Draft invitation-emails to PaNOSC WP8, existing e-neutrons users, general announcement
