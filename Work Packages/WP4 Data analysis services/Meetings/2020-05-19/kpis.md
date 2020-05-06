@@ -23,4 +23,4 @@
 | ESS        |        1 | (JupyterHub)            |                        |        0 |         0 |          |          0 |           0 |             |
 | EuXEL      |        1 | (JupyterHub/FastX)      | (JupyterHub/FastX)     |        - |       150 |        - |          2 |           2 | 2           |
 | ESRF       |        1 | (JupyterHub/NoMachine)  | (JupyterHub/NoMachine) |       20 |         0 |        0 | 1 beamline | 3 beamlines | 3 beamlines |
-| ILL        |        1 | (JupyterHub/VISA)       |                        |        0 |         1 |          |          0 |           2 |             |
+| ILL        |        1 | (JupyterHub/VISA)       |                        |        0 |         1 |          |          0 |           2 | 40 instruments (remote desktop and jupyter) |
