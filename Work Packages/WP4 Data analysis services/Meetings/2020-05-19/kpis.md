@@ -21,6 +21,8 @@
 | CERIC-ERIC |        0 | (JupyterHub)            |                        |        0 |         0 |          |          0 |           0 |             |
 | ELI        |        0 |                         |                        |        0 |         0 |          |          0 |           1 |             |
 | ESS        |        1 | (JupyterHub)            |                        |        0 |         0 |          |          0 |           0 |             |
-| EuXEL      |        1 | (JupyterHub/FastX)      |                        |        - |       150 |          |          2 |           2 |             |
+| EuXEL      |        1 | (JupyterHub/FastX)      | (JupyterHub(2*)/FastX)  |        - |       150 |        - |          2 |           2 | 3*          |
 | ESRF       |        1 | (JupyterHub/NoMachine)  | (JupyterHub/NoMachine) |       20 |         0 |        0 | 1 beamline | 3 beamlines | 3 beamlines |
 | ILL        |        1 | (JupyterHub/VISA)       |                        |        0 |         1 |          |          0 |           2 |             |
+
+\* EuXFEL deployed multiple JupyterHub instances on our 'online cluster' which can access data in real-time as it is being recorded, previously it was not possible to perform (near) real-time analysis via JupyterHub as it could only access data after it had been calibrated and migrated.
