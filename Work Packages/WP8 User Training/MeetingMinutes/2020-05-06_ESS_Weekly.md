@@ -11,6 +11,15 @@
 ## Actions from last meeting
 
 ## Updates
+
+### Task force
+
+### Organization of workshop
+
+### Working with ELI
+
+### pan-learning.org status
+
 * Mads had a meeting Shervin from ILL getting mutual status report
 * Thomas had workshop-taskforce meeting resulting in email with charge to Jesper Bruun and Victor and follow-up meeting
 * Florian started to lookn into how and when they can contribute
