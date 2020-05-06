@@ -12,6 +12,9 @@
 
 ## Updates
 
+### KPIs
+https://docs.google.com/spreadsheets/d/1iivsvBrix4v6lmC2U3sOC6YEXFeY0JzXHTM9QQQZwiY/edit#gid=0
+
 ### Task force
 
 ### Organization of workshop
