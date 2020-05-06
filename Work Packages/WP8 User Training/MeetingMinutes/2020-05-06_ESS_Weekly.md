@@ -17,6 +17,8 @@ https://docs.google.com/spreadsheets/d/1iivsvBrix4v6lmC2U3sOC6YEXFeY0JzXHTM9QQQZ
 
 ### Task force
 
+https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/2020-05-05_TaskForce.md
+
 ### Organization of workshop
 
 ### Working with ELI
