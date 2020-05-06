@@ -2,7 +2,7 @@
 
 ## Definitions
 
-- KPIs are defined during Trieste meeting ([https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2019-11-04-Trieste/notes.org#kpis](https://github.com/panosc-eu/panosc/blob/master/Work Packages/WP4 Data analysis services/Meetings/2019-11-04-Trieste/notes.org#kpis))
+- KPIs are defined during Trieste meeting ([https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2019-11-04-Trieste/notes.org#kpis](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2019-11-04-Trieste/notes.org#kpis))
 
 - They are
   - KPI1: Percentage of facilities offering JupyterHub or remote desktop for analysis services
