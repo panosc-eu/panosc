@@ -1,5 +1,3 @@
-Draft agenda
-
 PaNOSC WP 7 meeting – 06/05/2020
 
 1.	Comments to the Rules of Participation
