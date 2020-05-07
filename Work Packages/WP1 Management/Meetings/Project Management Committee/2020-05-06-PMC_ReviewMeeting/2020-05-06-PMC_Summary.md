@@ -45,6 +45,7 @@ Jean-François said that this felt very long (around 5 hours of demos/presentati
 A few exchanges followed to analyse the lenght of the WP4 demo (~90 minutes with presentation, 6 demos and conclusions) that would also include WP5. Tobias added that using the search API could be added to this demo, 
 
 **THIS IS NOT FINISHED!!!!** test, test
+**THIS IS NOT FINISHED!!!!** OMG, OMG!
 
 **6. Planning the review meeting**
 
