@@ -1,4 +1,8 @@
-PaNOSC WP 7 meeting – 06/05/2020
+PaNOSC WP 7 meeting - 06/05/2020
+========================================================
+
+Agenda
+------
 
 1.	Comments to the Rules of Participation
 
