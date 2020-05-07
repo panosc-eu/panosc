@@ -17,7 +17,7 @@ https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainabi
 PaNOSC partners will provide feedback on this document within Monday 11 May 2020. Ornela will write to the WG to know if they still accept feedback or if they are already finalizing the new version.
 
 2.	Task 7.2 - Metrics and cost for the Photon and Neutron community EOSC
-Ornela presented a document with few points based on the exchanges had so far, highlighting the main issues on which the partners should reach a common point of view before starting with the collection of costs (goal, scope, methodology). The team had a discussion. The main decisions can be summarized as follows:
+Ornela presented a document with few points based on the exchanges so far, highlighting the main issues on which the partners should reach a common point of view before starting with the collection of costs (goal, scope, methodology). The team had a discussion. The main decisions can be summarized as follows:
 •	WP7 agreed to collect the full cost of setting up and maintaining (operating) the infrastructure required for providing FAIR data
 •	Costs will be collected for every single partner. 
 •	More advanced infrastructures (in terms of FAIRness) will collect and report their previous investments
@@ -26,7 +26,7 @@ Ornela presented a document with few points based on the exchanges had so far, h
 
 
 This document is a living draft and the content would be included in the deliverable D 7.2. 
-Not all the RIs are at the same point in producing FAIR data (FAIR maturity). To help the community to have a clear idea about what does this mean in term of costs and sustainability, PaNOSC members are working on a costs calculation exercise. The table listing the services PaNOSC partners have identified as necessary for providing FAIR data has been presented by Roberto and is open for discussion and integrations. It will be uploaded in a google doc by CERIC. The feedback from the partnership is required for the next meeting on Wednesday 20 May from 11.00 to 12.00.
+Not all the RIs are at the same point in producing FAIR data (FAIR maturity). To help the community to have a clear idea about what this means in term of costs and sustainability, PaNOSC members are working on a cost estimation exercise. The table listing the services PaNOSC partners have identified as necessary for providing FAIR data has been presented by Roberto and is open for discussion and integrations. It will be uploaded in a google doc by CERIC. The feedback from the partnership is required for the next meeting on Wednesday 20 May from 11.00 to 12.00.
 
 ACTIONS
 ---------
