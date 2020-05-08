@@ -5,7 +5,7 @@ Presentation Work Package 4, draft
 
 .. contents::
 
-An updated schedule draft is shown in in `demo-session.html <demo-session.html>`__.
+An updated schedule draft is shown in in `demo-session.rst <demo-session.rst>`__.
 
 
 
