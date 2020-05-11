@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="2153 458.5 1026 658.3898" width="1026" height="658.3898">
+  <defs>
+    <font-face font-family="Fira Sans" font-size="16" panose-1="2 11 5 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="527" cap-height="689" ascent="935.0019" descent="-265.00054" font-weight="400">
+      <font-face-src>
+        <font-face-name name="FiraSans-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Fira Sans" font-size="20" panose-1="2 11 5 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="527" cap-height="689" ascent="935.0019" descent="-265.00054" font-weight="400">
+      <font-face-src>
+        <font-face-name name="FiraSans-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="black">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-5 -3 6 6" markerWidth="6" markerHeight="6" color="black">
+      <g>
+        <path d="M -3.7333333 0 L 0 1.4 L 0 -1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2020-05-05 08:06:24 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill="none" stroke-dasharray="none" stroke="none" fill-opacity="1" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_74">
+        <rect x="2153" y="951.8898" width="1026" height="165" fill="#71abd1" fill-opacity=".15713292"/>
+      </g>
+      <g id="Graphic_73">
+        <rect x="2153" y="719.3898" width="1026" height="165" fill="#aa476f" fill-opacity=".15295912"/>
+      </g>
+      <g id="Graphic_72">
+        <path d="M 2598.5 1102.0403 L 2666 1102.0403 C 2699.75 1102.0403 2733.5 1085.1277 2733.5 1034.3898 C 2733.5 983.652 2699.75 966.7393 2666 966.7393 L 2598.5 966.7393 Z" fill="white"/>
+        <path d="M 2598.5 1102.0403 L 2666 1102.0403 C 2699.75 1102.0403 2733.5 1085.1277 2733.5 1034.3898 C 2733.5 983.652 2699.75 966.7393 2666 966.7393 L 2598.5 966.7393 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(2603.5 977.3898)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="21.684" y="72">OpenStack, </tspan>
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="18.34" y="91">SudoSpawn, </tspan>
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="46.908" y="110">VISA</tspan>
+        </text>
+      </g>
+      <g id="Graphic_71">
+        <path d="M 2418.5 741.8898 L 2520.5 741.8898 C 2525.4706 741.8898 2529.5 745.9193 2529.5 750.8898 L 2529.5 852.8898 C 2529.5 857.8604 2525.4706 861.8898 2520.5 861.8898 L 2418.5 861.8898 C 2413.5294 861.8898 2409.5 857.8604 2409.5 852.8898 L 2409.5 750.8898 C 2409.5 745.9193 2413.5294 741.8898 2418.5 741.8898 Z" fill="white"/>
+        <path d="M 2418.5 741.8898 L 2520.5 741.8898 C 2525.4706 741.8898 2529.5 745.9193 2529.5 750.8898 L 2529.5 852.8898 C 2529.5 857.8604 2525.4706 861.8898 2520.5 861.8898 L 2418.5 861.8898 C 2413.5294 861.8898 2409.5 857.8604 2409.5 852.8898 L 2409.5 750.8898 C 2409.5 745.9193 2413.5294 741.8898 2418.5 741.8898 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(2414.5 753.8898)" fill="black">
+          <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="23.19" y="91">EuXFEL</tspan>
+        </text>
+      </g>
+      <g id="Graphic_70">
+        <path d="M 2229.5 741.8898 L 2331.5 741.8898 C 2336.4706 741.8898 2340.5 745.9193 2340.5 750.8898 L 2340.5 852.8898 C 2340.5 857.8604 2336.4706 861.8898 2331.5 861.8898 L 2229.5 861.8898 C 2224.5294 861.8898 2220.5 857.8604 2220.5 852.8898 L 2220.5 750.8898 C 2220.5 745.9193 2224.5294 741.8898 2229.5 741.8898 Z" fill="white"/>
+        <path d="M 2229.5 741.8898 L 2331.5 741.8898 C 2336.4706 741.8898 2340.5 745.9193 2340.5 750.8898 L 2340.5 852.8898 C 2340.5 857.8604 2336.4706 861.8898 2331.5 861.8898 L 2229.5 861.8898 C 2224.5294 861.8898 2220.5 857.8604 2220.5 852.8898 L 2220.5 750.8898 C 2220.5 745.9193 2224.5294 741.8898 2229.5 741.8898 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(2225.5 753.8898)" fill="black">
+          <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="33.24" y="91">ESRF</tspan>
+        </text>
+      </g>
+      <g id="Graphic_69">
+        <path d="M 2796.5 741.8898 L 2898.5 741.8898 C 2903.4706 741.8898 2907.5 745.9193 2907.5 750.8898 L 2907.5 852.8898 C 2907.5 857.8604 2903.4706 861.8898 2898.5 861.8898 L 2796.5 861.8898 C 2791.5294 861.8898 2787.5 857.8604 2787.5 852.8898 L 2787.5 750.8898 C 2787.5 745.9193 2791.5294 741.8898 2796.5 741.8898 Z" fill="white"/>
+        <path d="M 2796.5 741.8898 L 2898.5 741.8898 C 2903.4706 741.8898 2907.5 745.9193 2907.5 750.8898 L 2907.5 852.8898 C 2907.5 857.8604 2903.4706 861.8898 2898.5 861.8898 L 2796.5 861.8898 C 2791.5294 861.8898 2787.5 857.8604 2787.5 852.8898 L 2787.5 750.8898 C 2787.5 745.9193 2791.5294 741.8898 2796.5 741.8898 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(2792.5 753.8898)" fill="black">
+          <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="42.5" y="91">. . .</tspan>
+        </text>
+      </g>
+      <g id="Graphic_68">
+        <path d="M 2607.5 741.8898 L 2709.5 741.8898 C 2714.4706 741.8898 2718.5 745.9193 2718.5 750.8898 L 2718.5 852.8898 C 2718.5 857.8604 2714.4706 861.8898 2709.5 861.8898 L 2607.5 861.8898 C 2602.5294 861.8898 2598.5 857.8604 2598.5 852.8898 L 2598.5 750.8898 C 2598.5 745.9193 2602.5294 741.8898 2607.5 741.8898 Z" fill="white"/>
+        <path d="M 2607.5 741.8898 L 2709.5 741.8898 C 2714.4706 741.8898 2718.5 745.9193 2718.5 750.8898 L 2718.5 852.8898 C 2718.5 857.8604 2714.4706 861.8898 2709.5 861.8898 L 2607.5 861.8898 C 2602.5294 861.8898 2598.5 857.8604 2598.5 852.8898 L 2598.5 750.8898 C 2598.5 745.9193 2602.5294 741.8898 2607.5 741.8898 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(2603.5 753.8898)" fill="black">
+          <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="42.09" y="91">ILL</tspan>
+        </text>
+      </g>
+      <g id="Graphic_67">
+        <rect x="2409.5" y="741.8898" width="120" height="62.340426" id="path"/>
+        <clipPath id="clip_path">
+          <use xl:href="#path"/>
+        </clipPath>
+        <g clip-path="url(#clip_path)">
+          <image xl:href="image1.pdf" width="564" height="293" transform="translate(2409.5 741.8898) scale(.21276596)"/>
+        </g>
+      </g>
+      <g id="Graphic_66">
+        <path d="M 2419.15 966.7393 L 2524.85 966.7393 C 2537.3528 966.7393 2547.5 997.0468 2547.5 1034.3898 C 2547.5 1071.7329 2537.3528 1102.0403 2524.85 1102.0403 L 2419.15 1102.0403 C 2406.6472 1102.0403 2396.5 1071.7329 2396.5 1034.3898 C 2396.5 997.0468 2406.6472 966.7393 2419.15 966.7393 Z" fill="white"/>
+        <path d="M 2419.15 966.7393 L 2524.85 966.7393 C 2537.3528 966.7393 2547.5 997.0468 2547.5 1034.3898 C 2547.5 1071.7329 2537.3528 1102.0403 2524.85 1102.0403 L 2419.15 1102.0403 C 2406.6472 1102.0403 2396.5 1071.7329 2396.5 1034.3898 C 2396.5 997.0468 2406.6472 966.7393 2419.15 966.7393 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(2416.6 986.8898)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="13.528" y="72">Slurm, HPC, </tspan>
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="36.456" y="91">FastX</tspan>
+        </text>
+      </g>
+      <g id="Graphic_65">
+        <rect x="2409.5" y="975.0403" width="47" height="54.30097" id="path_2"/>
+        <clipPath id="clip_path_2">
+          <use xl:href="#path_2"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_2)">
+          <image xl:href="image2.png" width="103" height="119" transform="translate(2409.5 975.0403) scale(.4563107)"/>
+        </g>
+      </g>
+      <g id="Graphic_64">
+        <rect x="2220.5" y="741.8898" width="120" height="62.340426" id="path_3"/>
+        <clipPath id="clip_path_3">
+          <use xl:href="#path_3"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_3)">
+          <image xl:href="image1.pdf" width="564" height="293" transform="translate(2220.5 741.8898) scale(.21276596)"/>
+        </g>
+      </g>
+      <g id="Graphic_63">
+        <rect x="2787.5" y="741.8898" width="120" height="62.340426" id="path_4"/>
+        <clipPath id="clip_path_4">
+          <use xl:href="#path_4"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_4)">
+          <image xl:href="image1.pdf" width="564" height="293" transform="translate(2787.5 741.8898) scale(.21276596)"/>
+        </g>
+      </g>
+      <g id="Graphic_62">
+        <rect x="2598.5" y="741.8898" width="120" height="62.340426" id="path_5"/>
+        <clipPath id="clip_path_5">
+          <use xl:href="#path_5"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_5)">
+          <image xl:href="image1.pdf" width="564" height="293" transform="translate(2598.5 741.8898) scale(.21276596)"/>
+        </g>
+      </g>
+      <g id="Graphic_61">
+        <rect x="2679.5" y="976.7393" width="29.689076" height="34.30097" id="path_6"/>
+        <clipPath id="clip_path_6">
+          <use xl:href="#path_6"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_6)">
+          <image xl:href="image2.png" width="103" height="119" transform="translate(2679.5 976.7393) scale(.28824345)"/>
+        </g>
+      </g>
+      <g id="Graphic_60">
+        <rect x="2471.5" y="975.0403" width="59.73107" height="54.30097" id="path_7"/>
+        <clipPath id="clip_path_7">
+          <use xl:href="#path_7"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_7)">
+          <image xl:href="image4.png" width="363" height="330" transform="translate(2471.5 975.0403) scale(.1645484)"/>
+        </g>
+      </g>
+      <g id="Graphic_59">
+        <rect x="2602.5" y="970.3898" width="70.40284" height="54.30097" id="path_8"/>
+        <clipPath id="clip_path_8">
+          <use xl:href="#path_8"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_8)">
+          <image xl:href="image5.png" width="411" height="317" transform="translate(2602.5 970.3898) scale(.17129644)"/>
+        </g>
+      </g>
+      <g id="Graphic_58">
+        <path d="M 2251.8462 966.7393 L 2309.1538 966.7393 L 2352.1345 1007.3296 L 2352.1345 1061.45 L 2309.1538 1102.0403 L 2251.8462 1102.0403 L 2208.8655 1061.45 L 2208.8655 1007.3296 Z" fill="white"/>
+        <path d="M 2251.8462 966.7393 L 2309.1538 966.7393 L 2352.1345 1007.3296 L 2352.1345 1061.45 L 2309.1538 1102.0403 L 2251.8462 1102.0403 L 2208.8655 1061.45 L 2208.8655 1007.3296 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(2213.8655 1015.3898)" fill="black">
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x="23.234466" y="15">Kubernetes, </tspan>
+          <tspan font-family="Fira Sans" font-size="16" font-weight="400" fill="black" x=".578466" y="34">Slurm, NoMachine</tspan>
+        </text>
+      </g>
+      <g id="Graphic_57">
+        <rect x="2285" y="1062.7393" width="34.016807" height="39.30097" id="path_9"/>
+        <clipPath id="clip_path_9">
+          <use xl:href="#path_9"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_9)">
+          <image xl:href="image2.png" width="103" height="119" transform="translate(2285 1062.7393) scale(.33026026)"/>
+        </g>
+      </g>
+      <g id="Graphic_56">
+        <rect x="2250.9832" y="1062.7393" width="34.016807" height="39.30097" id="path_10"/>
+        <clipPath id="clip_path_10">
+          <use xl:href="#path_10"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_10)">
+          <image xl:href="image2.png" width="103" height="119" transform="translate(2250.9832 1062.7393) scale(.33026026)"/>
+        </g>
+      </g>
+      <g id="Group_51">
+        <g id="Group_53">
+          <g id="Graphic_55">
+            <rect x="2260.1748" y="970.3898" width="40.650485" height="40.650485" fill="#131313" id="path_11"/>
+            <clipPath id="clip_path_11">
+              <use xl:href="#path_11"/>
+            </clipPath>
+            <g clip-path="url(#clip_path_11)">
+              <image xl:href="image6.png" width="305" height="305" transform="translate(2260.1748 970.3898) scale(.13328028)"/>
+            </g>
+          </g>
+          <g id="Graphic_54">
+            <rect x="2260.8412" y="994.1137" width="39.317683" height="15.993634" fill="#333"/>
+            <rect x="2260.8412" y="994.1137" width="39.317683" height="15.993634" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_52">
+          <rect x="2261.6076" y="976.2938" width="37.5998" height="30.681438" id="path_12"/>
+          <clipPath id="clip_path_12">
+            <use xl:href="#path_12"/>
+          </clipPath>
+          <g clip-path="url(#clip_path_12)">
+            <image xl:href="image7.tiff" width="125" height="102" transform="translate(2261.6076 976.2938) scale(.3007984)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_50">
+        <path d="M 2794.5435 1046.5569 C 2771.3884 1038.8146 2780.622 973.637 2817.5597 984.7582 C 2820.9867 963.0794 2863.94 966.5981 2863.6593 984.7582 C 2890.5924 961.5312 2925.0114 1007.8453 2901.925 1031.0723 C 2929.6275 1042.3333 2901.5754 1103.0062 2878.84 1092.871 C 2877.0206 1109.764 2836.3766 1115.6756 2832.8092 1092.871 C 2809.7945 1117.2252 2761.805 1079.7793 2794.5435 1046.5569 Z" fill="white"/>
+        <path d="M 2794.5435 1046.5569 C 2771.3884 1038.8146 2780.622 973.637 2817.5597 984.7582 C 2820.9867 963.0794 2863.94 966.5981 2863.6593 984.7582 C 2890.5924 961.5312 2925.0114 1007.8453 2901.925 1031.0723 C 2929.6275 1042.3333 2901.5754 1103.0062 2878.84 1092.871 C 2877.0206 1109.764 2836.3766 1115.6756 2832.8092 1092.871 C 2809.7945 1117.2252 2761.805 1079.7793 2794.5435 1046.5569 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_49">
+        <text transform="translate(2999.5 746.8898)" fill="black">
+          <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="16.89" y="19">Common and </tspan>
+          <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="24.81" y="43">local portal</tspan>
+          <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="1.53" y="67">for data analysis </tspan>
+          <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="40.28" y="91">services</tspan>
+        </text>
+      </g>
+      <g id="Graphic_48">
+        <text transform="translate(2999.5 986.3898)" fill="black">
+          <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="8.23" y="19">Facility specific </tspan>
+          <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="31.69" y="43">hardware, </tspan>
+          <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="1.93" y="67">architecture and </tspan>
+          <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="14.44" y="91">infrastructure</tspan>
+        </text>
+      </g>
+      <g id="Graphic_47">
+        <path d="M 2280.5 965.7393 L 2260.5 940.713 L 2270.566 940.713 L 2270.566 887.9161 L 2260.5 887.9161 L 2280.5 862.8898 L 2300.5 887.9161 L 2290.434 887.9161 L 2290.434 940.713 L 2300.5 940.713 Z" fill="#5d68a2"/>
+        <path d="M 2280.5 965.7393 L 2260.5 940.713 L 2270.566 940.713 L 2270.566 887.9161 L 2260.5 887.9161 L 2280.5 862.8898 L 2300.5 887.9161 L 2290.434 887.9161 L 2290.434 940.713 L 2300.5 940.713 Z" stroke="#6453aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_46">
+        <path d="M 2471.2618 965.7394 L 2450.994 940.9296 L 2461.0593 940.8214 L 2460.4916 888.0214 L 2450.4262 888.1297 L 2470.156 862.8898 L 2490.4238 887.6996 L 2480.3584 887.8078 L 2480.9262 940.6077 L 2490.9916 940.4995 Z" fill="#5d68a2"/>
+        <path d="M 2471.2618 965.7394 L 2450.994 940.9296 L 2461.0593 940.8214 L 2460.4916 888.0214 L 2450.4262 888.1297 L 2470.156 862.8898 L 2490.4238 887.6996 L 2480.3584 887.8078 L 2480.9262 940.6077 L 2490.9916 940.4995 Z" stroke="#6453aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_45">
+        <path d="M 2659.0583 965.9544 L 2638.7904 941.1446 L 2648.8558 941.0364 L 2648.2773 887.2365 L 2638.212 887.3448 L 2657.9417 862.1049 L 2678.2096 886.9147 L 2668.1442 887.0229 L 2668.7227 940.8228 L 2678.788 940.7145 Z" fill="#5d68a2"/>
+        <path d="M 2659.0583 965.9544 L 2638.7904 941.1446 L 2648.8558 941.0364 L 2648.2773 887.2365 L 2638.212 887.3448 L 2657.9417 862.1049 L 2678.2096 886.9147 L 2668.1442 887.0229 L 2668.7227 940.8228 L 2678.788 940.7145 Z" stroke="#6453aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_44">
+        <path d="M 2847.3898 969.431 L 2827.2855 944.4885 L 2837.3514 944.4465 L 2837.1123 887.1724 L 2827.0463 887.2145 L 2846.9417 862.1049 L 2867.046 887.0474 L 2856.98 887.0895 L 2857.2192 944.3635 L 2867.285 944.3215 Z" fill="#5d68a2"/>
+        <path d="M 2847.3898 969.431 L 2827.2855 944.4885 L 2837.3514 944.4465 L 2837.1123 887.1724 L 2827.0463 887.2145 L 2846.9417 862.1049 L 2867.046 887.0474 L 2856.98 887.0895 L 2857.2192 944.3635 L 2867.285 944.3215 Z" stroke="#6453aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_77">
+        <g id="Graphic_76">
+          <path d="M 2607.5 459 L 2709.5 459 C 2714.4706 459 2718.5 463.02944 2718.5 468 L 2718.5 570 C 2718.5 574.97056 2714.4706 579 2709.5 579 L 2607.5 579 C 2602.5294 579 2598.5 574.97056 2598.5 570 L 2598.5 468 C 2598.5 463.02944 2602.5294 459 2607.5 459 Z" fill="white"/>
+          <path d="M 2607.5 459 L 2709.5 459 C 2714.4706 459 2718.5 463.02944 2718.5 468 L 2718.5 570 C 2718.5 574.97056 2714.4706 579 2709.5 579 L 2607.5 579 C 2602.5294 579 2598.5 574.97056 2598.5 570 L 2598.5 468 C 2598.5 463.02944 2602.5294 459 2607.5 459 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(2603.5 471)" fill="black">
+            <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="31.73" y="91">EOSC</tspan>
+          </text>
+        </g>
+        <g id="Graphic_75">
+          <rect x="2598.5" y="459" width="120" height="62.340426" id="path_13"/>
+          <clipPath id="clip_path_13">
+            <use xl:href="#path_13"/>
+          </clipPath>
+          <g clip-path="url(#clip_path_13)">
+            <image xl:href="image1.pdf" width="564" height="293" transform="translate(2598.5 459) scale(.21276596)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_78">
+        <path d="M 2658.5 594.9 L 2658.5 601.9 L 2658.0938 660.4449 L 2657.7668 725.99" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_79">
+        <path d="M 2847.5 725.9898 L 2847.5 650.2425 L 2658.1645 650.2425" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_80">
+        <path d="M 2469.5 725.9898 L 2469.5 650.015 L 2658.166 650.015" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_81">
+        <path d="M 2280.5 725.9898 L 2280.5 650.015 L 2470.25 650.015" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_82">
+        <text transform="translate(2999.5 485.5)" fill="black">
+          <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="24.17" y="19">Meta portal</tspan>
+          <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="1.53" y="43">for data analysis </tspan>
+          <tspan font-family="Fira Sans" font-size="20" font-weight="400" fill="black" x="40.28" y="67">services</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

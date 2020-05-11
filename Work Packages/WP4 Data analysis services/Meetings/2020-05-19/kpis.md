@@ -2,7 +2,7 @@
 
 ## Definitions
 
-- KPIs are defined during Trieste meeting ([https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2019-11-04-Trieste/notes.org#kpis](https://github.com/panosc-eu/panosc/blob/master/Work Packages/WP4 Data analysis services/Meetings/2019-11-04-Trieste/notes.org#kpis))
+- KPIs are defined during Trieste meeting ([https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2019-11-04-Trieste/notes.org#kpis](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2019-11-04-Trieste/notes.org#kpis))
 
 - They are
   - KPI1: Percentage of facilities offering JupyterHub or remote desktop for analysis services
@@ -20,7 +20,7 @@
 | ---------- | -------- | ----------------------- | ---------------------- | -------- | --------- | -------- | ---------- | ----------- | ----------- |
 | CERIC-ERIC |        0 | (JupyterHub)            |                        |        0 |         0 |          |          0 |           0 |             |
 | ELI        |        0 |                         |                        |        0 |         0 |          |          0 |           1 |             |
-| ESS        |        1 | (JupyterHub)            |                        |        0 |         0 |          |          0 |           0 |             |
-| EuXEL      |        1 | (JupyterHub/FastX)      |                        |        - |       150 |          |          2 |           2 |             |
+| ESS        |        1 | (JupyterHub/VNC)        | (JupyterHub/VNC)       |       10 |        20 |       40 |          1 |           1 |           1 |
+| EuXEL      |        1 | (JupyterHub/FastX)      | (JupyterHub/FastX)     |        - |       150 |        - |          2 |           2 | 2           |
 | ESRF       |        1 | (JupyterHub/NoMachine)  | (JupyterHub/NoMachine) |       20 |         0 |        0 | 1 beamline | 3 beamlines | 3 beamlines |
-| ILL        |        1 | (JupyterHub/VISA)       |                        |        0 |         1 |          |          0 |           2 |             |
+| ILL        |        1 | (JupyterHub/VISA)       |                        |        0 |         1 |          |          0 |           2 | 40 instruments (remote desktop and jupyter) |

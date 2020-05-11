@@ -5,6 +5,8 @@ Presentation Work Package 4, draft
 
 .. contents::
 
+An updated schedule draft is shown in in `demo-session.rst <demo-session.rst>`__.
+
 
 
 1. Introduction, Hans, ~10 mins
@@ -50,6 +52,21 @@ Presentation Work Package 4, draft
 
          -  architecture?
 
+- Improvements:
+	- Link to reproducibility crisis (Nature paper)
+	- mention and explain Jupyter
+	- list talks on last slide, with names of presenters
+	- COVID19 makes this far more relevant
+	- 
+	- why do we need a domain specific portal:
+	  - because people want to search in a way meaningful to their domain
+	
+	- why is remote access important for EOSC? Add one item on slide
+	
+	- time line
+  
+
+
 Context for each demo
 ~~~~~~~~~~~~~~~~~~~~~
 
@@ -63,6 +80,7 @@ For all demonstrations, it is important to explain:
 -  [probably more]
 
 We should have a consistent way of showing this (ideally graphically).
+-> Jakub to coordinate visual designs. Speakers to send demo schematics to him.
 
 2. Data portal, Jakub, ~10 mins
 -------------------------------
@@ -83,6 +101,11 @@ Details:
 -  go to details page, then click on publication (?)
 -  back to details page, launch notebook to modify parameter and update
    visualisation
+
+- Improvements:
+  - showing search is essential
+  - focus on search and firing up analyis
+    - analysis itself can be kept short, to avoid overlap with subsequent demos (Thomas V, Thomas K)
 
 3. Simulation, Thomas, ~10 mins
 -------------------------------
@@ -127,6 +150,9 @@ Details:
 -  comment on data situation: data set so small that it is embedded with
    software
 
+Improvements:
+-  show figure from paper and figure from notebook next to each other in slide
+
 5. User provided reproducible publication, Thomas V, 10 mins
 ------------------------------------------------------------
 
@@ -145,6 +171,12 @@ Details:
 -  paper is nearly published
 -  example for scientist pushing envelop of reproducibility ->
    re-usability
+
+Improvements:
+
+- explain what runs where, including Binder
+- polish resource slide with Jakub's help
+- mentions 'embargo period' - make sure Andy has explained this, or introduce it here
 
 6. Remote Desktop, could come from Franz (STFC/ExPaNDS), 10 mins
 ----------------------------------------------------------------
