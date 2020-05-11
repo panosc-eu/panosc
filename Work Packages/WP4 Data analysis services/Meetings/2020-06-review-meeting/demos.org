@@ -9,6 +9,7 @@ Time slot in total: 120 minutes
 
 ** Introduction WP3 (Tobias)
 ** Introduction WP4 (Hans)
+** Introduction Portal architecture? (Jamie)
 ** Portal user experience demo (Jakub)
 - user experience perspective
 - skip or keep analysis example very brief  
@@ -17,7 +18,6 @@ Time slot in total: 120 minutes
 ** Introduction WP5 (Carsten)
 ** Simulation demo, Thomas (Kluyver)
 ** intro WP6 (Jean-Francois)
-** Introduction Portal architecture? (Jamie)
 
 See https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-06-review-meeting/session-wp4.rst for detailed ideas for each presentation
 
