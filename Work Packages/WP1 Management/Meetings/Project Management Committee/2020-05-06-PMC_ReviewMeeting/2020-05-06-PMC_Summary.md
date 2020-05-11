@@ -42,12 +42,31 @@ During the [last PMC for the Review meeting](https://github.com/panosc-eu/panosc
 
 Jean-François said that this felt very long (around 5 hours of demos/presentations) and that it would be good if all our demos/presentations could fit in the morning, so the PO & Reviewer can discuss during the lunch break before having the afternoon interactive Q/A section. 
 
-A few exchanges followed to analyse the lenght of the WP4 demo (~90 minutes with presentation, 6 demos and conclusions) that would also include WP5. Tobias added that using the search API could be added to this demo, 
+A few exchanges followed to analyse the lenght of the WP4 demo (~90 minutes with presentation, 6 demos and conclusions) that would also include WP5. Tobias added that using the search API could be added to this demo, Thomas added that AAI could be added to pan-learning and Jean-François also discussed with Giuseppe and Hans whether for the demo work from WP6 could be used.
 
-**THIS IS NOT FINISHED!!!!** test, test
-**THIS IS NOT FINISHED!!!!** OMG, OMG!
+It was finally agreed that Jordi will ask the Project Officer what would be his preference (compressed morning or not).
+** ANSWER FROM PO** : 
+    OPTION 1: Presentations + demos covering morning and part of the afternoon
 
-**6. Planning the review meeting**
+        Morning
+            A first section (up to 1 hour) to introduce the project
+            A second section (around 2 hours) to cover demos and related WPs
+
+        Lunch break: 1 hour
+
+        Afternoon
+            A third section to cover WPs that cannot do a demo
+            A final section for interactions with PO & Reviewer ( ~2 hours)
+
+The Project Officer and Reviewer will be interacting with us as we move through the different presentations and demos, so while we may have plenty of time for demos and presentations, they will be making us questions, so we will need to be careful with the amount of content we plan to present/demo.
+
+**AOB** 
+
+Andy explained that EOSC-Life wants to work with PaNOSC on trainings for Python, Jupyter, Conda Packaging, etc...
+Thomas explained that this kind of training is not in the scope of PaNOSC and Andy replied that however working with other clusters is.
+It was agreed that once we have a close look at our spending figures at the end of May we could be in a better position to decide wehther we want to do some technology training collaborating with other clusters.
+
+**4. Planning the review meeting**
 
 All participants agreed on these actions and deadlines:
 
