@@ -32,20 +32,20 @@ It was agreed that any text should refer to our deliverables already submitted, 
 
 During the [last PMC for the Review meeting](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP1%20Management/Meetings/Project%20Management%20Committee/2020-04-22-PMC_ReviewMeeting/2020-04-22-PMC_Summary.md) we suggested a possible timetable: 
 
-    Morning
-        A first short section (up to one hour) to introduce the project
-        A second longer section (around 2 hours) for the demos that we want to do
-            This will include introductions to demos / WP as appropriate
-    Afternoon
-        A third section for presentations (focusing on WPs that cannot do demos)
-        A final section to let some time for interactions with the PO & Reviewer (~ 2 hours)
+* Morning
+  * A first short section (up to one hour) to introduce the project
+  * A second longer section (around 2 hours) for the demos that we want to do
+    * This will include introductions to demos / WP as appropriate
+* Afternoon
+  * A third section for presentations (focusing on WPs that cannot do demos)
+  * A final section to let some time for interactions with the PO & Reviewer (~ 2 hours)
 
 Jean-François said that this felt very long (around 5 hours of demos/presentations) and that it would be good if all our demos/presentations could fit in the morning, so the PO & Reviewer can discuss during the lunch break before having the afternoon interactive Q/A section. 
 
 A few exchanges followed to analyse the lenght of the WP4 demo (~90 minutes with presentation, 6 demos and conclusions) that would also include WP5. Tobias added that using the search API could be added to this demo, Thomas added that AAI could be added to pan-learning and Jean-François also discussed with Giuseppe and Hans whether for the demo work from WP6 could be used.
 
 It was finally agreed that Jordi will ask the Project Officer what would be his preference (compressed morning or not).
-** ANSWER FROM PO** : 
+**ANSWER FROM PO** : 
     OPTION 1: Presentations + demos covering morning and part of the afternoon
 
         Morning
