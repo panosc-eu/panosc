@@ -21,7 +21,7 @@ And explained that we could apply for a [non-commercial license for Slack](https
 
 Florian added that he thinks we are eligible and Jordi offered to help to put an application together for this. Thomas explained that the ESS has Slack and that by paying the main benefits are videoconferences and screen sharing.
 
-It is agreed that PaNOSC seem to have the money to pay for this and that we will try to get a non-commercial license. If that's not possible we will bring the subject again to the PMC meeting for a final decision.
+It is agreed that PaNOSC seems to have the money to pay for this and that we will try to get a non-commercial license. If that's not possible we will bring the subject again to the PMC meeting for a final decision.
 
 **2. Rules of Participation - *document feedback***
 
@@ -29,7 +29,7 @@ Ornela started by explaining the nature of the document and providing the link t
 
 Ornela said tha it could be good to provide feedback as well in the [EOSC-Hub Consultation Day (Monday 18th)](https://www.eosc-hub.eu/eosc-hub-week-2020/agenda) sessions.
 
-Andy also said that the commission send the following info:
+Andy also said that the commission sent the following info:
 >>        
 
 *Therefore, the EC would like to invite you to complete the EOSC Phase One Implementation Assessment Survey that you can find at the following link:*
@@ -45,17 +45,17 @@ Andy asked whether someone from WP6 is attending this workshop and Jean-Françoi
 
 **3. Annual Joint Meeting updates**
 
-Florian explaiend that the basics of the meeting are now sorted adn that work as progressed into refining the program. A private indico page has been setup, which will be made public and open for registrations at a later date. The current schedule is:
+Florian explaiend that the basics of the meeting are now sorted and that work has progressed into refining the program. A private indico page has been setup, which will be made public and open for registrations at a later date. The current schedule is:
 * 1st day
-  * 1/1 day open and user oriented with PaNOSC and ExPaNDS presenting what has been done for users so far and what will be done by the end of both projects
+  * 1/2 day open and user-oriented with PaNOSC and ExPaNDS presenting what has been done for users so far and what will be done by the end of both projects
   * Executive Board private session
-  * EOSC and FAIR presentations/ discussions
+  * EOSC and FAIR presentations / discussions also with a focus on users.
 * 2nd day
   * WPs paralel sessions (1st Annual Meeting-style)
 * 3rd day
-  * Wrap-up session (private session)
+  * 1/2 day with wrap-up session (private session)
 
-Andy explained that Rupert has confirmed attendance and that we are looking at a final panelist.
+Andy explained that Rupert Lueck has confirmed attendance and that we are looking at a final panelist.
 
 Jean-François explained that Tiziana (EGI) would like to present INFRAEOSC-03 and what EGI is planning and Rudolf enquired whether it was INFRAEOSC-07 or 03, to which Jean-François confirmed that it was 03.
 
@@ -75,11 +75,11 @@ Jordi also asked all WP leaders that have a deliverable due end of May to share 
 
 Andy explained that WP2 members are busy working on the deliverable and that tomorrow there is a meeting to complete the final draft.
 
-Tobias reported good progress and meeting with ExPaNDS to converge on the anthologies.
+Tobias reported good progress and meeting with ExPaNDS to converge on the ontologies.
 
 Hans reported ongoing work on the deliverable, which will be ready by next Friday 22nd May and confirmed that he received feedback from all sites.
 
-Carsten reported a two-week's long spring that replaed the planned face to face workshop. He also explained that work on the next deliverable (due November 2020) has started and that he is trying to get a Jupyter Hub instance up with DESY.
+Carsten reported a two weeks long sprint that replaced the planned face-to-face workshop. He also explained that work on the next deliverable (due November 2020) has started and that he is trying to get a Jupyter Hub instance up with DESY.
 
 Jean-François reported work on the performance tests that he wants to include in the deliverable.
 
