@@ -7,7 +7,6 @@ Agenda
 * **PLEASE NOTE : This meeting will take place through zoom:  https://esrf.zoom.us/j/333079917**
 
 1. Slack 
---------
 
    Current status:
    
