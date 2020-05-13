@@ -10,7 +10,7 @@ Andy (ESRF), Jordi (ESRF), Hans (XFEL), Nicoletta (CERIC), Jean-François (ILL),
 Minutes
 -------	
 
-**1. Slack **
+**1. Slack**
 
 Hans introduced the current status of the tool:
 * free up to 10,000 messages. After that, the oldest cannot be retrieved
@@ -32,13 +32,13 @@ Ornela said tha it could be good to provide feedback as well in the [EOSC-Hub Co
 Andy also said that the commission send the following info:
 >>        
 
-Therefore, the EC would like to invite you to complete the EOSC Phase One Implementation Assessment Survey that you can find at the following link:
+*Therefore, the EC would like to invite you to complete the EOSC Phase One Implementation Assessment Survey that you can find at the following link:*
 
-https://www.eoscsecretariat.eu/eosc-assessment-survey-eosc-projects-0
+*https://www.eoscsecretariat.eu/eosc-assessment-survey-eosc-projects-0*
 
-together with more information on the questionnaire and its full overview in pdf (to facilitate the answers’ preparation).
+*together with more information on the questionnaire and its full overview in pdf (to facilitate the answers’ preparation).*
 
-The deadline to submit the on-line questionnaire is Monday 18 May 2020.
+*The deadline to submit the on-line questionnaire is Monday 18 May 2020.*
 <<
 
 Andy asked whether someone from WP6 is attending this workshop and Jean-François said that he will share the agenda and check if anyone from his WP can attend.
