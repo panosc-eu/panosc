@@ -12,7 +12,9 @@ Agenda
 
 3. Annual Joint Meeting updates
 
-4. Update from the WP Leaders - update on what has been achieved and problems (max 5 min per WP)
+4. Review meeting short update
+
+5. Update from the WP Leaders - update on what has been achieved and problems (max 5 min per WP)
 
     *Please do add Milestones and Internal Milestones supporting documents in GitHub*
 
@@ -44,22 +46,22 @@ Agenda
 | WP8 Staff training in data stewardship | | 
 | WP9 Outreach & Communication | DOI Video [(Script  here)](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP9%20Outreach%20and%20communication/DOI%20Video/DOI%20VIDEO_script_def.docx) | 
 
-5. News from other proposals and events
+6. News from other proposals and events
     * INFRAEOSC-03
     * Landscape WG validation workshop (27/04/2020)
     * FAIRsFAIR data repository certification (6/2/2020)
     * FAIRsFAIR [open call for FAIR champions](https://www.fairsfair.eu/form/open-call-european-fair-champions)
     * EOSC training workshop (28/2/2020)
 
-6. Issues https://github.com/panosc-eu/panosc/issues
+7. Issues https://github.com/panosc-eu/panosc/issues
     * [Cooperation with ExPaNDS](https://github.com/panosc-eu/panosc/issues/46) - update
     * [Internal Milestones](https://github.com/panosc-eu/panosc/issues/43) - do we need extra internal milestones for 2020?
     * [KPIs](https://github.com/panosc-eu/panosc/issues/41) - update
     * [Risk Management](https://github.com/panosc-eu/panosc/issues/25) - update
     * [Observer status](https://github.com/panosc-eu/panosc/issues/9) - update
 
-7. Job openings and hirings
+8. Job openings and hirings
 
-8. AOB
+9. AOB
 
 
