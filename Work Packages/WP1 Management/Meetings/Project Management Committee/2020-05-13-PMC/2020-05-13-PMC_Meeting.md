@@ -6,7 +6,35 @@ Agenda
 * *Reminder : the review meeting and mid-term report were discussed during last week PMC and will be discussed again during next week PMC*
 * **PLEASE NOTE : This meeting will take place through zoom:  https://esrf.zoom.us/j/333079917**
 
-1. Slack - *do we want to pay 6.25€ per user and month?*
+1. Slack 
+--------
+
+   Current status:
+   
+   - free up to 10,000 messages. After that, the oldest cannot be retrieved.
+   - we have now reached that level.
+   
+   Options:
+   
+   A. Apply for non-commercial license for Slack
+   - not clear if we would get it
+   
+   B. Pay for commercial version of Slack
+   - do we want to pay 6.25€ per user and month?*
+   - active users are ~11 at the moment (52 are registered)
+   - we would pay only for active users, for the period they are active
+     (pro-rata), see FAQ at https://app.slack.com/plans/TK3FS2ZJA
+   - Slack decides what an active user is, based on their behaviour
+     - 14 days inactivity makes you inactive
+     - write 2 messages does not make you active again
+
+   C. Host an open source product (RocketChat, Mattermost) ourselves
+   - could be on cloud resources
+     
+   D. Stick to current model 
+   - accept we don't have access to older messages
+     and files uploaded to Slack.
+     
 
 2. Rules of Participation - *document feedback*
 
