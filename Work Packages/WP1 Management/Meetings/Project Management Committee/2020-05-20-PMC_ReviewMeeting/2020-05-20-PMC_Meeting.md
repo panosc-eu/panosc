@@ -1,4 +1,4 @@
-PaNOSC Review Meeting preparation - 06/05/2020 
+PaNOSC Review Meeting preparation - 20/05/2020 
 ========================================================
 
 Reference documents / information stored here: https://drive.google.com/drive/folders/1SicuHQlIRIqx8CsbwSvWWf0lRKHYvvyE?usp=sharing
@@ -11,7 +11,7 @@ Agenda
 
 1. Finalise the list of invited attendees for the meeting ([see Google spreadsheet](https://docs.google.com/spreadsheets/d/1eDqc0xxNJBLl7xgu5iIYDnvbATENcIV7-Wr7vlP5Nf0/edit#gid=0))
 
-2. Review Report template - *[EC Website template](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/grant-management/reports/periodic-reports_en.htm)* *and also [editable version for us here](https://docs.google.com/document/d/1S0Urn-BLYVrPDjUxCEpKYHMlK3jIHEhC/edit?dls=true)*
+2. Review Report template - *[editable version for us here](https://docs.google.com/document/d/1S0Urn-BLYVrPDjUxCEpKYHMlK3jIHEhC/edit?dls=true)*
 
 3. Review Meeting content & structure
    * Update on proposed schedule
