@@ -1,0 +1,76 @@
+#+TITLE: WP4 Video meeting <2020-04-21 Tue 15:00>
+
+:present: Aidan (ESRF), Andrea (CERIC-ERIC), Dan (PSI), Franz (ISI), Hans
+(EuXFEL), Jakub (ELI), Lottie (ESS), Majid, Robert (EuXFEL), Stuart (ILL),
+Thomas V (ESRF), William (ILL), Jiri Maier, Jamie (ILL), Sandor (EuXFEL), 
+Marco (CERIC) (probably more who joined a bit later).
+
+* Actions from last meeting
+- Jamie/ILL: provide input to Lottie for D4.2 report
+- ILL, ESS, CERIC-ERIC to reply to Robert's survey on Slurm
+- Axel: prepare hdf5-tool demo
+- Hans & Andy: review suggestions for presentations (see item below)
+- People potentially interested to support the coronavirus plots, please get in touch 
+  updated webpage: http://oscovida.github.io/
+
+
+* Container orchestration workshop (Robert)
+- planned for Wednesday 22nd April, 9:30 - 16:30 (CEST)
+- Draft programme
+
+  - 9:30 - 11:00 AAI 
+  - 11:00 - 12:30 Openstack (VMs) 
+  - 13:30 - 15:30 Kubernetes (Clusters) 
+  - 15:00 - 16:30 PaNOSC Portal deployment (Deployments)
+
+- Details will be added to this indico page soon:
+  https://indico.desy.de/indico/event/25925/
+
+* Update Open Science COVID19 Analysis
+- online at http://oscovida.github.io
+- contributions welcome
+  - local data for partner countries
+  - software engineering help
+
+* Report on Deliverable 4.2 (Lottie)
+ - Draft google doc here: https://docs.google.com/document/d/12INNR1LN65NpnY58-FrvyUAgiUkr1GwnbOL78no6SsY/edit?usp=sharing
+ - Note that the MS Word -> google docs conversion has changed some formatting/image resolution
+ - Please review and give feedback before Monday 27th April.   
+
+* Review meeting (Hans)
+- Draft plan for WP4 presentations, see https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-06-review-meeting/session-wp4.rst
+
+- immediate feedback:
+  - seems quite packed
+  - do we have a dedicated discussion slot later in the programme?
+
+* EGI Webinars
+Programme available at https://www.egi.eu/events/egi-introduces-webinar-series/
+
+Draft schedule: (as of 17 April):
+
+- 22 Apr Gergely Sipos, "Webinar: EGI Federation - Advanced Computing for Research"
+- 24 Apr Alexandre Bonvin, "Webinar: WeNMR - Structural biology in the cloud - 10 years of experience of using EGI services"
+- 30 Apr Enol Fernandez, "Webinar: Introduction of the EGI Cloud Compute service"
+- 07 May Enol Fernandez, "Webinar: The EGI Notebooks service: Support for analytics and big data visualisation in the cloud"--
+- 27 May Nicolas Liampotis, Valeria Ardizzone, "Webinar: The EGI AAI Check-In service for scientific communities"Gergely Sipos | Head of Services, Solutions, Support | EGI Foundation (Amsterdam, The Netherlands) 
+- 04 Jun Andrea Manzi, Lukasz Dutka, "Webinar: The EGI Datahub to federate distributed data sets for data-intensive applications in the cloud"
+- 10 Jun Enol Fernandez, "Webinar: Managing Docker containers and Kubernetes clusters in the EGI Cloud"
+- 24 Jun Miguel Caballer Fernández, "Webinar: The Infrastructure Manager (IM)"
+- 01 Jul Giuseppe La Rocca, "Webinar: Create elastic virtual clusters in the EGI Cloud with the EC3/IM"
+
+* Next meeting
+
+** 5 May 2020, 15:00 - run through of potential demos
+- presenters only
+** next regular meeting: 19 May 2020 15:00
+* Any other business
+
+- Quick summary of the extended wp4 survey:
+  https://confluence.panosc.eu/display/wp4/Task+4.1+-+Extended+Survey+Summary
+
+
+* Actions
+- All PaNOSC partners: review deliverable 4.2
+- Hans & Andy: schedule dry run through of presentations
+- Presenters: prepare presentations

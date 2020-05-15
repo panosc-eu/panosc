@@ -1,0 +1,148 @@
+#+TITLE: WP4 Video meeting <2020-02-25 Tue 15:00>
+
+:present: 
+
+Robert R, Hans, Axel, Loic, Andy, Juncheng, William, Jamie, Andrea Manzi (EGI),
+Jakub Jiri (ELI) Kareem (ESS) Robert (ELI-Alps), Sandor, Franz Lang (STFC),
+Aidan
+
+
+* Actions from last meeting (Hans)
+- Robert, Jakub and Jamie to work on internal Milestone
+- Hans to suggest meeting dates with Anton/Expands
+  - 11 to 14 May 2020
+  
+- All: contribute example data sets and analysis as hard-coded data examples for
+  protoype.
+  - EuXFEL: https://github.com/European-XFEL-examples
+  - others? https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP4%20Data%20analysis%20services ?
+
+* Upcoming Code Camp (Thomas V -> Axel)
+24-27 March, ESRF, ILL, https://indico.esrf.fr/indico/event/43/
+
+
+- Expect up to 20 participants
+- work on portal architecture
+- work on infrastructure and deployment
+
+Objective: 
+- enable each facility to be able to install the portal
+
+
+* Update from Portal (Jakub, Jamie)
+
+- Documentation available at https://confluence.panosc.eu/display/wp4/Development 
+- presentations https://confluence.panosc.eu/display/wp4/Presentations
+
+- repositories are emerging on panosc github
+- waiting  for feedback from people who try the employment
+- aiming towards core-services ready by 27 March
+
+- Have notebook integrated in 'app'
+  - complicated (Axel)
+
+- feedback from WP4 ExPaNDS meeting
+
+* Welcome to Loic
+- hdf5 viewer, visualisation, physicist by training
+ 
+* Update Deliverable 4.2 (Lottie and team)
+  - "Deliverable 4.2. Prototype remote desktop and Jupyter service (M18, DEM,
+    CO, ILL)"
+
+- use review from last deliverable with some extra questions to draft the report
+  from
+- need facilities to respond
+
+* Preparation of review meeting (Hans)
+- Probably second half of June
+
+- WP3 - shows one MDC connnected to API
+- Portal in current state
+- Take a data set and show some data set 
+ 
+* Presentation at review meeting (Robert R, Juncheng, Thomas K)
+
+Robert: 
+- Show XGM example to demonstrate reproducibility and re-usability 
+- Other examples: 
+  - Simulation based example (Juncheng?)
+
+Discussion
+- Andy: paint example
+- Should involve EGI
+  - use their binder?
+- Andrea Manzi (EGI): Meeting on Friday, will
+
+- Prototype remote desktop?
+  -> ILL?
+      
+- Juncheng:
+  - lisozyme data, could be simulated and compared with real data
+  - Neutron simulation: McStas (ESS), but no experimental 
+    data at the moment
+
+Andy: 
+  - Simulating coronavirus??
+
+- what linked up demo (Juncheng, Thomas K)?
+    - Thomas Holm Rod suggested in video meeting 
+      - neutron analysis where we have simulation and experiment data
+      - analyse that
+    - Juncheng and Thomas K to explore
+
+    - Mcstas - neutron simulation tool 
+      - Mads (ESS)
+
+- Action:
+
+  See below.
+
+
+* Next meeting (Hans)
+** Video meeting
+- Tuesday 10 March 15:00 
+
+** In person meeting
+- Code Camp in Grenoble, 24-27 March, ESRF, ILL, https://indico.esrf.fr/indico/event/43/
+- bigger meeting with Expands in May in Hamburg  (11 to 14 May proposed)
+
+* Updates from sites
+
+* Any other business
+- Additional suggestions for future topics?
+- Axel and Loic will present findings from review of visualisation tools
+  
+* Future topics
+- Update from Portal
+- REANA
+- Training material
+- LIGO Open Science Centre
+** Reproducible use cases
+- missing from some facilities
+
+
+* Actions
+ Develop Story boards of what could be shown for next meeting
+  - These should be short descriptions of what could be shown
+  - try to provide the context (what do we show: the portal, some analysis
+    procedure, finding data through the portal, simulation, reproducible science
+    example, ...)
+  - what resources/infrastructure would be needed/could be used
+  - don't be too detailed; initially we just need this to fine tune what we will
+    present
+  - content wise, we need to cover the following:
+    - remote desktop analysis services (we have a deliverable for this),
+      this would be remote data analysis in notebook or virtual machine
+    - the PaNOSC vision and work started (portal, EGI integration)
+    - ?
+  
+  - We expect storyboard on the topics that have been discussed from
+    - Robert
+    - Juncheng
+    - Thomas K
+    - Thomas V (Blue paint)
+    - Jakub / Science story
+    - Jakub / Portal / user interface
+  - If there are no confidentiality issues, please add storyboards to 
+    [[../2020-06-review-meeting/storyboards.md][this document]]

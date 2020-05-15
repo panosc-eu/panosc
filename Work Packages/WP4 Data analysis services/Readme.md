@@ -4,7 +4,7 @@ Notes from Work Package 4 (Data Analysis)
 
 Site leads for WP4
 
-- Carlos (CERIC-ERIC)
+- Andrea (CERIC-ERIC)
 - Giuseppe (EGI)
 - Jakub (ELI)
 - Thomas (ESRF)

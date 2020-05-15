@@ -1,24 +1,69 @@
 #+TITLE: WP4 Video meeting <2019-11-26 Tue 15:00>
 
-
+:present: Franz, Jamie, 
 
 * Update from WP4 Questionnaire (Jamie)
+D4.1 Survey data analysis requirements and solutions at the partner sites, and
+horizon scan other emerging tools and technologies. 
+
+https://docs.google.com/document/d/1VgJlAjB4ZS1REo5T9DsnxJm7mNJxjY032cBjL0qPW_g/edit?usp=sharing
+
+** Summary of survey results
+- different technology at every site
+- containers are popular [also singularity]
+- authentication is different across sites (move towards keycloak)
+- all have data policy (pretty much?)
+- hdf5 and nexus widely used (apart from EuXFEL)
+- DOI: everyone using it (apart from ELI) using data cite 
+- user portals exist where users exist
+- most sites have jupyter Hub, set up in different ways
+- Most HPC clusters use Slurm (apart from ILL, using torque)
+  - no containers on clusters so far 
+- root access for users to remove virtual machines: No
+
+** Best practice and tools
+ - git, gitlab
+ - hdf5
+ - remote analysis capability (apart from ELI)
+ - jupyter 
+ - containers
+** EOSC integration
+ - Authentication, data access, data shipping, allocation of computed 
+   resources
+ - each site hosts their services internally, for EOSC need to share those
+   through EOSC
+
+** Pilot data analysis services 
+ - Jupyter, VISA
+ - portal to link data with analysis services
+ - populate reproducible example data sets
+ - attempt to run portal locally 
+
+* Discussion
+STFC very happy share experience from the ISIS data analysis as a service
+(IDAaaS) framework.
+
 * Report from reproducible science data and analysis sets (Thomas Vincent/Robert)
-* (Time permitting:) Update from Portal (Jamie/Stuart/?)
+
+
 
 * Next meeting
-** Video meeting
-- Tuesday 10 December 15:00 
-  - 30 min only?
+- 30 min only?
 - Tuesday 14 January 15:00
 ** In person meeting
 - post portal release?
 - where?
+
 * Any other business
 - Suggestions for future topics?
+
 
 * Future topics
 - REANA
 - KPIs
 - Training material
+- Jamie will chair
+
+* AoB
+- Other topics postponed to next meeting.
 
