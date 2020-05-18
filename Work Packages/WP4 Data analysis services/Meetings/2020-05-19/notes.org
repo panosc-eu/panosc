@@ -4,7 +4,8 @@
 
 * Actions from last meeting
 - All PaNOSC partners: review deliverable 4.2
-- Hans & Andy: schedule dry run through of presentations [done]
+- Hans & Andy: schedule dry run through of presentations
+- All PaNOSc partners: provide KPIs (see [[kpis.md][kpis.md]])
 
 * Review meeting
 - Agenda taking shape
