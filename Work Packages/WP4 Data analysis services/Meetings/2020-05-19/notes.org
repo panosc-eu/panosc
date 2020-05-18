@@ -1,0 +1,36 @@
+#+TITLE: WP4 Video meeting <2020-05-19 Tue 15:00>
+
+:present: 
+
+* Actions from last meeting
+- All PaNOSC partners: review deliverable 4.2
+- Hans & Andy: schedule dry run through of presentations [done]
+
+* Review meeting
+- Agenda taking shape
+  - Current draft involving WP4: 
+    - Demos: Portal (Jakub), Demo reproducibility with paint study (Thomas V), 
+    - Videos: Reproducibility (Robert), Simulation & Analysis (Thomas K)
+    - Presentations: Portal (Jamie), WP4 overview (Hans)
+
+- Rehearsal day: 5 June
+- Actual review: 16 June
+
+* Update on Deliverable D1.5 (Robert)
+
+* Update on Deliverable D4.2 (Lottie)
+
+* Update on Technical Report (Robert)
+
+* Towards a HDF5 web viewer (Thomas V/Loic/Axel)
+- general idea
+- HSDS for serving HDF5 content to the web (https://github.com/HDFGroup/hsds)
+- update h5web
+
+* Next WP4 meeting
+- 2 June 2020, 15:00
+- Robert: Spack to manage computational environments
+
+* Any other business
+
+* Actions
