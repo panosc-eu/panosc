@@ -24,7 +24,7 @@
 
 * Towards a HDF5 web viewer (Thomas V/Loic/Axel)
 - general idea
-- HSDS for serving HDF5 content to the web (https://github.com/HDFGroup/hsds)
+- a short presentation of HSDS: a backend solution to serve HDF5 files.
 - update h5web
 
 * Next WP4 meeting
