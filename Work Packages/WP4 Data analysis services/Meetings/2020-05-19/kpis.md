@@ -21,6 +21,6 @@
 | CERIC-ERIC |        0 | (JupyterHub)            |                        |        0 |         0 |          |          0 |           0 |             |
 | ELI        |        0 |                         |                        |        0 |         0 |          |          0 |           1 |             |
 | ESS        |        1 | (JupyterHub/VNC)        | (JupyterHub/VNC)       |       10 |        20 |       40 |          1 |           1 |           1 |
-| EuXEL      |        1 | (JupyterHub/FastX)      | (JupyterHub/FastX)     |        - |       150 |        - |          2 |           2 | 2           |
+| EuXEL      |        1 | (JupyterHub/FastX)      | (JupyterHub/FastX)     |        - |       150 |  150-200 |          2 |           2 | 2           |
 | ESRF       |        1 | (JupyterHub/NoMachine)  | (JupyterHub/NoMachine) |       20 |         0 |        0 | 1 beamline | 3 beamlines | 3 beamlines |
 | ILL        |        1 | (JupyterHub/VISA)       |                        |        0 |         1 |          |          0 |           2 | 40 instruments (remote desktop and jupyter) |
