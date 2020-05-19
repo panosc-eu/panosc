@@ -26,7 +26,10 @@
 * Towards a HDF5 web viewer (Thomas V/Loic/Axel)
 - general idea
 - a short presentation of HSDS: a backend solution to serve HDF5 files.
+  (Repository: https://github.com/HDFGroup/hsds)
 - update h5web
+  (Repository: https://github.com/silx-kit/h5web, Demo: https://h5web.panosc.eu/)
+
 
 * Next WP4 meeting
 - 2 June 2020, 15:00
