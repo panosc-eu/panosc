@@ -29,6 +29,11 @@ Thanks to Lottie, Thomas K, Robert,
 Jamie, Stuart, and others for creating all the documents!
 
 * Towards a HDF5 web viewer (Thomas V/Loic/Axel)
+** URLs
+
+- HSDS: a backend solution to serve HDF5 files; Repository: https://github.com/HDFGroup/hsds
+- h5web: Repository: https://github.com/silx-kit/h5web, Demo: https://h5web.panosc.eu/
+
 ** Thomas V: general idea and objectives
 - be able to visualise parts of the data without downloading whole files
 - use NeXuS metadata for error bars, axis labels
@@ -71,6 +76,7 @@ Future work:
   - scatter plots
   - NeXuS support
 - make components extractable and re-usable in JupyterNotebooks
+
 
 * Next WP4 meeting
 - 2 June 2020, 15:00
