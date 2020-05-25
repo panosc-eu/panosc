@@ -14,6 +14,31 @@ Agenda
 2. Review Report template - *[editable version for us here](https://docs.google.com/document/d/1S0Urn-BLYVrPDjUxCEpKYHMlK3jIHEhC/edit?dls=true)*
 
 3. Review Meeting content & structure
+   * Notification from PO
+   
+     The review will cover the project activities that you have carried out.
+It will examine:
+
+     – the degree to which the work plan has been carried out and whether all deliverables were completed 
+     
+     – whether the objectives are still relevant and provide scientific or industrial breakthrough potential
+     
+     – how resources were planned and used in relation to the achieved progress, and if their use respects the principles of economy, efficiency and effectiveness
+     
+     – the management procedures and methods of the project
+     
+     – the beneficiaries’ contributions and their integration within the project
+     
+     – the expected potential scientific, technological, economic, competitive and social impact, and plans for using and disseminating results
+     
+     – eligibility of the costs claimed
+     
+     – compliance with other grant agreement obligations.
+
+     It will also cover the work of third parties involved in the project (e.g. linked third parties, third parties giving in-kind contributions, subcontractors, etc).
+   
+   
+   
    * Update on proposed schedule
    * Update on demos
 
