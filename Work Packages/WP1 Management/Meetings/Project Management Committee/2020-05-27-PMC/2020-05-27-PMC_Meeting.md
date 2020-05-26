@@ -17,7 +17,7 @@ Agenda
 
 2. Update on [draft report to PO](https://docs.google.com/document/d/1S0Urn-BLYVrPDjUxCEpKYHMlK3jIHEhC/edit?dls=true)
 
-3. EOSC Assessment for phase 1
+3. EOSC Assessment for phase 1: https://docs.google.com/document/d/1JS-QSH0S6gygDVuDsiuPqExpJB6hHXSpUHEicO8Ifx8/edit?usp=sharing
 
 4. AOB
 * Slack
