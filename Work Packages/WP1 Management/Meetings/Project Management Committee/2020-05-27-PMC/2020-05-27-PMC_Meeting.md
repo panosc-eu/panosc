@@ -17,7 +17,9 @@ Agenda
 
 2. Update on [draft report to PO](https://docs.google.com/document/d/1S0Urn-BLYVrPDjUxCEpKYHMlK3jIHEhC/edit?dls=true)
 
-3. AOB
+3. EOSC Assessment for phase 1
+
+4. AOB
 * Slack
 * Rules of Participation document
 * Annual Joint Meeting
