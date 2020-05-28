@@ -1,0 +1,13 @@
+#+TITLE: WP4 Video meeting <2020-06-02 Tue 15:00>
+
+:present: 
+
+* Actions from last meeting
+
+* Update review meeting
+
+* Spack to manage computational environments (Robert)
+
+* Any other business
+
+* Actions

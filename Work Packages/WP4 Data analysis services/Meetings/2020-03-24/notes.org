@@ -1,0 +1,145 @@
+#+TITLE: WP4 Video meeting <2020-03-24 Tue 15:00>
+
+:present: Andrey (ELETTRA], Loic (ESRF?), Andy (ESRF), Axel
+(ESRF), Emiliano (CERIC), Andrea (CERIC-ERIC), Sandor (EuXFEL), Aidan (ESRF),
+Lottie, Franz, Jakub, Chris, Robert Rosca, Thomas Kluyver, Alex (DLS), Jiri
+(ELI), Thomas V (ESRF), George (ELETTRA), Jonathan (ESS), Uwe (?), Will (ILL),
+Anton (DESY), Hans (EuXFEL), probably more.
+
+* Portal architecture and prototype discussion
+
+Discussion of feedback from all sites as discussed in the last meeting
+(https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-03-10/notes.org)
+
+We are interested in 2 questions, addressed from each site:
+
+1. The portal deployment at your institute. Installation documentation can be
+   found here: https://github.com/panosc-portal/panosc-portal-demo-deployment
+
+2. The common portal design. The documentation can be found here:
+   https://confluence.panosc.eu/x/lwCm 
+
+The written summaries are available at https://confluence.panosc.eu/x/cIAVAQ
+
+** ELI
+Jiri: new to Kubernetes, installed with Helm, trouble with internal networking done correctly.
+Happy with architecture as far as understandable at the moment; more constructive feedback later.
+** ESRF
+Aidan: deployed on existing Kubernetes cluster, involved in Architecture, thus no complaints.
+** ESS
+Lottie: issues with documentation, otherwise got it to work. No issues with architecture.
+** EuXFEL
+Robert:
+- deploying on personal computer is easy
+- use with kubernetes/openstack is not feasible
+- need Slurm support for analysis processes
+
+Anton (DESY):
+- technical problems with containers having access to GPFS
+Chris (DLS):
+- expose file system to containers through Kubernetes host path
+- starting notebook jobs on condor cluster has been seen to work
+Thomas K:
+- Slurm backend is envisaged in the design
+- Further discussion with Aidan, Thomas K, Robert, Chris, -> separate discussion, see actions
+** ILL
+(happy)
+** CERIC-ERIC
+George: 
+- attempt to deploy directly on production cluster
+- lacks OpenStack but is Kubernetis cluster
+- Marco will know more
+
+Architecture: no complaints at this stage.
+
+Questions about verification services. 
+
+For CERIC and ELETRA: integration to the VUO is important
+- data catalog: is it going to be part of the portal?
+
+Andy: 
+- Overlap with data portal is not clear; should not have duplication but
+  complementary.
+- Should link the architecture of data and analysis 
+
+** STFC / ISIS
+Franz: 
+- cloud used does not suopprt Kubernetes (OpenStack is too old; update is not guaranteed)
+- installing on own laptop works, documentation is very sparse
+- lack of testing procedure to check that installation worked okay
+
+Chris (DLS):
+- caught up in setting up home office services etc
+- comment: one can try google cloud as alternative to laptop
+
+** Discussion
+- should run on infra-structure; 
+- running it on a laptop is not sufficient.
+
+- Is there (scientific) test data in the installation?
+  - not yet
+
+- Will central portal forward queries, i.e. is the assumption that data is always local?
+  - undecided; waiting for WP6 regarding data access
+  - Andy: meta portal should be point of access for all data
+  - Each facility needs to run its own instance of the portal/service
+
+- Jupyter Service Robert: JupyterHub providing the notebook service or do we
+  create a separate service which spawns Jupyter Notebooks and manages them
+  themselves?
+  - Jamie: notebook services will manage the resources (as what JupyterHub usually does)
+    - interface like JupyterHub's
+    - but providing micro services to manage resources
+  - Andy: Are people happy with this? Does it conflict with existing JupyterHub clusters?
+    [discussion on this. Can JupyterHub co-exist with PaNOSC portal? -> Follow up meeting; see actions]
+
+- integration with Virtual Unified Office (VUO)
+- support of traditional clusters is important (Slurm)
+- Performance of reading data in docker containers
+- singularity as alternative to docker
+
+- Other points (not discussed yet):
+  - given federated access, how do we manage compute resource useage?
+
+- Anton: Access to real data is important. Use the backend you will use in the end. (For EuXFEL/DESY: Slurm)
+
+Robert: Training on OpenStack available from DESY - anybody interested? (Jiri, Franz, Lottie, Andrea, Jakum, Anton, ...)
+
+** Actions:
+Further exploration of:
+- Slurm integration
+- JupyterHub conflict / use?
+
+-> Hans inviting expressions of interest by email, and initiate meeting subsequently.
+
+* Review meeting (postponed to next meeting)
+- Video meeting instead of in-person meeting
+- Storyboards at https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-06-review-meeting/storyboards.md
+  - Story outlines (ideas where discussed [[https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-02-25/notes.org#presentation-at-review-meeting-robert-r-juncheng-thomas-k][here]])
+    - [ ] Thomas K / JunCheng / Thomas Holm Rod (Neutron example and/or crystallography?)
+    - [ ] Thomas V: blue paint
+    - [ ] Jakub: Science story
+    - [ ] Jakub: Portal / user interface
+    - [X] Robert: reproducible paper
+    - [X] Robert: new analysis on existing data
+    - [ ] ILL: Remote Desktop example
+    - [ ] ? : Demo remote analysis using Jupyter Notebook 
+
+* Next meeting
+
+7 April 2020, 15
+
+* Any other business
+
+- Axel (ESRF): Latest HDF5 viewer development (HSDS POSIX adapter, metadata viewer,
+  visualization selector, data providers)
+  - h5view for the web? Yes - usable in Jupyter Notebook and Jupyter Lab
+  - Anton: import array into notebook - when clicked - would be a good feature
+
+* Actions
+- ALL: let Hans know if interested to join discussions on Slurm/JupyterHub integration/co-existence for the PaNOSC portal.
+- Hans: initiate follow up meeting with interested parties
+- ALL: Test deployment of portal prototype on production hardware; at least get the right people involved 
+       who would need to run this on the production system. 
+- ALL: Provide ongoing feedback in coming months and engage in architecture discussion.
+- Thomas K, JunCheng, Jakub, ILL: provide story boards for Review meeting (see above)

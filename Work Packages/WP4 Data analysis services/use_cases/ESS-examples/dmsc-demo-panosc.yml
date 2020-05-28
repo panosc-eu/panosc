@@ -1,0 +1,17 @@
+name: dmsc-demo-panosc
+channels:
+ - conda-forge
+ - mantid
+dependencies:
+ - python=3.6
+ - pip 
+ - jupyter
+ - mantid-framework
+ - sasview
+ - pip:
+   - jupyter_contrib_nbextensions
+   - pyyaml
+   - McstasScript
+   - sasmodels
+   - bumps
+

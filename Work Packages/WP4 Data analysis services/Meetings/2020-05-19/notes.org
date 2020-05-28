@@ -1,0 +1,92 @@
+#+TITLE: WP4 Video meeting <2020-05-19 Tue 15:00>
+
+:present: Robert, Thomas V, Franz, Jerome, Jakub, William, Daniel, Stuart, Axel, Matteo, Lottie, Loic, Andrea, Thomas K, Aidan, Sandor,
+
+
+* Actions from last meeting
+- All PaNOSC partners: review deliverable 4.2
+- Hans & Andy: schedule dry run through of presentations
+- All PaNOSc partners: provide KPIs (see [[kpis.md][kpis.md]])
+
+* Review meeting
+- Agenda taking shape
+  - Current draft involving WP4: 
+    - Demos: Portal (Jakub), Demo reproducibility with paint study (Thomas V), hdf5tools demo (Loic et al)
+    - Videos: Reproducibility (Robert), Simulation & Analysis (Thomas K)
+    - Presentations: Portal (Jamie), WP4 overview (Hans)
+
+- Rehearsal day: 5 June
+- Actual review: 16 June
+
+* Update on Deliverable D1.5 (Robert)
+
+* Update on Deliverable D4.2 (Lottie)
+
+* Update on Technical Report (Robert)
+
+* Reporting thanks
+Thanks to Lottie, Thomas K, Robert, 
+Jamie, Stuart, and others for creating all the documents!
+
+* Towards a HDF5 web viewer (Thomas V/Loic/Axel)
+** URLs
+
+- HSDS: a backend solution to serve HDF5 files; Repository: https://github.com/HDFGroup/hsds
+- h5web: Repository: https://github.com/silx-kit/h5web, Demo: https://h5web.panosc.eu/
+
+** Thomas V: general idea and objectives
+- be able to visualise parts of the data without downloading whole files
+- use NeXuS metadata for error bars, axis labels
+- be as fast as possible through the web
+- allow interaction on top of image
+  - region of interest
+  - mask
+- create library that can be embedded in other applications
+  - at ESRF more web-based interface to control and acquisition 
+- make functionality available in Jupyter
+
+** Loic: Backend - a short presentation of HSDS: a backend solution to serve HDF5 files.
+- scenario: 
+  - have hdf5 file on server
+  - user is interested in parts of the file
+  - return that data to user
+- some related python tools
+  - hdf5-simple-server (MAX-IV)
+  - h5serv, HSDS
+  - jupyterlab-hdf5
+- chosen HSDS:
+  - solution supported by HDF5 group
+    - maintained
+    - open source
+    - performant
+    - written in Python 3
+- HSDS uses h5serv API: REST and JSON based
+  - GET: read parts of the file
+  - PUT/POST: write in the file
+  - DELETE: remove files from the file
+- HSDS can serve local files
+- distributed architecture
+
+** Axel: demo front end
+
+Future work:
+- deploy HSDS server
+- more visualisation:
+  - higher dimensional matrix
+  - scatter plots
+  - NeXuS support
+- make components extractable and re-usable in JupyterNotebooks
+
+
+* Next WP4 meeting
+- 2 June 2020, 15:00
+- Robert: Spack to manage computational environments
+
+* Any other business
+None.
+
+* Actions
+- Robert and Lottie to circulate final versions / links to documents
+- All: review reports to ensure they are happy with this (deadline: end of this
+  week).
+- Suggestions for topics for future meetings to Hans, please

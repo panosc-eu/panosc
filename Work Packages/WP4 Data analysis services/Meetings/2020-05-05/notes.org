@@ -1,0 +1,25 @@
+#+TITLE: WP4 Video meeting <2020-04-21 Tue 15:00>
+
+:present: Aidan (ESRF), Andrea (CERIC-ERIC), Dan (PSI), Franz (ISI), Hans
+(EuXFEL), Jakub (ELI), Lottie (ESS), Majid, Robert (EuXFEL), Stuart (ILL),
+Thomas V (ESRF), William (ILL), Jiri Maier, Jamie (ILL), Sandor (EuXFEL), 
+Marco (CERIC) (probably more who joined a bit later).
+
+* Actions from last meeting
+- Review of deliverable 4.2
+
+* HDF5 demo (Axel)
+
+* Review meeting
+- Draft plan for WP4 presentations, see
+  https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-06-review-meeting/session-wp4.rst
+
+* Extended WP4 Survey (Robert)
+ https://confluence.panosc.eu/display/wp4/Task+4.1+-+Extended+Survey+Summary
+
+* Any other business
+
+* Actions
+- All PaNOSC partners: review deliverable 4.2
+- Hans & Andy: schedule dry run through of presentations
+- Presenters: prepare presentations
