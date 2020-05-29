@@ -3,11 +3,28 @@
 :present: 
 
 * Actions from last meeting
+** Deliverable D4.2 - submitted
+** Schedule demos for Review meeting - finalised
+** Provide [[https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-05-19/kpis.md][KPIs]] - completed
 
 * Update review meeting
+WP4 related contributions
+- Intro WP4 (10 min), Hans
+- Demo Portal (10 min), Jakub
+- Demo remote data analysis (10 min), Thomas V
+- Demo hdf5 tools contribution to community (10 min), Loic/Axel
+- Talk portal architecture (10 min), Jamie
+
+Other demos are suggested to be turned into videos.
+
 
 * Spack to manage computational environments (Robert)
 
-* Any other business
 
+* Next meeting
+- 16 June: Cancelled due to review day.
+- 30 June (probably)
+
+* Any other business
+- Topics for next meetings
 * Actions
