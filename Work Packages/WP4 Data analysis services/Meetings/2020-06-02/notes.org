@@ -1,6 +1,6 @@
 #+TITLE: WP4 Video meeting <2020-06-02 Tue 15:00>
 
-:present: 
+:present: Robert, Aidan, Daniel, Jamie, Jakub, Jerome, Lottie, Majid, Sandor, Stuart, Thomas K, Thomas V
 
 * Actions from last meeting
 ** Deliverable D4.2 - submitted
@@ -17,14 +17,24 @@ WP4 related contributions
 
 Other demos are suggested to be turned into videos.
 
-
 * Spack to manage computational environments (Robert)
 
+"Managing HPC Software Complexity with Spack"
+- slides from Spack consortium
+
+Why use Spack?
+- Exascale Computing Project (ECP)
+- built software from source
+- can have local mirror of all sources (i.e. still works if source disappears from Internet, or if the Internet disappears itself)
+  - good for reproducibility
+- can install multiple versions of the same software but with different libraries/dependencies/flags
+- can create containers from Spack
+- can create module files Spack
 
 * Next meeting
 - 16 June: Cancelled due to review day.
 - 30 June (probably)
 
 * Any other business
-- Topics for next meetings
-* Actions
+- Please suggest topics for next meetings
+
