@@ -19,6 +19,6 @@ Agenda
 3. Review Meeting presentations - *any feedback?*
 *  [WP4-intro-fangohr.pptx](https://github.com/panosc-eu/panosc/files/4712783/WP4-intro-fangohr.pptx)
 *  [PaNOSC_WP1_ReviewMeeting.pptx](https://github.com/panosc-eu/panosc/files/4721833/PaNOSC_WP1_ReviewMeeting.pptx)
-*  [Draft WP9](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP9%20Outreach%20and%20communication/Presentations/M18%20Review%20Meeting/WP9-PaNOSC_NCarboni_2020ReviewMeeting.pdf)
+*  [Draft WP9](https://github.com/panosc-eu/panosc/raw/master/Work%20Packages/WP9%20Outreach%20and%20communication/Presentations/M18%20Review%20Meeting/WP9-PaNOSC_NCarboni_2020ReviewMeeting.pdf)
    
 4. Rehearsal structure
