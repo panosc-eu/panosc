@@ -70,7 +70,9 @@ Andy suggested after that it is important to link the activities in each WP to t
 
  Include the following key words into your slides: **FAIR, EOSC, Open Science, reproducibility, Open Data, Open Source, User Cases, Users, ...**
 
+
 **4. Rehearsal structure**
+
 Tobias stated that he will not be able to attend the rehearsal and it was agreed that for the rehearsal Jordi will share zoom meeting details. The rehearsal will last from 13:00h until 17:00h and everyone should attend in its enterity. 
 
 Andy requested Jordi to make clear that the time allocated for each presentation is the maximum not too be exceeded, however it is OK to consume less time.
