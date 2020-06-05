@@ -18,7 +18,7 @@
 
 |            | KPI1 M0  | KPI 1 M12               | KPI1 M17               | KPI 2 M0 | KPI 2 M12 | KPI2 M17 |   KPI 3 M0 |   KPI 3 M12 | KPI3 M17                                    |
 | ---------- | -------- | ----------------------- | ---------------------- | -------- | --------- | -------- | ---------- | ----------- | -----------                                 |
-| CERIC-ERIC | 0        | (JupyterHub)            | (JupyterHub/Guacamole) |        0 |         0 |          |          0 |           3 | 3                                           |
+| CERIC-ERIC | 0        | (JupyterHub)            | (JupyterHub/Guacamole) |        0 |         0 |      15  |          0 |           3 | 3                                           |
 | ELI        | 0        | -                       | (JupyterHub/Lab)       |        0 |         1 |        2 |          0 |           1 | 2                                           |
 | ESS        | VNC      | (JupyterHub/VNC)        | (JupyterHub/VNC)       |       10 |        20 |       40 |          0 |           1 | 1                                           |
 | EuXEL      | FastX    | (JupyterHub/FastX)      | (JupyterHub/FastX)     |        - |       150 |      175 |          2 |           2 | 2                                           |
