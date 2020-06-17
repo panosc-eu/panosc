@@ -28,6 +28,9 @@ Overall very good review. Some mixed feedback on e-learning platform. Critical q
 ### AAI & cloud computing
 Kareem working with Jean-Francois on integrating AAI in e-learning platform. Need to push for cloud computing resources
 
+### Thomas and Peter had meeting with Jesper B and viktor
+Input for workshops: https://docs.google.com/document/d/1XUnvlQgZDVisKXAHr3YReDlIbd5nETnrKfqV5ThoHCY/edit#
+
 # Actions
 - [ ] Mads and Viktor: To discuss Jupyter-replacement of the iFitlab
 - [ ] Thomas: Review obsoletion notice for old system
