@@ -16,7 +16,7 @@ The Review Meeting took place 16/06/2020. Jordi reported his impressions from th
 
 The reviewer noted that WP8 progress was not as impressive. 
 
-Thomas pointed out that WP8 is delivering as per the proposal and grant agreement, therefore he doesn't fully understand this feedback. Hans said that he doesn't know what were the expectations, Ornela suggested that maybe was the lack of new/extra development on the training site and Rudolf especulated that maybe the comments were due to the technology used in the e-learning platform, which is not as modern as the technologies used in other WPs. Roberto agreed with Rudolf and Andy pointed out that in her role as teacher she may have been able to be more critic in this WP.
+Thomas pointed out that WP8 is delivering as per the proposal and grant agreement, therefore he doesn't fully understand this feedback. Hans said that he doesn't know what were the expectations, Ornela suggested that maybe was the lack of new/extra development on the training site and Rudolf speculated that maybe the comments were due to the technology used in the e-learning platform, which is not as modern as the technologies used in other WPs. Roberto agreed with Rudolf and Andy pointed out that in her role as teacher she may have been able to be more critic in this WP.
 
 It was agreed that Thomas will amend the text for the periodic report over the next week. There wasn't consensus on whether come back to our reviewer to ask for more specific feedback/ clarifications. https://drive.google.com/file/d/1ITpI3mAQ4FR454obS2D8gveL1mA5wEz7/view?usp=sharing
 
@@ -52,7 +52,7 @@ Giuseppe pointed out that the documents for the EGI conference shoudl be submitt
 
 **5. Annual Meeting with ExPaNDS**
 
-Andy reported a meeting about the Annual Meeting last week. He explained that event information is available at https://indico.maxiv.lu.se/event/1375/timetable/#20200618 and that it will be split in two parts:
+Andy reported a meeting about the Annual Meeting last week. He explained that event information is available at https://indico.eli-beams.eu/event/369/ and that it will be split in two parts:
 
  First: a symposium
 
