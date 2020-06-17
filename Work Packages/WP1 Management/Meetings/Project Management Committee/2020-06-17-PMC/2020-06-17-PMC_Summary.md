@@ -39,20 +39,20 @@ Rudolf suggested that the Coordinator (i.e. the ESRF) should also add an overall
 Thomas mentioned that it would be good to add to the report the fact that PaN users work on both Photon and Neutron facilities at the same time.
 
 With this, the points 1, 2 (*Revew Report to write*) and 3 (*Financial information*) of the agenda were covered. As a summary:
- * The Review Report to edit : **ANDY TO ADD LINK TO DOCUMENT HERE** which should be completed by 30th June
+ * The Review Report to edit : https://drive.google.com/file/d/1ITpI3mAQ4FR454obS2D8gveL1mA5wEz7/view?usp=sharing which should be completed by 30th June
  * Financial information is required by 30th June (so it can be discussed in the next PMC scheduled for 1st July)
  * From 1st July, the ESRF will do final minor amendments in order to submit all the information by 15th July (PMC scheduled that day as well)
  * Jordi and Andy will go on annual leave afterwards, so it is very important to have all the information ready by 30th June
 
 **4. EGI conference - PaN session with ExPaNDS**
 
-Andy showed the document done together with ExPaNDS (**ANDY TO ADD LINK TO THE EGI CONFERENCE DOC HERE**) and it was agreed to expand it with an *Overview on Jupyter developments* and also *Remote access for experiments*.
+Andy showed the document done together with ExPaNDS (https://docs.google.com/document/d/1Qc64SwTs3N9FEusbnMTths_cmCZuGRwBysZheWMrcIY/edit?usp=sharing) and it was agreed to expand it with an *Overview on Jupyter developments* and also *Remote access for experiments*.
 
 Giuseppe pointed out that the documents for the EGI conference shoudl be submitted at the end of the week and also explained that in the next two months it will be decided whether the EGI Conference will be a face-to-face or remote event.
 
 **5. Annual Meeting with ExPaNDS**
 
-Andy reported a meeting about the Annual Meeting last week. He explained that event information is available at **ANDY TO ADD LINK TO ANNUAL MEETING** and that it will be split in two parts:
+Andy reported a meeting about the Annual Meeting last week. He explained that event information is available at https://indico.maxiv.lu.se/event/1375/timetable/#20200618 and that it will be split in two parts:
 
  First: a symposium
 
