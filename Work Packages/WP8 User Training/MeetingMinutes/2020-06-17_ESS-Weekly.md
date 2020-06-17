@@ -14,7 +14,7 @@
 ## Updates
 
 ### Daily operation ###
-DST has prioritized more disk space for pan-learning. 
+DST has prioritized more disk space for pan-learning. Should be ready in the next five days
 
 ### PaNOSC review
 Overall very good review. Some mixed feedback on e-learning platform. Critical questions related to why it is not more open. Should accelerate that task
