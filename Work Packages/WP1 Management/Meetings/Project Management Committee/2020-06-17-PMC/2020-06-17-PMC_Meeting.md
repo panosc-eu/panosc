@@ -30,4 +30,4 @@ Agenda
 * PMC 15/07/2020 
 * Every other week afterwards (holidays permitting)
 
-6. AOB
+7. AOB
