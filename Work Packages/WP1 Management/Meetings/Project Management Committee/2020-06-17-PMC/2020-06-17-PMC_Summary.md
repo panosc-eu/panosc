@@ -4,7 +4,7 @@
 
 Attendees
 -------
-Andy (ESRF), Jordi (ESRF), Rudolf (ESRF), Hans (XFEL), Nicoletta (CERIC), Jamie (ILL), Tobias (ESS), Thomas (ESS), Ornela(CERIC), Petra (ESS), Roberto (CERIC), Dario (CERIC) and Jon (ESS)
+Andy (ESRF), Jordi (ESRF), Rudolf (ESRF), Hans (XFEL), Nicoletta (CERIC), Jamie (ILL), Tobias (ESS), Thomas (ESS), Ornela(CERIC), Petra (ESS), Roberto (CERIC), Dario (CERIC), Giuseppe (EGI.eu) and Jon (ESS)
 
 
 Minutes
