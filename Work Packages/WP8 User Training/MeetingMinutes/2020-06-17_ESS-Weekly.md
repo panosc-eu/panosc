@@ -13,13 +13,8 @@
 
 ## Updates
 
-### KPIs
-https://docs.google.com/spreadsheets/d/1iivsvBrix4v6lmC2U3sOC6YEXFeY0JzXHTM9QQQZwiY/edit#gid=0
-
-### Task force
-
-https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/2020-05-05_TaskForce.md
-
+### Daily operation ###
+DST has prioritized more disk space for pan-learning. 
 
 ### PaNOSC review
 Overall very good review. Some mixed feedback on e-learning platform. Critical questions related to why it is not more open. Should accelerate that task
