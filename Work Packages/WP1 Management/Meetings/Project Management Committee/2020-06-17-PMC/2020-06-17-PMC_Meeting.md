@@ -1,8 +1,6 @@
 PaNOSC Project Management Committee Meeting - 17/06/2020 
 ========================================================
 
-Review Meeting date: 16th June all day
-
 Agenda
 ------	
 
