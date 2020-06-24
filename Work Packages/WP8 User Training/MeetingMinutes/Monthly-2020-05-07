@@ -1,0 +1,42 @@
+## Participants
+
+* Andy
+* Florian
+* Patrick
+* Peter
+* Thibaud
+* Thomas
+* Uwe
+
+## Review of tasks from past meeting
+* Florian introduced the goals of the meeting, which were to review the outcomes of the recent interactions between WP5 and WP8 of ExPaNDS and PaNOSC and more specifically discuss how the two projects could align their strategies or roadmaps moving forward in the area of training, in particular in the development of the training platform, its content and the organisation of training workshops.
+* For that purpose, the meeting started with brief presentations by the two WP leaders, Thibaud and Thomas, outlining the respective scopes and budgets of the two WPs. An integrated Gantt chart showing the tasks, deliverables and milestones was also reviewed. The main outcomes of the discussion were as follows:
+- [ ] It was confirmed that the platform being developed as part of PaNOSC is expected to be used by ExPaNDS as well.
+- [ ] The branding of the platform should therefore be generic enough to not be only associated with PaNOSC (see logos shared by Thomas)
+- [ ] It was agreed that the initial scope of the platform should include: content derived from the WPs of both projects (especially content related to data stewardship, the FAIR principles and data analysis services) and scientific use cases promoting the techniques available at the partner facilities, leveraging the functionalities of the platform.
+- [ ] As a next step, it was agreed that WP8 and WP5 should engage, within the two projects, with other WPs to communicate on the scope of the platform and initiate discussions on the content that could be provided by each WP. It is understood that resources available for WP8 and WP5 should be used to support the other WPs in this exercise. Further discussion will be needed on how to engage.
+- [ ] As regards the use cases, it was agreed that all partners should be approached to identify possible use cases. In this context, it was also mentioned that existing training content (see inventory initiated by Thibaud) should be considered as content to be taken on board.
+
+## Workshops:
+* Despite different "specifications" in the two grant agreements, it was agreed that there should be, as much as possible, as joint approach to the organisation of workshops by the two projects. This includes joint development of content and, where possible, joint workshops.
+* Two types of training events are considered: training for the teaching staff on how to use the platform and training of users. In addition, a summer school is planned in PaNOSC (plan to organise with Hercules school leveraging existing content).
+* As a next step, it was agreed that a more detailed plan for the workshop should be put together and then communicated to the management of both projects.
+* It was mentioned that remote workshops should be considered more than initially planned given the pandemic context and the practical aspects.
+
+## AoB:
+* The topic of sustainability was also discussed. The following items were raised and will have to be discussed within the framework of the joint working group:
+- [ ] Logo, image and licensing
+- [ ] Ownership, maintenance and governance of the platform beyond the project timeframe
+- [ ] Terms of use
+- [ ] Getting users in the long-term
+
+Tasks
+- [ ] Florian to connect Peter with person available for Jupyter integration
+- [ ] Florian to confirm availability of colleagues from ELI Beamlines for front-end work
+- [ ] Thomas to follow up with Jesper and Victor
+- [ ] Thomas to update Gantt chart and add PaNOSC's missing data
+- [ ] Thibaud to ask Brian Matthews for technical requirements for first ExPaNDS training workshop on FAIR
+- [ ] Florian to inform Andy about this first workshop to explore synergies with PaNOSC's WP2
+- [ ] ALL to review table of available online courses
+- [ ] Florian to reach out to ExPaNDS and PaNOSC coordinators to schedule joint call (May 11th and May 18th afternoon to be considered)
+
