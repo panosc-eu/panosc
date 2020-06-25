@@ -1,0 +1,20 @@
+#+TITLE: WP4 Video meeting <2020-06-30 Tue 15:00>
+
+:present: Jamie (chair)
+
+:apologies: Hans 
+
+* Actions from last meeting
+
+* Update review meeting
+- Review meeting has taken place
+- Awaiting feedback from reviewer on meeting on deliverables
+
+* Update from ELI/Jakub on Portal front-end development
+
+* Next meeting
+- 14 July
+
+* Any other business
+
+
