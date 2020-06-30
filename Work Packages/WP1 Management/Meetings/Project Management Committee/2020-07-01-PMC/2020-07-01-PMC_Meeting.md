@@ -6,7 +6,7 @@ Agenda
 
 1. Financial information missing for Financial report (EGI & CERIC-ERIC)
 
-2. Financial informaion availble in the EU Portal
+2. Financial informaion availble in the EU Portal (only ESS info ready)
 
 3. Review Report
     * any modifications added?
