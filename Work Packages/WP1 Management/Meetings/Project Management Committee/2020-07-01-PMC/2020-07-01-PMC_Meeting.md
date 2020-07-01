@@ -15,6 +15,8 @@ Agenda
 
 4. Paper from the EOSC executive on participation
 
-5. AOB
+5. Pending milestone
+
+6. AOB
 
 
