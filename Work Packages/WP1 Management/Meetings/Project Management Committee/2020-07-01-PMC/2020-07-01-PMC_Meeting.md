@@ -5,6 +5,7 @@ Agenda
 ------	
 
 1. Financial information missing for Financial report (EGI & CERIC-ERIC)
+    * If XFEL cannot provide € figures per WP, how can we talk about deviation?
 
 2. Financial informaion availble in the EU Portal (only ESS info ready)
 
@@ -12,6 +13,8 @@ Agenda
     * any modifications added?
     * information about deviations
 
-4. AOB
+4. Paper from the EOSC executive on participation
+
+5. AOB
 
 
