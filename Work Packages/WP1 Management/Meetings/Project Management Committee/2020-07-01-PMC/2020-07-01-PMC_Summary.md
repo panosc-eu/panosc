@@ -20,7 +20,7 @@ It was agreed to add these items to the end of the meeting.
 
 **1. Financial information missing for Financial report**
 
-Jordi explained that for the Financial Report is **still missing information from EGI and CERIC-ERIC**. He kindly reminded these two partners to provide the table with PMs, actual direct costs in €, spent in travel and spent in other costs per work package to him.
+Jordi explained that for the internal Financial Report is **still missing information from EGI and CERIC-ERIC**. He kindly reminded these two partners to provide the table with PMs, actual direct costs in €, spent in travel and spent in other costs per work package to him.
 
 Jordi also pointed out that for XFEL, the information includes PMs but then when it comes to costs in € there is not WP breakdown. Hans said that he will contact his colleague working on this (Deike) to check out this issue.
 
