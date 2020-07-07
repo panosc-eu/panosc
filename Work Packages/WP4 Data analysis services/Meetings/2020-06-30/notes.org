@@ -13,7 +13,7 @@
 * Update from ELI/Jakub on Portal front-end development
 
 * Next meeting
-- 14 July
+- 18 August
 
 * Any other business
 

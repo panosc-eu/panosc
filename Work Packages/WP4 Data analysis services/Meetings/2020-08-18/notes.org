@@ -1,0 +1,15 @@
+#+TITLE: WP4 Video meeting <2020-08-18 Tue 15:00>
+
+:present: 
+
+:apologies:
+
+* Draft Agenda
+
+* Update from ELI/Jakub on Portal front-end development
+* Update from ExPaNDS
+- technical coordination workshop (Jamie/Daniel)
+
+* Any other business
+
+
