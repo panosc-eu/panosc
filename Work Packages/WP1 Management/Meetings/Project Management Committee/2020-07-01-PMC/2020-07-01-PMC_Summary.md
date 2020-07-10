@@ -40,7 +40,7 @@ Jordi encouraged all partners to submit data and sign it off and explained that 
 
 **3. Review Report**
 
-Jordi explained that Andy and Rudolf and on leave, however they have continued to work on the Review Report to submit (we only submitted an advanced draft).
+Jordi explained that Andy and Rudolf are on leave, however they have continued to work on the Review Report to submit (we only submitted an advanced draft).
 
 Jordi explained that the document should have some additions though:
 * A paragraph for each partner that has a 10% deviation somewhere (as our Project Officer pointed out)
@@ -52,7 +52,7 @@ Jordi agreed to find the link to the Google Doc and share it with Florian and Th
 
 **4. Paper from the EOSC executive on participation**
 
-Ornela explained that there are some documentation shared by the EOSC Secretariat asking who (Research Infrastructures) want to take part and be founding members of the EOSC Legal Entity in Brussels. This entity (an International non-for-profit organisation or IASBL in Belgian law)  will have for the first few years direct European Commission funding with the expentation that over time will find an alternative funding model (maybe direct contributions from countries?) that will allow it to 'stand on its own feet'.
+Ornela explained that there are some documentation shared by the EOSC Secretariat asking who (Research Infrastructures) wants to take part and be founding members of the EOSC Legal Entity in Brussels. This entity (an International non-for-profit organisation or AISBL in Belgian law)  will have for the first few years direct European Commission funding with the expectation that over time it will find an alternative funding model (maybe direct contributions from countries, or from the founding members?) that will allow it to 'stand on its own feet'.
 
 Ornela shared https://www.cesnet.cz/wp-content/uploads/2020/06/Quo_vadis_EOSC.pdf
 and said that starting in slide 13 there is basic info on the legal entity
@@ -60,9 +60,9 @@ https://www.eosc-portal.eu/news/establishing-eosc-legal-entity
 
 A description of the partnership, from page 23, with KPIs expected (maybe the requirements for the institutions that will join the EOSC legal entity?) is also available through https://ec.europa.eu/info/sites/info/files/research_and_innovation/funding/documents/ec_rtd_he-partnership-open-science-cloud-eosc.pdf
 
-Jordi asked Ornela to clarify that even when it is likely that in the long term the EOSC will be funded by countries, the founding members are to be Research Institutions rather than countries to which Ornela said that that was correct.
+Jordi asked Ornela to clarify that even when it is likely that in the long term the EOSC will be funded by EU member countries, the founding members are to be legal entities rather than countries to which Ornela said that that was correct.
 
-Jon explaiend that ESS will join the EOSC as a founding member and that that would involve significant amount of work, putting in place and extending on one hand a funding mechanism for the organisation and in the other a Minimum Viable Ecosystem.
+Jon explaiend that ESS will join the EOSC as a founding member and that that would involve a significant amount of work, putting in place and extending on one hand a funding mechanism for the organisation and in the other a Minimum Viable Ecosystem.
 
 Jean-François said that he feels like there is very few information available to which Jon replied that a roadmap is being finished and will go on public consultation from the end of the summer.
 
@@ -70,7 +70,7 @@ Jean-François also asked whether the new AISBL will replaced the Governance Boa
 
 Jordi added that it would be positive for the EOSC the fact that there will be some staff hired that will be working 100% in making the EOSC a reality, making it sustainable and useful (as their salaries will depend on it).
 
-Jon added that he believes that the more Photon and Neutron RIs that are early on within the EOSC the bigger will be the impact. ESS will be a founding member however it is not an operational facility yet and in order to support our communities we require more RIs at the EOSC which could end in turn meaning more services for our current user comunity.
+Jon added that he believes that the more Photon and Neutron RIs that are early on within the EOSC the bigger will be the impact. ESS will be a founding member, however, it is not an operational facility yet and in order to support our communities we require more RIs at the EOSC which could end in turn meaning more services for our current user comunity.
 
 
 **5. Pending milestone**
@@ -112,7 +112,7 @@ Sophie also clarified that the presentation of Diego will be done in name of ExP
 
 **9. AOB**
 
-Florian explained that recruitment of a senior technical person at ELI is almost completed and that he expects the contract to be signed soon so the candidate can start on 1st of August. This new person will be more technical than Florian and be able to complement Florian work for PaNOSC.
+Florian explained that recruitment of a senior technical person at ELI is almost completed and that he expects the contract to be signed soon so the candidate can start on 1st of August. This new person will be more technical than Florian and be able to complement Florian's work for PaNOSC.
 
 Jordi ending the meeting reminding everyone of the required financial information and that he expects that by the next PMC meeting (planned for 15th July) everything shoudl have been submitted and approved in the EU Portal.
 
