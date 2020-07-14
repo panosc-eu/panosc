@@ -51,6 +51,8 @@ Next internal milestones
 * **No upcoming deliverable or milestone for WP9 over the next 12 months!**
 
 
-5. AOB
+5. EOSC Glossary 
+
+6. AOB
 
 
