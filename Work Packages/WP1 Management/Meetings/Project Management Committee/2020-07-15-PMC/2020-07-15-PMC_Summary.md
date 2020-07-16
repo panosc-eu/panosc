@@ -36,30 +36,30 @@ Jean-François reported that he hopes to have this done by the end of the week.
 
 **4. Update from the WP Leaders**
 
-Jordi reported work on the Periodic Report. He said that once he receives the missing information from CERIC-ERIC he will start working on a new Internal Financial Report.
+**WP1: Jordi reported** work on the Periodic Report. He said that once he receives the missing information from CERIC-ERIC he will start working on a new Internal Financial Report.
 
 Jordi and Andy will be on leave for a while, but Jordi will put together a doodle to check if there is enough attendance for a PMC meeting (to be chaired by Florian maybe?). Jordi also reminded the attendees of the upcoming milestones and internal milestones. For the WP without upcoming stuff it would be good to define internal milestones.
 
-Andy reported that looking at the upcoming milestones WP2 is a bit behind, work on DMPs and adopting the data policy is coming up. Andy also noted that more work and effort is required in WP2.  Florian said that it could be a good idea to have the current status of all partners with regards to the DP.
+**WP2: Andy reported** that looking at the upcoming milestones WP2 is a bit behind, work on DMPs and adopting the data policy is coming up. Andy also noted that more work and effort is required in WP2.  Florian said that it could be a good idea to have the current status of all partners with regards to the DP.
 
 There weren't any representatives from WP3, WP4 or WP5.
 
-Jean-François reported that for AAI 50% of the service providers have been migrated and that he hopes to have the 100% by the end of the summer. Jean-François mentioned that he obtained green ligth to join EGIS (led by Géant and kind of an EOSC AAI). For the data transfer he reported that the ILL is ready for the archive test (ILL-STFC) and that it would now be possible to test Onedata with ILL data.
+**WP6: Jean-François reported** that for AAI 50% of the service providers have been migrated and that he hopes to have the 100% by the end of the summer. Jean-François mentioned that he obtained green ligth to join EGIS (led by Géant and kind of an EOSC AAI). For the data transfer he reported that the ILL is ready for the archive test (ILL-STFC) and that it would now be possible to test Onedata with ILL data.
 
 Following this, a brief conversation about WP6 leadership and ILL representatives at the PaNOSC PMC meetings followed.
 
-Regarding WP7, Ornela reported that task 2 has started by looking at costs, comparing info and that there will be a meeting towards the end of August. Also, she reported that a new person from CERIC-ERIC will be available to help with Task 7.3 (Business Plan). Ornela said that the WP members will reflect on internal milestones and provide something, so the WP can be tracked.
+**Regarding WP7, Ornela reported** that task 2 has started by looking at costs, comparing info and that there will be a meeting towards the end of August. Also, she reported that a new person from CERIC-ERIC will be available to help with Task 7.3 (Business Plan). Ornela said that the WP members will reflect on internal milestones and provide something, so the WP can be tracked.
 
 Not related to WP7, Ornela said taht CERIC has hired Daniel Webster to follow the technical WPs (WP3, WP4, WP5 and WP6).
 
-Florian reported that some action points in WP8 will be done before the end of July and that a training portal that is open source has been found, from which somethings could be reused.
+**Florian reported that some action points in WP8** will be done before the end of July and that a training portal that is open source has been found, from which somethings could be reused.
 
-Nicoletta reported a news item in the PaNOSC site about OSCovIDA and a remote user meeting for Solaris (9-11 september) where CERUC could introduce the PaNOSC data policy (however the deadline to submit abstracts is 2nd August).
+**WP9: Nicoletta reported** a news item in the PaNOSC site about OSCovIDA and a remote user meeting for Solaris (9-11 september) where CERUC could introduce the PaNOSC data policy (however the deadline to submit abstracts is 2nd August).
 
 Nicoletta said that the DOI video is almost ready, only ESS logo and LENS signature/approval is pending.
 
 
-**5. EOSC Glossary **
+**5. EOSC Glossary**
 
 Ornela talked about an EOSC Glossary that has been published and is open for feedback (at  https://docs.google.com/document/d/16Y7suCUzCguSWvAZuoeHk2HT40Q_kfDsuEyZsBxOSms/edit). Ornela will create a copy of it, collect feedback from PaNOSC partners and then we will add feedback as PaNOSC (rather than as RIs or individuals).
 
