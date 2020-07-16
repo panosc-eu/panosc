@@ -4,7 +4,7 @@ Tuesday 7th July 2020 - 11H00 CET
 
 ​	Next meeting : 21th July 2020 at 11H00 CET (TBC)
 
-Attendees :  Jean-François.
+Attendees :  Jean-François, Marco, Giuseppe, Christos, Ian, Andrea, Kareem, Daniel (CERIC)
 
 
 ## Agenda:

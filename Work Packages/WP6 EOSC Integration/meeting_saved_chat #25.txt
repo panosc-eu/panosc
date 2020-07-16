@@ -1,0 +1,8 @@
+11:33:17	 De  Giuseppe : EGI has a cloud marketplace where available VAs are available: https://appdb.egi.eu/
+11:33:44	 De  Andy Gotz : Spack is becoming popular: https://computing.llnl.gov/projects/spack-hpc-package-manager
+11:34:20	 De  Daniel Webster (CERIC) : Andy do you recall a spack presentation recently that we were in? There were some great slides - was it Robert Rosca's presentation?
+11:36:46	 De  Marco De Simone : I'd investigate singularity + spack
+11:40:15	 De  Andy Gotz :  Yes Robert Rosca did a great presentation
+11:40:34	 De  Andy Gotz : At a WP4 meeting
+11:58:16	 De  Johnson, Ian (STFC,RAL,SC) : I've got to leave for another meeting now. It was useful to have the walk-through of the ILL archive structure. I've had no time to do anything practical as I've been taking over some work from a colleague who's left RAL. This might be of interest as comparison with what ISIS have: https://www.isis.stfc.ac.uk/Pages/Connecting-to-isiscomputendrlacuk-using-NoMachine.aspx
+11:58:48	 De  Christos Kanellopoulos : I need to drop off the call.. This was very interesting. Bye all
