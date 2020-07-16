@@ -38,7 +38,7 @@ Jean-François reported that he hopes to have this done by the end of the week.
 
 **WP1: Jordi reported** work on the Periodic Report. He said that once he receives the missing information from CERIC-ERIC he will start working on a new Internal Financial Report.
 
-Jordi and Andy will be on leave for a while, but Jordi will put together a doodle to check if there is enough attendance for a PMC meeting (to be chaired by Florian maybe?). Jordi also reminded the attendees of the upcoming milestones and internal milestones. For the WP without upcoming stuff it would be good to define internal milestones.
+Jordi and Andy will be on leave for a while, but Jordi will put together a doodle (https://doodle.com/poll/68uuvg4cmcravurd) to check if there is enough attendance for a PMC meeting (to be chaired by Florian maybe?). Jordi also reminded the attendees of the upcoming milestones and internal milestones. For the WP without upcoming stuff it would be good to define internal milestones.
 
 **WP2: Andy reported** that looking at the upcoming milestones WP2 is a bit behind, work on DMPs and adopting the data policy is coming up. Andy also noted that more work and effort is required in WP2.  Florian said that it could be a good idea to have the current status of all partners with regards to the DP.
 
