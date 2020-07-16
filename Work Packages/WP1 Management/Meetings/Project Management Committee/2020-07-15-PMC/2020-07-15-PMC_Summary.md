@@ -44,7 +44,7 @@ Jordi and Andy will be on leave for a while, but Jordi will put together a doodl
 
 There weren't any representatives from WP3, WP4 or WP5.
 
-**WP6: Jean-François reported** that for AAI 50% of the service providers have been migrated and that he hopes to have the 100% by the end of the summer. Jean-François mentioned that he obtained green ligth to join EGIS (led by Géant and kind of an EOSC AAI). For the data transfer he reported that the ILL is ready for the archive test (ILL-STFC) and that it would now be possible to test Onedata with ILL data.
+**WP6: Jean-François reported** that for AAI 50% of the service providers have been migrated and that he hopes to have the 100% by the end of the summer. Jean-François also mentioned that he obtained green light to join AEGIS  (https://wiki.geant.org/display/AARC/AEGIS). AEGIS brings together representatives from research and e-infrastructure, operators of AAI service implementing the AARC Blueprint Architecture (AARC BPA). For the data transfer he reported that the ILL is ready for the archive test (ILL-STFC) and that it would now be possible to test Onedata with ILL data.
 
 Following this, a brief conversation about WP6 leadership and ILL representatives at the PaNOSC PMC meetings followed.
 
