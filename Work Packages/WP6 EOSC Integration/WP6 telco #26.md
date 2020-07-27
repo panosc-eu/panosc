@@ -5,7 +5,7 @@ Tuesday 21st July 2020 - 11H00 CET
 ​	Next meeting : 4th August 2020 at 11H00 CET (TBC)
 
 Attendees :  Jean-François
-Excused: Christos, Giuseppe
+Excused: Christos, Giuseppe, Rudolf.
 
 
 ## Agenda:
