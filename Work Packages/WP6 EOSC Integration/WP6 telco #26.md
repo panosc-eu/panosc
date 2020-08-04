@@ -12,7 +12,7 @@ Excused: Christos, Giuseppe, Rudolf.
 
 1. VISA presentation
 2. Current status
-3. \- Integration of services in the EOSC Portal 
+3. Integration of services in the EOSC Portal 
 4. Definition of PaNOSC services, try to propose a definition for the PMC 
 5. AOB
 ## Discussions:
