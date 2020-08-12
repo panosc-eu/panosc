@@ -4,12 +4,13 @@
 
 :apologies:
 
-* Draft Agenda
 
-* Update from ELI/Jakub on Portal front-end development
-* Update from ExPaNDS
-- technical coordination workshop (Jamie/Daniel)
+* Update on Portal front-end development (Jakub)
+* Technical coordination workshop (Jamie/Daniel)
+* Next steps for portal and user engagement (all)
+- involvement of all sites
 
+* Next meeting
 * Any other business
 
 
