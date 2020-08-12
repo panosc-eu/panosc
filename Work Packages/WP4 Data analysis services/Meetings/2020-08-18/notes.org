@@ -5,9 +5,9 @@
 :apologies:
 
 
-* Update on Portal front-end development (Jakub)
-
 * Technical coordination workshop (Jamie/Daniel)
+
+* Update on Portal front-end development (Jakub)
 
 * Next steps for portal and user engagement (all)
 - involvement of all sites in portal development
