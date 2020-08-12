@@ -5,9 +5,19 @@
 :apologies:
 
 
-* Technical coordination workshop (Jamie/Daniel)
+* Welcome after summer break (round table)
+From each facility
+- brief update on COVID19 situation at facility
+- any PaNOSC work highlights 
+
+* Technical coordination workshop announcement (Jamie/Daniel)
+- proposed date for the workshop is October 8th 2020, from 13:00 to 17:00. 
+- More details on the event is available here:
+  https://indico.cells.es/event/249/
+- all PaNOSC partners should present and participate
 
 * Update on Portal front-end development (Jakub)
+- main item of the meeting
 
 * Next steps for portal and user engagement (all)
 - involvement of all sites in portal development
@@ -17,5 +27,4 @@
 Tuesday 8 September 15:00
 
 * Any other business
-
 
