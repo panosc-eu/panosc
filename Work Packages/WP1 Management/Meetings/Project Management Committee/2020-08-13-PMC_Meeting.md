@@ -17,6 +17,8 @@ Agenda
 
 5. Post-summer perspectives (see latest email by Andy)
 
-6. AOB
+6. Extension of ExPaNDS
+
+7. AOB
 
 
