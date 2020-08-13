@@ -13,6 +13,7 @@ Agenda
 4. Upcoming events:
 * *PaNOSC - ExPaNDS annual meeting: status update*
 * *Joint workshop on portal organised by ALBA*
+* *EOSC - ESFRI workshop in Greece*
 
 5. Post-summer perspectives (see latest email by Andy)
 
