@@ -16,8 +16,13 @@ From each facility
   https://indico.cells.es/event/249/
 - all PaNOSC partners should present and participate
 
-* Update on Portal front-end development (Jakub)
-- main item of the meeting
+* Update on Portal frontend development (Jakub and Jiri)
+- Update on current state: technologies + structure
+- Questions and challenges
+- Search
+- Integration with backend
+- Original Analysis
+- Development roadmap
 
 * Next steps for portal and user engagement (all)
 - involvement of all sites in portal development
