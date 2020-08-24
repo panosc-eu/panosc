@@ -13,8 +13,11 @@ Agenda
 4. Updates from WP leaders
 
 5. Upcoming events: 
+
     ESS-ILL Users Meeting
+
     SOLARIS Users Meeting
+
     ESFRI EOSC Meeting
 
 5. Post-summer perspectives (see latest email by Andy)
