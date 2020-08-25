@@ -1,15 +1,147 @@
 #+TITLE: WP4 Video meeting <2020-08-18 Tue 15:00>
 
-:present: 
+:present:  Jakub, Aidan, Franz (ISIS), Thomas K, Loic, Robert R, Matteo (Elettra), Hans
 
-:apologies:
+:apologies: Jamie, Lottie
 
-* Draft Agenda
 
-* Update from ELI/Jakub on Portal front-end development
-* Update from ExPaNDS
-- technical coordination workshop (Jamie/Daniel)
+* Welcome after summer break (round table)
+From each facility
+- brief update on COVID19 situation at facility
+- any PaNOSC work highlights 
+
+** ESS (report by email)
+Re: Covid 19, we are working from home mainly, but will be back working 2 days a
+week at the office from September onwards - I don't think we are blocked on any
+panosc work.
+
+Re: PaNOSC WP4 work, we have been working on deploying the panosc portal into
+our infrastructure, rather than running it locally.
+
+** ELI
+- no lock down
+- worked with deploying the portal
+- learning about setting up HPC infrastructures
+- also work on the portal
+
+** EuXFEL
+- COVID19: working from home, but public life is not very constraint
+- PaNOSC: mostly working on OSCOVIDA, Deploy Spack at EuXFEL
+
+** ESRF
+- COVID19: back to work 2 days a week, rest of the week at home
+- PaNOSC: JupyterHub on HPC in production, and is public, no progress on portal
+
+** Elettra
+- COVID: mostly smartworking from home, expect to be back in office in September
+
+** Diamond (Chris)
+- COVID: working from home
+- PaNOSC
+
+** ISIS (Franz)
+- COVID: working remotely, no change expected
+- expect graduate student to join ExPaNDS
+
+* Technical coordination workshop announcement (Jamie/Daniel)
+- proposed date for the workshop is October 8th 2020, from 13:00 to 17:00. 
+- More details on the event is available here:
+  https://indico.cells.es/event/249/
+- all PaNOSC partners should present and participate
+
+* Update on Portal front end development (Jakub and Jiri)
+- Update on current state: technologies + structure
+- Questions and challenges
+- Search
+- Integration with backend
+- Original Analysis
+- Development roadmap
+
+*** Milestones
+- October 2020 : prototype implementation for portal
+  - well-organised, reusable UI components
+  - prototype integration with search API
+  - prototype integration with backend services
+  - development and implementation of advanced search and filtering, 
+  - and user dash board
+- March 2021: Launch remote Desktop and Jupyter Analysis from portal
+- November 2021 - Demonstrator prototype completed
+
+** Discussion
+*** Integration with backend services
+- multi-dataset environment?
+- single data per environment only?
+
+Hans
+- expect single dataset to be a very common use case
+- bundling might be relatively irrelevant for EuXFEL (and some other facilities)
+  as data is mounted anyway
+- Aidan: calipso plus mounts the data sets (not built into container)
+- Chris: similar situation at Diamond (for JupyterHub)
+
+*** How to implement original analysis + original environment?
+- additional button?
+- default choice?
+
+Hans:
+  - 'original analysis' same as 'reproducible papers' we discussed before
+  - good as example data set entries providing a set of:
+    - data set, analysis code, (correct or at least known) analysis result
+  - the reference data sets that ExPaNDS is gathering could also form a data set each in the system
+
+*** Feedback
+- double task for ELI: implementation and design at the same time
+- good to raise questions and doubts
+
+* Next steps for portal and user engagement (all)
+- involvement of all sites in portal development
+- user engagement
+
+** Discussion
+- implementation efforts trigger good questions
+- iterate between back-end and front-end
+- involve everybody in design questions
+
+
+- Aidan: identify sys-admins and developers to see how to distribute tasks
+- general agreement that we need to allocate tasks according to the expertise
+  available at the partner sites
+
+Hans:
+- we must offer the portal at each facility as a local service, which 
+  provides features that go beyond the current facility provision to make it attractive.
+- What would scientists like?
+
+Chris:
+- we can make educated guesses, but we should get input from the scientists
+- should drag in a bunch of scientists
+- focus on those doing work in multiple facilities
+
+Jakub:
+- imagine public version of the portal as a prototype and ask scientists for feedback
+Hans: 
+- invite users to portal forum to (i) present current plans and invite feedback
+  and (ii) ask them to demo what they are currently doing
+- as an incentive, the local PaNOSC/ExPaNDS team that attracted the user, can
+  turn their analysis requirements into a service that is supported [if
+  possible].
+
+
+** Portal forum
+Suggestion to have a portal forum (suggestions for better names welcome!) that:
+- is a group with at least one representative from all sites (PaNOSC and ExPaNDS)
+- which discusses and develops the design for the portal (and associated back-end)
+- feeds in requirements (probably based on the requirements for each facility)
+- helps bring in users to advise on their requirements/wishlist
+
+* Next meeting
+Tuesday 8 September 15:00
 
 * Any other business
+- Reply to email with subject "Re: Block the dates / PaNOSC-ExPaNDS 2020 Annual
+  Meeting / 9-11 November 2020"
 
 
+
+* Actions
+- each facility to nominate representative for portal forum (and a deputy)
