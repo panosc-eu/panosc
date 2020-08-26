@@ -1,0 +1,34 @@
+#+TITLE: WP4 Video meeting <2020-08-18 Tue 15:00>
+
+:present:  
+
+:apologies: 
+
+* Minutes from last meeting
+Are available at https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-08-18/notes.org
+
+* Technical coordination workshop announcement (Jamie/Daniel)
+- proposed date for the workshop is October 8th 2020, from 13:00 to 17:00. 
+- More details on the event is available here:
+  https://indico.cells.es/event/249/
+- all PaNOSC partners should present and participate
+
+* ExPaNDS - PaNOSC joint meeting 9-11 November
+What would WP4 like to see during the meeting? Request from the organisers:
+
+#+BEGIN_QUOTE
+At this stage, we'd like each work package to define the following:
+- How many sessions are you considering during the day?
+- Configuration for each session, i.e. WP only, cross-WP meeting, joint meeting with sister project's WP?
+- High-level agenda and objectives of the session(s).
+#+END_QUOTE
+
+* Portal forum
+
+* User engagement
+
+* Portal update 
+
+* Next meeting
+Tuesday 22 September 15:00
+
