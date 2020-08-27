@@ -14,7 +14,7 @@
 
 ## Updates
 Over the summer Thomas participated in multiple meetings with PaNOSC and ExPANDS partners that indicated much interest in using the platform.
-Peter has communicated with Sebastian (PhD student from University of Bucharest) wrt. Moodle <-> Jupyter intercommunication. Another meeting including Lotti scheduled for Friday. Fredrik from SWAP included in talks on Moodle etc. 
+Peter has communicated with Sebastian (PhD student from University of Bucharest) wrt. Moodle <-> Jupyter intercommunication. Another meeting including Lotti scheduled for Friday. Fredrik from SWAP included in talks on Moodle etc. Common WP4,5,8 PostDoc recruitment waiting for approval. 
 
 ### Daily operation ###
 
@@ -22,8 +22,14 @@ Peter has communicated with Sebastian (PhD student from University of Bucharest)
 ### AAI & cloud computing
 Kareem working with Jean-Francois over the summer on integrating AAI in e-learning platform. Keycloak VM being configured. Scheduling second meeting with JF to continue keycloak config. 
 
+### WP4-portal
+Thomas suggested that we should investigate if WP8 developments or https://github.com/panosc-portal from WP4 can be used at ESS toward the access to data-analysis resources on the web. 
+
 ### Thomas and Peter had meeting with Jesper B and viktor
 Input for workshops: https://docs.google.com/document/d/1XUnvlQgZDVisKXAHr3YReDlIbd5nETnrKfqV5ThoHCY/edit#
+
+### Tool for broken links in moodle
+https://moodle.org/plugins/pluginversion.php?id=21156
 
 # Actions
 - [ ] Thomas: With Florian, write letter to other WP leaders to get input 
@@ -33,7 +39,7 @@ Input for workshops: https://docs.google.com/document/d/1XUnvlQgZDVisKXAHr3YReDl
 - [ ] Thomas: Review obsoletion notice for old system
 - [ ] Peter: Obsoletion-notice on the old system
 - [ ] WP8: Find suggestions for rebranding-strategy (Due: March MM)
-- [ ] Peter: Look for tools to check for broken / wrong links on the moodle-side
+- [ ] Peter: Investigate moodle plugin "Admin tools: Link crawler robot", see link above
 
 ## From past meetings
 - ~~[ ] Peter: Work on https://github.com/McStasMcXtrace/McWeb/issues/220
@@ -41,6 +47,7 @@ Input for workshops: https://docs.google.com/document/d/1XUnvlQgZDVisKXAHr3YReDl
 - ~~[ ] DST: Look at iFitlab - formulate ticket (Likely Jupyter is the alternative, going forward)~~
 - ~~[ ] Linda: Update development courses @e-neutrons.org to use ucph wiki, in progress. (awaiting Linda return)~~
 - ~~[ ] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020 (awaiting Linda return)~~
+- [X] Peter: Look for tools to check for broken / wrong links on the moodle-side
 - [X] Peter: Expose login on front-page
 - [X] Thomas: setup meeting with Jean-Francois regarding AAI 
 - [X] Alexandre:  Definition of "admin" (enrolment tasks etc.) and "user" mailinglists (for communication)
