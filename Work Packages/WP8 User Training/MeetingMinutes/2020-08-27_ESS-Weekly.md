@@ -14,29 +14,30 @@
 
 ## Updates
 Over the summer Thomas participated in multiple meetings with PaNOSC and ExPANDS partners that indicated much interest in using the platform.
+Peter has communicated with Sebastian (PhD student from University of Bucharest) wrt. Moodle <-> Jupyter intercommunication. Another meeting including Lotti scheduled for Friday. Fredrik from SWAP included in talks on Moodle etc. 
 
 ### Daily operation ###
-DST has prioritized more disk space for pan-learning. Should be ready in the next five days
-
-### PaNOSC review
-Overall very good review. Some mixed feedback on e-learning platform. Critical questions related to why it is not more open. Should accelerate that task
 
 
 ### AAI & cloud computing
-Kareem working with Jean-Francois on integrating AAI in e-learning platform. Need to push for cloud computing resources
+Kareem working with Jean-Francois over the summer on integrating AAI in e-learning platform. Keycloak VM being configured. Scheduling second meeting with JF to continue keycloak config. 
 
 ### Thomas and Peter had meeting with Jesper B and viktor
 Input for workshops: https://docs.google.com/document/d/1XUnvlQgZDVisKXAHr3YReDlIbd5nETnrKfqV5ThoHCY/edit#
 
 # Actions
-- [ ] Mads and Viktor: To discuss Jupyter-replacement of the iFitlab
+- [ ] Thomas: With Florian, write letter to other WP leaders to get input 
+- [ ] Thomas: Contact DeIC wrt. their e-learning course
+- [ ] Kareem: Investigate requirements for UmbrellaID
+- [ ] Mads: Come up with 2 Jupyter notebooks from WP5 suitable for pan-learning.org. (McStasScript + "something else")
 - [ ] Thomas: Review obsoletion notice for old system
 - [ ] Peter: Obsoletion-notice on the old system
 - [ ] WP8: Find suggestions for rebranding-strategy (Due: March MM)
-- [ ] Peter: Work on https://github.com/McStasMcXtrace/McWeb/issues/220
 - [ ] Peter: Look for tools to check for broken / wrong links on the moodle-side
 
 ## From past meetings
+- ~~[ ] Peter: Work on https://github.com/McStasMcXtrace/McWeb/issues/220
+- ~~[ ] Mads and Viktor: To discuss Jupyter-replacement of the iFitlab 
 - ~~[ ] DST: Look at iFitlab - formulate ticket (Likely Jupyter is the alternative, going forward)~~
 - ~~[ ] Linda: Update development courses @e-neutrons.org to use ucph wiki, in progress. (awaiting Linda return)~~
 - ~~[ ] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020 (awaiting Linda return)~~
