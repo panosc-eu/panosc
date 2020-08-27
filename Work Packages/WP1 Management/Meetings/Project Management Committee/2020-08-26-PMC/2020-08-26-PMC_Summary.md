@@ -72,19 +72,20 @@ Sophie couldn't say wehther DESY would join at this moment, but she said that NF
 
 * *WP8 - Training* : Thomas was absent. Petra reported that ELI is working on Jupyter integration fro the training platform. Andy asked whether ESS had integrated the Géant AAI solution in the training platform, to which Petra couldn't answer, but after the meeting she provided the following information:
 
-"This is what’s been done so far:
+    "This is what’s been done so far:
 
-- initial meeting setup with Jean-Francois on whats needed for federated AAI, where ESS (DST) is to install a KeyCloak server to be used for testing
+    - initial meeting setup with Jean-Francois on whats needed for federated AAI, where ESS (DST) is to install a KeyCloak server to be used for testing
 
-- Jean-Francois was contacted following the setup of the KeyCloak server at ESS, to help with the configuration as agreed
+    - Jean-Francois was contacted following the setup of the KeyCloak server at ESS, to help with the configuration as agreed
 
-- an initial one-hour meeting has taken place last month, where Jean-Francois advised on a different setup of the KeyCloak server to allow configuration to go ahead
+    - an initial one-hour meeting has taken place last month, where Jean-Francois advised on a different setup of the KeyCloak server to allow configuration to go ahead
 
-- modification recommended by Jean-Francois has been completed, and I’ll be speaking to Jean-Francois at the next WP6 on a future configuration session to finalise KeyCloak setup
+    - modification recommended by Jean-Francois has been completed, and I’ll be speaking to Jean-Francois at the next WP6 on a future configuration session to finalise KeyCloak setup
 
-Other AAI tasks that DST is looking into as part of WP6:
+    Other AAI tasks that DST is looking into as part of WP6:
 
-- Investigating requirements for joining/accessing/configuring UmbrellaID at ESS"
+    - Investigating requirements for joining/accessing/configuring UmbrellaID at ESS"
+
 
 * *WP9 - Communication* : Nicoletta reported that the DOI video has been released: https://www.panosc.eu/news/watch-the-newly-released-video-the-doi-for-data/ 
 Nicoletta also explained that from 9th to 11th September the [SOLARIS user meeting](https://whova.com/web/solar_202009/) will take place and that an abstract on PaNOSC has been accepted for the poster competition. Also, in the Science in the City festival @ ESOF 2020 some PaNOSC videos will be displayed: https://www.esof.eu/en/programmes/science-in-the-city-festival.html
