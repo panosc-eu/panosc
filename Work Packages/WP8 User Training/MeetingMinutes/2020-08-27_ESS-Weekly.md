@@ -13,6 +13,7 @@
 ## Actions from last meeting
 
 ## Updates
+Over the summer Thomas participated in multiple meetings with PaNOSC and ExPANDS partners that indicated much interest in using the platform.
 
 ### Daily operation ###
 DST has prioritized more disk space for pan-learning. Should be ready in the next five days
