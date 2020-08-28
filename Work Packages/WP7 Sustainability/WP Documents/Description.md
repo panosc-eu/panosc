@@ -1,9 +1,11 @@
 Objectives
+========================================================
 Propose a business plan on how to sustain the data catalogs and services in the Photon and Neutron community and as part of the EOSC. In particular:
 ● Coordination with national or international related initiatives and support to the deployment of global and sustainable approaches in the field including coordination with EGI and the other EOSC stakeholders like RDA, the PaNdata community and LEAPS ( League of European Accelerator-based Photon Sources) initiative (https://www.leaps-initiative.eu) .
 ● Study - even by using advanced methodologies - of the cost per partner for maintaining the infrastructure required for providing FAIR data (archiving, data services etc.) and explore different scenarios for financing the long term costs.
 
 Description of work
+-----------------------
 The work package is organised in 4 tasks most of which are connected to iterative processes that are best organized following the principles underlying the Deming cycle. The connection with the stakeholders and the collection of their feedback is a critical aspect of the work package.
 Task 7.1 Stakeholders for the Photon and Neutron community EOSC (M1-M48)
 (Lead: CERIC-ERIC; Participants: ESRF, ILL, XFEL.EU, ESS, ELI)
@@ -19,6 +21,7 @@ Task 7.4 Sustainability plan for the Photon and Neutron EOSC (M19-M48)
 Development of a formal long-term mission and vision for the sustainability of the PaNOSC infrastructure and software developed which will balance the viewpoints of the different stakeholder and the developed business models.
 
 Deliverables
+--------------------
 Deliverable 7.1 Photon and Neutron EOSC Stakeholder Feedbacks (M18, R, PU, CERIC-ERIC) Deliverable 7.2 Photon and Neutron EOSC metrics and costs model (M36, R, PU, CERIC-ERIC)
 42
  This proposal version was submitted by Andrew GOTZ on 22/03/2018 13:41:03 Brussels Local Time. Issued by the Participant Portal Submission Service.
