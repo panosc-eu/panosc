@@ -42,8 +42,8 @@ https://moodle.org/plugins/pluginversion.php?id=21156
 - [ ] Peter: Investigate moodle plugin "Admin tools: Link crawler robot", see link above
 
 ## From past meetings
-- ~~[ ] Peter: Work on https://github.com/McStasMcXtrace/McWeb/issues/220
-- ~~[ ] Mads and Viktor: To discuss Jupyter-replacement of the iFitlab 
+- ~~[ ] Peter: Work on https://github.com/McStasMcXtrace/McWeb/issues/220~~
+- ~~[ ] Mads and Viktor: To discuss Jupyter-replacement of the iFitlab~~
 - ~~[ ] DST: Look at iFitlab - formulate ticket (Likely Jupyter is the alternative, going forward)~~
 - ~~[ ] Linda: Update development courses @e-neutrons.org to use ucph wiki, in progress. (awaiting Linda return)~~
 - ~~[ ] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020 (awaiting Linda return)~~
