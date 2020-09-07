@@ -1,4 +1,4 @@
-# PaNOSC WP 7 meeting - 26/08/2020
+# PaNOSC @WP7 meeting - 26/08/2020
 
 ### Present
 Rudolf (ESRF), Angela (CERIC-ERIC), Dario (CERIC-ERIC), Thomas (ESS), Jean-François (ESRF), Ornela (CERIC-ERIC)
