@@ -19,8 +19,11 @@ Our CERIC colleague will be involved in task 7.3 (business model). Angela will f
 Considering there were the summer holidays since last meeting, there is no significant progress in the cost collection exercise.
 Jean-François informs that he had concluded the collection for ILL before leaving, the file is available [here](Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model_V2_ILL.xlsx)
 The file to use for the cost collection is available [here](Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model_V2.xlsx)
+
 Rudolf suggests to create a new mailing lists only for task 7.2. 
+
 Regarding the missing partners, Jean-François suggested to contact Philippe Le Brouster for ILL. Ornela will contact him and try also to get someone from XFEL. 
+
 #### 5.	 The next meeting will be on Wednesday 09 September 2020 from 11.00 to 12.00.
 
 
