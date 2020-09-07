@@ -17,8 +17,8 @@ Our CERIC colleague will be involved in task 7.3 (business model). Angela will f
 
 #### 4.	Costs collection (progress, issues) 
 Considering there were the summer holidays since last meeting, there is no significant progress in the cost collection exercise.
-Jean-François informs that he had concluded the collection for ILL before leaving, the file is available [here](Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model_V2_ILL.xlsx)
-The file to use for the cost collection is available [here](Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model_V2.xlsx)
+Jean-François informs that he had concluded the collection for ILL before leaving, the file is available [here](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model_V2_ILL.xlsx)
+The file to use for the cost collection is available [here](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model_V2.xlsx)
 
 Rudolf suggests to create a new mailing lists only for task 7.2. 
 
@@ -32,7 +32,7 @@ Regarding the missing partners, Jean-François suggested to contact Philippe Le 
 - [ ] Check the allocation of resources for WP7 and inform Ornela of any necessary change (all)
 - [ ] Check the definition of subtasks and propose any necessary change or addition (all)
 - [ ] Check proposed milestones and propose any necessary change or addition (all)
-- [ ] Upload the filled [cost collection file](Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model_V2.xlsx) in the folder of [taks 7.2](Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model) (all except from ILL)
+- [ ] Upload the filled [cost collection file](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model_V2.xlsx) in the folder of [task 7.2](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model) (all except from ILL)
 - [ ] Propose any necessary change or addition to the cost collection template (all)
 - [x] Contact Philippe Le Brouster for ILL (Ornela)
 - [x] Contact XFEL and get a representative for WP7 (Ornela)
