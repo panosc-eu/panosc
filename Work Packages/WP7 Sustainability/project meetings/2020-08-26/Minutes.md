@@ -32,4 +32,4 @@ Regarding the missing partners, Jean-François suggested to contact Philippe Le 
 - [ ] Upload the filled [cost collection file](Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model_V2.xlsx) in the folder of [taks 7.2](Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model) (all except from ILL)
 - [ ] Propose any necessary change or addition to the cost collection template (all)
 - [x] Contact Philippe Le Brouster for ILL (Ornela)
-- [x] Contact XFEL and get a representative for WP7
+- [x] Contact XFEL and get a representative for WP7 (Ornela)
