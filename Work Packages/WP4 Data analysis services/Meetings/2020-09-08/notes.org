@@ -1,6 +1,6 @@
 #+TITLE: WP4 Video meeting <2020-09-08 Tue 15:00>
 
-:present:  
+:present: Andy, Daniel, Jakub, Sandor, Andrea, Teodor, Thomas V, Thomas, K, Robert, Majid, Aidan, Chris, Loic, Hans  
 
 :apologies: 
 
@@ -8,27 +8,85 @@
 Are available at https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP4%20Data%20analysis%20services/Meetings/2020-08-18/notes.org
 
 * Technical coordination workshop announcement (Jamie/Daniel)
-- proposed date for the workshop is October 8th 2020, from 13:00 to 17:00. 
+- date for the workshop is October 8th 2020, from 13:00 to 17:00. 
 - More details on the event is available here:
   https://indico.cells.es/event/249/
 - all PaNOSC partners should present and participate
 
-* ExPaNDS - PaNOSC joint meeting 9-11 November
-What would WP4 like to see during the meeting? Request from the organisers:
+** Daniel (technical coordinator ExPaNDS) on purpose of meeting:
+- ambition: share technical knowledge between projects
+- COVID made exchange more difficult
+- workshop to meet each other
+  - who is who, and 
+  - working on what (scientific software people, IT admin, software developers,
+    ...)
+- most facilities have deployed portal prototype
+  - share how the portal fits (or doesn't) at each facility: 
+  - what went well, what could go better, what is the technical gap between the
+    portal and your facility, or between the portal and what it aims to do
+  - to get idea of what needs to be done
+- also interesting to share what has happened to teams at all facilities, and
+  how roadmaps and plans may have changed (due to COVID19)
+- How are you anticipating to use the portal? How does it fit with other
+  services you may have already?
+- 53 people registered already
+- ExPaNDS and PaNOSC partners invited
+- ask each facility to share information on the above
+- create network based on that information
 
-#+BEGIN_QUOTE
-At this stage, we'd like each work package to define the following:
-- How many sessions are you considering during the day?
-- Configuration for each session, i.e. WP only, cross-WP meeting, joint meeting with sister project's WP?
-- High-level agenda and objectives of the session(s).
-#+END_QUOTE
+** Discussion
+- should the architecture be presented? Yes (before contributions).
+- can/should the front-end be tested as well? (ideally)
+- have report on experience of Calipso+ as a kick off? (yes)
+
+** Actions for all partners (PaNosc and ExPaNDS)
+- register for meeting https://indico.cells.es/event/249/
+- prepare 5-min presentation addressing issue above
+
+
+* ExPaNDS - PaNOSC joint meeting 9-11 November
+Update from Andy:
+- meeting is now virtual
+- 3-half day meeting
+- 09 November: people with EOSC insight present things and are ready for questions
+- meeting between expands and panosc should happen virtually before the joint
+  meeting. Also vision from Patrick and Andy. 
+- use half-day on 10th and 11th for WP leader and key players to present the
+  outcomes of the meetings before hand: joint work, what are the next steps
 
 * Portal forum
+- In PaNOSC: get together in separate meeting (Andy to organise)
 
 * User engagement
+Discussion
+- go out and identify use cases
+- share use cases between partners
+- example: 
+  - users using notebooks for standard analysis as a typical use case
+- 'build it and they will come' may not work
+- create list of use cases as a skeleton: to be raised at PMC meeting tomorrow
+  (Hans/Andy); good activity for PaNOSC overall
+- use cases includes
+  - exporting data, remote analysis, user authentication, scientific data models
 
 * Portal update 
+- ILL recruiting
+- ELI: installing back end in effort to connect front-end and back-end
+
+* AoB
+- Could COVID images be used as show case for front-end of portal?
+- Next WP4 deliverable is D4.3 in month 42 
+
 
 * Next meeting
 Tuesday 22 September 15:00
+- report back from portal forum meeting
+- what do people do with Jupyter work? What support do you provide?
+  - Andrea: jupyter notebooks in singularity, viewers
+  
+  
+* Actions
+- All: register for https://indico.cells.es/event/249/
+- Andy: set up meeting (portal forum / PaNOSC)
+- Hans+Andy: raise gathering of use cases at PMC
 
