@@ -18,6 +18,7 @@ PostDoc position advert formulated, see confluence. ELI has Data Management lead
 Sebastian from Uni Bucharest now has an ESS account. Peter is evaluating the Link crawler robot which seems to work, but may give false positives.
 
 # Actions
+- [ ] Peter: Follow-up with Sebastian
 - [ ] Thomas: With Florian, write letter to other WP leaders to get input 
 - [ ] Thomas: Contact DeIC wrt. their e-learning course
 - [ ] Kareem: Investigate requirements for UmbrellaID
