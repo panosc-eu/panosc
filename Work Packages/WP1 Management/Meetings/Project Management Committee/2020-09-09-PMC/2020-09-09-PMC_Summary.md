@@ -67,7 +67,7 @@ Sophie shared the [link to the new target high-level planning for ExPaNDS](https
 
 * WP6 - EOSC Integration: Jean-François was absent. Giuseppe reported installing One Provider at the ILL to be back to moving data to CESNET. Rudolf added that conversations with Globus Connect are ongoing. Giuseppe added that there is an EGI conference and are abstracts to be submitted.
 
-* WP7 - Sustainability: Dario explained that a WP7 meeting took place in the moring and that a discussion regarding the resources required for the WP took place. The ongoing activity to capture the costs is continuiong and that CERIC has hired a person in order to work on the business plan part of WP7.
+* WP7 - Sustainability: Dario explained that a WP7 meeting took place in the moring and that a discussion regarding the resources required for the WP took place. The ongoing activity to capture the costs is continuing and that CERIC has engaged a person representing CERIC ILO in order to support the work on the business plan part of WP7.
 
 * WP8 - Training: Thomas was absent. Petra reported work on Jupyter integration adn a job ad out for a post-doc to replace Lynda. Florian added that he is finalising a message to WPs to ask for help defining the training content.
 
