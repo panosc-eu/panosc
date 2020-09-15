@@ -31,8 +31,8 @@ Regarding the missing partners, Jean-François suggested to contact Philippe Le 
 ### Actions for next meeting:
 - [x] Get from Jordi the file with the initial allocation of resources for WP7 (Ornela)
 - [ ] Check the allocation of resources for WP7 and inform Ornela of any necessary change (all)
-- [ ] Check the definition of subtasks and propose any necessary change or addition (all)
-- [ ] Check proposed milestones and propose any necessary change or addition (all)
+- [x] Check the definition of subtasks and propose any necessary change or addition (all)
+- [x] Check proposed milestones and propose any necessary change or addition (all)
 - [ ] Upload the filled [cost collection file](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model_V2.xlsx) in the folder of [task 7.2](https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC) (all except from ILL)
 - [ ] Propose any necessary change or addition to the cost collection template (all)
 - [x] Contact Philippe Le Brouster for ILL (Ornela)
