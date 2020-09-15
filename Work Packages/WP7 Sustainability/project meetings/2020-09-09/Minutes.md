@@ -21,7 +21,7 @@ As requested by partners, during the next meeting we will discuss about the busi
 
 ### Actions
 
-[x] Contact Tiziana Ferrari from EGI and propose her to contribute in WP 7 (Ornela)
-[ ] Share the milestones and work breakdown with the project management (Jordi). (Ornela)
-[x] share with the WP members an improved version of the [template for the costs collection] (https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC). (Rudolf, Jean-Francois)
-[ ] Analyse the cost collection template in view of the following sub-task (Florian)
+- [x] Contact Tiziana Ferrari from EGI and propose her to contribute in WP 7 (Ornela)
+- [ ] Share the milestones and work breakdown with the project management (Jordi). (Ornela)
+- [x] share with the WP members an improved version of the [template for the costs collection](https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC). (Rudolf, Jean-Francois)
+- [ ] Analyse the cost collection template in view of the following sub-task (Florian)
