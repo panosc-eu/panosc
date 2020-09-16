@@ -7,7 +7,7 @@
 * Alexandre, ESS (remote)
 
 # Minutes
-Thomas participated in prep-meeting before "Elixir" meeting, to be held next week. 
+Thomas participated in prep-meeting before "Elixir" meeting, to be held next week. Bi-weekly meetings with ExPANDS WP5.
 
 ## Actions from last meeting
 
@@ -31,7 +31,7 @@ Peter had progress-meeting with Sebastian from Uni Bucharest. Solution partially
 - ~~[ ] Linda: Update development courses @e-neutrons.org to use ucph wiki, in progress. (awaiting Linda return)~~
 - ~~[ ] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020 (awaiting Linda return)~~
 - [X] Mads: Come up with 2 Jupyter notebooks from WP5 suitable for pan-learning.org. (McStasScript + "something else")
-- [ ] Peter: Resend draft obsoletion notice for old system to Thomas
+- [X] Peter: Resend draft obsoletion notice for old system to Thomas
 - [X] Peter: Follow-up with Sebastian
 - [X] Peter: Investigate moodle plugin "Admin tools: Link crawler robot", see link above
 - [X] Peter: Look for tools to check for broken / wrong links on the moodle-side
