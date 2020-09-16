@@ -2,33 +2,27 @@
 # Participants
 
 * Peter, DTU/ESS (remote)
-* Thomas, ESS
-* Fredrik, ESS
-* Mads, ESS (remote)
+* Thomas, ESS (remote)
 * Torben, ESS (remote)
-* Kareem, ESS (remote)
+* Alexandre, ESS (remote)
 
 # Minutes
-Thomas has received and forwarded invitation from the "Elixir" training platform. Kareem had meeting with WP5 and keycloak VM is now in principle ready.
-PostDoc position advert formulated, see confluence. ELI has Data Management lead in place. Considerations wrt. making the workshop(s) virtual due to Covid.
+Thomas participated in prep-meeting before "Elixir" meeting, to be held next week. 
 
 ## Actions from last meeting
 
 ## Updates
-Peter had progress-meeting with Sebastian from Uni Bucharest. Solution partially deployed, based on nbgrader and Illumidesk (https://www.illumidesk.com), prototype
-expected within ~2 weeks.
+Peter had progress-meeting with Sebastian from Uni Bucharest. Solution partially deployed, based on nbgrader and Illumidesk (https://www.illumidesk.com), prototype expected within ~2 weeks.
 
 # Actions
-- [ ] Peter: Follow-up with Sebastian
 - [ ] Thomas: With Florian, write letter to other WP leaders to get input 
 - [ ] Thomas: Contact DeIC wrt. their e-learning course
 - [ ] Kareem: Investigate requirements for UmbrellaID
-- [ ] Mads: Come up with 2 Jupyter notebooks from WP5 suitable for pan-learning.org. (McStasScript + "something else")
-- [ ] Peter: Resend draft obsoletion notice for old system to Thomas
 - [ ] Thomas: Review obsoletion notice for old system
 - [ ] Peter: Obsoletion-notice on the old system
 - [ ] WP8: Find suggestions for rebranding-strategy (Due: March MM)
 - [ ] Peter: Manual review of "faulty links" from Link crawler robot.
+- [ ] All: Review notebooks from Mads and youtube-material from Thomas K (XFEL)
 
 ## From past meetings
 - ~~[ ] Peter: Work on https://github.com/McStasMcXtrace/McWeb/issues/220~~
@@ -36,6 +30,9 @@ expected within ~2 weeks.
 - ~~[ ] DST: Look at iFitlab - formulate ticket (Likely Jupyter is the alternative, going forward)~~
 - ~~[ ] Linda: Update development courses @e-neutrons.org to use ucph wiki, in progress. (awaiting Linda return)~~
 - ~~[ ] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020 (awaiting Linda return)~~
+- [X] Mads: Come up with 2 Jupyter notebooks from WP5 suitable for pan-learning.org. (McStasScript + "something else")
+- [ ] Peter: Resend draft obsoletion notice for old system to Thomas
+- [X] Peter: Follow-up with Sebastian
 - [X] Peter: Investigate moodle plugin "Admin tools: Link crawler robot", see link above
 - [X] Peter: Look for tools to check for broken / wrong links on the moodle-side
 - [X] Peter: Expose login on front-page
