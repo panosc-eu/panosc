@@ -12,7 +12,14 @@ Thomas participated in prep-meeting before "Elixir" meeting, to be held next wee
 ## Actions from last meeting
 
 ## Updates
-Peter had progress-meeting with Sebastian from Uni Bucharest. Solution partially deployed, based on nbgrader and Illumidesk (https://www.illumidesk.com), prototype expected within ~2 weeks.
+Peter had progress-meeting with Sebastian from Uni Bucharest. Solution partially deployed, based on nbgrader and Illumidesk (https://www.illumidesk.com), prototype expected within ~2 weeks. Quote from summary-email:
+
+*As a summary of our recent conversation, I started working on the proposed solution using the <a href="https://github.com/IllumiDesk/illumidesk">IllumiDesk</a>
+project. This will integrate with Moodle using LTI v.1.1 (see the <a href="https://docs.illumidesk.com/installation-and-configuration/canvas-lms-lti11/moodle-lms-with-lti11">docs</a> for details) by providing an 
+external tool. I am currently working on setting up IllumiDesk on my local kubernetes cluster 
+(which uses minikube). There is a helm chart for setting up <a href="https://github.com/IllumiDesk/helm-chart">IllumiDesk on AWS EKS</a> that I am using as 
+guidance, but it is not something finished yet, so I have to patch several things.*
+
 
 # Actions
 - [ ] Thomas: With Florian, write letter to other WP leaders to get input 
