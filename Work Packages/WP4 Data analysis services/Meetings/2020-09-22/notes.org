@@ -18,6 +18,11 @@ Are available at https://github.com/panosc-eu/panosc/blob/master/Work%20Packages
 * Jupyter Notebooks in Singularity (Andrea)
 
   
+* Next meeting
+- what?
+- chair?
+
+
 * Actions
 - Hans+Andy: raise gathering of use cases at PMC (outstanding from last meeting)
 - Andy: set up meeting (portal forum / PaNOSC)
