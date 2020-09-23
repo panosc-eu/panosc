@@ -4,17 +4,19 @@
 * Peter, DTU/ESS (remote)
 * Thomas, ESS (remote)
 * Torben, ESS (remote)
-* Alexandre, ESS (remote)
+
+NB: Short meeting
 
 # Minutes
 
 ## Actions from last meeting
-Peter removed faulty links on the moodle system via SITE/admin/tool/crawler/index.php. Only false positives are left. Thomas and Peter participated in Elexir meeting.
+Peter removed faulty links on the moodle system via SITE/admin/tool/crawler/index.php. Only [false positives](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP8%20User%20Training/MeetingMinutes/snippets/dead_links_20200923.png) are left. Thomas and Peter participated in Elexir meeting, good input wrt. needs for resources etc. Doodle link for PaNOSC WP8/ExPANDS WP5 meeting circulated
 
 ## Updates
 
 
 # Actions
+- [ ] Peter: Folluw up with Sebastian
 - [ ] Thomas: With Florian, write letter to other WP leaders to get input 
 - [ ] Thomas: Contact DeIC wrt. their e-learning course
 - [ ] Kareem: Investigate requirements for UmbrellaID
@@ -29,7 +31,7 @@ Peter removed faulty links on the moodle system via SITE/admin/tool/crawler/inde
 - ~~[ ] DST: Look at iFitlab - formulate ticket (Likely Jupyter is the alternative, going forward)~~
 - ~~[ ] Linda: Update development courses @e-neutrons.org to use ucph wiki, in progress. (awaiting Linda return)~~
 - ~~[ ] Linda & Peter: Check which non-standard courses exist, to communicate new wiki and structure from January 2020 (awaiting Linda return)~~
-- [X] Peter: Manual review of "faulty links" from Link crawler robot <--
+- [X] Peter: Manual review of "faulty links" from Link crawler robot
 - [X] Mads: Come up with 2 Jupyter notebooks from WP5 suitable for pan-learning.org. (McStasScript + "something else")
 - [X] Peter: Resend draft obsoletion notice for old system to Thomas
 - [X] Peter: Follow-up with Sebastian
