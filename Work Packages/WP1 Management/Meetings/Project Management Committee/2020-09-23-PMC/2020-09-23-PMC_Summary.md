@@ -55,7 +55,7 @@ Jordi explained that while there is no budget associated to organise workshops, 
 
 * WP7 - Sustainability: Ornela was absent. Dario explained that WP7 meeting planned for today is rescheduled to next week. A discussion on the execution of task T7.3 Business Modle has started, in particular looking at the EOSC Hub business model methodology that has been published (**link?**) and what content/ideas can be reused. Also, effort is ongoing to include EGI in WP7.
 
-* WP4 - Data Analysis Services: Hans reported ongoing effort to connect the Front and Back ends of the portal, with all sites working on it (whether is in a local install or a facility-level). There is a tech workshop joingwith ExPaNDS (**link?**) in October. Also, T. Kluver is working with WP8 on training.
+* WP4 - Data Analysis Services: Hans reported ongoing effort to connect the Front and Back ends of the portal, with all sites working on it (whether is in a local install or a facility-level). There is a tech workshop jointly organised with ExPaNDS (https://indico.cells.es/event/249/) in October. T. Kluver is working with WP8 on training.
 
 * WP6 - EOSC Integration: Jean-François was absent. Jordi reported that a milestone from end of May is still pending. This milestone is about having PaNOSC services in the EOSC and it was agreed that it was acceptable to just register existing services (PaNdata catalogue, e-learning platform) in the EOSC, however Jean-François has been very busy and this has not yet been done.
 Andy also noted that there is a deliverable due M24 for WP6, which is assigned to ILL, to which Philippe replied that he will contact Jamie to ensure the work is planned.
