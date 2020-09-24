@@ -15,10 +15,12 @@ At the start of the meeting it was requested by Andy to talk about the feedback 
 **0. Rejection of Periodic Report**
 
 Jordi explained that our Project Officer (PO) has notified us that the Periodic Report has been rejected. There are two main reasons why this has been rejected:
-    1. A publication listed as open access is not open access: Rudolf is contacting the journal in order to make it open access. This will have a cost, however it seems that H2020 rules mandate that published papers should be open.
-Rudolf will continue working in this topic to sort this as soon as possible.
-    2. ELI Fianances in the report are not correctly described: there is a significant difference in the number of Person/Months (PMs) allocated to ELI during the reporting period and what has been reported as spent. In the same way, there is also a significant difference in the average cost of each PM for ELI. This should have been clearly explained in the Technical report - Part B (section 5.2), however it is not in there. It seems one part of the explanation was redacted but didn't make it to the report that was uploaded due to human error, however the other part was never redacted. Florian will provide the text to be added to the document, which then will be reuploaded and resubmitted by Andy or Jordi.
-    3. Not related to the Periodic Report but still a rejection. The deliverable of the Data Management Plan D1.2 was incorrectly labelled with other number. In order to correct it our PO rejected the deliverable. Jordi fixed the issue and resubmitted it.
+
+   1. A publication listed as open access is not open access: Rudolf is contacting the journal in order to make it open access. This will have a cost, however it seems that H2020 rules mandate that published papers should be open. Rudolf will continue working in this topic to sort this as soon as possible.
+
+   2. ELI Fianances in the report are not correctly described: there is a significant difference in the number of Person/Months (PMs) allocated to ELI during the reporting period and what has been reported as spent. In the same way, there is also a significant difference in the average cost of each PM for ELI. This should have been clearly explained in the Technical report - Part B (section 5.2), however it is not in there. It seems one part of the explanation was redacted but didn't make it to the report that was uploaded due to human error, however the other part was never redacted. Florian will provide the text to be added to the document, which then will be reuploaded and resubmitted by Andy or Jordi.
+    
+   3. Not related to the Periodic Report but still a rejection. The deliverable of the Data Management Plan D1.2 was incorrectly labelled with other number. In order to correct it our PO rejected the deliverable. Jordi fixed the issue and resubmitted it.
 
 Andy added to this that we have 14 days to fix this issue. We were informed a week ago of this (16/09), therefore the deadline to resubmit everything is 30th September.
 
