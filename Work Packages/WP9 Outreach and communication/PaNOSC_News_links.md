@@ -1,5 +1,27 @@
 PaNOSC News links
 =================
+September 2020
+-------------
+* https://www.esfri.eu/latest-esfri-news-project-landmarks-news/photon-and-neutron-eosc-symposium-and-panosc-expands-annual (PaNOSC-ExPaNDS annual meeting + PaN EOSC Symposium / ESFRI)
+* https://cordis.europa.eu/event/id/148203-save-the-date-and-register-photon-and-neutron-eosc-symposium-panosc-expands-annual-meeting (PaNOSC-ExPaNDS annual meeting + PaN EOSC Symposium / CORDIS)
+* https://www.panosc.eu/news/save-the-date-and-register-for-the-photon-and-neutron-eosc-symposium-and-panosc-expands-annual-meeting/ (PaNOSC-ExPaNDS annual meeting + PaN EOSC Symposium / PaNOSC website)
+* https://expands.eu/2020/03/12/announcement-2020-expands-and-panosc-annual-meeting/ (PaNOSC-ExPaNDS annual meeting + PaN EOSC Symposium / ExPaNDS website)
+* https://www.calipsoplus.eu/2020/09/24/announcement-european-photon-and-neutron-eosc-symposium-2020-panosc-expands-annual-meeting/ (PaNOSC-ExPaNDS annual meeting + PaN EOSC Symposium / CalipsoPlus website)
+* https://www.wayforlight.eu/en/training/european-photon-and-neutron-eosc-symposium-and-panosc-expands-annual-meeting/ (PaNOSC-ExPaNDS annual meeting + PaN EOSC Symposium / WayForLight)
+* https://www.ill.eu/news-press-events/events-calendar/detail/actualites/european-photon-and-neutron-eosc-symposium-panosc-expands-annual-meeting/ ((PaNOSC-ExPaNDS annual meeting + PaN EOSC Symposium / ILL)
+
+August 2020
+-------------
+* https://www.eosc-portal.eu/news/panosc-showcases-fair-data-benefits-online-video-series (ExPaNDS/PaNOSC video series / EOSC portal)
+
+June 2020
+-------------
+* https://www.xfel.eu/news_and_events/news/index_eng.html?openDirectAnchor=1788&two_columns=0 
+
+May 2020
+-------------
+* https://cordis.europa.eu/article/id/418274-discover-oscovida-the-panosc-open-science-covid-analysis-platform-tracking-data-about-covid19 (OSCOVIDA on CORDIS)
+
 November 2019
 -------------
 * https://cordis.europa.eu/article/id/411604-first-panosc-publication-released-at-icalepcs19/en (1st PaNOSC publication released at ICALECPS19 / CORDIS-Wire website
