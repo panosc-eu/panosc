@@ -21,6 +21,7 @@ June 2020
 May 2020
 -------------
 * https://cordis.europa.eu/article/id/418274-discover-oscovida-the-panosc-open-science-covid-analysis-platform-tracking-data-about-covid19 (OSCOVIDA on CORDIS)
+* https://cordis.europa.eu/article/id/418268-panosc-updates-research-data-policy-framework-to-be-fair/it (PaNOSC data policy framework on CORDIS)
 
 November 2019
 -------------
