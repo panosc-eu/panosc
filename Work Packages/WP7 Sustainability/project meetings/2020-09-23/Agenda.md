@@ -1,4 +1,4 @@
-## PaNOSC WP 7 meeting - 23/09/2020
+## PaNOSC WP 7 meeting - 23/09/2020: meeting postponed to 30/09/2020
 
 #### Agenda
 
