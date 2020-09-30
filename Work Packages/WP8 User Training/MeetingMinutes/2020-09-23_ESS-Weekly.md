@@ -16,7 +16,7 @@ Peter removed faulty links on the moodle system via SITE/admin/tool/crawler/inde
 
 
 # Actions
-- [ ] Peter: Folluw up with Sebastian
+- [ ] Peter: Follow up with Sebastian
 - [ ] Thomas: With Florian, write letter to other WP leaders to get input 
 - [ ] Thomas: Contact DeIC wrt. their e-learning course
 - [ ] Kareem: Investigate requirements for UmbrellaID
