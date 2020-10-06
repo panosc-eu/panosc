@@ -12,7 +12,6 @@ Agenda
 
 4. Pending Issues *(max 10 min)*
 
-* [#60 Common SRIA statement](https://github.com/panosc-eu/panosc/issues/60) - **new**
 * [#59 PaNOSC & ExPaNDS Data Policies](https://github.com/panosc-eu/panosc/issues/59) - **new**
 * [#53 Joint Annual meeting](https://github.com/panosc-eu/panosc/issues/53) - *see item 2*
 * [#46 Cooperation with ExPaNDS](https://github.com/panosc-eu/panosc/issues/46) - *ongoing*
