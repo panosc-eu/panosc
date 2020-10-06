@@ -4,9 +4,13 @@ PaNOSC Project Management Committee Meeting - 08/10/2020
 Agenda
 ------	
 
-1. TBC
+1. Feedback on review meeting & resubmition of periodic report
 
-6. Pending Issues *(max 10 min)*
+2. ExPaNDS + PaNOSC Annual meeting
+
+3. Use cases
+
+4. Pending Issues *(max 10 min)*
 
 * [#60 Common SRIA statement](https://github.com/panosc-eu/panosc/issues/60) - **new**
 * [#59 PaNOSC & ExPaNDS Data Policies](https://github.com/panosc-eu/panosc/issues/59) - **new**
@@ -17,8 +21,9 @@ Agenda
 * [#25 Risk Management](https://github.com/panosc-eu/panosc/issues/25) - *this needs reviewing*
 * [#9 Observer status](https://github.com/panosc-eu/panosc/issues/9) - *role of observers needs to be reviewed*
 
+5. Recent and upcoming events
 
-7. AOB
+6. AOB
 
 
 
