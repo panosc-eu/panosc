@@ -17,7 +17,7 @@ At the start of the meeting it was requested by Jordito talk about a notificatio
 Jordi had shared the feedback recieved which is rather positive. Jordi and Andy explained that there are however some actions and feedback to process.
 
 It was agreed that Jordi will create an issue in GitHub for each action.
-Andy requested that PaNOSC's achievements should be listed in the website and Jordi requested to add the KPIs as well. Both requests were approved and Nicoletta will work on updating PaNOSC's website accordingly.
+Andy requested that PaNOSC's achievements should be listed (like ENVRI-FAIR: https://envri.eu/18-months-of-accomplishments/ has done) in the website and Jordi requested to add the KPIs as well. Both requests were approved and Nicoletta will work on updating PaNOSC's website accordingly.
 
 **2. ExPaNDS + PaNOSC Annual meeting**
 
