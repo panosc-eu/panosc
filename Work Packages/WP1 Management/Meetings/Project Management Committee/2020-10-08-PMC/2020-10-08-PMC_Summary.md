@@ -32,6 +32,7 @@ Andy added that we should target the other cluster projects with the objective o
 A brief discussion between Florian, Rudolf and Jon followed on the advantages and disadvantages of inviting users and it was decided that while some emails have gone out to user offices and users it would be better to deal with users via a specific workshop event that would be better tailored for them (by including examples of use cases and current usage of PaNOSC services). It was agreed to discuss during the annual meeting how best to organise this kind of event for users.
 
 **3. Use cases**
+
 Andy explained that it is very important to identify user cases (what, how, actors involved, etc.) and obtain this information from users. A template for this exists from FAIRisFAIR (**LINK REQUIRED**) and Andy suggest to use the same/similar format to gather information.
 
 It was approved that each partner site should collect a few user cases. An update on progress in this topic is expected by the Annual Meeting, with many use cases collected by the end of the year. Jordi will create an issue for this.
@@ -51,11 +52,13 @@ Jordi requested a status update for the upcoming milestones and deliverables:
 
 * WP1 - D1.6 and MS1.3 are related and will be mostly done after the Annual Meeting. Jordi will request support from the people that have been working on the meeting organisation.
 * WP2 - D2.3 : Andy reported that it is doable as a great deal can be reused based on the lessons learned document. Jordi added that if a partner is implementing the DP framework, all the process that they follow would be a great addition to this.
+
     MS2.2 : Dario started the work to formally adopt the DP framework at CERIC-ERIC, however formal approval may take a long time. Jordi explained that the mileston can be late if needed, the important thing is to explain why is late and getting the DP framework implemented.
 * WP3 - D3.2 : Tobias is not worried for this deliverable due at the end of March 2021
 * WP4 : Hans was absent
 * WP5 - D5.2 and MS5.2 : Teodor WP5 is progressing well and will be done.
 * WP6 - D6.4 : It was reoprted that the software catalogue will be late because as of today there is not plan to deliver this. 
+
     MS5.2 : Thomas said that from EGI a form was received to register the e-learning platform, so this is advancing.
 * WP7, WP8 and WP9 have no upcoming deliverables or milestones. Dario reported that he will share this information with Jordi ASAP as it is already available at WP7 level about internal milestones.
 
