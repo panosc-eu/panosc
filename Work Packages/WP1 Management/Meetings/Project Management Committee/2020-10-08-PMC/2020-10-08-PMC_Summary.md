@@ -33,7 +33,7 @@ A brief discussion between Florian, Rudolf and Jon followed on the advantages an
 
 **3. Use cases**
 
-Andy explained that it is very important to identify use cases (what, how, actors involved, etc.) and obtain this information from users. A [template](https://drive.ceric-eric.eu/f/4bdd63655f0145e7a6d5/) for this exists from FAIRisFAIR (**LINK REQUIRED**) and Andy suggest to use the same/similar format to gather information.
+Andy explained that it is very important to identify use cases (what, how, actors involved, etc.) and obtain this information from users. A [template](https://drive.ceric-eric.eu/f/4bdd63655f0145e7a6d5/) for this exists from FAIRisFAIR and Andy suggest to use the same/similar format to gather information.
 
 It was approved that each partner site should collect a few use cases. An update on progress on this topic is expected for the Annual Meeting, with many use cases collected by the end of the year. Jordi will create an issue for this.
 
