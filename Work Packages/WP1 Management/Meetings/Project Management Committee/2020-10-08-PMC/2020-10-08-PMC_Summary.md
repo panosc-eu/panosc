@@ -10,18 +10,18 @@ Jordi (ESRF), Andy (ESRF), Rudolf (ESRF), Nicoletta (CERIC), Dario (CERIC), Jona
 Minutes
 -------	
 
-At the start of the meeting it was requested by Jordito talk about a notification received in the EU Portal regarding the interim payment of the grant. Most/all partners are aware of this notification and have access to it. If a partner doesn't have this information please contact Jordi.
+At the start of the meeting it was requested by Jordi to talk about a notification received in the EU Portal regarding the interim payment of the grant. Most/all partners are aware of this notification and have access to it. If a partner doesn't have this information please contact Jordi.
 
 **1. Feedback on review meeting & resubmition of periodic report**
 
-Jordi had shared the feedback recieved which is rather positive. Jordi and Andy explained that there are however some actions and feedback to process.
+Jordi had shared the feedback received which is rather positive. Jordi and Andy explained that there are however some actions and feedback to process.
 
 It was agreed that Jordi will create an issue in GitHub for each action.
-Andy requested that PaNOSC's achievements should be listed (like ENVRI-FAIR: https://envri.eu/18-months-of-accomplishments/ has done) in the website and Jordi requested to add the KPIs as well. Both requests were approved and Nicoletta will work on updating PaNOSC's website accordingly.
+Andy requested that PaNOSC's achievements should be listed (like ENVRI-FAIR: https://envri.eu/18-months-of-accomplishments/ has done) in the website and Jordi requested to add the KPIs as well. Both requests were approved and Nicoletta will work on updating the PaNOSC website accordingly.
 
 **2. ExPaNDS + PaNOSC Annual meeting**
 
-Unfortunately no one from PaNOSC could attend the weekly meeting to prepare the annual meeting and no one from ExPaNDS was present. 
+Unfortunately no one from PaNOSC could attend the weekly meeting to prepare the annual meeting and no one from ExPaNDS was present in the PMC meeting to report back. 
 
 Jordi reminded all WP leaders to work with their ExPaNDS counterparts to prepare the presentations and common actions/milestones for the Annual Meeting. 
 
@@ -33,9 +33,9 @@ A brief discussion between Florian, Rudolf and Jon followed on the advantages an
 
 **3. Use cases**
 
-Andy explained that it is very important to identify user cases (what, how, actors involved, etc.) and obtain this information from users. A template for this exists from FAIRisFAIR (**LINK REQUIRED**) and Andy suggest to use the same/similar format to gather information.
+Andy explained that it is very important to identify use cases (what, how, actors involved, etc.) and obtain this information from users. A template for this exists from FAIRisFAIR (**LINK REQUIRED**) and Andy suggest to use the same/similar format to gather information.
 
-It was approved that each partner site should collect a few user cases. An update on progress in this topic is expected by the Annual Meeting, with many use cases collected by the end of the year. Jordi will create an issue for this.
+It was approved that each partner site should collect a few use cases. An update on progress on this topic is expected for the Annual Meeting, with many use cases collected by the end of the year. Jordi will create an issue for this.
 
 
 **4. Pending Issues**
