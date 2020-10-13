@@ -5,7 +5,7 @@ Rudolf (ESRF), Ornela (CERIC-ERIC), Angela (CERIC-ERIC), Dario (CERIC-ERIC), Jea
 
 ### Minutes
 
-#### 1. 1.	Costs collection (Feedback on the template as modified by ESRF, any other issues)
+#### 1. Costs collection (Feedback on the template as modified by ESRF, any other issues)
 Teodor shows the result of the exercise of cost collection performed in ELI. He explains that due to the structure of the accounting and services, it is not possible to assign precise values to the service, but they would rather provide the information for aggregated services, as shown in their data sheet.
 He also proposes to add some services that were missing (e.g. Distributed computing) and to change some of the current services proposed by ESRF to become more generic, for example “Tape storage” into “Tape/archive storage”. 
 
