@@ -4,12 +4,15 @@ PaNOSC Project Management Committee Meeting - 08/10/2020
 Agenda
 ------	
 
-1. Presentation of the review findings, actions and recommendations
+1. Approval of the agenda
 
-2. Vote by partners to approve /reject each recommendation
+2. Presentation of the review findings, actions and recommendations
 
-3. AOB
+3. Vote by partners to approve /reject each recommendation
 
+4. AOB
+
+-------------
 
 Reminder of upcoming milestones / deliverables
 
