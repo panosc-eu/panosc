@@ -10,12 +10,11 @@ Teodor shows the result of the exercise of cost collection performed in ELI. He 
 He also proposes to add some services that were missing (e.g. Distributed computing) and to change some of the current services proposed by ESRF to become more generic, for example “Tape storage” into “Tape/archive storage”. 
 
 #### 2. Task 7.3 Business models
- Two different approaches to the business models were presented to the partnership, as possible tools to use to achieve a complete description of the business models. Both approaches are based on canvas. The first one was used by the EOSC-Pillar project to define the business model for the provision of transnational services and is being used currently by the company hired by the EOSC Secretariat (actually it was developed by this company) to propose sustainable business models for the EOSC. The second approach is the one originally proposed by Roberto in the description of the WP. Either approach may lead to the result, or a combination of both.
+ Two different approaches to the business models were presented to the partnership, as possible tools to use to achieve a complete description of the business models. Both approaches are based on canvas. The first one was used by the EOSC-Pillar project to define the business model for the provision of transnational services and is being used currently by the company hired by the EOSC Secretariat (actually it was developed by this company) to propose sustainable business models for the EOSC. The second approach is the one originally proposed by Roberto in the description of the WP. Either approach may lead to the result, or a combination of both. The presentation with both approaches can be found in Github -> [Task 7.2 Metrics and cost for the Photon and Neutron community EOSC](
+https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC)
  
 #### 3. Next meeting: date? (Workshop ESFRI October 6,7)
 Next meeting will be on Wednesday 14 October 2020 from 11:00 to 12:00. 
-Regarding the cost collection, Rudolf and Jean-François discussed internally the template used for the cost collection and will share with the WP members an improved version in 2 or 3 days. Ornela asks Florian to take a look at the template also in view of the following subtask that will be led by ELI, the analysis of the cost drivers. There is no significant progress from the point of view of the cost collection, work is ongoing. ESRF estimates they will be able to finish in a couple of weeks, ELI in one month.
-Note: the template provided by Rudolf can be found [here](https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC)
 
 #### 4. AOB
 Nothing raised.
