@@ -1,4 +1,4 @@
-PaNOSC Project Management Committee Meeting - 08/10/2020 
+PaNOSC Project Management Committee Meeting - 21/10/2020 
 =========================================================
 
 Agenda
@@ -46,10 +46,10 @@ Agenda
 | WP5 | MS5.2 - Demostration of simulation services | 30/11/2020 | |
 | WP6 | D6.4 - Software catalogue | 30/11/2020 | |
 | WP6 | MS6.2 First release of PaNOSC service| 31/05/2020 | **THIS IS VERY LATE** |
-| WP7 | IMS M1| | Internal Milestone: Complete cost collection |31/12/2020| *and eventually adjust scope* |
-| WP7 | IMS M2| | Internal Milestone: First draft D7.2 Cost model |31/05/2021 |  |
-| WP8 | IMS 8.5| | Internal Milestone: MS8.4 Jupyter integrated in e-learning | 30/11/2020 | *Milestone 8.4 moved forward* |
-| WP8 | IMS 8.5| | Internal Milestone: Course/tutorial w/ Jupyter developed | 30/11/2020 |  |
+| WP7 | IMS M1 Internal Milestone: Complete cost collection |31/12/2020| *and eventually adjust scope* |
+| WP7 | IMS M2 Internal Milestone: First draft D7.2 Cost model |31/05/2021 |  |
+| WP8 | IMS 8.5 Internal Milestone: MS8.4 Jupyter integrated in e-learning | 30/11/2020 | *Milestone 8.4 moved forward* |
+| WP8 | IMS 8.5 Internal Milestone: Course/tutorial w/ Jupyter developed | 30/11/2020 |  |
 | WP9 | | | Nothing due until M48, internal milestones required |
 
 
