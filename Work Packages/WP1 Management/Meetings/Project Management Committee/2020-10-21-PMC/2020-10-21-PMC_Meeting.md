@@ -3,6 +3,7 @@ PaNOSC Project Management Committee Meeting - 21/10/2020
 
 Agenda
 ------	
+0. Confirming XFEL bank details
 
 1. Feedback on extraordinary PMC - (max 10 min)*
 
