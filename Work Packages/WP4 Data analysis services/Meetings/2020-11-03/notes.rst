@@ -12,7 +12,7 @@ Are available at https://github.com/panosc-eu/panosc/blob/master/Work%20Packages
 WP4 Leadership
 ==============
 
-- Introduction Sandor 
+- Introduction  Sandor 
 
 Annual Meeting
 ==============
