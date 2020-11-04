@@ -24,4 +24,13 @@ Ornela explains that with Expands they have agreed to read the Iron Lady documen
 #### 4. AOB
 Nothing to discuss
 
-#### Actions
+### Actions
+- [ ] Provide feedback on Value Proposition Task 7.3 (all)
+- [ ] Analyse KPIs from others WP in terms of their relevance for the sustainability of the PaNOSC (Ornela, then all)
+- [ ] If willing, take part in the meeting to discuss the Iron Lady document on Thursday November 5th at 14:00. (all)
+
+### Actions pending from previous meetings
+- [ ] Analyse the cost collection template in view of the following sub-task (Florian)
+- [ ] Check the allocation of resources for WP7 and inform Ornela of any necessary change (all, continuous)
+- [ ] Upload the filled [cost collection file](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model_V2.xlsx) in the folder of [task 7.2](https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC) (all except from ILL)
+- [ ] Propose any necessary change or addition to the cost collection template (all)
