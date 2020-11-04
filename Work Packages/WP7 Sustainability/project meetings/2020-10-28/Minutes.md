@@ -32,5 +32,5 @@ Nothing to discuss
 ### Actions pending from previous meetings
 - [ ] Analyse the cost collection template in view of the following sub-task (Florian)
 - [ ] Check the allocation of resources for WP7 and inform Ornela of any necessary change (all, continuous)
-- [ ] Upload the filled [cost collection file](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model_V2.xlsx) in the folder of [task 7.2](https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC) (all except from ILL)
+- [ ] Upload the filled [updated cost collection file](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/2020-10-20%20Template-Data-processing-costs.xlsx) (all)
 - [ ] Propose any necessary change or addition to the cost collection template (all)
