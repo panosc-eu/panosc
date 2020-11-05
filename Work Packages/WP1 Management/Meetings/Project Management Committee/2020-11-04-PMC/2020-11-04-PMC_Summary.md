@@ -45,7 +45,7 @@ Andy reported a session shared with Patrick and 5 presentions made, however ther
 
 * **WP9** : Nicoletta said that she will be also asking WP leaders how WP9 can help with the dissemination of WP results. Nicoletta reported working with ExPaNDS on the presentation and sharing some info regarding use cases with Andy. 
 
-Nicoletta added brochure presentation and that the Communicaton and Dissemination strategy document has been updated, will be presented during the annual meeting and can be uploaded to the EC portal.
+Nicoletta added brochure presentation and that the Communicaton and Dissemination strategy document has been updated, will be presented during the annual meeting and can be uploaded to the EC portal after the event.
 
 
 * **WP8** : Thomas reported a presentation during the EGI conference and that he had the same impression as Andy and others regarding the event. Work with Florian is ongoing for the Annual Meeting presentation as it is technical work to integrate Jupyter in the e-learning platform.
