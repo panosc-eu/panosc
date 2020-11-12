@@ -6,6 +6,8 @@ Thursday 11th November 2020 - 10H00 CET
 
 Attendees : 
 
+Excused: Giuseppe
+
 
 
 ## Agenda
@@ -20,4 +22,28 @@ Attendees :
 8. AOB
 ## Discussions:
 
- 
+1. Debrief annual meeting
+
+   
+
+   Question from Vincent on standardisation of compute access/APIs (access to data as well?)
+
+   Information from Patrick: Data lake (possibility of an introduction meeting / workshop with ESCAPE), HIFIS (FTS3 and HTTP apache module)
+   Feedback from EGI Conference ?
+   Open discussion
+
+
+
+3. AAI
+   Common place for documentation / aggregation of doc ?
+   Training: 
+
+   Introduction to SSO protocols (OIDC/SAML) ?
+   Keycloack installation for an RI (how to help? where to start)
+   Connection to umbrellaID
+   Authorisation mechanism 
+
+   
+
+4. Further topics of interest
+   Software distribution
