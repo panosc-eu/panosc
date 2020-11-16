@@ -7,6 +7,7 @@ Agenda
 1. ExPaNDS + PaNOSC Annual meeting *(max 20 min)*
 
 2. Updates on deliverables & milestones due in November *(max 20 min)*
+
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
 | WP1 | **[D1.6 - Report of annual workshop 2](https://docs.google.com/document/d/1dguUn3xSr5RwYELbkHfOeuvhjLT03Q_D/edit#)** | 30/11/2020 |  |
