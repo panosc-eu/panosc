@@ -1,4 +1,4 @@
-PaNOSC Project Management Committee Meeting - 04/11/2020 
+PaNOSC Project Management Committee Meeting - 18/11/2020 
 =========================================================
 
 Agenda
@@ -6,11 +6,23 @@ Agenda
 
 1. ExPaNDS + PaNOSC Annual meeting *(max 20 min)*
 
-2. WP leaders updates *(max 30 min)*
+2. Updates on deliverables & milestones due in November *(max 20 min)*
+| WP | Deliverable / Milestone | Due date | Comments |
+| -- | --------- | -------- | -------- |
+| WP1 | **[D1.6 - Report of annual workshop 2](https://docs.google.com/document/d/1dguUn3xSr5RwYELbkHfOeuvhjLT03Q_D/edit#)** | 30/11/2020 |  |
+| WP1 | **MS1.3 - Second Annual report** | 30/11/2020 | linked to D1.6 |
+| WP2 | **D2.3 - Guidelines on implementing Data Policy Framework** | 30/11/2020 | |
+| WP2 | **MS2.2 - Adoption of PaNOSC DP framework** | 30/11/2020 | |
+| WP5 | **D5.2 - Documented simiulation APIs** | 30/11/2020 | |
+| WP5 | **MS5.2 - Demostration of simulation services** | 30/11/2020 | |
+| WP6 | **D6.4 - Software catalogue** | 30/11/2020 | |
+| WP6 | **MS6.2 First release of PaNOSC service** | 31/05/2020 |  |
+
+2. WP leaders other updates *(max 10 min)*
 
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
-| WP1 | **D1.6 - Report of annual workshop 2** | 30/11/2020 | Due after annual workshop |
+| WP1 | **[D1.6 - Report of annual workshop 2](https://docs.google.com/document/d/1dguUn3xSr5RwYELbkHfOeuvhjLT03Q_D/edit#)** | 30/11/2020 | Due after annual workshop |
 | WP1 | **MS1.3 - Second Annual report** | 30/11/2020 | linked to D1.6 |
 | WP2 | **D2.3 - Guidelines on implementing Data Policy Framework** | 30/11/2020 | |
 | WP2 | **MS2.2 - Adoption of PaNOSC DP framework** | 30/11/2020 | |
@@ -19,7 +31,7 @@ Agenda
 | WP5 | **D5.2 - Documented simiulation APIs** | 30/11/2020 | |
 | WP5 | **MS5.2 - Demostration of simulation services** | 30/11/2020 | |
 | WP6 | **D6.4 - Software catalogue** | 30/11/2020 | |
-| WP6 | **MS6.2 First release of PaNOSC service** | 31/05/2020 | **THIS IS VERY LATE** |
+| WP6 | **MS6.2 First release of PaNOSC service** | 31/05/2020 |  |
 | WP7 | IMS M1 Internal Milestone: Complete cost collection |31/12/2020| *and eventually adjust scope* |
 | WP7 | IMS M2 Internal Milestone: First draft D7.2 Cost model |31/05/2021 |  |
 | WP8 | **IMS 8.5 Internal Milestone: MS8.4 Jupyter integrated in e-learning** | 30/11/2020 | *Milestone 8.4 moved forward* |
