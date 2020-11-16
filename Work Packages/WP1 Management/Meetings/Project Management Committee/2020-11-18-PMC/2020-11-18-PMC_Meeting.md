@@ -19,7 +19,9 @@ Agenda
 | WP6 | **D6.4 - Software catalogue** | 30/11/2020 | |
 | WP6 | **MS6.2 First release of PaNOSC service** | 31/05/2020 |  |
 
-2. WP leaders other updates *(max 10 min)*
+3. Who should cover the costs of publications. Should it be the partner who released it, or the partner leading the WP to which the publication is related?
+
+4. WP leaders other updates *(max 10 min)*
 
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
