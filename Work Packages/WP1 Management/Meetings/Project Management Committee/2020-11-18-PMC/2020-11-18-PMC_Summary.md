@@ -78,7 +78,7 @@ Ornela also reported a symposium on GAIA-x
 
 * **WP8** : Thomas and Florian were absent. Nicoletta reported that there is some work ongoing for the e-learning platform and workshops. Teodor added that the WP is seeking feedback from past users of the platform in order to obtain a list of desired features / improvements that could help steer future development. Teodor also explained that Jupyter is now itnegrated in the e-learning platform.
 
-* **WP9** : Nicoletta reported working on the follow-up communications from the annual meeting and symposium, in particular preparing a survey for attendees and seeking a journal with open-access to publish an article on the event.
+* **WP9** : Nicoletta reported working on the follow-up communications from the annual meeting and symposium, in particular preparing a news item, a survey for attendees and seeking a journal with open-access to publish an article on the event. The recordings have been edited and will be soon available on PaNOSC website and youtube.
 
 Nicoletta also reported that Tobias presented PaNOSC at a SSHOC / Freya event (where most attendees didn't like the *marketplace* term).
 
