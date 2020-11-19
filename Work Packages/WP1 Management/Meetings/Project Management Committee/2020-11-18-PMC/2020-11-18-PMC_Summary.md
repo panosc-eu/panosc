@@ -16,27 +16,27 @@ Jordi started the meeting by saying that he thought the Annual Meeting was very 
 
 Tobias said that the fact that it was organised in half-day sessions helped people to stay focused.
 
-Jordi added that some WPs did kidn of two separate presentations (ExPaNDS + PaNOSC) instead of a unique presentation focusing in common work.
+Jordi added that some WPs did two separate presentations (ExPaNDS + PaNOSC) instead of a unique presentation focusing on common work.
 
 **2. Updates on deliverables & milestones due in November**
 
-**[D1.6 - Report of annual workshop 2](https://docs.google.com/document/d/1dguUn3xSr5RwYELbkHfOeuvhjLT03Q_D/edit#)** : Jordi asked all WP leaders to click on the link and help completing the D1.6 deliverable. This is a short deliverable about the annual meeting and progress in the project. Jordi explained that every WP leader should take the time to write around half a page about their presentation and another half page about progress in the work package. The deadline for submitting the deliverable is Monday 30th November, therefore it is imperative that contributions take place by Friday 27th.
+***[D1.6 - Report of annual workshop 2](https://docs.google.com/document/d/1dguUn3xSr5RwYELbkHfOeuvhjLT03Q_D/edit#)*** : Jordi asked all WP leaders to click on the link and help completing the D1.6 deliverable. This is a short deliverable about the annual meeting and progress in the project. Jordi explained that every WP leader should take the time to write around half a page about their presentation and another half page about progress in the work package. The deadline for submitting the deliverable is Monday 30th November, therefore it is imperative that contributions take place by Friday 27th.
 
-**MS1.3 - Second Annual report** is related to D1.6, so when the deliverable is done we can tick the milestone
+***MS1.3 - Second Annual report*** is related to D1.6, so when the deliverable is done we can tick the milestone
 
-**[D2.3 - Guidelines on implementing Data Policy Framework](https://docs.google.com/document/d/1_myPYPk3DTXz-x1-meW4nXBcxNWO4yax-jGP6V00cHU/edit?usp=sharing)** : Andy reported that this is advancing, but there is a small risk of being late. He invited everyone to contribute in the link above.
+***[D2.3 - Guidelines on implementing Data Policy Framework](https://docs.google.com/document/d/1_myPYPk3DTXz-x1-meW4nXBcxNWO4yax-jGP6V00cHU/edit?usp=sharing)*** : Andy reported that this is advancing, but there is a small risk of being late. He invited everyone to contribute in the link above.
 
-**MS2.2 - Adoption of PaNOSC DP framework** : Andy explained that this milestone depends on the partners adopting the Data Policy, which can be a very long process, with CERIC the only partner getting closer. Dario reported while the milestone is not achieved yet it has been approved by directors and now needs to go the General Assembly. Ornela added that the GA is next Monday 23rd November and at that point she expects the GA to follow the advice of directors.
+***MS2.2 - Adoption of PaNOSC DP framework*** : Andy explained that this milestone depends on the partners adopting the Data Policy, which can be a very long process, with CERIC the only partner getting closer. Dario reported while the milestone is not achieved yet it has been approved by directors and now needs to go the General Assembly. Ornela added that the GA is next Monday 23rd November and at that point she expects the GA to follow the advice of directors.
 
 Jordi explained that the approved proposal and Grant Agreement read that the means of verification for this milestone are "Data policies are endorsed officially and are published on official pages", so it is not 100% clear whether we can tick it or not.
 
-**D5.2 - Documented simiulation APIs** : Juncheng explaiend that while a D5.2 document exists he doesn't have a copy and that he is awaiting information from Carsten. Juncheng explained that all API are released in Zenodo. Jordi added that he received a document for MS5.2 and that it seems that D5.2 would be a subset of MS5.2 which has a wider scope, so renaming the document may do the trick. It was agreed that Jordi / Juncheng will try to contact Carsten again.
+***D5.2 - Documented simiulation APIs*** : Juncheng explaiend that while a D5.2 document exists he doesn't have a copy and that he is awaiting information from Carsten. Juncheng explained that all API are released in Zenodo. Jordi added that he received a document for MS5.2 and that it seems that D5.2 would be a subset of MS5.2 which has a wider scope, so renaming the document may do the trick. It was agreed that Jordi / Juncheng will try to contact Carsten again.
 
-**MS5.2 - Demostration of simulation services** : Jordi has the document and he suggested some changes in order to match D5.2 definition and follow EU rules. Jordi is awaiting feedback on this.
+***MS5.2 - Demostration of simulation services*** : Jordi has the document and he suggested some changes in order to match D5.2 definition and follow EU rules. Jordi is awaiting feedback on this.
 
-**D6.4 - Software catalogue** : Jean-François reported that he still thinks that the deliverable will be around 6 months late due to ILL not having the required resource in place. It was agreed that Jean-François would draft a short email explaining the situation which will be then sent to our Project Officer by Jordi/Andy.
+***D6.4 - Software catalogue*** : Jean-François reported that he still thinks that the deliverable will be around 6 months late due to ILL not having the required resource in place. It was agreed that Jean-François would draft a short email explaining the situation which will be then sent to our Project Officer by Jordi/Andy.
 
-**MS6.2 First release of PaNOSC service** : Jean-François said he is confident the milestone will be reached in time.
+***MS6.2 First release of PaNOSC service*** : Jean-François said he is confident the milestone will be reached in time.
 
 **3. Who should cover the costs of publications. Should it be the partner who released it, or the partner leading the WP to which the publication is related?**
 
