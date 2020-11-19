@@ -12,7 +12,7 @@ Minutes
 
 **1. [ExPaNDS + PaNOSC Annual Meeting](https://indico.eli-beams.eu/event/376/page/0)**
 
-Jordi started the meeting by saying that he thought the Annual Meeting was very well organised and thanked all organisers. He explained that he thought it was very good to get both ExPaNDS and PaNOSC together and that he hopes this way of organising annual meetings can be repeated in the future. He added that it was a shame that it couldn't be face to face as it is very difficult to have the informal conversations / contacts / unplanned catch-ups during a remote event.
+Jordi started the meeting by saying that he thinks the Annual Meeting was very well organised and thanked all organisers. He explained that he thinks it is very good to get both ExPaNDS and PaNOSC together and that he hopes this way of organising annual meetings can be repeated in the future. He added that it is a shame that it couldn't be face to face as it is very difficult to have the informal conversations / contacts / unplanned catch-ups during a remote event.
 
 Tobias said that the fact that it was organised in half-day sessions helped people to stay focused.
 
