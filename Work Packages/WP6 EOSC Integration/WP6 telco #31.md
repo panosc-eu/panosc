@@ -1,12 +1,12 @@
-#  WP6 fortnightly telco #30
+#  WP6 fortnightly telco #31
 
-Thursday 11th November 2020 - 10H00 CET
+Tuesday 24th November 2020 - 11H00 CET
 
-​	Next meeting : Tuesday 24th November 2020 at 11H00 CET
+​	Next meeting : Tuesday 8th December 2020 at 11H00 CET
 
 Attendees : Ian , Marco Christos, Michael, Andrea, William, Patrick, François, Philippe, Gregory
 
-Invited: Vincent (ESRF)
+
 
 Excused: Giuseppe
 
@@ -14,7 +14,6 @@ Excused: Giuseppe
 
 ## Agenda
 
-1. Debrief annual meeting (Questions from Vincent on compute interface standardisation, workshop with escape on 'data lake') 
 2. Status of the different activities regarding DT use cases 
 3. AAI (move of the remaining SPs, need of training and documentation for/from RIs)
 4. Discussion on new possible activities (Software provisioning, ...)
@@ -23,15 +22,6 @@ Excused: Giuseppe
 7. Definition of PaNOSC services, try to propose a definition for the PMC (help needed) 
 8. AOB
 ## Discussions:
-
-**Debrief annual meeting**
-
-Question from Vincent on standardisation of compute access/APIs (access to data as well?)
-
-How is it possible to create as simple as possible a connection with cli to start  a docker or vm image instance? 
-
-EGI standradisation is based on OpenStack, by bieng part of the VO you have access to the resources, accounting 
-Info from DESY https://confluence.desy.de/display/PKW/PaNOSC+Kubernetes+Workshop
 
 **Data transfer**
 
