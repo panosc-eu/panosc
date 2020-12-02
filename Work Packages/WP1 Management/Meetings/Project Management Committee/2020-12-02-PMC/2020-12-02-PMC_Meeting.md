@@ -12,14 +12,16 @@ Agenda
 | WP1 | **MS1.3 - Second Annual report** | 30/11/2020 | linked to D1.6 |
 | WP2 | **D2.3 - Guidelines on implementing Data Policy Framework** | 30/11/2020 | |
 | WP2 | **MS2.2 - Adoption of PaNOSC DP framework** | 30/11/2020 | |
-| WP5 | **D5.2 - Documented simiulation APIs** | 30/11/2020 | |
-| WP5 | **MS5.2 - Demostration of simulation services** | 30/11/2020 | |
+| WP5 | **D5.2 - Documented simiulation APIs** | 30/11/2020 | **DONE** |
+| WP5 | **MS5.2 - Demostration of simulation services** | 30/11/2020 | **DONE** |
 | WP6 | **D6.4 - Software catalogue** | 30/11/2020 | |
 | WP6 | **MS6.2 First release of PaNOSC service** | 31/05/2020 |  |
 
 2. Open Research Europe platform *(max 10 min)*
 
-3. WP leaders other updates *(max 20 min)*
+3. Common KPIs *(max 5 min)*
+
+4. WP leaders other updates *(max 20 min)*
 
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
@@ -40,7 +42,7 @@ Agenda
 | WP9 | | | Nothing due until M48, internal milestones required |
 
 
-4. Pending Issues *(max 10 min)*
+5. Pending Issues *(max 10 min)*
 
 * [#69 Review Report : Risk Management](https://github.com/panosc-eu/panosc/issues/69)
 * [#68 Review Report : WP1's Data Management Plan](https://github.com/panosc-eu/panosc/issues/68)
@@ -56,9 +58,9 @@ Agenda
 * [#43 Internal Milestones / deliverables](https://github.com/panosc-eu/panosc/issues/43) - *see item 4*
 * [#9 Observer status](https://github.com/panosc-eu/panosc/issues/9) - *role of observers needs to be reviewed*
 
-5. Recent and upcoming events
+6. Recent and upcoming events
 
-6. AOB
+7. AOB
 
 
 
