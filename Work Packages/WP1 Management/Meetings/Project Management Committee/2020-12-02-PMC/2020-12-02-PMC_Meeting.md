@@ -25,14 +25,12 @@ Agenda
 
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
-| WP1 | **[D1.6 - Report of annual workshop 2](https://docs.google.com/document/d/1dguUn3xSr5RwYELbkHfOeuvhjLT03Q_D/edit#)** | 30/11/2020 | Due after annual workshop |
-| WP1 | **MS1.3 - Second Annual report** | 30/11/2020 | linked to D1.6 |
+| WP1 | | | Nothing due until M30, internal milestones required |
 | WP2 | **D2.3 - Guidelines on implementing Data Policy Framework** | 30/11/2020 | |
 | WP2 | **MS2.2 - Adoption of PaNOSC DP framework** | 30/11/2020 | |
-| WP3 | D3.2 - Demonstrator implementation | 31/03/2021 | due in six months from now |
+| WP3 | D3.2 - Demonstrator implementation | 31/03/2021 | due in four months from now |
 | WP4 | | | Nothing due until M42, internal milestones required |
-| WP5 | **D5.2 - Documented simiulation APIs** | 30/11/2020 | |
-| WP5 | **MS5.2 - Demostration of simulation services** | 30/11/2020 | |
+| WP5 | | | Nothing due until M42, internal milestones required |
 | WP6 | **D6.4 - Software catalogue** | 30/11/2020 | |
 | WP6 | **MS6.2 First release of PaNOSC service** | 31/05/2020 |  |
 | WP7 | IMS M1 Internal Milestone: Complete cost collection |31/12/2020| *and eventually adjust scope* |
