@@ -1,9 +1,5 @@
 # PaNOSC WP 7 meeting - 25/11/2020
 
-
-
- 1. Task 7.3 Business models - Progress report
-
 ### Participants
 Ornela de Giacomo (CERIC-ERIC), Angela Zennaro (CERIC-ERIC), Roberto Pugliese (CERIC-ERIC), Dario Roccella (CERIC), Teodor Ivanoaica (ELI), Thomas Holm  (ESS), Florian Gliksohn (ELI), Yuri Kiryenko (XFEL)
 ### Agenda
