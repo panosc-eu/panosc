@@ -35,6 +35,6 @@ Thomas proposes to have the next WP7 meeting in one week instead of two in order
 - [ ] Collect feedback from PMC on the questionnaire for users for task 7.1 (Roberto) 
 
 ### Actions pending from previous meetings
-- [ ] Task 7.2: Upload the filled (https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/2020-10-20%20Template-Data-processing-costs.xlsx) in the folder of [task 7.2](https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC)
+- [ ] Task 7.2: Upload the filled [cost collection template](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/2020-10-20%20Template-Data-processing-costs.xlsx) in the folder of [task 7.2](https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC)
 
 
