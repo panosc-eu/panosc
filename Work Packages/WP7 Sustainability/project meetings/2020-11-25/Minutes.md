@@ -28,3 +28,11 @@ Angela Zennaro also presents the potential channels to reach the users and custo
 Ornela de Giacomo proposes to launch a consultation with all WP leaders on non -financial aspects of the sustainability of PaNOSC results, such as who will be in charge of maintaining the portal, who will decide what services will be in the portal, who will update the services, etc.  We have to collect feedback on non-financial issues, risks, mitigation measures etc from PaNOSC WPs leaders to start identifying necessary action within the lifetime of PaNOSC and defining the sustainability report (D 7.4)
 Thomas Holms agrees that we need to have a plan on how maintain the outputs of PaNOSC after the end of the project and explains that this was raised also during a LENS meeting, but apparently facilities are not willing to invest resources in maintaining the activities initiated by PaNOSC.
 Thomas proposes to have the next WP7 meeting in one week instead of two in order to have the cost data compared asap.  Ornela replies that if at least four of the partners will have delivered the cost collection by the beginning of the next week, then it is feasible, otherwise next meeting should take place on the 9th of December.
+
+### Actions pending from previous meetings
+
+- [ ] Task 7.2: Upload the filled [cost collection file](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/metrics%20and%20cost%20model_V2.xlsx) in the folder of [task 7.2](https://github.com/panosc-eu/panosc/tree/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC)
+- [ ] Comment on the value proposition for task 7.3 (all)
+- [ ] Prepare the questionnaire for WP leaders for task 7.4 (Ornela) 
+- [ ] Collect feedback from PMC on the questionnaire for users for task 7.1 (Roberto) 
+
