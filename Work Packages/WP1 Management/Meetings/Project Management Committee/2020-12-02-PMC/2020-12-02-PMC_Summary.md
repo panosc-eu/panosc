@@ -12,7 +12,7 @@ Minutes
 
 **1. Updates on deliverables & milestones due in November**
 
-Jordi explained that the deliverables and milestones related to WP5 were submitted on time (D5.2 and MS5.2); for WP1 the submission was two days late (D1.6 and MS1.3) while WP2 and WP6 items are still pending.
+Jordi explained that the deliverables and milestones related to WP5 were submitted on time (D5.2 and MS5.2); for WP1, the submission was two days late (D1.6 and MS1.3) while WP2 and WP6 items are still pending.
 
 Andy explained that for WP2 he expects the deliverable to be ready by the end of January and D6.4 for the end of March. Thomas added that he received an email from the EOSC saying that after a portal update they are now ready to register services again. Andy said that there is a webminar 03/12/2020 about the EOSC new portal.
 
@@ -41,7 +41,7 @@ Sophie asked whether it would be better to aggregate the KPIs of both projects o
 
 **5. WP leaders updates**
 
- **WP4**: Sandor reported the start of the two task forces
+* **WP4**: Sandor reported the start of the two task forces
 1.- Portal development and deployment
 2.- Use cases + tools to add to the portal
 which meet every three weeks each (so roughly a meeting every 10 days as we have two task forces).
