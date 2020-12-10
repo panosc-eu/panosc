@@ -13,11 +13,13 @@ Agenda
 | WP6 | **D6.4 - Software catalogue** | 30/11/2020 |  **DELAYED** 6 months |
 | WP6 | **MS6.2 First release of PaNOSC service** | 31/05/2020 |  **DELAYED** 6 months  |
 
-2. Common KPIs progress *(max 10 min)*
+2. Update of deliverable D9.1 ([PaNOSC Communication and Dissemination plan](https://drive.ceric-eric.eu/d/6a4956f73f494c819fa5/)) *(max 10 min)*
 
-3. Risk Management *(max 5 min)*
+3. Common KPIs progress *(max 10 min)*
 
-4. WP leaders other updates *(max 25 min)*
+4. Risk Management *(max 5 min)*
+
+5. WP leaders other updates *(max 25 min)*
 
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
@@ -36,7 +38,9 @@ Agenda
 | WP9 | | | Nothing due until M48, internal milestones required |
 
 
-5. Pending Issues *(max 10 min)*
+5. Recent and upcoming events
+
+6. Pending Issues 
 
 * [#69 Review Report : Risk Management](https://github.com/panosc-eu/panosc/issues/69)
 * [#68 Review Report : WP1's Data Management Plan](https://github.com/panosc-eu/panosc/issues/68)
@@ -52,7 +56,6 @@ Agenda
 * [#43 Internal Milestones / deliverables](https://github.com/panosc-eu/panosc/issues/43) - *see item 4*
 * [#9 Observer status](https://github.com/panosc-eu/panosc/issues/9) - *role of observers needs to be reviewed*
 
-6. Recent and upcoming events
 
 7. AOB
 
