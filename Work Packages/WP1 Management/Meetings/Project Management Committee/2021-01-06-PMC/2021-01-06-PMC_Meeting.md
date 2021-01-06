@@ -22,8 +22,9 @@ Agenda
 | WP8 | **IMS 8.5 Internal Milestone: Course/tutorial w/ Jupyter developed** | 30/11/2020 |  |
 | WP9 | | | Nothing due until M48, internal milestones required |
 
+2. Update on EOSC Future
 
-2. Pending Issues *(max 20 min)*
+3. Pending Issues *(max 20 min)*
 
 * [#69 Review Report : Risk Management](https://github.com/panosc-eu/panosc/issues/69)
 * [#68 Review Report : WP1's Data Management Plan](https://github.com/panosc-eu/panosc/issues/68)
@@ -39,9 +40,9 @@ Agenda
 * [#43 Internal Milestones / deliverables](https://github.com/panosc-eu/panosc/issues/43) - *see item 4*
 * [#9 Observer status](https://github.com/panosc-eu/panosc/issues/9) - *role of observers needs to be reviewed*
 
-3. Recent and upcoming events
+4. Recent and upcoming events
 
-4. AOB
+5. AOB
 
 
 
