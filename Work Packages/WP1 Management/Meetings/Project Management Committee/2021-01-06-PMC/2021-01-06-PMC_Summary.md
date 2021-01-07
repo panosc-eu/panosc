@@ -43,7 +43,7 @@ It was briefly discussed that the User Cases form is for users to submit their n
 
 Rudolf reported that the EOSC Association hold its [General Assembly 17/12/2020](https://www.eoscsecretariat.eu/news-opinion/european-open-science-cloud-takes-step-forward-new-association) and that now has a president and 8 directors elected, with a full-time General Secretary to be hired. 
 
-Fees were decided, with the aim of raising 1.5M€ to ensure that the association has an operation budget and can build up a little bit of reserves as required by Beldium law. The fees are:
+Fees were decided, with the aim of raising 1.5M€ to ensure that the association has an operation budget and can build up a little bit of reserves as required by Belgium law. The fees are:
 * for the 142 members 10k€ / year
 * for the 49 observers 2k€ / year
 
