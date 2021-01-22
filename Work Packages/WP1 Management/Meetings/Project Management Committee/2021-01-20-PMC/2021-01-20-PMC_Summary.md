@@ -27,6 +27,7 @@ Jean-François explained that hte milestone for WP6 that is delayed he has regis
 Nicoletta explained that there is an event 21/01/2021 about service providers: https://www.eosc-portal.eu/events/eosc-enhance-webinar-eosc-portal-new-release-tutorial-existing-providers
 
 **B. EGI foundation PM left**
+
 Giuseppe reported that EGI foundation has nearly exhausted the PM allocation for PaNOSC, however its linked third parties have spent very few. It is possible that DESY and STFC resolve the underspending, however for Cesnet is not so clear.
 Giuseppe explained that STFC could shift 2 PMs into EGI foundation, however that won't be enough for EGI to continue collaborating until the end of the project.
 
@@ -87,7 +88,7 @@ Andy reminded Juncheng that the serial crystalography could be a nice use case t
 
 * WP8 - Staff and User Training: Thomas was absent. Florian reminded the attendees of the upcoming train the trainer workshop which has 20 attendees already registered. He reminded all RI partners to ensure they have two registered attendees. It was agreed that for this workshop is OK to have an external observer.
 
-*WP9 - Outreach and Communication: Nicoletta reported setting up interviews related to SIMEX (dev & also users) and MacStas. She mentioned a published interview with Mads and requested volunteers to continue the video production, so she  asked all partners to provide names of users and scientists that are using PaNOSC services.
+* WP9 - Outreach and Communication: Nicoletta reported setting up interviews related to SIMEX (dev & also users) and MacStas. She mentioned a published interview with Mads and requested volunteers to continue the video production, so she  asked all partners to provide names of users and scientists that are using PaNOSC services.
 
 Nicoletta also reported working adding a chatbot to the website and the posibility to join the info@panosc mailing list by subscribing in the website.
 
