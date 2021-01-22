@@ -1,4 +1,4 @@
-PaNOSC Project Management Committee Meeting - 02/12/2020 
+PaNOSC Project Management Committee Meeting - 20/01/2021 
 =========================================================
 
 Agenda
@@ -6,7 +6,7 @@ Agenda
 
 1. Pending Issues *(max 20 min)*
 
-* [#70 Service Provider for EOSC-registered services](https://github.com/panosc-eu/panosc/issues/69)
+* [#70 Service Provider for EOSC-registered services](https://github.com/panosc-eu/panosc/issues/70)
 * [#69 Review Report : Risk Management](https://github.com/panosc-eu/panosc/issues/69)
 * [#68 Review Report : WP1's Data Management Plan](https://github.com/panosc-eu/panosc/issues/68)
 * [#67 Review Report : EOSC Stakeholders communications](https://github.com/panosc-eu/panosc/issues/67)
