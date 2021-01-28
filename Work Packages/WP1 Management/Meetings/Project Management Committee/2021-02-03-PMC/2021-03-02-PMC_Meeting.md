@@ -8,7 +8,7 @@ Agenda
 
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
-| WP1 | | | Nothing due until M30 |
+| WP1 | | | Nothing due until M30, **DMP to be resubmitted** |
 | WP2 | **D2.3 - Guidelines on implementing Data Policy Framework** | 30/11/2020 | |
 | WP2 | **MS2.2 - Adoption of PaNOSC DP framework** | 30/11/2020 | |
 | WP3 | D3.2 - Demonstrator implementation | 31/03/2021 | due soon |
@@ -20,7 +20,6 @@ Agenda
 | WP7 | IMS M2 Internal Milestone: First draft D7.2 Cost model |31/05/2021 |  |
 | WP8 | *IMS 8.5 Internal Milestone: MS8.4 Jupyter integrated in e-learning* | 30/11/2020 | *Milestone 8.4 moved forward* |
 | WP8 | *IMS 8.5 Internal Milestone: Course/tutorial w/ Jupyter developed* | 30/11/2020 |  |
-| WP9 | | | **D9.1 ready for re-submitting** |
 | WP9 | | | Nothing due until M48, internal milestones required |
 
 2. [Open call to make one of our services available in EOSC](https://www.eosc-pillar.eu/open-call-thematic-service-providers)
