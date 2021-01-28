@@ -23,9 +23,11 @@ Agenda
 | WP9 | | | **D9.1 ready for re-submitting** |
 | WP9 | | | Nothing due until M48, internal milestones required |
 
-2. WP leaders other updates *(max 20 min)*
+2. [Open call to make one of our services available in EOSC](https://www.eosc-pillar.eu/open-call-thematic-service-providers)
 
-3. Pending Issues *(max 20 min)*
+3. WP leaders other updates *(max 20 min)*
+
+4. Pending Issues *(max 20 min)*
 
 * [#70 Service Provider for EOSC-registered services](https://github.com/panosc-eu/panosc/issues/70)
 * [#69 Review Report : Risk Management](https://github.com/panosc-eu/panosc/issues/69)
@@ -44,7 +46,7 @@ Agenda
 
 
 
-4. Recent and upcoming events
+5. Recent and upcoming events
 
 * 12 January 2021: [PaN ESCAPE Data Management Workshop](https://diamondlight.zoom.us/meeting/register/tJIkfuGtrzwsEtRgUle5IyUe31UxaCt3jo9L)
 * 25-29 January 2021: [DESY/European XFEL user meeting](https://indico.desy.de/event/28139/)
@@ -53,7 +55,7 @@ Agenda
 * 23-24 March 2021: [2nd Train the Trainer online internal workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-2/)
 
 
-5. AOB
+6. AOB
 
 
 
