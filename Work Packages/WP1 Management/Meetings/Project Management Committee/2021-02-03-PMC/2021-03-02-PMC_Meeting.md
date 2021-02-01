@@ -24,9 +24,11 @@ Agenda
 
 2. [Open call to make one of our services available in EOSC](https://www.eosc-pillar.eu/open-call-thematic-service-providers)
 
-3. WP leaders other updates *(max 20 min)*
+3. MATLAB and Simulink integrations with Science Gateways and e-portals in Europe (The MathWorks GmbH)
 
-4. Pending Issues *(max 20 min)*
+4. WP leaders other updates *(max 20 min)*
+
+5. Pending Issues *(max 20 min)*
 
 * [#70 Service Provider for EOSC-registered services](https://github.com/panosc-eu/panosc/issues/70)
 * [#69 Review Report : Risk Management](https://github.com/panosc-eu/panosc/issues/69)
@@ -45,7 +47,7 @@ Agenda
 
 
 
-5. Recent and upcoming events
+6. Recent and upcoming events
 
 * 12 January 2021: [PaN ESCAPE Data Management Workshop](https://diamondlight.zoom.us/meeting/register/tJIkfuGtrzwsEtRgUle5IyUe31UxaCt3jo9L)
 * 25-29 January 2021: [DESY/European XFEL user meeting](https://indico.desy.de/event/28139/)
