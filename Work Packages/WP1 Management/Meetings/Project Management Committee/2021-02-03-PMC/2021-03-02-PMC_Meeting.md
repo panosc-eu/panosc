@@ -30,6 +30,7 @@ Agenda
 
 5. Pending Issues *(max 20 min)*
 
+* #71 to #74: WP8-related issues created by Thomas
 * [#70 Service Provider for EOSC-registered services](https://github.com/panosc-eu/panosc/issues/70)
 * [#69 Review Report : Risk Management](https://github.com/panosc-eu/panosc/issues/69)
 * [#68 Review Report : WP1's Data Management Plan](https://github.com/panosc-eu/panosc/issues/68)
