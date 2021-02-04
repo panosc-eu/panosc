@@ -27,7 +27,7 @@ Rudolf asked whether is there any liability or legal responsibility attached to 
 
 Andy explained that the service is done and only ILL can support it right now, therefore and keeping in mind that this milestone is 6 months late he would like to have it registered with ILL as service provider (because it does not involve any legal responsibility) and look at it later. Jean-François agreed to try to move quickly with the registration of the Software Catalog and e-learning portal.
 
-**New 2. Travel budget not spent**
+**New A. Travel budget not spent**
 
 Andy and Jordi reported that for PaNOSC we budgeted 485k€ (+20% overheads) which translates in roughly 120k€ / year. At the time of our 2nd internal financial report (May 2020) we had spent 117k€ (out of 185k€), so it is likely that right now we are sitting on around 130k€ underspending, which is likely to increase to 186k€ by May 2021.
 
