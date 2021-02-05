@@ -66,7 +66,10 @@ Jordi also reported looking at the commitments made by WP leaders and partners f
 
 * WP7 - Sustainability: Ornela was absent. Dario reported a meeting taking place next week and ongoing work with the cost collection.
 
-* WP8 - Staff and User Training: Thomas reported 31 registrations for the [train the trainer workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-1/) (including 8 from ISIS). Thomas also asked how best to document issues (WP8 issues visible at top level of PaNOSC issues in GitHub) and it wasn't clear if Confluence was the way forward. Teodor reported work on Jupyter Notebook intgration into the e-learning portal.
+* WP8 - Staff and User Training: Thomas reported 31 registrations for the [train the trainer workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-1/) (including 8 from ISIS). Thomas also asked how best to document issues (WP8 issues visible at top level of PaNOSC issues in GitHub) and it wasn't clear if Confluence was the way forward. Teodor reported work on Jupyter Notebook intgration into the e-learning portal is now completed and the milestone "MS8.4 Jupyter integrated with the e-learning platform" can now be marked as completed:
+  Jupyter Notebooks can be launched from the e-learning platform. GitHub documentation available https://github.com/eli-eric/illumidesk. (the integration uses LTI1.3, Illumidesk plugin and nbgrader for automatic grading the Jupyter Notebook exercises.
+
+
 
 * WP9 - Outreach and Communication: Nicoletta reported D9.1 being resubmitted. She also asked for more engagement for use cases. She reported contacting the user offices of RIs and working on a poster for the [ESRF user meeting](http://www.esrf.eu/UM2021). Also, a video on remote experiments is now available.
 
