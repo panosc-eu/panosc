@@ -4,7 +4,9 @@ PaNOSC Project Management Committee Meeting - 17/02/2021
 Agenda
 ------	
 
-1. WP leaders other updates *(max 20 min)*
+1. Text and supporting documents for MS2.2 and MS8.4
+
+2. WP leaders other updates *(max 20 min)*
 
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
@@ -23,7 +25,7 @@ Agenda
 | WP8 | MS8.4 - Jupyter integrated with e-learning platform | 31/07/2021 |  |
 | WP9 | | | Nothing due until M48, internal milestones required |
 
-2. Recent and upcoming events
+3. Recent and upcoming events
 
 * 12 January 2021: [PaN ESCAPE Data Management Workshop](https://diamondlight.zoom.us/meeting/register/tJIkfuGtrzwsEtRgUle5IyUe31UxaCt3jo9L)
 * 25-29 January 2021: [DESY/European XFEL user meeting](https://indico.desy.de/event/28139/)
@@ -35,7 +37,7 @@ Agenda
 * 12 February 2021: Risk Analysis Workshop - PaNOSC WP8/ExPaNDS WP5
 * 23-24 March 2021: [2nd Train the Trainer online internal workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-2/)
 
-3. Pending Issues *(max 20 min)*
+4. Pending Issues *(max 20 min)*
 
 * #71 to #74: WP8-related issues created by Thomas
 * [#70 Service Provider for EOSC-registered services](https://github.com/panosc-eu/panosc/issues/70)
@@ -53,7 +55,7 @@ Agenda
 * [#43 Internal Milestones / deliverables](https://github.com/panosc-eu/panosc/issues/43) - *see item 4*
 * [#9 Observer status](https://github.com/panosc-eu/panosc/issues/9) - *role of observers needs to be reviewed*
 
-4. AOB
+5. AOB
 
 
 
