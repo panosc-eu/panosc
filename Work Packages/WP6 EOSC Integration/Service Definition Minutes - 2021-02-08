@@ -1,0 +1,49 @@
+Attendees:
+- Kareem Galal (ESS)
+- Rudolf Dimpler (ESRF)
+- Teodor Ivanoaica (ELI)
+- Jean-Francois Perrin (ESRF)
+
+
+Update:
+# Deliverables added to document
+  - Deliverables
+    - Deliverable 6.1 EGI data-hub integration with the facilities’ data repositories (M18, R, PU, ELI) 
+    - Deliverable 6.2 Integration of local compute resources into the EOSC cloud (M12, R, PU, ELI) 
+    - Deliverable 6.3 Integration of the PaN AAI into the EOSC (M36, R,DEM, PU, ILL)
+    - Deliverable 6.4 Demonstration of the PaN software catalogue integration into EOSC (M24, DEM, PU, ILL) 
+    - Deliverable 6.5 Report on EOSC integration (M48, R, PU, ILL)
+  - Questions for further discussion:
+    - How do any of the above related to Service Definition?
+    - Which deliverable does the current Service Definition work fall under?
+
+# Starting point: description of work (Helpdesk)
+  - Currently, only Task 6.5 references the Helpdesk, which is tightly coupled with EOSC Service Catalogue. 
+  - Need to define/agree on general Helpdesk definitions moving forward:
+    - Will each RI need to have its own local Helpdesk to join the EOSC Helpdesk?
+    - Is access to a central Helpdesk sufficient for this stage?
+    - How will AAI for the EOSC based Helpdesk be organised?
+    
+# AAI: Agree on UmbrellaID for federated access. How should we put this into action?
+  - The Keycloak Training last week showcased the high number of interested users for AAI
+  - We should utilise the current momentum to rollout UmbrellaID as a federated AAI solutions at RIs
+  - Ensure a functioning a connect to UmbrellaID is available at each RIs, for testing purposes
+  - Establish a point of contact at each RI for advancing the installation, configuration and incorporation into UmbrellaID
+
+
+Discussion:
+
+
+
+Outstanding:
+- Definition of Done (DoD): when to know that the work for this workgroup is complete
+- no new updates are being added to the Google document at: https://docs.google.com/document/d/1e9QddP9aPXShK3SMChfp7LfD5xPIDZAGKcl4petAaQE/edit#
+- no explicit milestones set 
+- allocating topics to members, for presentation
+- how to present progress to the rest of the WP6 team
+- minutes currently added to a single Google doc. This should be moved to a fortnighly page on panosc Github (this page)
+- agreed agendas should be sent prior to the meeting to facilitate more fruitful discussions
+
+
+For next meeting:
+
