@@ -1,7 +1,6 @@
 Attendees:
 - Kareem Galal (ESS)
 - Rudolf Dimpler (ESRF)
-- Teodor Ivanoaica (ELI)
 - Jean-Francois Perrin (ESRF)
 
 
@@ -32,6 +31,13 @@ Update:
 
 
 Discussion:
+- Helpdesk
+  - Could ask Thomas (WP8) on how he will support pan-learning.org? How to manage support?
+  - Technical aspects and operational responsibilities need to be defined.
+  - Each service provider needs to provide a service support person (handling support tickets for the Service)
+  - Federated Helpdesk service
+    - could start with an email address (with response time SLA, eg 1 day, or 1 week)
+    
 
 
 
@@ -46,4 +52,5 @@ Outstanding:
 
 
 For next meeting:
-
+- Prepare minutes documents with points to discuss at the meeting
+- Prepare a presentation for the general WP6 meeting (16/2/2021) showing main points discussed so far in Service Definition meetings
