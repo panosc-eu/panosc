@@ -31,12 +31,27 @@ Update:
 
 
 Discussion:
+- The Service Definition falls mainly under the following areas:
+  - Milestone 6.1
+  - Deliverable 6.5
 - Helpdesk
   - Could ask Thomas (WP8) on how he will support pan-learning.org? How to manage support?
   - Technical aspects and operational responsibilities need to be defined.
   - Each service provider needs to provide a service support person (handling support tickets for the Service)
+  - For each service:
+    - How to formulate the Helpdesk?
+    - Who handles the support calls? And how?
   - Federated Helpdesk service
     - could start with an email address (with response time SLA, eg 1 day, or 1 week)
+    - should connect to the RIs Helpdesk: through APIs, or other means (not clear yet)
+    - we need to present a definition to the community, as a guideline
+    - 
+
+Agreed:
+- how to present progress to the rest of the WP6 team:
+  - presentation of current progress to WP6 next week
+- minutes currently added to a single Google doc. This should be moved to a fortnighly page on panosc Github (this page)
+  - this will be way going forward for taking notes/minutes
     
 
 
@@ -46,11 +61,9 @@ Outstanding:
 - no new updates are being added to the Google document at: https://docs.google.com/document/d/1e9QddP9aPXShK3SMChfp7LfD5xPIDZAGKcl4petAaQE/edit#
 - no explicit milestones set 
 - allocating topics to members, for presentation
-- how to present progress to the rest of the WP6 team
-- minutes currently added to a single Google doc. This should be moved to a fortnighly page on panosc Github (this page)
 - agreed agendas should be sent prior to the meeting to facilitate more fruitful discussions
 
 
 For next meeting:
-- Prepare minutes documents with points to discuss at the meeting
+- Prepare minutes documents with points to discuss at the next meeting (document 2021-02-23)
 - Prepare a presentation for the general WP6 meeting (16/2/2021) showing main points discussed so far in Service Definition meetings
