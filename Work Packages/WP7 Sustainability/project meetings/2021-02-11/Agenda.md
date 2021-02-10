@@ -1,3 +1,6 @@
-1. T 7.3 Collection on feedback for business models and next steps
+# PaNOSC WP 7 meeting - 11/02/2021
 
-2. T 7.2 Cost collection: report on progress/issues by partners: brief update
+### Agenda
+
+
+1. T 7.2 Cost collection: report on progress/issues by partners: brief update
