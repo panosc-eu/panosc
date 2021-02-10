@@ -14,10 +14,11 @@ Jordi Bodera Sempere (ESRF), Sandor Brockhauser (EuXFEL), Ornela de Giacomo (CER
 
 T 7.3 Collection of feedback on business models and next steps
 Angela Zennaro presents the working document on the business models asking the partners to give in the next weeks a feedback on the content. The document, at the moment, presents the following sections: 
-•	a description of the methodology according to the Business Model Canvas, 
-•	the value propositions based on the outputs of Panosc project defined at the moment, 
-•	the beneficiaries of those values with a distinction between customers and consumers, and 
-•	the channels through which reach the consumers and customers. 
+-	a description of the methodology according to the Business Model Canvas; 
+-	the value propositions based on the outputs of Panosc project defined at the moment; 
+-	the beneficiaries of those values with a distinction between customers and consumers, and 
+-	the channels through which reach the consumers and customers. 
+
 Angela Zennaro states that it has to be updated according to the interviews with the WP leaders and goes on, briefly explaining each sections. Florian Gliksohn suggests to make a distinction between specific values for users and values related to a general impact, maybe showing also which would be the consequences for users and other beneficiaries to have or not to have available Panosc outputs. Angela Zennnaro agrees and Thomas Holm also suggests to link it with use cases. Jordi Bodera Sempere states the importance to highlight which could be the consequences to not sustain Panosc in the long term and Ornela de Giacomo says that is related to what Florian Gliksohn says, to show what will be loose if Panosc outputs will not last in the long period, e.g if facilities do not maintain their local instances of the Panosc portal, it could be marginalized.
 Rudolf Dimper suggests to state in the beginning of the document what exactly is expected as feedback from partners and also the scope of the business models, as a contribution to the sustainability plan. He explains it is not completely clear what level of information needs to be in each document, since they are closely related.  The business model document will provide an overview of the concepts to be developed more in depth in the sustainability plan. Ornela de Giacomo briefly highlights what is the focus of the sustainability plan, such as the future governance, responsibilities and financial engagement by the partners. 
 
