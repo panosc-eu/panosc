@@ -4,7 +4,7 @@ PaNOSC Project Management Committee Meeting - 17/02/2021
 Agenda
 ------	
 
-1. Text and supporting documents for MS2.2 and MS8.4
+1. Text and supporting documents for MS8.4
 
 2. WP leaders other updates *(max 20 min)*
 
