@@ -4,7 +4,7 @@ PaNOSC Project Management Committee Meeting - 17/02/2021
 Agenda
 ------	
 
-1. Text and supporting documents for MS8.4
+1. Text and supporting documents for  MS8.4 and MS6.2
 
 2. WP leaders other updates *(max 20 min)*
 
@@ -42,10 +42,7 @@ Agenda
 * #71 to #74: WP8-related issues created by Thomas
 * [#70 Service Provider for EOSC-registered services](https://github.com/panosc-eu/panosc/issues/70)
 * [#69 Review Report : Risk Management](https://github.com/panosc-eu/panosc/issues/69)
-* [#68 Review Report : WP1's Data Management Plan](https://github.com/panosc-eu/panosc/issues/68)
 * [#67 Review Report : EOSC Stakeholders communications](https://github.com/panosc-eu/panosc/issues/67)
-* [#65 Review Report: Open Access publications](https://github.com/panosc-eu/panosc/issues/65)
-* [#64 Review Report: Dissemination plan review](https://github.com/panosc-eu/panosc/issues/64)
 * [#63 Review Report: joint KPIs with ExPaNDS](https://github.com/panosc-eu/panosc/issues/63)
 * [#62 Review Report: Engage the community](https://github.com/panosc-eu/panosc/issues/62)
 
