@@ -25,7 +25,9 @@ Agenda
 | WP8 | MS8.4 - Jupyter integrated with e-learning platform | 31/07/2021 |  |
 | WP9 | | | Nothing due until M48, internal milestones required |
 
-3. Recent and upcoming events
+3. Use cases
+ 
+4. Recent and upcoming events
 
 * 12 January 2021: [PaN ESCAPE Data Management Workshop](https://diamondlight.zoom.us/meeting/register/tJIkfuGtrzwsEtRgUle5IyUe31UxaCt3jo9L)
 * 25-29 January 2021: [DESY/European XFEL user meeting](https://indico.desy.de/event/28139/)
@@ -37,7 +39,7 @@ Agenda
 * 12 February 2021: Risk Analysis Workshop - PaNOSC WP8/ExPaNDS WP5
 * 23-24 March 2021: [2nd Train the Trainer online internal workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-2/)
 
-4. Pending Issues *(max 20 min)*
+5. Pending Issues *(max 20 min)*
 
 * #71 to #74: WP8-related issues created by Thomas
 * [#70 Service Provider for EOSC-registered services](https://github.com/panosc-eu/panosc/issues/70)
@@ -52,7 +54,7 @@ Agenda
 * [#43 Internal Milestones / deliverables](https://github.com/panosc-eu/panosc/issues/43) - *see item 4*
 * [#9 Observer status](https://github.com/panosc-eu/panosc/issues/9) - *role of observers needs to be reviewed*
 
-5. AOB
+6. AOB
 
 
 
