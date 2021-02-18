@@ -42,8 +42,8 @@ Andy asked about the ESRF contribution to the WP and Tobias reported that a big 
 
 * WP6 - EOSC Integration: Jean-François reported the [AAI training](https://www.panosc.eu/events/panosc-umbrellaid-technical-training/) from last week which received positive feedback from attendees. Work is ongoing with teh services description and he requested an slot in the PMC of mid-March (17/03) to talk aboutthis topic. Andy asked whether he is answering the request for feedback from EOSC Hub and Jean-François replied that no as there was very few interaction to which Andy replied that saying that would be  valuable feedback.
 
-* WP7 - Sustainability: Ornela was absent. Florian reported issues with the cost collection. ILL and XFEL information is pending (some info from ELI is pending as well but he is working to obtain the data). This is very important as the cost collection is a key piece of information to support the business models and sustainability. Work in the sustainability report is about to start and it is very urgent to obtain this information. Otherwise some partners would need to be excluded from the report. Jamie agreed to chase this information at the ILL, while XFEL's Management is reviewing the information before it can be provided.
-Ornela did some interviews with WP leaders for the sustainability plan, however is missing WP3. It was agreed that Ornela will re-contact Tobias.
+* WP7 - Sustainability: Ornela was absent. Florian reported issues with the cost collection. ILL and XFEL information is pending (some info from ELI is pending as well but he is working to obtain the data). This is very important as the cost collection is a key piece of information to support the business models and sustainability. Work in the sustainability report is about to start and there is a deliverable to be submitted in May, so it is very urgent to obtain this information. Otherwise, the option is to exclude some of the partners from the deliverable on metrics and costs and as a consequence, in the sustainability report. Jamie agreed to chase this information at the ILL, while XFEL's Management is reviewing the information before it can be provided.
+Ornela interviewed all WP leaders for the sustainability plan, with exception of WP3 that is missing. It was agreed that Ornela will re-contact Tobias.
 
 * WP8 - Staff and User Training: Thomas was absent. Florian reported the [train the trainer workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-1/) taking place. Feedback will be collected ahead of the 2nd session. A review of risks related to WP8 took place and work is ongoing to provide the missing information that Jordi requests to mark the milestone as achieved in the EU Portal. 
 
@@ -56,7 +56,7 @@ Ornela did some interviews with WP leaders for the sustainability plan, however 
 
 **New A. EOSC Future**
 
-Rufolf reported that the 40 million project has had its proposal re-submitted last Friday and after the next (and fourth) round of evaluation is hoping that it will be finally fully approved. EOSC Future includes the clusters, E-Infrastructures and Technopolies in the management, with a very ambitious target. Further EOSC work depends on EOSC future, therefore it may be approved soon.
+Rufolf reported that the 40 million project has had its proposal re-submitted last Friday and after the next (and fourth) round of evaluation is hoping that it will be finally fully approved. EOSC Future includes the clusters, E-Infrastructures and Technopolis in the management, with a very ambitious target. Further EOSC work depends on EOSC future, therefore it may be approved soon.
 
 **3. Use cases**
 
