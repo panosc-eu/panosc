@@ -12,10 +12,11 @@ Agenda
 | -- | --------- | -------- | -------- |
 | WP1 | D1.7 - Mid year summary | 31/05/2021| *usual bi-annual report* |
 | All | 2nd Periodic report @M36 | 30/11/2021 | 2nd periodic report |
-| WP2 | **D2.3 - Guidelines on implementing Data Policy Framework** | 30/11/2020 | |
+| WP2 | **D2.3 - Guidelines on implementing Data Policy Framework** | 30/11/2020 | 
 | WP2 | **MS2.2 - Adoption of PaNOSC DP framework** | 30/11/2020 | |
 | WP3 | D3.2 - Demonstrator implementation | 31/03/2021 |  |
-| WP4 | MS3.3 - Catalogue integration best pratices meeting| 31/05/2021 | minutes of meeting & lessons learned |
+| WP3 | MS3.3 - Catalogue integration best pratices meeting| 31/05/2021 | minutes of meeting & lessons learned |
+| WP4 | | | Nothing due until M42, internal milestones required |
 | WP5 | | | Nothing due until M42, internal milestones required |
 | WP6 | **D6.4 - Software catalogue** | 30/11/2020 | |
 | WP6 | **MS6.2 First release of PaNOSC service** | 31/05/2020 |  |
