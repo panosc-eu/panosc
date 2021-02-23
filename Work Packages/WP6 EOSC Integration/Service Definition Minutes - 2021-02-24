@@ -26,9 +26,9 @@ Discussion:
     - Who has access, and access to what?
     - How to define anonymous access: open access should not mean anonymous access
     - How should access to resources be stated: none, limited, based on RI/affiliation?
-  - SLA
+  - SLA (or Service Level Definition)
     - Should we consider a common set of SLAs for the PaNOSC community?
-    - How should SLA violations be treated?
+    - How should SLA deviations be treated?
   - Helpdesk
     - Is a local Helpdesk a requirement for joining the EOSC Helpdesk?
     - Is access to a central Helpdesk sufficient at this stage?
@@ -42,5 +42,29 @@ Discussion:
     
 # Plan working on Helpdesk strategy/recommendation
 
+# During the meeting
+- JF: PMC advised that we have 20 minutes to present on 17th March 2021
+   - Kareem: create powerpoint presentation for next meeting containing questions for PMC
+- Refer to Expands WP4 Operational framework document for presentation
+- Other questions to be put forward to PMC
+  - Accounting: 
+    - do we need them? Software/resources used by the various RIs
+    - who are interested in these values
+    - What is the usage of the services we provide, number of user requests, etc...
+    - who should the accounting data be presented to? (important for proposal submisssions)
+    - SLAs and Accounting are inter-dependent on each other (using the accounting system to fulfill your SLA)
+  - SLA
+    - one approach: A "best-effort" approach should be the spirit and intention for SLA definitions
+    - sometimes a "best-effort" approach is not the best model to follow
+    - one approach: "Desired Operational Level Agreements" we would like to have a specific level of reliability, with no penalties attached
+  - AAI
+    - level of assurance
+    
+    
+  
 
 For next meeting:
+- Kareem: create powerpoint presentation for next meeting containing questions for PMC
+  - short introduction on what we are doing
+  - then questions presented
+  
