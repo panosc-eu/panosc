@@ -45,7 +45,7 @@ Postponed to next meeting due to lack of time.
 
 #### 4. T 7.2 Cost collection: report on progress/issues by partners
 
-Ornela de Giacomo states that ILL costs are still missing.  Sandor Brockhauser highlights that is waiting for director feedback before sending their costs estimation. Ornela de Giacomo highlights that we have already lost one month that was supposed to be dedicated to the cost consolidation and will have move fast with this task, since another month is about to pass. The result is that there may be less time available to comment on the drafts, also this process will need to speed up. The work breakdown has been updated accordingly.
+Ornela de Giacomo states that ILL costs are still missing.  Sandor Brockhauser highlights that is waiting for director feedback before sending their costs estimation. Ornela de Giacomo highlights that we have already lost one month that was supposed to be dedicated to the cost consolidation and will have move fast with this task, since another month is about to pass. The result is that there may be less time available to comment on the drafts, also this process will need to speed up. The [work breakdown](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/WP%20Documents/Tasks%20duration%20and%20work%20breakdown_update_03022021.xlsx) has been updated accordingly.
 
 Next meeting will be held on Thursday 25th February.
 
