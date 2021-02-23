@@ -1,0 +1,46 @@
+Attendees:
+- Kareem Galal (ESS)
+- Rudolf Dimpler (ESRF)
+- Jean-Francois Perrin (ESRF)
+- Teodore Ivanoaica (ELI)
+
+Update:
+# Presentation to general WP6 group
+  - Provided a presentation for the general WP6 meeting (16/2/2021) showing main points discussed so far in Service Definition meetings
+  - Feedback from the presentation:
+    - Do we want a general/standard SLA for PaNOSC?
+      - Generally speaking, Yes
+      - We should create a general process and disseminate to the RIs
+    - Services: what are the different types of services available?
+      - single vs federated (managed)
+      - services managed by non-PaNOSC entities?
+      - should add a new slide to the powerpoint presentation on Services
+    - Many unanswered questions in the presentation
+      - the questions should be extracted, and be presented to PMC for further discussion
+      
+
+Discussion:
+# Questions for PMC
+- Current questinos include:
+  - AAI
+    - Who has access, and access to what?
+    - How to define anonymous access: open access should not mean anonymous access
+    - How should access to resources be stated: none, limited, based on RI/affiliation?
+  - SLA
+    - Should we consider a common set of SLAs for the PaNOSC community?
+    - How should SLA violations be treated?
+  - Helpdesk
+    - Is a local Helpdesk a requirement for joining the EOSC Helpdesk?
+    - Is access to a central Helpdesk sufficient at this stage?
+    - How will AAI for the central Helpdesk be organised?
+  - Governance/Sustainability
+    - Should this be centralised or de-centralised model?
+      - Managed at the RI level
+      - A single entity managing the PaN community RIs input
+
+# Plan working on the standard/general PaNOSC SLA
+    
+# Plan working on Helpdesk strategy/recommendation
+
+
+For next meeting:
