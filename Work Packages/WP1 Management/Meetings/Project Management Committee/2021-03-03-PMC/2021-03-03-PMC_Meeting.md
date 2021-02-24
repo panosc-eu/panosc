@@ -12,13 +12,13 @@ Agenda
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
-| ESRF  |    |   |
-| ILL   |    |   |
-| ESS   |    |   |
-| XFEL  |    |   |
-| CERIC |    |   |
-| ELI   |    |   |
-| EGI   |    |   | 
+| ESRF  |  3  |   |
+| ILL   |  0  |   |
+| ESS   |  0  |   |
+| XFEL  |  6  |   |
+| CERIC |  2  |   |
+| ELI   |  0  |   |
+| EGI   |  0  |   | 
 
 4. SRI 2021 - deadline for abstracts 5th March
 
