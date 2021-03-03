@@ -31,6 +31,7 @@ https://github.com/European-XFEL-examples/panosc-nexus
 
 LINK to website: https://www.panosc.eu/use-cases/use-case-1-euxfel-data-in-nexus-golden-standard/
 
+------
 Use Case 2 – Operation of X-ray gas monitors at the European XFEL (European XFEL)
 =========================================================	
 X-ray gas monitors (XGMs) are operated at the European XFEL for non-invasive single-shot pulse energy measurements and average beam position monitoring. They are used for tuning and maintaining the self-amplified spontaneous emission (SASE) operation and for sorting single-shot experimental data according to the pulse-resolved energy monitor data. The XGMs were developed at DESY based on the specific requirements for the European XFEL. In total, six XGM units are continuously in operation.
@@ -61,6 +62,7 @@ https://github.com/European-XFEL-examples/jsr-operation-xgm-euxfel-paper
 
 LINK to website: https://www.panosc.eu/use-cases/use-case-2-operation-of-x-ray-gas-monitors-at-the-european-xfel/
 
+------
 Use Case 3 – Machine Learning Based Spectra Classification (European XFEL)
 =========================================================
 
@@ -92,6 +94,7 @@ https://github.com/European-XFEL-examples/panosc-ml-spectra-classification
 
 LINK to website: https://www.panosc.eu/use-cases/use-case-3-machine-learning-based-spectra-classification/
 
+------
 Use Case 4 – SASE Pulse Delivery Analysis (European XFEL)
 =========================================================
 
@@ -125,6 +128,7 @@ https://github.com/European-XFEL-examples/panosc-sase-pulse-delivery-analysis
 
 LINK to website: https://www.panosc.eu/use-cases/use-case-4-sase-pulse-delivery-analysis/
 
+------
 Use Case 5 – Detector Calibration (European XFEL)
 =========================================================
 
@@ -158,6 +162,7 @@ https://github.com/European-XFEL-examples/panosc-detector-calibration
 
 LINK to website: https://www.panosc.eu/use-cases/use-case-5-detector-calibration/
 
+------
 Use Case 6 – Analysing 2D uXRD maps for cultural heritage samples (ESRF)
 =========================================================
 
@@ -201,6 +206,7 @@ Loïc Huder (ESRF)
 
 LINK to website: https://www.panosc.eu/use-cases/use-case-6-analysing-2d-uxrd-maps-for-cultural-heritage-samples/
 
+------
 Use Case 7 – Data Transfer using EGI-DataHub/Onedata (CERIC-ERIC)
 =========================================================
 
@@ -254,5 +260,172 @@ Contact person:
 [Marco De Simone](mailto:marco.desimone@ceric-eric.eu) (CERIC-ERIC)
 
 ------
-Use Case 7 – Data Transfer using EGI-DataHub/Onedata (CERIC-ERIC)
+Use Case 8 – Remote, collaborative access to beamline optics simulations (CERIC)
 =========================================================
+
+X-ray optics simulations are regularly performed both in the design of the beamlines and during experiments for alignment and/or experimental results validation. These simulations are usually performed by dedicated optics groups within synchrotrons and the beamline scientists are usually not the ones performing whole simulations, but only collaborate on the results. This process proves to be time consuming and cumbersome. The process can be simplified significantly if the simulation tool is placed into the cloud and a collaborative access is enabled. The software (in this case Oasys) can be accessed through any web browser and the files (Oasys workspaces) accessible to a given user are determined from their user permissions in the user portal (VUO – Virtual unified office). This way the scientist and the users can always access the updated version of the beamline Oasys workspace without installing the software. By the use of RAFEC remote application framework, all the remote computing resources are always available and the scientist can collaborate with the users in a particular workspace in real-time.
+
+Description of needs
+------
+*Development of RAFEC – remote application framework;
+*Adaption of Oasys for RAFEC;
+*Setting up of machines providing cloud resources to the application.
+
+Use case action flow
+------
+*Creation and upload of workspace: The workspace is created by the optics expert either locally or remotely in traditional way. If it was prepared locally, then the file is uploaded to the cloud.
+*Remote access to the workspace: Users (beamline scientist or scientific users) login into the user portal (VUO) and spawn the remote application.
+*Collaborative and updated work: Through the web browser all the users with permission can work in the same instance and collaborate on the same file.
+
+Impacts from the implementation
+------
+Non-expert users can easily access X-ray optics simulations for a specific beamline. Before, these simulations were hard to access and only consulted by advanced users (due to long response time, as multiple people have to be involved).
+
+Generalisation of Use Case
+------
+The use case can be generalised to any synchrotron beamline and through the use of other software as a remote application also to other pipelines.
+
+Resources
+------
+OASYS, RAFEC
+
+More on PaNOSC Github
+------
+[OASYS – WISER](https://github.com/oasys-elettra-kit/OASYS1-Wiser)
+[OASYS Kit](https://github.com/oasys-kit/OASYS1)
+[RAFEC](https://rafec.elettra.eu/)
+
+Contact person
+------
+[Alessandra Gianoncelli](mailto:alessandra.gianoncelli@elettra.eu) (Elettra)
+
+------
+Use Case 9 – Serial Femtosecond Crystallography Experiment Simulation (European XFEL)
+=========================================================
+
+Serial femtosecond crystallography is a powerful tool to resolve the structure of mesoscopic crystals, especially for small proteins. However, there are many complications, such as the pixel noise, unfunctional detector tiles and X-ray fluctuation, affecting the success of the experiment. By simulation with SimEx, one can predict the possible effects of the complications to help improve and validate the data analysis workflow.
+
+Description of needs
+------
+The SimEx API in ViNYL package supported by PaNOSC.
+
+Use case action flow
+------
+*Set up initial X-ray, detector and sample parameters.
+*Run the diffraction simulation using the crystfel module integrated in SimEx.
+*Change different detector geometries, noise response, respectively.
+*Rerun the diffraction simulation.
+*Set data analysis workflow using crystfel.
+*Check the index results from different detector parameters to assess the complication effect.
+
+Impacts from the implementation
+------
+It provides a tool for the users to validate their data analysis methodologies.
+
+Generalisation of the use case
+------
+It can also be implemented for other SFX experiments.
+
+Resources
+------
+[Example jupyter notebook repository](https://github.com/JunCEEE/crystalProject/tree/master/src/controller/panoscDEMO)
+[SimEX on PaNOSC repository](https://github.com/PaNOSC-ViNYL/SimEx)
+
+PaNOSC related work packages:
+------
+[WP5 – Virtual Neutron and X-ray Laboratory (VINYL)](https://www.panosc.eu/work-packages/work-package-5-virtual-neutron-and-x-ray-laboratory-vinyl/)
+
+Contact person
+------
+[Juncheng E](mailto:juncheng.e@xfel.eu) (European XFEL)
+
+------
+Use Case 10 – Linking raw data to the Protein Data Bank in Europe (PDBe) (ESRF)
+=========================================================
+The protein data bank ([PDBe in Europe](https://www.ebi.ac.uk/pdbe/)) is the reference repository for protein structures. All protein structures determined by different techniques are stored in the PDB. Since 2019 it is possible to link the protein structure entry to the raw data (images) often taken at the photon sources. As described in [this article](https://www.ebi.ac.uk/pdbe/about/news/links-added-raw-experimental-data-pdbe), “the model file in the PDB is the culmination of much hard work and interpretation of raw experimental data. The OneDep deposition system enables depositors to provide the location of raw datasets as a ‘digital object identifier’ (doi), within their mmCIF file in the PDB archive and this DOI is now directly linked from an entry page at PDBe”.
+
+This use case is to link raw data in the ESRF data repository to the PDBe entries as shown in the [example here](https://www.ebi.ac.uk/pdbe/entry/pdb/6gv0).
+
+Description of needs
+------
+Modify PaNOSC data repositories to add support for linking PDBe entries to raw data.
+
+Use case action flow
+------
+*ESRF data repository – add javascript adapter for PDBe
+*PDBe repository – test adapter
+*Scientists – add DOI to raw data to PDBe entry
+
+Impacts from the implementation
+------
+Make Protein Data Bank entries FAIR by providing access to raw data. This will enable results to be verified and structures to be refined with new software. This ICUR CommDat committee has been a strong advocate of making raw data accessible for crystallography [1]
+
+[1] https://doi.org/10.1107/S2052252519005918
+
+Generalisation of the use case
+------
+All PaNOSC and ExPaNDS partners could add the adapter for linking PDB entries to raw data. Thereby making PDB entries FAIRer.
+
+Resources
+------
+ESRF data repository + PDBe adapter
+[pDB 6gv0 structure summary](https://www.ebi.ac.uk/pdbe/entry/pdb/6gv0)
+
+PaNOSC related work packages:
+------
+[WP3 – Data Catalogue Services](https://www.panosc.eu/work-packages/work-package-3-data-catalog-services/)
+
+Contact person
+------
+[Andy Götz](mailto:andy.gotz@esrf.fr) (ESRF)
+
+------
+Use case 11 – Create DOIs for datasets in paleontology database (ESRF)
+=========================================================
+
+The ESRF hosted paleontology database http://paleo.esrf.fr/ contains hundreds of unique datasets of ancient specimens from around the world. The database has been in existence since 2011. It contains mostly reconstructed data of 3D volumes of specimens. The specimens are mostly from museums around the world. Their ages range from thousands to hundreds of millions of years, which makes them difficult to access in real. Making the reconstructed 3D volumes available to scientists and the public in general is a very useful and relevant service for Open Science. Some of the data have been used in a number of publications, whereas other data are still to be exploited. The data are made freely available under a CC-BY-NC-SA license.
+
+The use case is to create DOIs for each of the hundreds of datasets so that they can be cited in publications and be re-used by as many scientists as possible. Providing DOIs will make them more Findable, Accessible, Interoperable and Reusable, i.e. FAIR.
+
+Description of needs
+------
+*DOIs for all datasets published on the https://doi.esrf.fr site;
+*All datasets to be ingested into the ESRF data repository so they can be browsed and downloaded from the repository;
+*The original url via http://paleo.esrf.eu must resolve to the data repository so that existing publications are still valid;
+*A web portal which can be organised by categories to make it easy for users to browse (similar to paleo.esrf.eu).
+
+Use case action flow
+------
+*Ingest paleo.esrf.eu datasets into ESRF icat data repository;
+*Mint DOIs for each dataset;
+*Archive datasets for 10 years or more.
+
+Impacts from the implementation
+------
+Technical impact is that scientists can cite the paleontology data in their publications. Scientific impact is that it will encourage more scientists to re-use this data even if they were not part of the original experiment.
+
+Generalisation of the use case
+------
+There is a general need to have DOIs on all data. This is not the case for old data or processed data. This use case highlights this need.
+
+Resources
+------
+http://paleo.esrf.eu
+https://gitlab.esrf.fr/icat/E-DataPortal
+https://datacite.org/
+https://data.esrf.fr
+https://doi.esrf.fr
+
+Other resources
+------
+Examples of datasets:
+http://paleo.esrf.eu/picture.php?/5248/category/2846
+http://paleo.esrf.eu/picture.php?/395/category/1539
+
+PaNOSC related work packages:
+------
+[WP3 – Data Catalogue Services](https://www.panosc.eu/work-packages/work-package-3-data-catalog-services/)
+
+Contact person
+------
+[Andy Götz](mailto:andy.gotz@esrf.fr) (ESRF)
