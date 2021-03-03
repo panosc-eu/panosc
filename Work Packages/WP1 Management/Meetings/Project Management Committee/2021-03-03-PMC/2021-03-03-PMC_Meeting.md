@@ -45,6 +45,7 @@ Agenda
 6. Recent and upcoming events
 
 * 23-24 March 2021: [2nd Train the Trainer online internal workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-2/)
+* 13 April 2021: [FAIRsFAIR public workshop](https://www.fairsfair.eu/events/fairsfair-2021-public-workshop) - Overview of key stakeholder and community outputs and solutions for FAIR uptake.
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/)
 
 7. Pending Issues *(max 20 min)*
