@@ -44,15 +44,8 @@ Agenda
 
 6. Recent and upcoming events
 
-* 12 January 2021: [PaN ESCAPE Data Management Workshop](https://diamondlight.zoom.us/meeting/register/tJIkfuGtrzwsEtRgUle5IyUe31UxaCt3jo9L)
-* 25-29 January 2021: [DESY/European XFEL user meeting](https://indico.desy.de/event/28139/)
-* 1-2 February 2021: [Africa-Europe Symposium on Research Infrastructure](https://ri-vis.eu/network/rivis/events/ri-vis-africa-europe-symposium)
-* 4 February 2021: [UmbrellaID Technical Training](https://www.panosc.eu/events/panosc-umbrellaid-technical-training/)
-* 4 Febraury 2021: [Clearing some of the highest FAIR hurdles: PIDs, Metadata, and Semantic Interoperability for Researchers](https://www.fairsfair.eu/events/clearing-some-highest-fair-hurdles-pids-metadata-and-semantic-interoperability-researchers)
-* 8-10 February 2021: [ESRF User Meeting](http://www.esrf.eu/UM2021)
-* 9-11 Febraury 2021: [1st Train the Trainers online internal workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-1/)
-* 12 February 2021: Risk Analysis Workshop - PaNOSC WP8/ExPaNDS WP5
 * 23-24 March 2021: [2nd Train the Trainer online internal workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-2/)
+* 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/)
 
 7. Pending Issues *(max 20 min)*
 
