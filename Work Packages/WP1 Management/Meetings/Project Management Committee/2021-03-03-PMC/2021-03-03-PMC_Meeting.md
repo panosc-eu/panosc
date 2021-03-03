@@ -47,6 +47,7 @@ Agenda
 * 23-24 March 2021: [2nd Train the Trainer online internal workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-2/)
 * 13 April 2021: [FAIRsFAIR public workshop](https://www.fairsfair.eu/events/fairsfair-2021-public-workshop) - Overview of key stakeholder and community outputs and solutions for FAIR uptake.
 * 17 March 2021 14:00-15:00 CET: [EOSC Portal Virtual Meeting - Collecting Feedback About The Catalogue & Marketplace](https://www.eoscsecretariat.eu/eosc-liaison-platform/post/eosc-portal-virtual-meeting-collecting-feedback-about-catalogue)
+* 23 March 2021 at 11:00 CET: [Blue-Cloud workshop "Open Science For The Ocean: Meet The Blue-Cloud Demonstrators"](https://www.eoscsecretariat.eu/eosc-liaison-platform/post/open-science-ocean-meet-blue-cloud-demonstrators-23-march-2021)
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/)
 
 7. Pending Issues *(max 20 min)*
