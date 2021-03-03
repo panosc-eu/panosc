@@ -38,8 +38,8 @@ Agenda
 | WP6 | **MS6.2 First release of PaNOSC service** | 31/05/2020 |  |
 | WP7 | *IMS M1 Internal Milestone: Complete cost collection* | 31/12/2020 | *and eventually adjust scope* |
 | WP7 | IMS M2 Internal Milestone: First draft D7.2 Cost model |31/05/2021 |  |
+| WP8 | MS8.4 - Jupyter integrated with e-learning platform | 31/05/2021 |  |
 | WP8 | D8.1 - Report on lessons learned | 31/07/2021 |  |
-| WP8 | MS8.4 - Jupyter integrated with e-learning platform | 31/07/2021 |  |
 | WP9 | | | Nothing due until M48, internal milestones required |
 
 6. Recent and upcoming events
