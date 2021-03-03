@@ -19,11 +19,11 @@ References:
 
 PaNOSC related work packages:
 ------	
-WP3 – Data Catalog Services
+[WP3 – Data Catalog Services](https://www.panosc.eu/work-packages/work-package-3-data-catalog-services/)
 
 Contact person:
 ------	
-Yury Kirienko (European XFEL)
+[Yury Kirienko](mailto:yury.kirienko@xfel.eu) (European XFEL)
 
 More on PaNOSC github:
 ------	
@@ -50,11 +50,11 @@ References:
 
 PaNOSC related work packages:
 ------	
-WP4 – Data Analysis Services
+[WP4 – Data Analysis Services](https://www.panosc.eu/work-packages/work-package-4-data-analysis-services/)
 
 Contact person:
 ------	
-Robert Rosca (European XFEL)
+[Robert Rosca](mailto:robert.rosca@xfel.eu) (European XFEL)
 
 More on PaNOSC github:
 ------	
@@ -82,11 +82,11 @@ References:
 
 PaNOSC related work packages:
 ------	
-WP4 – Data Analysis Services
+[WP4 – Data Analysis Services](https://www.panosc.eu/work-packages/work-package-4-data-analysis-services/)
 
 Contact person:
 ------	
-Yue Sun (European XFEL)
+[Yue Sun](mailto:yue.sun@xfel.eu) (European XFEL)
 
 More on PaNOSC github:
 ------	
@@ -116,11 +116,11 @@ References:
 
 PaNOSC related work packages:
 ------
-WP4 – Data Analysis Services
+[WP4 – Data Analysis Services](https://www.panosc.eu/work-packages/work-package-4-data-analysis-services/)
 
 Contact person:
 ------
-Fabio Dall’Antonia (European XFEL)
+[Fabio Dall’Antonia](fabio.dall.antonia@xfel.eu) (European XFEL)
 
 More on PaNOSC github:
 ------
@@ -150,11 +150,11 @@ References:
 
 PaNOSC related work packages:
 ------
-WP4 – Data Analysis Services
+[WP4 – Data Analysis Services](https://www.panosc.eu/work-packages/work-package-4-data-analysis-services/)
 
 Contact person:
 ------
-Thomas Kluyver (European XFEL)
+[Thomas Kluyver](mailto:thomas.kluyver@xfel.eu) (European XFEL)
 
 More on PaNOSC github:
 ------
@@ -198,11 +198,11 @@ Source code >> https://gitlab.esrf.fr/loic.huder/id13_jupyter
 
 PaNOSC related work packages:
 ------
-WP4 – Data Analysis Services
+[WP4 – Data Analysis Services](https://www.panosc.eu/work-packages/work-package-4-data-analysis-services/)
 
 Contact person:
 ------
-Loïc Huder (ESRF)
+[Loïc Huder](mailto:loic.huder@esrf.fr) (ESRF)
 
 LINK to website: https://www.panosc.eu/use-cases/use-case-6-analysing-2d-uxrd-maps-for-cultural-heritage-samples/
 
