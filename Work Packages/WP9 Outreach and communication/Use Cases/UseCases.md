@@ -201,7 +201,7 @@ Loïc Huder (ESRF)
 
 LINK to website: https://www.panosc.eu/use-cases/use-case-6-analysing-2d-uxrd-maps-for-cultural-heritage-samples/
 
-Use Case 7 – Data Transfer using EGI-DataHub/Onedata
+Use Case 7 – Data Transfer using EGI-DataHub/Onedata (CERIC-ERIC)
 =========================================================
 
 Until recently, most Neutron and X-ray (Photon and Neutron also known as PaN) facility users had to use predominantly portable media to transfer data produced by the research infrastructure’s (RI) instruments to their home lab for analyses. This was the predominant model some years ago, when the volume of data was relatively low and compatible with the network, the storage and the compute capacity of the facility users’ organisations.
@@ -253,4 +253,6 @@ Contact person:
 ------
 [Marco De Simone](mailto:marco.desimone@ceric-eric.eu) (CERIC-ERIC)
 
-
+------
+Use Case 7 – Data Transfer using EGI-DataHub/Onedata (CERIC-ERIC)
+=========================================================
