@@ -1,14 +1,16 @@
-PaNOSC Project Management Committee Meeting - 03/03/2021 
+PaNOSC Project Management Committee Meeting - 17/03/2021 
 =========================================================
 
 Agenda
 ------	
 
-1. Text and supporting documents for  MS8.4 and MS6.2
+1. Presentation regarding WP6 (~20 min)
 
-2. Annual Meeting + Symposium in 2021
+2. Text and supporting documents for  MS8.4 and MS6.2 (~5 min)
 
-3. Use Cases
+3. Annual Meeting + Symposium in 2021 (~5 min)
+
+4. Use Cases (~10 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
@@ -19,8 +21,6 @@ Agenda
 | CERIC |  2  |   |
 | ELI   |  0  |   |
 | EGI   |  0  |   | 
-
-4. SRI 2021 - deadline for abstracts 5th March
 
 5. WP leaders other updates *(max 20 min)*
 
@@ -50,7 +50,7 @@ Agenda
 * 23 March 2021 at 11:00 CET: [Blue-Cloud workshop "Open Science For The Ocean: Meet The Blue-Cloud Demonstrators"](https://www.eoscsecretariat.eu/eosc-liaison-platform/post/open-science-ocean-meet-blue-cloud-demonstrators-23-march-2021)
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/)
 
-7. Pending Issues *(max 20 min)*
+7. Pending Issues
 
 * #71 to #74: WP8-related issues created by Thomas
 * [#70 Service Provider for EOSC-registered services](https://github.com/panosc-eu/panosc/issues/70)
