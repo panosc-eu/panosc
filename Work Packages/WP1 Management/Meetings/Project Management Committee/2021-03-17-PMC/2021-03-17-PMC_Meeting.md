@@ -22,7 +22,7 @@ Agenda
 | ELI   |  0  |   |
 | EGI   |  0  |   | 
 
-5. WP leaders other updates *(max 20 min)*
+5. WP leaders other updates *(max 20 min, starting with WP7)*
 
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
