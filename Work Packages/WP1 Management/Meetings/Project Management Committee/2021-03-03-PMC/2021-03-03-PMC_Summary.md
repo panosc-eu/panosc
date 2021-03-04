@@ -85,7 +85,7 @@ The handover process is starting and should be finished by 1st April. Andy asked
 
 The meeting was overdue by this point.
 
-* WP7 - Sustainability: Ornela reported having finished WP leaders interviews and meeting with Sophie
+* WP7 - Sustainability: Ornela reported having finished WP leaders interviews and working in the adaptation of the business models, according to the outcomes. She is meeting with Sophie tomorrow to discuss how to involve ExPaNDS in the sustainability. No news for the cost collection, no new contributions received from partners.  
 
 * WP8 - Staff and User Training: Thomas did not have time to report.
 
