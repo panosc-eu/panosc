@@ -29,7 +29,7 @@ Jean-François will provide the paragrah and supporting documentation to Jordi a
 Jamie asked if for the software catalog it is possible to have a subdomain within PaNOSC to which Andy replied that he can easily setup a DNS entry and Jean-François added that a global strategy should be put in place about domains and naming of services as these should outlive PaNOSC. It was also added that using the PaNOSC domain exludes our ExPaNDS colleauges. Thomas agreed that naming should be for all the community and Jean-François added that pan.science is available. Rudolf also suggested LENS & LEAPS, but that has its own issues.
 
 Andy then added that our e-learning platform has only the PaNOSC logo. Jordi said that he will start conversations with Sophie and Patrick in ExPaNDS, so a name and logo for the whole community can be agreed. In these conversations Andy, Nicoletta and Kat will also be involved. 
-Nicoletta said that she would like to have volunteers to produce two 1 minute videos to introduce and promote to the two new services and Jordi replied that the WP leaders could be good candidates. Thomas replied taht he will contact Stella for pan-learning.org and Jean-François agreed to work with Nicoletta on this.
+Nicoletta said that she would like to have volunteers to produce two 1 minute videos to introduce and promote to the two new services and Jordi replied that the WP leaders could be good candidates. Thomas replied that he will contact Stella for pan-learning.org and Jean-François agreed to work with Nicoletta on this.
 
 **2. Annual Meeting + Symposium in 2021**
 
@@ -68,7 +68,10 @@ Sandor volunteered to work with Nicoletta in order to have an abstract ready by 
 
 * WP2 - Data Policy and Stewardship: Andy reported no progress on D2.3, but progress on DMPs (Data Management Plans), in particular a mockup of DMP integration into a user portal and the associated workflow.
 
-* WP3 - Data Catalogue Services: Tobias reported no issues with plans to share a final draft of D3.2 before the next PMC meeting, so it can be reviewed and submitted in time. Jordi showed to Tobias a [WP dashboard](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards) that he started as a draft. ExPaNDS is taking a similar initiative and the idea is to have for each WP a dashboard that can help follow progress. Tobias agreed to edit the WP3 dashboard to make it better match the WP.
+* WP3 - Data Catalogue Services: Tobias reported no issues with plans to share a final draft of D3.2 before the next PMC meeting, so it can be reviewed and submitted in time. Jordi showed to Tobias a [WP dashboard](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards) that he started as a draft. 
+![image](https://user-images.githubusercontent.com/42926461/109983003-b7ae6b80-7d02-11eb-955b-f0746e873a43.png)
+ 
+ExPaNDS is taking a similar initiative and the idea is to have for each WP a dashboard that can help follow progress. Tobias agreed to edit the WP3 dashboard to make it better match the WP.
 
 * WP4 - Data Analysis Services: Sandor reported that he will be leaving and hand over WP4 management and PaNOSC Coordination within XFEL to his colleague F. DA. who replaces Hans. Sandor shared information about two milestones:
 	* May 2021: KPI snapshot
