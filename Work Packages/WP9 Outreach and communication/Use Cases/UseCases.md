@@ -29,7 +29,9 @@ More on PaNOSC github:
 ------	
 https://github.com/European-XFEL-examples/panosc-nexus
 
-LINK to website: https://www.panosc.eu/use-cases/use-case-1-euxfel-data-in-nexus-golden-standard/
+LINK to website
+------
+https://www.panosc.eu/use-cases/use-case-1-euxfel-data-in-nexus-golden-standard/
 
 ------
 Use Case 2 – Operation of X-ray gas monitors at the European XFEL (European XFEL)
@@ -60,7 +62,9 @@ More on PaNOSC github:
 ------	
 https://github.com/European-XFEL-examples/jsr-operation-xgm-euxfel-paper
 
-LINK to website: https://www.panosc.eu/use-cases/use-case-2-operation-of-x-ray-gas-monitors-at-the-european-xfel/
+LINK to website:
+------
+https://www.panosc.eu/use-cases/use-case-2-operation-of-x-ray-gas-monitors-at-the-european-xfel/
 
 ------
 Use Case 3 – Machine Learning Based Spectra Classification (European XFEL)
@@ -92,7 +96,9 @@ More on PaNOSC github:
 ------	
 https://github.com/European-XFEL-examples/panosc-ml-spectra-classification
 
-LINK to website: https://www.panosc.eu/use-cases/use-case-3-machine-learning-based-spectra-classification/
+LINK to website:
+------
+https://www.panosc.eu/use-cases/use-case-3-machine-learning-based-spectra-classification/
 
 ------
 Use Case 4 – SASE Pulse Delivery Analysis (European XFEL)
@@ -126,7 +132,9 @@ More on PaNOSC github:
 ------
 https://github.com/European-XFEL-examples/panosc-sase-pulse-delivery-analysis
 
-LINK to website: https://www.panosc.eu/use-cases/use-case-4-sase-pulse-delivery-analysis/
+LINK to website:
+------
+https://www.panosc.eu/use-cases/use-case-4-sase-pulse-delivery-analysis/
 
 ------
 Use Case 5 – Detector Calibration (European XFEL)
@@ -160,7 +168,9 @@ More on PaNOSC github:
 ------
 https://github.com/European-XFEL-examples/panosc-detector-calibration
 
-LINK to website: https://www.panosc.eu/use-cases/use-case-5-detector-calibration/
+LINK to website:
+------
+https://www.panosc.eu/use-cases/use-case-5-detector-calibration/
 
 ------
 Use Case 6 – Analysing 2D uXRD maps for cultural heritage samples (ESRF)
@@ -204,7 +214,9 @@ Contact person:
 ------
 [Loïc Huder](mailto:loic.huder@esrf.fr) (ESRF)
 
-LINK to website: https://www.panosc.eu/use-cases/use-case-6-analysing-2d-uxrd-maps-for-cultural-heritage-samples/
+LINK to website:
+------
+https://www.panosc.eu/use-cases/use-case-6-analysing-2d-uxrd-maps-for-cultural-heritage-samples/
 
 ------
 Use Case 7 – Data Transfer using EGI-DataHub/Onedata (CERIC-ERIC)
@@ -259,6 +271,10 @@ Contact person:
 ------
 [Marco De Simone](mailto:marco.desimone@ceric-eric.eu) (CERIC-ERIC)
 
+Link to website: 
+------
+https://www.panosc.eu/use-cases/use-case-7-data-transfer-using-egi-datahub-onedata/
+
 ------
 Use Case 8 – Remote, collaborative access to beamline optics simulations (CERIC)
 =========================================================
@@ -298,6 +314,10 @@ More on PaNOSC Github
 Contact person
 ------
 [Alessandra Gianoncelli](mailto:alessandra.gianoncelli@elettra.eu) (Elettra)
+
+Link to website: 
+------
+https://www.panosc.eu/use-cases/use-case-8-remote-collaborative-access-to-beamline-optics-simulations/
 
 ------
 Use Case 9 – Serial Femtosecond Crystallography Experiment Simulation (European XFEL)
@@ -339,6 +359,10 @@ Contact person
 ------
 [Juncheng E](mailto:juncheng.e@xfel.eu) (European XFEL)
 
+Link to website:
+------
+https://www.panosc.eu/use-cases/use-case-9-serial-femtosecond-crystallography-experiment-simulation/
+
 ------
 Use Case 10 – Linking raw data to the Protein Data Bank in Europe (PDBe) (ESRF)
 =========================================================
@@ -378,6 +402,10 @@ PaNOSC related work packages:
 Contact person
 ------
 [Andy Götz](mailto:andy.gotz@esrf.fr) (ESRF)
+
+Link to website:
+------
+https://www.panosc.eu/use-cases/panosc-use-case-10-linking-raw-data-to-the-protein-data-bank-in-europe-pdbe/
 
 ------
 Use case 11 – Create DOIs for datasets in paleontology database (ESRF)
@@ -429,3 +457,7 @@ PaNOSC related work packages:
 Contact person
 ------
 [Andy Götz](mailto:andy.gotz@esrf.fr) (ESRF)
+
+Link to website:
+------
+https://www.panosc.eu/use-cases/panosc-use-case-11-create-dois-for-datasets-in-paleontology-database/
