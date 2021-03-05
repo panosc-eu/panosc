@@ -89,7 +89,14 @@ The meeting was overdue by this point.
 
 * WP8 - Staff and User Training: Thomas did not have time to report.
 
-* WP9 - Outreach and Communication: Nicoletta did not have time to report.
+* WP9 - Outreach and Communication: Nicoletta did not have time to report, but shared the following after the meeting:
+
+    I'd take the chance to inform you that, following our meeting yesterday, all submitted use cases are now also available on github, in an editable .md file 
+    https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP9%20Outreach%20and%20communication/Use%20Cases/UseCases.md
+
+    This is the link of the uses cases' page on our website: https://www.panosc.eu/use-cases/
+
+    For submitting new ones, the form remains the same, as at this link: https://www.panosc.eu/submit-your-use-case/
 
 * WP1 - Management: Jordi did not have time to report.
 
