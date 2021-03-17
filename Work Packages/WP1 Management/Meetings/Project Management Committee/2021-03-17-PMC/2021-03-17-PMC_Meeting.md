@@ -14,7 +14,9 @@ Agenda
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
-| ESRF  |  3  |   |
+| ESRF  |  3  | planned: downloading large datasets for CM01    |
+|       |     |          exploiting open data for BIG-MAP-AI    |
+|       |     |          reproducibility of analysis of blue paintings    |
 | ILL   |  0  |   |
 | ESS   |  0  |   |
 | XFEL  |  6  |   |
