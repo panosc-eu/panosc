@@ -35,7 +35,7 @@ A brief discussion followed on Software Quality and Continuous Integration (anot
 
 Jean-François and Thomas explained that the text and supporting douments for both milestones have been provided.
 
-* **NOTE**: After the meeting Jordi confirmed that MS6.2 is now achieved with the supporting information provided, however MS8.4 is not yet ticked as achieved and no supporting document for the achieved milestone is available in GitHub.
+* **NOTE**: After the meeting Jordi confirmed that MS6.2 is now achieved with the supporting information provided, however MS8.4 is not yet ticked as achieved and no supporting document for the achieved milestone is available in GitHub. Thomas explained that "we will demo it next week at the TtT workshop at which point I guess we can check the box". 
 
 
 **3. Annual Meeting + Symposium in 2021**
