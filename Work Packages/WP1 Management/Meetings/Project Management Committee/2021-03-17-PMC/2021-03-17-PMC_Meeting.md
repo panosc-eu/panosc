@@ -29,8 +29,8 @@ Agenda
 | WP1 | D1.7 - Mid year summary | 31/05/2021| *usual bi-annual report* |
 | All | 2nd Periodic report @M36 | 30/11/2021 | 2nd periodic report |
 | [WP2](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp2--data-policy--stewardship) | **D2.3 - Guidelines on implementing Data Policy Framework** | 30/11/2020 | 
-| [WP3](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp3--data-catalog-services) | D3.2 - Demonstrator implementation | 31/03/2021 | **COMING UP SOON** |
-| [WP3](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp3--data-catalog-services)  | MS3.3 - Catalogue integration best pratices meeting| 31/05/2021 | minutes of meeting & lessons learned |
+| [WP3](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp3--data-catalog-services) | D3.2 - Demonstrator implementation | 31/03/2021 | submitted for internal review |
+| [WP3](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp3--data-catalog-services)  | MS3.3 - Catalogue integration best pratices meeting | 31/05/2021 | minutes of meeting & lessons learned |
 | [WP4](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp4--data-analysis-services) | IMS4.3a - KPI snapshot | 31/05/2021 | |
 | [WP4](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp4--data-analysis-services) | IMS4.4a - PaN Portal v2.0 | 31/08/2021 | |
 | [WP5](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp5--virtual-neutron-and-x-ray-laboratory-vinyl) | | | Nothing due until M42, internal milestones required |
