@@ -28,10 +28,6 @@ Worth trying to set up a small dedicated  one.
 
 OneData, conclusion expected within one month.
 
-Globus in use at ESRF
+Globus in production at ESRF. No need for a community support contract for now.
 
 Karim presented the current status of the Service definition activity.  Should be presented  the 17th of March to the PMC
-
-Globus in production at ESRF.
-
-Ceric has engaged with OCRE.
