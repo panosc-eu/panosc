@@ -51,12 +51,12 @@ Jordi introduced a dashboard that lists the use cases contributions from differe
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
-| ESRF  |  3  |   |
+| ESRF  |  3  |  +3 soon |
 | ILL   |  0  |   |
 | ESS   |  0  |   |
 | XFEL  |  6  |   |
-| CERIC |  2 -> 4  |   |
-| ELI   |  0  |   |
+| CERIC |  2 -> 4  |  2 submitted this week |
+| ELI   |  0  |  +2 soon |
 | EGI   |  0  |   | 
 
 Jordi explained that the use cases is going to be a standard item in the agenda and reminded all participants that it is very important that all partners provide use cases, as these prove that our services fulfil a use case, there are users behind and will help us on demonstrating the need to make PaNOSC services sustainable.
@@ -70,12 +70,12 @@ Teodor explained that he has colleagues at ELI working on two use cases. Jordi u
 
 * WP8 - Staff and User Training: Thomas reported that the Jupyter integration (see point 2 of the agenda)  will be demonstrated in the upcoming Train the Trainer workshop next week, which will include some content linked to WP5.
 
-Andy asked if a short vidoe on how to use the software could be provided and Thomas said yes. 
+Andy asked if a short video on how to use the software could be provided and Thomas said yes. 
 Jamie ased if Umbrella is going to be integrated in the authentication and Thomas said yes. Teodor added that it is not straight forward due to the way the e-learning platform works.
 
 * WP9 - Outreach and Communication: Nicoletta reported a [video interview]( https://bit.ly/McStasScript-for-x-ray-telescope-simulations) released today.
 She also explained that the chatbot in the PaNOSC website is live. It was agreed that Roberto will circulate an email explaining how the chatbot works and how the answers it provides can be improved. He will also present it in a PMC meeting soon. Nicoletta reported that the abstract to SRI has been submitted and that has contacted Stella (WP8) about short videos on services developed with the idea of targeting teachers. She also has an interview planned for Women in Science. Nicoletta also asked wether the two services published to the EOSC could have an associated mini-interview video tha she could publisise.
 
---- ENDS ---
+
 
 -ENDS-
