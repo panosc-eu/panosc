@@ -1,4 +1,4 @@
-Use case 13 - Effects on the spot quality of the of mirror error profile and source pointing instability
+Use case 13 - Effects on the spot quality of mirror error profile and source pointing instability
 =========================================================	
 While assessing the performance of X-Ray optics, the focusing sharpness of the mirror is evaluated under different conditions. An important parameter is the beam pointing stability. When combined with the local curvature changes due to the mirror surface defects, pointing instability can induce shifts of the focal plane, or equivalently a broadening of the spot size at the sample stage.
 By means of WISER, it is possible to assess the variation of the focal plane and of the spot size as function of the incidence angle on the mirror (which is varied around the nominal incidence value).
