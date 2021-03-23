@@ -1,30 +1,16 @@
-PaNOSC Project Management Committee Meeting - 17/03/2021 
+PaNOSC Project Management Committee Meeting - 31/03/2021 
 =========================================================
 
 Agenda
 ------	
 
-1. Presentation regarding WP6 (~20 min)
+1. Opening statement (~10 min)
 
-2. Text and supporting documents for  MS8.4 and MS6.2 (~5 min)
+2. Text and supporting documents for  MS8.4 (~5 min)
 
 3. Annual Meeting + Symposium in 2021 (~5 min)
 
-4. Use Cases (~10 min)
-
-| Partner | Use Cases Submitted | Comments |
-| ------- | ------------------- | -------- |
-| ESRF  |  3  | planned: downloading large datasets for CM01    |
-|       |     |          exploiting open data for BIG-MAP-AI    |
-|       |     |          reproducibility of analysis of blue paintings    |
-| ILL   |  0  |   |
-| ESS   |  0  |   |
-| XFEL  |  6  |   |
-| CERIC |  2  |   |
-| ELI   |  0  |   |
-| EGI   |  0  |   | 
-
-5. WP leaders other updates *(max 20 min, starting with WP7)*
+4. WP leaders other updates *(max 20 min, starting with WP1)*
 
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
@@ -43,11 +29,25 @@ Agenda
 | WP8 | D8.1 - Report on lessons learned | 31/07/2021 |  |
 | [WP9](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp9--outreachcommunication-and-disseminationimpact) | | | Nothing due until M48, internal milestones required |
 
+
+5. Use Cases Dashboard (~2 min)
+
+| Partner | Use Cases Submitted | Comments |
+| ------- | ------------------- | -------- |
+| ESRF  |  3  | 3 planned   |
+| ILL   |  0  |   |
+| ESS   |  0  |   |
+| XFEL  |  6  |   |
+| CERIC |  4  |   |
+| ELI   |  0  | 2 planed  |
+| EGI   |  0  |   | 
+
+
 6. Recent and upcoming events
 
 * 23-24 March 2021: [2nd Train the Trainer online internal workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-2/)
+* 6-7 April 2021: [How is ExPaNDS delivering its services to EOSC](https://diamondlight.zoom.us/meeting/register/tJYsduqtrz8vH9eMTFvsS7SUN3CIG6ARz3H5 )
 * 13 April 2021: [FAIRsFAIR public workshop](https://www.fairsfair.eu/events/fairsfair-2021-public-workshop) - Overview of key stakeholder and community outputs and solutions for FAIR uptake.
-* 17 March 2021 14:00-15:00 CET: [EOSC Portal Virtual Meeting - Collecting Feedback About The Catalogue & Marketplace](https://www.eoscsecretariat.eu/eosc-liaison-platform/post/eosc-portal-virtual-meeting-collecting-feedback-about-catalogue)
 * 23 March 2021 at 11:00 CET: [Blue-Cloud workshop "Open Science For The Ocean: Meet The Blue-Cloud Demonstrators"](https://www.eoscsecretariat.eu/eosc-liaison-platform/post/open-science-ocean-meet-blue-cloud-demonstrators-23-march-2021)
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/)
 
