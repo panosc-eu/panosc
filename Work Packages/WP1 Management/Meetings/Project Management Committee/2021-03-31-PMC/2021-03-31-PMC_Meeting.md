@@ -14,6 +14,8 @@ Agenda
 
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
+| WP1 | Internal Financial Report | 30/04/2021| *data up to 31/03/2021* |
+| WP1 | Internal Dashboard | 15/04/2021|  |
 | WP1 | D1.7 - Mid year summary | 31/05/2021| *usual bi-annual report* |
 | All | 2nd Periodic report @M36 | 30/11/2021 | 2nd periodic report |
 | [WP2](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp2--data-policy--stewardship) | **D2.3 - Guidelines on implementing Data Policy Framework** | 30/11/2020 | 
