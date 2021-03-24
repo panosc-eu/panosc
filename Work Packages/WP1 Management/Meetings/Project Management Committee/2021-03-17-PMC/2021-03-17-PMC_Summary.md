@@ -14,7 +14,7 @@ Sophie asked to add an item of the agenda about [ExPaNDS workshop on the EOSC](h
 
 **1. Presentation regarding WP6**
 
-Kareem presented Service Definitions Open Questions **LINK MISSING**, the result of a working group formed by Jean-François, Teodor, Rudolf and himself. During the presentation he talked about the topics the working group wants to cover, all related to PaN EOSC services:
+Kareem presented [Service Definitions Open Questions](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP6%20EOSC%20Integration/Service%20Definition/Service%20Definition%20-%20%20PMC%20-%20v2.pptx), the result of a working group formed by Jean-François, Teodor, Rudolf and himself. During the presentation he talked about the topics the working group wants to cover, all related to PaN EOSC services:
 * Standards, including a template for service submissions to the EOSC Portal
 * Sustainability issues (centralisation vs federalisation, post-PaNOSC management)
 * AAI, including who can access PaN services

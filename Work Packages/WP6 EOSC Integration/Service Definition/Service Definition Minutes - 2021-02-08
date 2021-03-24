@@ -1,0 +1,69 @@
+Attendees:
+- Kareem Galal (ESS)
+- Rudolf Dimpler (ESRF)
+- Jean-Francois Perrin (ESRF)
+
+
+Update:
+# Deliverables added to document
+  - Deliverables
+    - Deliverable 6.1 EGI data-hub integration with the facilities’ data repositories (M18, R, PU, ELI) 
+    - Deliverable 6.2 Integration of local compute resources into the EOSC cloud (M12, R, PU, ELI) 
+    - Deliverable 6.3 Integration of the PaN AAI into the EOSC (M36, R,DEM, PU, ILL)
+    - Deliverable 6.4 Demonstration of the PaN software catalogue integration into EOSC (M24, DEM, PU, ILL) 
+    - Deliverable 6.5 Report on EOSC integration (M48, R, PU, ILL)
+  - Questions for further discussion:
+    - How do any of the above related to Service Definition?
+    - Which deliverable does the current Service Definition work fall under?
+
+# Starting point: description of work (Helpdesk)
+  - Currently, only Task 6.5 references the Helpdesk, which is tightly coupled with EOSC Service Catalogue. 
+  - Need to define/agree on general Helpdesk definitions moving forward:
+    - Will each RI need to have its own local Helpdesk to join the EOSC Helpdesk?
+    - Is access to a central Helpdesk sufficient for this stage?
+    - How will AAI for the EOSC based Helpdesk be organised?
+    
+# AAI: Agree on UmbrellaID for federated access. How should we put this into action?
+  - The Keycloak Training last week showcased the high number of interested users for AAI
+  - We should utilise the current momentum to rollout UmbrellaID as a federated AAI solutions at RIs
+  - Ensure a functioning a connect to UmbrellaID is available at each RIs, for testing purposes
+  - Establish a point of contact at each RI for advancing the installation, configuration and incorporation into UmbrellaID
+
+
+Discussion:
+- The Service Definition falls mainly under the following areas:
+  - Milestone 6.1
+  - Deliverable 6.5
+- Helpdesk
+  - Could ask Thomas (WP8) on how he will support pan-learning.org? How to manage support?
+  - Technical aspects and operational responsibilities need to be defined.
+  - Each service provider needs to provide a service support person (handling support tickets for the Service)
+  - For each service:
+    - How to formulate the Helpdesk?
+    - Who handles the support calls? And how?
+  - Federated Helpdesk service
+    - could start with an email address (with response time SLA, eg 1 day, or 1 week)
+    - should connect to the RIs Helpdesk: through APIs, or other means (not clear yet)
+    - we need to present a definition to the community, as a guideline
+    - 
+
+Agreed:
+- how to present progress to the rest of the WP6 team:
+  - presentation of current progress to WP6 next week
+- minutes currently added to a single Google doc. This should be moved to a fortnighly page on panosc Github (this page)
+  - this will be way going forward for taking notes/minutes
+    
+
+
+
+Outstanding:
+- Definition of Done (DoD): when to know that the work for this workgroup is complete
+- no new updates are being added to the Google document at: https://docs.google.com/document/d/1e9QddP9aPXShK3SMChfp7LfD5xPIDZAGKcl4petAaQE/edit#
+- no explicit milestones set 
+- allocating topics to members, for presentation
+- agreed agendas should be sent prior to the meeting to facilitate more fruitful discussions
+
+
+For next meeting:
+- Prepare minutes documents with points to discuss at the next meeting (document 2021-02-23)
+- Prepare a presentation for the general WP6 meeting (16/2/2021) showing main points discussed so far in Service Definition meetings
