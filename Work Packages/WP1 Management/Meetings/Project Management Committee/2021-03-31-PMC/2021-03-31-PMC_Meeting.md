@@ -11,8 +11,9 @@ Agenda
 3. Update on D2.3 and D6.4 (~5 min)
 
 4. Annual Meeting + Symposium in 2021 (~5 min)
+5. Short update on EOSC-Future project status (<5 min)
 
-5. WP leaders other updates *(max 20 min, starting with WP1)*
+6. WP leaders other updates *(max 20 min, starting with WP1)*
 
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
@@ -34,7 +35,7 @@ Agenda
 | [WP9](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp9--outreachcommunication-and-disseminationimpact) | | | Nothing due until M48, internal milestones required |
 
 
-6. Use Cases Dashboard (~2 min)
+7. Use Cases Dashboard (~2 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
@@ -47,7 +48,7 @@ Agenda
 | EGI   |  0  |   | 
 
 
-7. Recent and upcoming events
+8. Recent and upcoming events
 
 * 23-24 March 2021: [2nd Train the Trainer online internal workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-2/)
 * 6-7 April 2021: [How is ExPaNDS delivering its services to EOSC](https://diamondlight.zoom.us/meeting/register/tJYsduqtrz8vH9eMTFvsS7SUN3CIG6ARz3H5 )
@@ -55,7 +56,7 @@ Agenda
 * 19 April 2021, 13:00-16:30 CEST: RDA P17 co-located event "The ESFRI Clusters at RDA House of Commons. Debating commonalities and collaboration for thematic services, training and governance towards the EOSC"
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/)
 
-8. Pending Issues
+9. Pending Issues
 
 * #71 to #74: WP8-related issues created by Thomas
 * [#70 Service Provider for EOSC-registered services](https://github.com/panosc-eu/panosc/issues/70)
