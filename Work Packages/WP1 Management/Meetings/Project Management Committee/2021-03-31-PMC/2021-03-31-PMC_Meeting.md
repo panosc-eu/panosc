@@ -11,7 +11,7 @@ Agenda
 3. Update on D2.3 and D6.4 (~5 min)
 
 4. Annual Meeting + Symposium in 2021 (~5 min)
-5. Short update on EOSC-Future project status (<5 min)
+5. Short update on EOSC-Future project status (~2 min)
 
 6. WP leaders other updates *(max 20 min, starting with WP1)*
 
@@ -71,7 +71,7 @@ Agenda
 * [#43 Internal Milestones / deliverables](https://github.com/panosc-eu/panosc/issues/43) - *see item 4*
 * [#9 Observer status](https://github.com/panosc-eu/panosc/issues/9) - *role of observers needs to be reviewed*
 
-9. AOB
+10. AOB
 
 
 
