@@ -1,7 +1,6 @@
 Attendees:
 - Kareem Galal (ESS)
-- Rudolf Dimper (ESRF)
-- Jean-Francois Perrin (ESRF)
+- Ornela Degiacomo (CERIC)
 - Teodore Ivanoaica (ELI)
 
 
@@ -28,7 +27,29 @@ Agenda:
 
 
 Discussion:
+Main discussion revolved around the Agenda topics above, and included the following points:
+- How do we co-exist (WP6 and WP7)?
+- Helpdesk:
+  - we should have a centralised Helpdesk that then distributes the ticket to the relevant RI
+  - Discussing model where each RI allocates X number of people, and where each RI manages a specific technical area:
+    - example:
+      - Storage: ESRF
+      - Network: ESS
+      - Archive: ELI
+      - Other: another RI
+      - etc...
+  - A dispatching rotating role for 1st level support
+  - can we use pan.eu as the central contact email?
+  - Helpdesk is a priority to setup
+  - Helpdesk should be part of the PanoscPortal (local portal and federated portal)
+- In general, we need to quantify the advantages/disadvantages of federated services as a community
+
 
 
 
 For next meeting:
+- Continue discussion and elaboration of various topics
+- Discussion on which topics are managed by which WP
+  - AAI?
+  - Helpdesk
+  - Technical
