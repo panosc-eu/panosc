@@ -1,0 +1,55 @@
+Attendees:
+- Kareem Galal (ESS)
+- Ornela Degiacomo (CERIC)
+- Teodore Ivanoaica (ELI)
+
+
+Update:
+- Presentation to PMC on 17/3/2021:
+https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP6%20EOSC%20Integration/Service%20Definition/Service%20Definition%20-%20%20PMC%20-%20v2.pptx
+- Feedback from presentation by PMC:
+  - to get feedback regarding questions, an online survey should be created and sent to relevant WPs
+  - Sustainability: should be managed by WP7's current work
+  - Ornela (WP7): is happy to have a joint group for further discussions
+  - Sophie Servan (ExPaNDS): will send me details of who should be involved from ExPanDs.
+
+Agenda:
+- Discuss feedback from PMC presentation
+- plan work ahead for each of the topics below:
+  - Access / AAI
+  - Accounting
+  - SLA/KPIs
+  - Helpdesk 
+  - Sustainability
+  - Technical
+  - Federated Services
+
+
+
+Discussion:
+Main discussion revolved around the Agenda topics above, and included the following points:
+- How do we co-exist (WP6 and WP7)?
+- Helpdesk:
+  - we should have a centralised Helpdesk that then distributes the ticket to the relevant RI
+  - Discussing model where each RI allocates X number of people, and where each RI manages a specific technical area:
+    - example:
+      - Storage: ESRF
+      - Network: ESS
+      - Archive: ELI
+      - Other: another RI
+      - etc...
+  - A dispatching rotating role for 1st level support
+  - can we use pan.eu as the central contact email?
+  - Helpdesk is a priority to setup
+  - Helpdesk should be part of the PanoscPortal (local portal and federated portal)
+- In general, we need to quantify the advantages/disadvantages of federated services as a community
+
+
+
+
+For next meeting:
+- Continue discussion and elaboration of various topics
+- Discussion on which topics are managed by which WP
+  - AAI?
+  - Helpdesk
+  - Technical

@@ -1,0 +1,50 @@
+Attendees:
+- Kareem Galal (ESS)
+- Rudolf Dimpler (ESRF)
+- Teodor Ivanoaica (ELI)
+- Jean-Francois Perrin (ESRF)
+
+
+Update:
+- Teodor to present briefly on SLA topic
+- Kareem to present briefly on Governance/Sustainability
+
+
+Discussion:
+- Current discussion should also link to EOSC in the future
+  - Should also include ExPANDS
+- What are the services that we want to provide to our community? 
+  - What resources are needed for this? 
+  - Who will provide them?
+- We need 2 documents: minutes and deliverable document
+- Governance:
+  - for us, this falls more towards the technical definition that we are interested in. For example, we are concerned with how to run a JupyterHub server
+  - other technical issues could be: AAI
+  - we should define the services + KPIs, then take/present the results to WP7
+  - expanding beyond PaNOSC? 
+    - should be managed by WP7
+    - will be hard to manage multiple club members
+- MOU: is needed between the different RIs to form the basis for a technical standard to follow
+- AAI:
+  - how much is it used?
+  - how is it related to Governance/Sustainability?
+  - we should all agree on UmbrellaID as PaNOSC federated access
+- Future conclusions should be compiled into delieverable document and added to Github for documentation
+
+
+Outstanding:
+- Definition of Done (DoD): when to know that the work for this workgroup is complete
+- no new updates are being added to the Google document at: https://docs.google.com/document/d/1e9QddP9aPXShK3SMChfp7LfD5xPIDZAGKcl4petAaQE/edit#
+- no explicit milestones set 
+- allocating topics to members, for presentation
+- how to present progress to the rest of the WP6 team
+- minutes currently added to a single Google doc. This should be moved to a fortnighly page on panosc Github (this page)
+- agreed agendas should be sent prior to the meeting to facilitate more fruitful discussions
+
+For next meeting:
+- Deliverables added to document
+- Starting point: description of work (Helpdesk)
+- AAI: Agree on UmbrellaID for federated access. How should we put this into action?
+
+
+

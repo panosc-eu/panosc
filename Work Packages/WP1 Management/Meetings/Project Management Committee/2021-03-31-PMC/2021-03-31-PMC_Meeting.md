@@ -6,18 +6,22 @@ Agenda
 
 1. Opening statement (~10 min)
 
-2. Text and supporting documents for  MS8.4 (~5 min)
+2. Text and supporting documents for MS8.4 (~2 min) 
 
-3. Annual Meeting + Symposium in 2021 (~5 min)
+3. Update on D2.3 and D6.4 (~5 min)
 
-4. WP leaders other updates *(max 20 min, starting with WP1)*
+4. Annual Meeting + Symposium in 2021 (~5 min)
+
+5. WP leaders other updates *(max 20 min, starting with WP1)*
 
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
+| WP1 | Internal Financial Report | 30/04/2021| *data up to 31/03/2021* |
+| WP1 | Internal Dashboard | 15/04/2021|  |
 | WP1 | D1.7 - Mid year summary | 31/05/2021| *usual bi-annual report* |
 | All | 2nd Periodic report @M36 | 30/11/2021 | 2nd periodic report |
 | [WP2](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp2--data-policy--stewardship) | **D2.3 - Guidelines on implementing Data Policy Framework** | 30/11/2020 | 
-| [WP3](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp3--data-catalog-services) | D3.2 - Demonstrator implementation | 31/03/2021 | submitted for internal review |
+| [WP3](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp3--data-catalog-services) | D3.2 - Demonstrator implementation | 31/03/2021 | submitted |
 | [WP3](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp3--data-catalog-services)  | MS3.3 - Catalogue integration best pratices meeting | 31/05/2021 | minutes of meeting & lessons learned |
 | [WP4](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp4--data-analysis-services) | IMS4.3a - KPI snapshot | 31/05/2021 | |
 | [WP4](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp4--data-analysis-services) | IMS4.4a - PaN Portal v2.0 | 31/08/2021 | |
@@ -30,7 +34,7 @@ Agenda
 | [WP9](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp9--outreachcommunication-and-disseminationimpact) | | | Nothing due until M48, internal milestones required |
 
 
-5. Use Cases Dashboard (~2 min)
+6. Use Cases Dashboard (~2 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
@@ -43,15 +47,15 @@ Agenda
 | EGI   |  0  |   | 
 
 
-6. Recent and upcoming events
+7. Recent and upcoming events
 
 * 23-24 March 2021: [2nd Train the Trainer online internal workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-2/)
 * 6-7 April 2021: [How is ExPaNDS delivering its services to EOSC](https://diamondlight.zoom.us/meeting/register/tJYsduqtrz8vH9eMTFvsS7SUN3CIG6ARz3H5 )
 * 13 April 2021: [FAIRsFAIR public workshop](https://www.fairsfair.eu/events/fairsfair-2021-public-workshop) - Overview of key stakeholder and community outputs and solutions for FAIR uptake.
-* 23 March 2021 at 11:00 CET: [Blue-Cloud workshop "Open Science For The Ocean: Meet The Blue-Cloud Demonstrators"](https://www.eoscsecretariat.eu/eosc-liaison-platform/post/open-science-ocean-meet-blue-cloud-demonstrators-23-march-2021)
+* 19 April 2021, 13:00-16:30 CEST: RDA P17 co-located event "The ESFRI Clusters at RDA House of Commons. Debating commonalities and collaboration for thematic services, training and governance towards the EOSC"
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/)
 
-7. Pending Issues
+8. Pending Issues
 
 * #71 to #74: WP8-related issues created by Thomas
 * [#70 Service Provider for EOSC-registered services](https://github.com/panosc-eu/panosc/issues/70)
@@ -66,7 +70,7 @@ Agenda
 * [#43 Internal Milestones / deliverables](https://github.com/panosc-eu/panosc/issues/43) - *see item 4*
 * [#9 Observer status](https://github.com/panosc-eu/panosc/issues/9) - *role of observers needs to be reviewed*
 
-8. AOB
+9. AOB
 
 
 
