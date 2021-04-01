@@ -10,7 +10,7 @@ Jordi (ESRF), Andy (ESRF), Jean-Francois (ESRF), Erwan (ILL), Stuart (ILL), Nico
 Minutes
 -------	
 
-**1. Opening statement **
+**1. Opening statement**
 
 Andy presented his wish to review the project status among ourselves during April. He shared his concerns about PaNOSC delivering all the possible value and asked all participants to be frank, look at the challenges ahead and assess whether we are on track and satisfied with each WP and PaNOSC as a whole.
 
@@ -43,7 +43,7 @@ Rudolf agreed to provide Sophie with a list of DESY/ExPaNDS participants in EOSC
 
 **6. WP leaders other updates**
 
-*WP1 - Management: Jordi proposed to request to all partners financial information covering the period up to the end of March so a new Internal Financial Report can be created and the proposition was accepted.
+* WP1 - Management: Jordi proposed to request to all partners financial information covering the period up to the end of March so a new Internal Financial Report can be created and the proposition was accepted.
 
 Jordi also showed to the attendees the [WP dashboards](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards) and asked all WP leaders to modify and complete the dashboards, so they have relevant columns and target dates for any objective not yet reached.
 
