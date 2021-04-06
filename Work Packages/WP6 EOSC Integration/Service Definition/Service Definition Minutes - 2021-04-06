@@ -2,8 +2,8 @@
 - Kareem Galal (ESS)
 - Ornela Degiacomo (CERIC)
 - Teodore Ivanoaica (ELI)
-- Jean-Francois 
-- Rudolf Dimpler
+- Jean-Francois Perrin (ESRF)
+- Rudolf Dimper (ESRF)
 
 # Update
 - Helpdesk topic discussed at length in last meeting, and seen as a building block for other topics
@@ -24,5 +24,33 @@
   - this will help in getting approval/endorsement, and allow for progress from previous discussions
 
 # Discussion
+- Helpdesk:
+  - what is the process for managing the Helpdesk?
+  - using a distribution list for each RI, to be used for contacting respective support personnel at each RI
+  - We should also some kind of "shift manager" for ensuring tasks are assigned and worked on. It should be rotated.
+  - in the description of the service: 
+    - request from all services that they submit an email address for mangaging support requests (mandatory)
+    - support requests should be submitted to a generic support email address, which will then be forwarded to the respective service (1st level email address)
+    - 1st level support for managing incoming emails:
+      - during PaNOSC: should be assigned to a single/group of people (or a single RI)
+      - Post PaNOSC: to be discussed
+  - discuss with WP7 on allocating resources for managing support requirements
+  - Action: 
+    - reach out to each RI and ask for a contact point for the provided services in Panosc and EOSC
+    - provide a list of services that you will be supporting 
+    - Kareem: speak to Thomas Rod (WP8) for pan-learning.org service. Could be used as an example for future services
+  - depending on the load, a PaNOSC ticketing system could be considered at the current time. This will need to be implemented eventually. 
+
+- AAI
+  - every PaN service should implement UmbrellaID (mandatory)
+  
+- SLA/SLD
+  - define metrics for answering ticket (eg. max 24hours), and resolving support tickets (eg. 4days)
+  - metrics for downtime of services (max figures available for the community), and when they should be back up
+  
+      
 
 # For next meeting
+- revisit the definition of "community", and have it documented 
+- review documentation/process on discussed topics above (Helpdesk, AAI, SLA)
+
