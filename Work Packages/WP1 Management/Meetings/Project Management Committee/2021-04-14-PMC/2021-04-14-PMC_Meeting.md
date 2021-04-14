@@ -48,7 +48,11 @@ Agenda
 | WP8 | D8.1 - Report on lessons learned | 31/07/2021 |  |
 | [WP9](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp9--outreachcommunication-and-disseminationimpact) | | | Nothing due until M48, internal milestones required |
 
-
+Info shared by Tobias before the meeting regarding WP3:
+* Partners are making progress with the roll out of data catalogue services at their sites.
+* As part of the catalogue integration task ELI is organising the best practices workshop that is the basis for the upcoming milestone. There is not a lot of time left, but we have a meeting on Friday to discuss the agenda, timeline, etc. Obviously a virtual meeting.
+* Ontology work and authentication for the search will come back in focus after the upcoming event.
+* With the search aggregator demonstrator deliverable out of the way, integration with the WP4 portal is still well on the radar.
 
 8. Recent and upcoming events
 
