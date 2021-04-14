@@ -47,9 +47,13 @@
   - define metrics for answering ticket (eg. max 24hours), and resolving support tickets (eg. 4days)
   - metrics for downtime of services (max figures available for the community), and when they should be back up
   
-      
+- followup discussion with Ornela later in the afternoon (15:30)
+  - easier to allocate resources to Helpdesk now than later (try and use PaNOSC resources)
+  - need to check which services are already available 
+  
 
 # For next meeting
 - revisit the definition of "community", and have it documented 
 - review documentation/process on discussed topics above (Helpdesk, AAI, SLA)
+- analysis on availble business models (to be provided by Ornela)
 
