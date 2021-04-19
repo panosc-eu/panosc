@@ -62,10 +62,6 @@ Jordi also reminded that the use cases can be submitted by PaNOSC collaborators 
 
 Andy offered to contact PaNOSC representatives in the Executive Board if that would help speed up the submission of use cases.
 
-**4. Annual Meeting + Symposium in 2021**
-
-Jordi reported that a first meeting to start organising the Annual Meeting + Symposium will be held 3rd May, with PSI being the hosting organisation. Jordi asked anyone interested in participating in the organisation of the event to get in touch with him.
-
 **7. WP leaders other updates** 
 
 
