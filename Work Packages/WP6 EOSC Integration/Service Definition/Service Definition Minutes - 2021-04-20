@@ -1,0 +1,30 @@
+# Attendees
+- Kareem Galal (ESS)
+- Teodor Ivanoaica (ELI)
+- Jean-Francois Perrin (ESRF)
+- Rudolf Dimper (ESRF)
+
+# Agenda 
+- revisit the definition of "community", and have it documented 
+- review documentation/process on discussed topics above (Helpdesk, AAI, SLA)
+- analysis on availble business models (to be provided by Ornela)
+
+# Discussion
+- Helpdesk
+  - Helpdesk document available at: 
+  https://docs.google.com/document/d/1ZN7_2lIZLB4-UqNzRJYFrPKjR2f9f_ztqhNVa-cCjBc/edit#
+  - the above googel document needed to be updated as the outlined Email ONLY model did not include a Helpdesk componnent
+  - the following 2 solutions (models) were agreed to be used and put forward:
+    - one email per service (1st model): This uses a direct email address to the respective service provider (RI) of a service
+    - generic helpdesk email (2nd model): This required a functioning Helpdesk ticketing system up and running. This will require more resources which 
+    are not available right now
+  - Ultimately: we MUST have a ticketing system in place
+  - PaN Portal:
+    - what is the definition of the PaN Portal? It's not defined anywhere
+    - should be discussed with ExPanDS
+    - Constitutes an independent topic/task outside the scope of WP6 and the current work
+    - A question should be presented to the PMC about the PaN Portal, for the idea to be circulated and discussed. Only preliminary concept.
+    
+
+# For next meeting
+- update Helpdesk document to include both "email only" and "Helpdesk" models
