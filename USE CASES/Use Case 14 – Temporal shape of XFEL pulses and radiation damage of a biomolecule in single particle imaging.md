@@ -4,8 +4,8 @@ Single particle imaging is an emerging tool to determine the structure of biolog
 
 Main contributors
 ------
-Juncheng E, European XFEL, development of the integration of GROMACS and SimEx.
-Ibrahim Dawod, European XFEL/Uppsala university, development of the integration of GROMACS and SimEx.
+* Juncheng E, European XFEL, development of the integration of GROMACS and SimEx.
+* Ibrahim Dawod, European XFEL/Uppsala university, development of the integration of GROMACS and SimEx.
 
 Workflow
 ------
@@ -19,7 +19,7 @@ PaNOSC related work package
 ------
 [Work Package 5 – Virtual Neutron and X-ray Laboratory (VINYL)](https://www.panosc.eu/work-packages/work-package-5-virtual-neutron-and-x-ray-laboratory-vinyl/)
 
-Contact person
+Contact persons
 ------
-*[Ibrahim Dawod](mailto:ibrahim.dawod@physics.uu.se) (Uppsala University / European XFEL)
-*[Junchen E](mailto:juncheng.e@xfel.eu) (European XFEL)
+* [Ibrahim Dawod](mailto:ibrahim.dawod@physics.uu.se) (Uppsala University / European XFEL)
+* [Junchen E](mailto:juncheng.e@xfel.eu) (European XFEL)
