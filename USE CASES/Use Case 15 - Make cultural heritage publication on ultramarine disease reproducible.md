@@ -32,11 +32,11 @@ This is an example of what other publications could do to provide notebooks with
 
 Resources
 ------	
-*[https://doi.esrf.fr/10.15151/ESRF-DC-186933507](https://doi.esrf.fr/10.15151/ESRF-DC-186933507)
-*[https://github.com/alessaan/rhapsody-in-blue](https://github.com/alessaan/rhapsody-in-blue)
-*[https://github.com/woutdenolf/spectrocrunch](https://github.com/woutdenolf/spectrocrunch)
-*[https://github.com/silx-kit/silx](https://github.com/silx-kit/silx)
-*[https://data.esrf.fr](https://data.esrf.fr)
+* [https://doi.esrf.fr/10.15151/ESRF-DC-186933507](https://doi.esrf.fr/10.15151/ESRF-DC-186933507)
+* [https://github.com/alessaan/rhapsody-in-blue](https://github.com/alessaan/rhapsody-in-blue)
+* [https://github.com/woutdenolf/spectrocrunch](https://github.com/woutdenolf/spectrocrunch)
+* [https://github.com/silx-kit/silx](https://github.com/silx-kit/silx)
+* [https://data.esrf.fr](https://data.esrf.fr)
 
 Related publication
 ------	
