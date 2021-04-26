@@ -5,10 +5,10 @@ The goal is to make the data available with the Jupyter Python notebooks to anal
 
 Main contributors
 ------	
-*Thomas Vincent
-*Alessa Gambardella
-*Wout de Nolf
-*Marine Cotte
+* Thomas Vincent
+* Alessa Gambardella
+* Wout de Nolf
+* Marine Cotte
 
 Use Case Action Flow
 ------	
@@ -19,8 +19,8 @@ Use Case Action Flow
 
 Description of needs
 ------	
-*Uploading data to data repository
-*Writing and testing Jupyter notebooks
+* Uploading data to data repository
+* Writing and testing Jupyter notebooks
 
 Impact from the implementation
 ------	
