@@ -9,16 +9,16 @@ In this use case, a data transfer solution using EGI-DataHub/OneData is showcase
 
 Use case action flow
 ------
-*Transfer data via EGI DataHub based on Onedata from an NFS storage located at CERIC-ERIC / Elettra RI to EGI infrastructure Data Analysis service
-*Archive the results back to the originated RI
-*Authenticate users using the EOSC ready PaN community AAI (UmbrellaID)
+* Transfer data via EGI DataHub based on Onedata from an NFS storage located at CERIC-ERIC / Elettra RI to EGI infrastructure Data Analysis service
+* Archive the results back to the originated RI
+* Authenticate users using the EOSC ready PaN community AAI (UmbrellaID)
 
 Impacts from the implementation
 ------
-*ata transfer of up to 100 GB
-*HDF5 data files >1GB can reach the maximum bandwidth available
-*Smaller files have a much smaller throughputs (1/5)
-*Files<50MB in size take the same amount of time of 250MB files, probably to the overhead required by the Onedata transfer protocol, a standard pattern of network file transfer protocols.
+* Data transfer of up to 100 GB
+* HDF5 data files >1GB can reach the maximum bandwidth available
+* Smaller files have a much smaller throughputs (1/5)
+* Files<50MB in size take the same amount of time of 250MB files, probably to the overhead required by the Onedata transfer protocol, a standard pattern of network file transfer protocols.
 
 Partners
 ------
@@ -36,11 +36,11 @@ UmbrellaID as community AAI proxy for the PaNOSC community
 
 Other resources
 ------
-[Data transfer pilot on Github](https://github.com/EGI-Foundation/data-transfer-pilot)
-[PaNOSC D6.1 Data-Hub](https://www.panosc.eu/wp-content/uploads/2020/12/D6.1_DataHub.pdf)
-[PaNOSC data transfer pilot setup](https://documents.egi.eu/public/ShowDocument?docid=3686)
-[EGI DataHub](https://docs.egi.eu/users/datahub/)
-[EGI Notebooks service](https://www.egi.eu/services/notebooks/)
+* [Data transfer pilot on Github](https://github.com/EGI-Foundation/data-transfer-pilot)
+* [PaNOSC D6.1 Data-Hub](https://www.panosc.eu/wp-content/uploads/2020/12/D6.1_DataHub.pdf)
+* [PaNOSC data transfer pilot setup](https://documents.egi.eu/public/ShowDocument?docid=3686)
+* [EGI DataHub](https://docs.egi.eu/users/datahub/)
+* [EGI Notebooks service](https://www.egi.eu/services/notebooks/)
 
 PaNOSC related work packages:
 ------
