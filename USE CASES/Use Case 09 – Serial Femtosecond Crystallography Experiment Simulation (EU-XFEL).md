@@ -9,12 +9,12 @@ The SimEx API in ViNYL package supported by PaNOSC.
 
 Use case action flow
 ------
-*Set up initial X-ray, detector and sample parameters.
-*Run the diffraction simulation using the crystfel module integrated in SimEx.
-*Change different detector geometries, noise response, respectively.
-*Rerun the diffraction simulation.
-*Set data analysis workflow using crystfel.
-*Check the index results from different detector parameters to assess the complication effect.
+* Set up initial X-ray, detector and sample parameters.
+* Run the diffraction simulation using the crystfel module integrated in SimEx.
+* Change different detector geometries, noise response, respectively.
+* Rerun the diffraction simulation.
+* Set data analysis workflow using crystfel.
+* Check the index results from different detector parameters to assess the complication effect.
 
 Impacts from the implementation
 ------
@@ -26,8 +26,8 @@ It can also be implemented for other SFX experiments.
 
 Resources
 ------
-[Example jupyter notebook repository](https://github.com/JunCEEE/crystalProject/tree/master/src/controller/panoscDEMO)
-[SimEX on PaNOSC repository](https://github.com/PaNOSC-ViNYL/SimEx)
+* [Example jupyter notebook repository](https://github.com/JunCEEE/crystalProject/tree/master/src/controller/panoscDEMO)
+* [SimEX on PaNOSC repository](https://github.com/PaNOSC-ViNYL/SimEx)
 
 PaNOSC related work packages:
 ------
