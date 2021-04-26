@@ -12,10 +12,10 @@ Main contributors
 
 Use Case Action Flow
 ------	
-*Upload raw and processed data to ESRF data repository + mint DOI
-*Prepare Python notebooks to download data and process them
-*Upload Python notebooks to data repository
-*Write documentation
+* Upload raw and processed data to ESRF data repository + mint DOI
+* Prepare Python notebooks to download data and process them
+* Upload Python notebooks to data repository
+* Write documentation
 
 Description of needs
 ------	
