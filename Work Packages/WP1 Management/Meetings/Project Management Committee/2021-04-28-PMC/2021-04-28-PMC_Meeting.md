@@ -4,7 +4,7 @@ PaNOSC Project Management Committee Meeting - 28/04/2021
 Agenda
 ------	
 
-1. Do we have a new Project Officer? (~1min)
+1. New Project Officer (~5min)
 
 2. How is PaNOSC going to engage/coordinate with EOSC Future? (~2 min)
 
