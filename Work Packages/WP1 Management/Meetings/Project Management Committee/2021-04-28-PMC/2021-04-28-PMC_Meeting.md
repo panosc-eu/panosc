@@ -54,10 +54,6 @@ Info shared by Tobias before the meeting regarding WP3:
 
 7. Recent and upcoming events
 
-* 23-24 March 2021: [2nd Train the Trainer online internal workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-2/)
-* 6-7 April 2021: [How is ExPaNDS delivering its services to EOSC](https://diamondlight.zoom.us/meeting/register/tJYsduqtrz8vH9eMTFvsS7SUN3CIG6ARz3H5 )
-* 13 April 2021: [FAIRsFAIR public workshop](https://www.fairsfair.eu/events/fairsfair-2021-public-workshop) - Overview of key stakeholder and community outputs and solutions for FAIR uptake.
-* 19 April 2021, 13:00-16:30 CEST: RDA P17 co-located event "The ESFRI Clusters at RDA House of Commons. Debating commonalities and collaboration for thematic services, training and governance towards the EOSC"
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/)
 
 8. Pending Issues
