@@ -26,11 +26,11 @@ Nothing to discuss
 
 ### Actions
 - [ ] Provide feedback on Value Proposition Task 7.3 (all)
-- [ ] Analyse KPIs from others WP in terms of their relevance for the sustainability of the PaNOSC (Ornela, then all)
-- [ ] If willing, take part in the meeting to discuss the Iron Lady document on Thursday November 5th at 14:00. (all)
+- [x] Analyse KPIs from others WP in terms of their relevance for the sustainability of the PaNOSC (Ornela, then all)
+- [x] If willing, take part in the meeting to discuss the Iron Lady document on Thursday November 5th at 14:00. (all)
 
 ### Actions pending from previous meetings
-- [ ] Analyse the cost collection template in view of the following sub-task (Florian)
-- [ ] Check the allocation of resources for WP7 and inform Ornela of any necessary change (all, continuous)
+- [x] Analyse the cost collection template in view of the following sub-task (Florian)
+- [x] Check the allocation of resources for WP7 and inform Ornela of any necessary change (all, continuous)
 - [ ] Upload the filled [updated cost collection file](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP7%20Sustainability/Task%207.2%20Metrics%20and%20cost%20for%20the%20Photon%20and%20Neutron%20community%20EOSC/2020-10-20%20Template-Data-processing-costs.xlsx) (all)
-- [ ] Propose any necessary change or addition to the cost collection template (all)
+- [x] Propose any necessary change or addition to the cost collection template (all)

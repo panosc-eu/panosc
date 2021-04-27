@@ -7,16 +7,16 @@ The use case is to create DOIs for each of the hundreds of datasets so that they
 
 Description of needs
 ------
-*DOIs for all datasets published on the https://doi.esrf.fr site;
-*All datasets to be ingested into the ESRF data repository so they can be browsed and downloaded from the repository;
-*The original url via http://paleo.esrf.eu must resolve to the data repository so that existing publications are still valid;
-*A web portal which can be organised by categories to make it easy for users to browse (similar to paleo.esrf.eu).
+* DOIs for all datasets published on the https://doi.esrf.fr site;
+* All datasets to be ingested into the ESRF data repository so they can be browsed and downloaded from the repository;
+* The original url via http://paleo.esrf.eu must resolve to the data repository so that existing publications are still valid;
+* A web portal which can be organised by categories to make it easy for users to browse (similar to paleo.esrf.eu).
 
 Use case action flow
 ------
-*Ingest paleo.esrf.eu datasets into ESRF icat data repository;
-*Mint DOIs for each dataset;
-*Archive datasets for 10 years or more.
+* Ingest paleo.esrf.eu datasets into ESRF icat data repository;
+* Mint DOIs for each dataset;
+* Archive datasets for 10 years or more.
 
 Impacts from the implementation
 ------
@@ -28,17 +28,17 @@ There is a general need to have DOIs on all data. This is not the case for old d
 
 Resources
 ------
-http://paleo.esrf.eu
-https://gitlab.esrf.fr/icat/E-DataPortal
-https://datacite.org/
-https://data.esrf.fr
-https://doi.esrf.fr
+* http://paleo.esrf.eu
+* https://gitlab.esrf.fr/icat/E-DataPortal
+* https://datacite.org/
+* https://data.esrf.fr
+* https://doi.esrf.fr
 
 Other resources
 ------
 Examples of datasets:
-http://paleo.esrf.eu/picture.php?/5248/category/2846
-http://paleo.esrf.eu/picture.php?/395/category/1539
+* http://paleo.esrf.eu/picture.php?/5248/category/2846
+* http://paleo.esrf.eu/picture.php?/395/category/1539
 
 PaNOSC related work packages:
 ------

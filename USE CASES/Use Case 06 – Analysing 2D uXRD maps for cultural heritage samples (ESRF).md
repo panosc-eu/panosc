@@ -3,15 +3,15 @@ Use Case 6 – Analysing 2D uXRD maps for cultural heritage samples (ESRF)
 
 Improving the efficiency of 2D uXRD experiments (many different users, a possible regular beamtime, remote experiment), would help to have a dedicated Jupyter notebook for data processing. It would be a good way:
 
-*To save time;
-*To record which map has already been processed and how;
-*To have a coherent data processing between users and between sessions, and also for possible users who would like to reuse data after the embargo period.
+* To save time;
+* To record which map has already been processed and how;
+* To have a coherent data processing between users and between sessions, and also for possible users who would like to reuse data after the embargo period.
 
 Use Case Action Flow:
 ------
-*Extract data
-*Radial integration
-*Combine maps
+* Extract data
+* Radial integration
+* Combine maps
 
 Impacts from the implementation:
 ------

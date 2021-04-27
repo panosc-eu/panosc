@@ -5,15 +5,15 @@ X-ray optics simulations are regularly performed both in the design of the beaml
 
 Description of needs
 ------
-*Development of RAFEC – remote application framework;
-*Adaption of Oasys for RAFEC;
-*Setting up of machines providing cloud resources to the application.
+* Development of RAFEC – remote application framework;
+* Adaption of Oasys for RAFEC;
+* Setting up of machines providing cloud resources to the application.
 
 Use case action flow
 ------
-*Creation and upload of workspace: The workspace is created by the optics expert either locally or remotely in traditional way. If it was prepared locally, then the file is uploaded to the cloud.
-*Remote access to the workspace: Users (beamline scientist or scientific users) login into the user portal (VUO) and spawn the remote application.
-*Collaborative and updated work: Through the web browser all the users with permission can work in the same instance and collaborate on the same file.
+* Creation and upload of workspace: The workspace is created by the optics expert either locally or remotely in traditional way. If it was prepared locally, then the file is uploaded to the cloud.
+* Remote access to the workspace: Users (beamline scientist or scientific users) login into the user portal (VUO) and spawn the remote application.
+* Collaborative and updated work: Through the web browser all the users with permission can work in the same instance and collaborate on the same file.
 
 Impacts from the implementation
 ------
@@ -29,9 +29,9 @@ OASYS, RAFEC
 
 More on PaNOSC Github
 ------
-[OASYS – WISER](https://github.com/oasys-elettra-kit/OASYS1-Wiser)
-[OASYS Kit](https://github.com/oasys-kit/OASYS1)
-[RAFEC](https://rafec.elettra.eu/)
+* [OASYS – WISER](https://github.com/oasys-elettra-kit/OASYS1-Wiser)
+* [OASYS Kit](https://github.com/oasys-kit/OASYS1)
+* [RAFEC](https://rafec.elettra.eu/)
 
 Contact person
 ------

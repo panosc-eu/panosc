@@ -10,9 +10,9 @@ Modify PaNOSC data repositories to add support for linking PDBe entries to raw d
 
 Use case action flow
 ------
-*ESRF data repository – add javascript adapter for PDBe
-*PDBe repository – test adapter
-*Scientists – add DOI to raw data to PDBe entry
+* ESRF data repository – add javascript adapter for PDBe
+* PDBe repository – test adapter
+* Scientists – add DOI to raw data to PDBe entry
 
 Impacts from the implementation
 ------

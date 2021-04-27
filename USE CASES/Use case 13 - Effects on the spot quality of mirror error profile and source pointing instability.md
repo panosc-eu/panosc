@@ -5,11 +5,11 @@ By means of WISER, it is possible to assess the variation of the focal plane and
 
 Use Case action flow
 ------	
-*Compose a beamline in WISER
-*Decide max and minimum deviation angles.
-*Perform a preliminary simulation to assess the longitudinal range where to search for the best focus. Such preliminary simulation shall be done between max and min deviation angles.
-*For each sampled angle within the selected range at 2, compute the HEW at the best focus (this operation might be time consuming: approximately half an hour).
-*Plot the focus position and the spot size.
+* Compose a beamline in WISER
+* Decide max and minimum deviation angles.
+* Perform a preliminary simulation to assess the longitudinal range where to search for the best focus. Such preliminary simulation shall be done between max and min deviation angles.
+* For each sampled angle within the selected range at 2, compute the HEW at the best focus (this operation might be time consuming: approximately half an hour).
+* Plot the focus position and the spot size.
 
 Main contributors
 ------	

@@ -1,4 +1,4 @@
-PaNOSC Project Management Committee Meeting - 14/04/2021 
+PaNOSC Project Management Committee Meeting - 28/04/2021 
 =========================================================
 
 Agenda
@@ -6,15 +6,13 @@ Agenda
 
 1. Do we have a new Project Officer? (~1min)
 
-2. How is PaNOSC going to engage/coordinate with EOSC Future? (~15 min)
+2. How is PaNOSC going to engage/coordinate with EOSC Future? (~2 min)
 
-3. Chatbot in PaNOSC website (~15 min) 
+3. WP4 - Current Status, Challenges and Actions Required
 
-4. *How is ExPaNDS delivering its data services to PaNOSC and EOSC* meeting (~5 min)
+4. Draft documents for D2.3 and D6.4 required (~5 min)
 
-5. Draft documents for D2.3 and D6.4 required (~5 min)
-
-6. Use Cases Dashboard (~5 min)
+5. Use Cases Dashboard (~5 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
@@ -27,7 +25,7 @@ Agenda
 | EGI   |  0  |   | 
 
 
-7. WP leaders other updates *(max 20 min, starting with WP9)*
+6. WP leaders other updates *(max 20 min, starting with WP7)*
 
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
@@ -54,7 +52,7 @@ Info shared by Tobias before the meeting regarding WP3:
 * Ontology work and authentication for the search will come back in focus after the upcoming event.
 * With the search aggregator demonstrator deliverable out of the way, integration with the WP4 portal is still well on the radar.
 
-8. Recent and upcoming events
+7. Recent and upcoming events
 
 * 23-24 March 2021: [2nd Train the Trainer online internal workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-2/)
 * 6-7 April 2021: [How is ExPaNDS delivering its services to EOSC](https://diamondlight.zoom.us/meeting/register/tJYsduqtrz8vH9eMTFvsS7SUN3CIG6ARz3H5 )
