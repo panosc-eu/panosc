@@ -20,9 +20,7 @@ Excused: Ian
 
 
 
-OneData pilot: Andrea presented slides summarising the 2 pilots 
-
-
+OneData pilot: Andrea presented slides summarizing the 2 pilots 
 
 Activity report:
 
