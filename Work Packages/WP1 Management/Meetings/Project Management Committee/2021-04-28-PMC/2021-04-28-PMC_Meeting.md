@@ -17,11 +17,11 @@ Agenda
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
 | ESRF  |  3  | 3 planned   |
-| ILL   |  0  |   |
+| ILL   |  0  | 3 planned  |
 | ESS   |  0  |   |
 | XFEL  |  7  |   |
-| CERIC |  4  |   |
-| ELI   |  0  | 2 planed  |
+| CERIC |  4  | 4 planned |
+| ELI   |  0  | 2 planned  |
 | EGI   |  0  |   | 
 
 
