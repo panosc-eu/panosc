@@ -33,9 +33,26 @@ The implementation of COMSYL as a service could be a model of how to apply and i
 
 Resources
 ------
-* The software is Open Source, available at [https://github.com/oasys-kit/comsyl]
-* It is documented in M. Glass Ph. D. Thesis [https://tel.archives-ouvertes.fr/tel-01664052]
+* The software is Open Source, available at https://github.com/oasys-kit/comsyl
+* It is documented in M. Glass Ph. D. Thesis https://tel.archives-ouvertes.fr/tel-01664052
 
 Other resources
 ------
-An introduction to COMSYL was given at the OASYS schools ([https://github.com/oasys-kit/oasys_school/]). Slides from the last school (2019, Argonne, US) are: [https://github.com/oasys-kit/oasys_school/blob/master/second/slides/pdf/Introduction_to_COMSYL.pdf]
+An introduction to COMSYL was given at the OASYS schools (https://github.com/oasys-kit/oasys_school/). Slides from the last school (2019, Argonne, US) are: https://github.com/oasys-kit/oasys_school/blob/master/second/slides/pdf/Introduction_to_COMSYL.pdf
+
+PaNOSC-related work package
+------
+[WP5 - Virtual Neutron and X-ray Laboratory (VINYL)](https://www.panosc.eu/work-packages/work-package-5-virtual-neutron-and-x-ray-laboratory-vinyl/)
+
+Contact person
+------
+[Manuel Sanchez del Rio](mailto:mailto:srio@esrf.eu) (ESRF)
+
+References
+------
+* [1] Glass, Ph. D. Thesis (2017) https://tel.archives-ouvertes.fr/tel-01664052
+* [2] https://github.com/oasys-kit/comsyl
+* [3] M Glass, M Sanchez del Rio (2017)  Coherent modes of X-ray beams emitted by undulators in new storage rings EPL (Europhysics Letters) 119:  3  http://dx.doi.org/10.1209/0295-5075/119/34004
+* [4] M Sanchez del Rio, R Celestre, M Glass, G Pirro, J Reyes Herrera, R Barrett, J C da Silva, P Cloetens, X Shi, L Rebuffi (2019)  A hierarchical approach for modeling X-ray beamlines : application to a coherent beamline Journal of Synchrotron Radiation 26: 6. 1887-1901 http://dx.doi.org/10.1107/S160057751901213X
+* [5] D M Paganin, M Sánchez del Río (2019)  Speckled cross-spectral densities and their associated correlation singularities for a modern source of partially coherent x rays Phys. Rev. A 100 4 http://dx.doi.org/10.1103/PhysRevA.100.043813
+
