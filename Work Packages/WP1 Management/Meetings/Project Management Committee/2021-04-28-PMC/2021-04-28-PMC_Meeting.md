@@ -53,7 +53,8 @@ Info shared by Tobias before the meeting regarding WP3:
 * With the search aggregator demonstrator deliverable out of the way, integration with the WP4 portal is still well on the radar.
 
 7. Recent and upcoming events
-
+* 22 April 2021: [Sharing FAIR Data on COVID research at Photon and Neutron Facilities](https://www.panosc.eu/events/sharing-fair-data-on-covid-research-at-photon-and-neutron-facilities/)
+* 11 May 2021: [EOSC Portal virtual meeting - Q&A for Service Providers](https://eosc-portal.eu/events/eosc-portal-virtual-meeting-qa-service-providers)
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/)
 
 8. Pending Issues
