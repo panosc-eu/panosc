@@ -1,0 +1,16 @@
+Folder to collect numbers for the 4 KPIs from each partner:
+
+- KPI 4.1: research institution (partner) offers remote desktop or jupyter notebook service
+
+- KPI 4.2: number of unique users making use of remote desktop or jupyter service
+
+- KPI 4.3: number of experimental techniques supported by the services
+
+- KPI 4.4: number of returning users making use of remote desktop or jupyter service (#)
+
+
+(#) returning user is a unique user appearing at least twice in the list, but at least on different days
+
+
+The four numbers, as of May 2021, can be uploaded to this folder in any format, even though
+plain text is preferred for me to assemble it for sharing with PMC.
