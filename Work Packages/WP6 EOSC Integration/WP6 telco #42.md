@@ -1,10 +1,10 @@
-#  WP6 fortnightly telco #40
+#  WP6 fortnightly telco #42
 
 Tuesday 11th May 2021 - 11H00 CET
 
 	Next meeting : Tuesday 25th May 2021 at 11H00 CET
 
-Attendees :  Aidan, Cédric, Jean-François, Marco, William, Kareem, Gregory,  Michael, Humaira, Christos, Francois, Ian, Andrea
+Attendees :  Aidan, Cédric, Jean-François, Marco, William, Kareem, Grégory,  Michael, Humaira, Christos, Francois, Ian, Andrea, Rudolf, Andy, Teodor
 
 
 
