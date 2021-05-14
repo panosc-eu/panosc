@@ -1,0 +1,19 @@
+Folder to collect numbers for the 4 KPIs from each partner:
+
+- KPI 4.1: research institution (partner) offers remote desktop or jupyter notebook service
+
+- KPI 4.2: number of unique users making use of remote desktop or jupyter service
+
+- KPI 4.3: number of experimental techniques supported by the services
+
+- KPI 4.4: number of returning users making use of remote desktop or jupyter service (#)
+
+
+(#) returning user is a unique user appearing at least twice in the list, but at least on different days
+
+4.2 and 4.4 should ideally account the time period May 2020 - end April 2021 (12 months),
+unless the service or tracking of the service usage started later, and is best done
+by averaging monthly-independent numbers of unique users.
+
+The four KPI snapshot numbers can be uploaded to this folder in any format;
+plain text is preferred by me to assemble it for sharing with PMC.

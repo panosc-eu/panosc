@@ -4,7 +4,7 @@ PaNOSC Project Management Committee Meeting - 28/04/2021
 Agenda
 ------	
 
-1. Do we have a new Project Officer? (~1min)
+1. New Project Officer (~5min)
 
 2. How is PaNOSC going to engage/coordinate with EOSC Future? (~2 min)
 
@@ -17,11 +17,11 @@ Agenda
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
 | ESRF  |  3  | 3 planned   |
-| ILL   |  0  |   |
+| ILL   |  0  | 3 planned  |
 | ESS   |  0  |   |
 | XFEL  |  7  |   |
-| CERIC |  4  |   |
-| ELI   |  0  | 2 planed  |
+| CERIC |  4  | 4 planned |
+| ELI   |  0  | 2 planned  |
 | EGI   |  0  |   | 
 
 
@@ -46,18 +46,10 @@ Agenda
 | WP8 | D8.1 - Report on lessons learned | 31/07/2021 |  |
 | [WP9](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp9--outreachcommunication-and-disseminationimpact) | | | Nothing due until M48, internal milestones required |
 
-Info shared by Tobias before the meeting regarding WP3:
-* Partners are making progress with the roll out of data catalogue services at their sites.
-* As part of the catalogue integration task ELI is organising the best practices workshop that is the basis for the upcoming milestone. There is not a lot of time left, but we have a meeting on Friday to discuss the agenda, timeline, etc. Obviously a virtual meeting.
-* Ontology work and authentication for the search will come back in focus after the upcoming event.
-* With the search aggregator demonstrator deliverable out of the way, integration with the WP4 portal is still well on the radar.
-
 7. Recent and upcoming events
-
-* 23-24 March 2021: [2nd Train the Trainer online internal workshop](https://www.panosc.eu/events/panosc-expands-internal-workshop-train-the-trainers-2/)
-* 6-7 April 2021: [How is ExPaNDS delivering its services to EOSC](https://diamondlight.zoom.us/meeting/register/tJYsduqtrz8vH9eMTFvsS7SUN3CIG6ARz3H5 )
-* 13 April 2021: [FAIRsFAIR public workshop](https://www.fairsfair.eu/events/fairsfair-2021-public-workshop) - Overview of key stakeholder and community outputs and solutions for FAIR uptake.
-* 19 April 2021, 13:00-16:30 CEST: RDA P17 co-located event "The ESFRI Clusters at RDA House of Commons. Debating commonalities and collaboration for thematic services, training and governance towards the EOSC"
+* 22 April 2021: [Sharing FAIR Data on COVID research at Photon and Neutron Facilities](https://www.panosc.eu/events/sharing-fair-data-on-covid-research-at-photon-and-neutron-facilities/)
+* 18 - 20 May 2021: WP3 Best Practises Meeting (indico link to be made available soon)
+* 11 May 2021: [EOSC Portal virtual meeting - Q&A for Service Providers](https://eosc-portal.eu/events/eosc-portal-virtual-meeting-qa-service-providers)
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/)
 
 8. Pending Issues
