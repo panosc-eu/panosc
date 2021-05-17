@@ -22,8 +22,9 @@ Agenda
 | ELI   |  0  | 2 planned  |
 | EGI   |  0  |   | 
 
+5. Next WPs to have a review
 
-5. WP leaders other updates *(max 25 min, starting with WP7)*
+6. WP leaders other updates *(max 25 min, starting with WP7)*
 
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
@@ -44,7 +45,7 @@ Agenda
 | WP8 | D8.1 - Report on lessons learned | 31/07/2021 |  |
 | [WP9](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp9--outreachcommunication-and-disseminationimpact) | | | Nothing due until M48, internal milestones required |
 
-6. AOB
+7. AOB
 
 
 
