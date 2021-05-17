@@ -12,7 +12,7 @@ Minutes
 
 **1. WP3 - Current Status, Challenges and Actions Required**
 
-The WP3 review started with a [presentation](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP9%20Outreach%20and%20communication/Presentations/PaNOSC_WP3_review_20210512.pdf) by Andy that was followed by the Tobias' WP leader update and status report.
+The WP3 review started with a [presentation](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP9%20Outreach%20and%20communication/Presentations/PaNOSC_WP3_review_20210512.pdf) by Andy that was followed by the Tobias' [WP leader update](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP9%20Outreach%20and%20communication/Presentations/202105_WP3InternalReview.pptx) and status report.
 
 During his presentation Andy showed that WP3 is at the core of PaNOSC (being the 2nd largest WP in terms of budget), with strong links to WP4, WP5 and WP6. 
 
@@ -27,6 +27,6 @@ As main issues the following were identified:
 * Integrating Search API in the PaN Portal
 * Deploying the search demostrator
 
-WP3 will try to complete and update the (dashboard)[https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp3--data-catalog-services]
+WP3 will try to complete and update the [dashboard](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp3--data-catalog-services)
 
 -ENDS-
