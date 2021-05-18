@@ -14,13 +14,13 @@ Agenda
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
-| ESRF  |  3  | 3 planned   |
-| ILL   |  0  | 3 planned  |
-| ESS   |  0  |   |
+| ESRF  |  5  | 1 planned   |
+| ILL   |  1  | 3 planned  | 1 w CERIC and EGI)
+| ESS   |  1  |   |
 | XFEL  |  7  |   |
-| CERIC |  4  | 4 planned |
-| ELI   |  0  | 2 planned  |
-| EGI   |  0  |   | 
+| CERIC |  4  | 1 w ILL and EGI, 4 planned |
+| ELI   |  1  | 1 planned  |
+| EGI   |  1  | 1 w CERIC and ILL | 
 
 5. Next WPs to have a review
 
@@ -45,7 +45,11 @@ Agenda
 | WP8 | D8.1 - Report on lessons learned | 31/07/2021 |  |
 | [WP9](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp9--outreachcommunication-and-disseminationimpact) | | | Nothing due until M48, internal milestones required |
 
-7. AOB
+7. Upcoming events
+* 15-18 June 2021: [EOSC Symposium 2021](https://www.eoscsecretariat.eu/events/eosc-symposium-2021) - Deadline for proposals' submission: 20 May 2021
+* 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/) 
+ 
+8. AOB
 
 
 
