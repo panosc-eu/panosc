@@ -47,6 +47,7 @@ Agenda
 
 7. Upcoming events
 * 15-18 June 2021: [EOSC Symposium 2021](https://www.eoscsecretariat.eu/events/eosc-symposium-2021) - Deadline for proposals' submission: 20 May 2021
+* 19-21 October 2021: [EGI Conference 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/) - [Call for abstracts open until 1st July 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/call-for-abstracts/)
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/) 
  
 8. AOB
