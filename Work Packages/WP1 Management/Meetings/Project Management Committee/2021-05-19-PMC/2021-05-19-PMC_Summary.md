@@ -64,8 +64,6 @@ Thomas reported 1 use case being done at ESS but nto submitted yet. The use case
 
 Erwan said that at the ILL the use cases are not advancing very fast.
 
-Draft notes to be made available soon
-
 **5. Next WPs to have a review**
 
 The attendees agreed that the next dates for meetings will be:
@@ -76,13 +74,13 @@ The attendees agreed that the next dates for meetings will be:
 
 All meetings will take place at the usual time and there is no meeting planned for next week (27/05/2021).
 
-**6. WP leaders other updates**
+**6. WP leaders updates**
 
 **WP7 - Sustainability**: Ornela reported the cost collection advancing, a meeting with ELI and ESRF and a useful document about how the ESRF has approached the cost collection written by Rudolf, however the XFEL costs are still missing. Ornela also explained that the Business Models discussion has started, however the WP will focus on the cost first as there is a deliverable coming up.
 
 Ornela also reported that the EOSC Association has created a Working Group for Sustainability and she will co-coordinate with Rupert Lueck. She also said that two Research Infrastructures are represented among the four co-chairs and that she thinks that is positive as it may improve the chances of our concerns and needs be addressed.
 
-**WP - Staff and User Training**: Thomas reported a meeting about the Future of Jupyter and CPU resources for pan-learning. He also explained that WP8 has setup their onw GitHub and that work is ongoing for the document that supports MS8.4.
+**WP8 - Staff and User Training**: Thomas reported a meeting about the Future of Jupyter and CPU resources for pan-learning. He also explained that WP8 has setup their onw GitHub and that work is ongoing for the document that supports MS8.4.
 
 **WP9 - Outreach and dissemination**: Nicoleta reported a publication about Jupyter notebooks: https://www.panosc.eu/news/new-publication-on-reproducible-science-with-jupyter-notebooks-released/ and reminded everone of the upcoming meetings, in particular the EOSC Symposium and the fact that the deadline for submitting abstracts is tomorrow.
 
@@ -90,7 +88,7 @@ Ornela also reported that the EOSC Association has created a Working Group for S
 * 19-21 October 2021: [EGI Conference 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/) - [Call for abstracts open until 1st July 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/call-for-abstracts/)
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/) 
 
-**WP1 - Management**: Jordi reported ongoing work for D1.7 for which help from WP leaders is required. Jordi also said that he has received all the required information for the new instance of the internal financial report, which all going well should be ready by the end of June. 
+**WP1 - Management**: Jordi reported ongoing work for D1.7 for which help from WP leaders is required. The deliverable is due end of May and if the information is not provided before Friday the deliverable will be late (Jordi is on leave next week). Jordi also said that he has received all the required information for the new instance of the internal financial report, which all going well should be ready by the end of June. 
 
 **WP2 - Data Policy**: Andy was absent. Jordi reminded everyone to contribute to D2.3 and Teodor added that he has already done so.
 
@@ -102,7 +100,7 @@ Sophie asked whether there are plans to discuss this with ExPaNDS and Fabio repl
 
 Sophie asked what will be done in the future to avoid misscomunication between PaNOSC and ExPaNDS and Fabio replied that he joined WP4 late (he is the 3rd WP leader for WP4) and that maybe the approach should have been explained better. Fabio repeated that the features and objectives of WP4 will be reached with VISA which will become the PaN Portal (whether VISA is renamed or not that is just a branding issue). 
 
-**WP5 - VINYL : Carsten reported ongoing work with some new internal milestones available on https://github.com/PaNOSC-ViNYL/ViNYL-project/milestones
+**WP5 - VINYL**: Carsten reported ongoing work with some new internal milestones available on https://github.com/PaNOSC-ViNYL/ViNYL-project/milestones
 
 Upcoming internal milestones are abour comparing raw simulated data with raw experimental data and also simulation databases (a collection of Jupyter Notebooks and OASIS setups) to help users run their simulations. Jordi will add the new internal milestones to the [project plan](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP1%20Management/Plans/Deliverables_Milestones_and_InternalMilestones.xlsx)
 
