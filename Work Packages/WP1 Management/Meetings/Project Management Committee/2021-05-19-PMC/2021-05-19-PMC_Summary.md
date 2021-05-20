@@ -4,7 +4,7 @@ PaNOSC Project Management Committee meeting - 19/05/2021
 
 Attendees
 -------
-Jordi (ESRF),  Jean-Francois (ESRF), Erwan (ILL), Jamie (ILL), Stuart (ILL), Jamie (ILL), Nicoletta (CERIC), Ornela (CERIC), Dario (CERIC) Fabio (XFEL), Carsten (XFEL), Thomas (ESS), Petra (ESS)  and Sophie (DESY, ExPaNDS)
+Jordi (ESRF),  Jean-Francois (ESRF), Erwan (ILL), Jamie (ILL), Stuart (ILL), Jamie (ILL), Nicoletta (CERIC), Ornela (CERIC), Dario (CERIC) Fabio (XFEL), Carsten (XFEL), Thomas (ESS), Petra (ESS)  and Sophie (DESY, ExPaNDS), Teodor (ELI)
 
 
 Minutes
