@@ -30,7 +30,7 @@ Agenda
 | WP1 | Internal Dashboard | 15/04/2021|  |
 | WP1 | D1.7 - Mid year summary | 31/05/2021| *usual bi-annual report* |
 | All | 2nd Periodic report @M36 | 30/11/2021 | 2nd periodic report |
-| [WP2](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp2--data-policy--stewardship) | **D2.3 - Guidelines on implementing Data Policy Framework** | 30/11/2020 | 
+| [WP2](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp2--data-policy--stewardship) | **D2.3 - Guidelines on implementing Data Policy Framework** | 30/11/2020 | submitted 31/5/2021 |
 | [WP3](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp3--data-catalog-services) | D3.2 - Demonstrator implementation | 31/03/2021 | submitted |
 | [WP3](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp3--data-catalog-services)  | MS3.3 - Catalogue integration best pratices meeting | 31/05/2021 | minutes of meeting & lessons learned |
 | [WP4](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp4--data-analysis-services) | IMS4.3a - KPI snapshot | 31/05/2021 | |
@@ -44,6 +44,9 @@ Agenda
 | [WP9](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp9--outreachcommunication-and-disseminationimpact) | | | Nothing due until M48, internal milestones required |
 
 6. Upcoming events
+
+* 31 May - 9 June 2021: [Hercules school](https://www.accelerate2020.eu/description-the-hercules-specialized-course-hsc-is-an-extensive-training-that-is-being-organized-since-2006-taking-place-after-the-main-hercules-school-and-combining-both-theoretical-and-practical/) - Data management by PaNOSC
+* 7 - 11 June 2021: [Eiroforum Instrumentation School](https://workshops.ill.fr/event/279/timetable/) - Data management by PaNOSC 
 * 15-18 June 2021: [EOSC Symposium 2021](https://www.eoscsecretariat.eu/events/eosc-symposium-2021) - Deadline for proposals' submission: 20 May 2021
 * 19-21 October 2021: [EGI Conference 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/) - [Call for abstracts open until 1st July 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/call-for-abstracts/)
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/) 
