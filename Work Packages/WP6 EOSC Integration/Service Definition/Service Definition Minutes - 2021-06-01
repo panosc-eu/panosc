@@ -4,7 +4,6 @@
 - Teodor Ivanoaica (ELI)
 - Jean-Francois Perrin (ESRF)
 - Rudolf Dimper (ESRF)
-- Ornela DeGiacomo (CERIC)
 
 
 ## Agenda 
@@ -17,6 +16,12 @@
 
 
 ## Discussion
-
+- the PaN Portal does not exist at the moment within or outside PaNOSC. The EOSCPortal is the closest living/existing implementation of a portal hosting the services
+- a discussion of a future PaN Portal is warranted
+- for security and data privacy of exposed services, the Sirtfi service can be used in the future (https://refeds.org/sirtfi)
+- sustainability/governance now managed by WP7
 
 ## For next meeting
+- Update Service Level definition in SLA document: add items to be used 
+- create a single document from available topics (Helpdesk, AAI and SLA)
+- revisit the definition of "community", and have it documented
