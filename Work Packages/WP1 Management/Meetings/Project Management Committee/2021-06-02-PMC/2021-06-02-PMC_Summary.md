@@ -16,6 +16,7 @@ At the start of the meeting it was decided to move the first point of the agenda
 **2. How is PaNOSC going to engage/coordinate with EOSC Future?**
 
 Jean-François reported no news since the last PMC and ask what exactly this recurrent point in the agenda tries to accomplish, to which Jordi replied that EOSC Future has been created after PaNOSC, so of course we are not obliged to do anything with them but some of their work may have an impact on ours or there could be some room for synergies/collaboration. 
+
 Jean-François then asked whether it could be a good idea to make a presentation about EOSC Future, its WP structure adn the points that could be of more interest for PaNOSC. Jordi and Thomas agreed that it would be a good idea and it was suggested that Rudolf would be a good candidate to do the presentation.
 
 **3. Draft documents for D6.4 and D1.7 required. Supporting document for MS3.3**
@@ -46,22 +47,12 @@ With these updates the summary table is:
 
 Jordi reminded everyone that the target is **10 user cases per partner**. 
 
-**5. Next WPs to have a review**
-
-The attendees agreed that the next dates for meetings will be:
-* 02/06/2021 : PMC meeting
-* 09/06/2021 : WP7 - Sustainability Review
-* 16/06/2021 : PMC meeting
-* 23/06/2021 : WP6 - EOSC Integration Review
-
-All meetings will take place at the usual time and there is no meeting planned for next week (27/05/2021).
-
-**6. WP leaders updates**
+**5. WP leaders updates**
 
 **WP6 - EOSC Integration**: Jean-François reported that the service definition document will be ready in two weeks and feedback from ExPaNDS on it could be useful. Regarding OneData a disucssion with Erwan took place. The demostrator is to be moved to the ESRF (from ILL) and a meeting with the technical director of OneData was held to discuss the issues that prevent OneData from being validated for PaNOSC which resulted in news that a new updated of OneData mid-June should fix some of the problems. Given the time and recurrent issues with this topic there are concerns that a seamless data transfer for the users may not be possible. Jordi asked what would be the impact of that and Jean-François replied that other data transfer tools exist (Globus, AirClone) which work but are not automated. For the *PaNPortal-VISA*, an automated data transfer would make lives easier to the users (no need for the user to transfer the data manually). For example, at the ESRF, Globus requires manual data transfer and this generates user support queries.
 Jean-François finished his intervention explaining that user offices will be informed of the new planned usage of user metadata by UmbrellaId around summer time.
 
-**WP5 - ViNYL** : Carsten was absent
+**WP5 - ViNYL** : Carsten was absent. No news.
 
 **WP4 - Data Analysis Services** : Fabio reported the KPI snapshot done, the v2.0 of the *PaNPortal-VISA* to be ready by end of September and reminded everyone of the decision to have the PaNPortal use the backend and technology stack of VISA (*PaNPortal-VISA*).
 Jordi asked Fabio what would be the implications of that decision for other WPs and Fabio answer that they will be minimal, however he conceded that for ExPaNDS the impact may be bigger due to the different technology stack. Teodor added that for example, the Federated Search API hosted at ESS will be integrated shortly in the *PaNPortal-VISA*.
@@ -73,7 +64,12 @@ Jordi asked Fabio what would be the implications of that decision for other WPs 
 
 **WP1 - Management**: Jordi reported work related to the review, formatting and submission of D2.3 and D1.7, this last one pending final review before submission. Jordi also explained that once D1.7 is submitted he will spend some time on the Internal Financial Review, adding that as a whole spending percentage is improving (we are at around 80%), however the contributions to WPs are not balanced, so there is scope to formalise re-balancing within the project and also maybe to kick-off the last hiring for PaNOSC.
 
-**WP9 - Communication** : Nicoletta was absent
+Jordi asked all WP leaders to update their dashboards if they haven't done so and reminded everyone of the next meetings:
+* 09/06/2021 : WP7 - Sustainability Review
+* 16/06/2021 : PMC meeting
+* 23/06/2021 : WP6 - EOSC Integration Review
+
+**WP9 - Communication** : Nicoletta was absent. No news.
 
 **WP8 - Staff and user training** : Thomas reported two meetings:
 1. How to get computing resources for e-learning with EGI that is leading to a pilot with EGI and WP5
@@ -85,7 +81,7 @@ Thomas and Sophie reported a new WP leader at ExPaNDS for their WP5 (equivalent 
 
 **WP7 - Sustainability** : Ornela was absent. Sophie reported that Ornela participated on a sustainability workshop and showed the PaNOSC cost-models which were very well received. Teodor reported the cost drivers neededing to be updated.
 
-**7. AOB**
+**6. AOB**
 
 Jean-François reported being contacted by Fenix RI, which is a project close to PRACE and that it is possible to submit proposals to use supercomputing time via https://fenix-ri.eu/news/prace-icei-calls-proposals-call-6
 
