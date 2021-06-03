@@ -34,7 +34,7 @@ Agenda
 | [WP3](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp3--data-catalog-services) | D3.2 - Demonstrator implementation | 31/03/2021 | submitted |
 | [WP3](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp3--data-catalog-services)  | MS3.3 - Catalogue integration best pratices meeting | 31/05/2021 | submitted, pending supporting doc |
 | [WP4](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp4--data-analysis-services) | IMS4.3a - KPI snapshot | 31/05/2021 | |
-| [WP4](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp4--data-analysis-services) | IMS4.4a - PaN Portal v2.0 | 31/08/2021 | |
+| [WP4](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp4--data-analysis-services) | IMS4.4a - PaN Portal v2.0 | 30/09/2021 | |
 | [WP5](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp5--virtual-neutron-and-x-ray-laboratory-vinyl) | | | Nothing due until M42, internal milestones required |
 | [WP6](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp6--eosc-integration) | **D6.4 - Software catalogue** | 30/11/2020 | **LATE** |
 | [WP7](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp7--sustainability) | *IMS M1 Internal Milestone: Complete cost collection* | 31/12/2020 | *and eventually adjust scope* |
