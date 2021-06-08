@@ -1,39 +1,42 @@
-#  WP6 fortnightly telco #43
+#  WP6 fortnightly telco #44
 
 Tuesday 25th May 2021 - 11H00 CET
 
 	Next meeting : Tuesday 8th June 2021 at 11H00 CET
 
-Attendees :  Aidan, Cédric, Jean-François, Marco, William, Kareem, Grégory,  Michael, Humaira, Christos, Francois, Ian, Andrea, Rudolf, Andy, Teodor
+Attendees :  Jean-François, Marco, Kareem, Humaira, Christos, Andrea, Teodor
 
 
 
 ## Agenda
 
-1. Discussion on the use of OneData for our use case (Cont.) 
-2. CERNVMFS evaluation update
 3. Status of the different activities 
-4. AOB
+2. Group management capability (To be postponed, Christos not been available today) 
+3. AOB
 
 ## Discussions:
 
 Activity report:
 
+OneData : Andrea confirms after discussions that the expected changes will be ready. Jean-François confirms ESRF readiness to participate in the pilot.
 
+AAI: 
 
-1 virtual sapec (onedata) to correspond to 1 proposal sapce on the RI
+​	Group management capability on UmbrellaID/eduTEAM, demonstration next call. 
 
-Group management capability on UmbrellaID/eduTEAM, demonstration next call
+​	Presentation of UmbrellaID accepted for the EOSC Symposium (19 June - 14:25 – 15:30)
 
-Get the date from OnedData, 2 pilots (CERIC/ESRF) 
+​	Meeting with EGI last week to discuss interoperability
 
-Good excerice for one data.
+Service definition: 3 documents SLA, AAI and Helpdesk to be merged in a single document and presentation next meeting.
 
-AAI - Moonshot and umbrellaid - production in summer.
+EGI Jupyter Services:
 
-SLA and AAI document tbd next meeting next week.
-
-Jupyter + binder registered in EOSC portal, Domain Name? 1GB and 1 CPU could we increase it? 16 Cores and 32GB at DESY
+Jupyter + binder registered in EOSC portal, Domain Name? Currently 1GB and 1CPU could we increase the capacity? Answer from DESY: 16 Cores and 32GB are available at DESY
 Andy to be asked to provide uses case and Domain name.
 
-2PB are available at RAL within WP6
+CERNVMFS: ESRF STFC meeting have taking place, distribution of  software is still an ongoing activity.
+
+Next meeting we should start planning the holiday season work.
+
+AOB: Martin from ELI is joinning the team today and has requested to join the mailing list. (Done during the meeting).
