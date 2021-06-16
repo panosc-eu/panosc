@@ -47,9 +47,12 @@ Agenda
 
 8. Upcoming events
 
-* 31 May - 9 June 2021: [Hercules school](https://www.accelerate2020.eu/description-the-hercules-specialized-course-hsc-is-an-extensive-training-that-is-being-organized-since-2006-taking-place-after-the-main-hercules-school-and-combining-both-theoretical-and-practical/) - Data management by PaNOSC
-* 7 - 11 June 2021: [Eiroforum Instrumentation School](https://workshops.ill.fr/event/279/timetable/) - Data management by PaNOSC 
-* 15-18 June 2021: [EOSC Symposium 2021](https://www.eoscsecretariat.eu/events/eosc-symposium-2021) - Deadline for proposals' submission: 20 May 2021
+* 15-18 June 2021: [EOSC Symposium 2021](https://www.eoscsecretariat.eu/events/eosc-symposium-2021)
+
+    17 June 2021 - 9:10-9:25 - Rudolf Dimper - How RIs will work with and benefit from EOSC
+    17 June 2021 - 11:15-11:25 - Ornela De Giacomo - Defining funding models for EOSC
+    17 June 2021 - 14:25-15:30 - Jean-François Perrin - Breakout session 1 on AAI Architecture - Umbrella ID, a community AAI in the EOSC era
+
 * 19-21 October 2021: [EGI Conference 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/) - [Call for abstracts open until 1st July 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/call-for-abstracts/)
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/) 
  
