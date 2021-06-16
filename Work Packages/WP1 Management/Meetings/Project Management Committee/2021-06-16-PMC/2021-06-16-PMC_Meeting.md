@@ -51,7 +51,7 @@ Agenda
 
     17 June 2021 - 9:10-9:25 - Rudolf Dimper - How RIs will work with and benefit from EOSC
     17 June 2021 - 11:15-11:25 - Ornela De Giacomo - Defining funding models for EOSC
-    17 June 2021 - 14:25-15:30 - Jean-François Perrin - Breakout session 1 on AAI Architecture - Umbrella ID, a community AAI in the EOSC era
+     17 June 2021 - 14:25-15:30 - Jean-François Perrin - Breakout session 1 on AAI Architecture - Umbrella ID, a community AAI in the EOSC era
 
 * 19-21 October 2021: [EGI Conference 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/) - [Call for abstracts open until 1st July 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/call-for-abstracts/)
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/) 
