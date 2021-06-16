@@ -1,4 +1,4 @@
-PaNOSC Project Management Committee Meeting - 19/05/2021 
+PaNOSC Project Management Committee Meeting - 16/06/2021 
 =========================================================
 
 Agenda
@@ -53,7 +53,7 @@ Agenda
 * 19-21 October 2021: [EGI Conference 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/) - [Call for abstracts open until 1st July 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/call-for-abstracts/)
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/) 
  
-7. AOB
+9. AOB
 
 
 
