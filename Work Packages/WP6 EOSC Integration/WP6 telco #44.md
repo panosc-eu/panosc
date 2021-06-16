@@ -21,13 +21,13 @@ Activity report:
 
 
 
-1 virtual sapec (onedata) to correspond to 1 proposal sapce on the RI
+1 virtual space (onedata) to correspond to 1 proposal space on the RI
 
 Group management capability on UmbrellaID/eduTEAM, demonstration next call
 
-Get the date from OnedData, 2 pilots (CERIC/ESRF) 
+Get the date from OneData, 2 pilots (CERIC/ESRF) 
 
-Good excerice for one data.
+Good exercise for one data.
 
 AAI - Moonshot and umbrellaid - production in summer.
 
