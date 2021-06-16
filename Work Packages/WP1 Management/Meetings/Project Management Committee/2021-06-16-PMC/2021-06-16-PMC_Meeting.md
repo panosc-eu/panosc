@@ -19,12 +19,12 @@ Agenda
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
 | ESRF  |  5  | 1 planned   |
-| ILL   |  1  | 3 planned  | 1 w CERIC and EGI)
-| ESS   |  1  |   |
+| ILL   |  1  | 3 planned  | of which 1 w CERIC and EGI)
+| ESS   |  2  |   |
 | XFEL  |  7  |   |
-| CERIC |  4  | 1 w ILL and EGI, 4 planned |
+| CERIC |  5  | of which 1 with ILL and EGI, 3 planned |
 | ELI   |  1  | 1 planned  |
-| EGI   |  1  | 1 w CERIC and ILL | 
+| EGI   |  1  | of which 1 with CERIC and ILL | 
 
 7. WP leaders other updates *(max 25 min, starting with WP6, WP5, etc.)*
 
