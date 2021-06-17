@@ -107,6 +107,6 @@ Ornela reported that discussions on business models have started and that this w
 
 Rudolf said that RIs are stable and they are the best candidates to pick up the outputs from PaNOSC and maintain them, with LENS/LEAPS being an existing association of RIs. Rudolf went on to propose a Memorandum of Understanding (MOU) for each service that needs to be maintained post-PaNOSC, so all RIs can see who uses/benefits from the service and the cost / work required to maintain it. Ornela replied that an MOU per product would lead to many MOUs and that a bigger agreement is required to which Rudolf replied that the bigger and more complex the MOU is, the less specific it becomes which risks senior management not wanting to be involved in something not specific/targeted.
 
-Teodor made the last contribution to the meeting saying that the ELI Data Policy is to be presented to DG and all going well it may be approved in September.
+Teodor made the last contribution to the meeting saying that the ELI Data Policy is to be presented to ELI ERIC General Assembly and all going well it may be approved in September.
 
 -ENDS-
