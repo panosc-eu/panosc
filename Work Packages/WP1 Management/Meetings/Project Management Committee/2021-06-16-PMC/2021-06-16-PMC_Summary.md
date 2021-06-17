@@ -14,7 +14,7 @@ At the start of the meeting we reminded everyone of the upcoming meetings:
 * 23/06: WP7 - Sustainability Review
 * 30/06: PMC
 * 07/07: WP6 - EOSC Integration Review
-* **no meeting 14/07**
+* *no meeting 14/07*
 * 21/07: possible PMC, to be confirmed end of June/early July
 
 **1. Planning a new EB meeting**
@@ -86,7 +86,7 @@ Thomas also explained that it would be good to have a joint domain name for the 
 
 Thomas reported ongoing work with Teodor on D8.1 which all going well will be ready for internal review by the end of June.
 
-** WP9 - Communication**: Nicoletta did not have much to report. She explained that videos related to CERIC techniques were uploaded and that she shared with the mailing list some upcoming events, like Rudolf talking in the EOSC Symposium. Ornella explaiend that the work programme will be presented next week and that there may be specific calls which we could discuss at PMC level.
+**WP9 - Communication**: Nicoletta did not have much to report. She explained that videos related to CERIC techniques were uploaded and that she shared with the mailing list some upcoming events, like Rudolf talking in the EOSC Symposium. Ornella explaiend that the work programme will be presented next week and that there may be specific calls which we could discuss at PMC level.
 
 Nicoletta finished by asking to be contacted when there is something that can be highlighted or showcased via a video to which Fabio replied that maybe something could be done with VISA.
 
