@@ -52,11 +52,11 @@ Nico also asked everyone to share the names of users and scientists that are alr
 
 **5. Possible hackathon ?**
 
-Andy explained that it seems to him a good idea to organise a hackathon with IT people getting together and sharing know-how and approaches for setting up the different servies PaNOSC is creating, for example to help other IT professionals install the PaN Portal/VISA or invite scientists to teach them how to use the tools available.
+Andy explained that it seems to him a good idea to organise a hackathon with IT people getting together and sharing know-how and approaches for setting up the different services PaNOSC is creating, for example to help other IT professionals install the PaN Portal/VISA or invite scientists to teach them how to use the tools available.
 
 Jordi pointed out that this could be a very good idea if we have a service mature enough with some scientists using it (but other scientists missing out and willing to learn).
 
-Teodor said that he would be happy to help with the hackathon and bring people from ELI. He also eplaiend that there is an ELI Summer school and that WP5 simulation services will be presented.
+Teodor said that he would be happy to help with the hackathon and bring people from ELI. He also eplained that there is an ELI Summer school and that WP5 simulation services will be presented.
 
 **6. Use Cases Dashboard**
 
@@ -76,7 +76,7 @@ With these updates the summary table is:
 | ELI   |  1  | 1 planned  |
 | EGI   |  1  | 1 w CERIC and ILL | 
 
-Jordi reminded everyone that the target is **10 user cases per partner**, and that in most cases we are still very far from the target.
+Jordi reminded everyone that the target is **10 use cases per partner**, and that in most cases we are still very far from the target.
 
 **5. WP leaders updates**
 
@@ -86,7 +86,7 @@ Thomas also explained that it would be good to have a joint domain name for the 
 
 Thomas reported ongoing work with Teodor on D8.1 which all going well will be ready for internal review by the end of June.
 
-**WP9 - Communication**: Nicoletta did not have much to report. She explained that videos related to CERIC techniques were uploaded and that she shared with the mailing list some upcoming events, like Rudolf talking in the EOSC Symposium. Ornella explaiend that the work programme will be presented next week and that there may be specific calls which we could discuss at PMC level.
+**WP9 - Communication**: Nicoletta did not have much to report. She explained that videos related to CERIC techniques were uploaded and that she shared with the mailing list some upcoming events, like Rudolf presenting at the EOSC Symposium. Ornella explaiend that the work programme will be presented next week and that there may be specific calls which we could discuss at PMC level.
 
 Nicoletta finished by asking to be contacted when there is something that can be highlighted or showcased via a video to which Fabio replied that maybe something could be done with VISA.
 
