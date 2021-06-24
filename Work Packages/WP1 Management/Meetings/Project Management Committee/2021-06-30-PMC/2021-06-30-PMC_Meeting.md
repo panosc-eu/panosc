@@ -16,7 +16,9 @@ Agenda
 
 5. New calls (~5 min)
 
-6. Use Cases Dashboard (~5 min)
+6. D8.1 due end of July (~2 min)
+
+6. Use Cases Dashboard (~2 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
