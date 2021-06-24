@@ -27,7 +27,7 @@ Andy and Ornela listed the main items of what need to be sustained and discussed
 The presentation continued by listing the main activities of the WPs and the main remaining issues to be addressed in the WP.
 
 Towards the end of the meeting 
-* it was agreed that it would be a good idea for WP leaders to be interviewed by Ornela about sustainability of their WP
-* it was discussed again whether LEAPS and LENS should be included in the sustainability conversations and linked somehow to PaNOSC
+* it was agreed that it would be a good idea for WP leaders to be interviewed by Ornela about sustainability of their WP outputs
+* it was discussed again that LEAPS and LENS will have to play an important role for sustainining services of common interest for the PaN community and eventually the EOSC.
 
 -ENDS-
