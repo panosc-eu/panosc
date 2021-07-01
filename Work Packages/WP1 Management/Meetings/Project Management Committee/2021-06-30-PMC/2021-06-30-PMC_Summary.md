@@ -45,7 +45,11 @@ Andy asked the WP leaders whether they were surprised or whether they are taking
 
 Jordi explained that given the nature of PaNOSC, most of the spending is related to personnel contributions (i.e. providing effort via PMs) and that the reason for the underspending is that not enough people are working and submitting their effort for PaNOSC. Andy added that PaNOSC does not have a huge overlap with ongoing activities at the partners which forced us to hire, while we didn't hire (or if people leave) that craetes a gap with no contributions and lack of spending.
 
-Jean-François added that looking at the Figure 6 (PMs Spent) of the report it does not look too bad, however in financial terms the picture looks a little bit worse. Jordi replied that spending is reaching the planned speed, however he thinks it will be difficult to spend the underspending accrued so far and pointed out that WP2 is ending in November, so any contribution from that WP will need to stop (or maybe a Grant amendment will be required to extend the WP?)
+Jean-François added that looking at the Figure 6 (PMs Spent) of the report it does not look too bad, however in financial terms the picture looks a little bit worse. 
+
+![Figure 6 of Internal Financial Review](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP1%20Management/Meetings/Project%20Management%20Committee/2021-06-30-PMC/Figure6.PNG)
+
+Jordi replied that spending is reaching the planned speed, however he thinks it will be difficult to spend the underspending accrued so far and pointed out that WP2 is ending in November, so any contribution from that WP will need to stop (or maybe a Grant amendment will be required to extend the WP?)
 
 
 **3. Cloud Procurement**
