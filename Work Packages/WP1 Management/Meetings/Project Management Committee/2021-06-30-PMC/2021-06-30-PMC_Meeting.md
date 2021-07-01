@@ -6,19 +6,19 @@ Agenda
 
 1. Planning a new EB meeting - update (~5 min)
 
-3. Feedback on the Internal Financial report (~10 min)
+2. Feedback on the Internal Financial report (~10 min)
 
-2. EOSC Future presentation (~20 min)
+3. EOSC Future presentation (~20 min)
 
-3. News from ExPaNDS (~5 min)
+4. News from ExPaNDS (~5 min)
 
-4. WP6 CBMFS & OneData issues (~5 min)
+5. WP6 CBMFS & OneData issues (~5 min)
 
-5. New calls (~5 min)
+6. New calls (~5 min)
 
-6. D8.1 due end of July (~2 min)
+7. D8.1 due end of July (~2 min)
 
-6. Use Cases Dashboard (~2 min)
+8. Use Cases Dashboard (~2 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
@@ -30,7 +30,7 @@ Agenda
 | ELI   |  1  | 1 planned  |
 | EGI   |  1  | of which 1 with CERIC and ILL | 
 
-7. WP leaders other updates *(max 25 min, starting with WP6, WP5, etc.)*
+9. WP leaders other updates *(max 25 min, starting with WP6, WP5, etc.)*
 
 | WP | Deliverable / Milestone | Due date | Comments |
 | -- | --------- | -------- | -------- |
@@ -49,7 +49,7 @@ Agenda
 | WP8 | D8.1 - Report on lessons learned | 31/07/2021 |  |
 | [WP9](https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards#wp9--outreachcommunication-and-disseminationimpact) | | | Nothing due until M48, internal milestones required |
 
-8. Upcoming events
+10. Upcoming events
 
 * 15-18 June 2021: [EOSC Symposium 2021](https://www.eoscsecretariat.eu/events/eosc-symposium-2021)
 
@@ -60,7 +60,7 @@ Agenda
 * 19-21 October 2021: [EGI Conference 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/) - [Call for abstracts open until 1st July 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/call-for-abstracts/)
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/) 
  
-9. AOB
+11. AOB
 
 
 
