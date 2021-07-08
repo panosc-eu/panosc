@@ -13,7 +13,7 @@ Before the meeting started, Andy explained that a conversation was held with XFE
 
 **1. WP6 presentation by Andy and Ornela**
 
-Andy and Jean-François jointly presented some [PowerPoint slides](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages) and highlighted the fact that it is not yet clear what is the EOSC and different stakeholders and projects have differnt views.
+Andy and Jean-François jointly presented some [PowerPoint slides](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP6%20EOSC%20Integration/Slides/PaNOSC_WP6_review_20210706.pptx) and highlighted the fact that it is not yet clear what is the EOSC and different stakeholders and projects have differnt views.
 
 The presentation continued highlighting that WP6 is related to many other WPs and has a significant size (originally around 14% but a little bit more after the ESRF made some transfers from other PMs). The overall PMs contribution is 193PMs with EGI and ESRF being the largest contributors. It was noted that ILL and XFEL are not very engaged in the WP as of July 2021.
 
