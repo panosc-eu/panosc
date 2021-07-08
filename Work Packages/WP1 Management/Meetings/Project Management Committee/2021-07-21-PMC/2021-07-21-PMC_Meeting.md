@@ -7,13 +7,15 @@ Agenda
 1. Agree dates for PMC summer break and restart
 
 2. News from ExPaNDS (~10 min)
-* https://github.com/ExPaNDS-eu/ExPaNDS/wiki/Mapping-ExPaNDS-and-PaNOSC-activities
-* https://github.com/ExPaNDS-eu/ExPaNDS/discussions/15
+    * https://github.com/ExPaNDS-eu/ExPaNDS/wiki/Mapping-ExPaNDS-and-PaNOSC-activities
+    * https://github.com/ExPaNDS-eu/ExPaNDS/discussions/15
 
 3. Next WP review (WP1, WP2, WP5, WP8 or WP9)?
 
 4. Reminder of upcoming deliverables and milestones 
-* D8.1 - Report on lessons learned: **31/07/2021**
+    * D8.1 - Report on lessons learned: **31/07/2021**
+
+
 and all the rest due 30/11/2021
 * D1.8 - Report of annual workshop 3
 * D2.2 - DMP Template
@@ -26,7 +28,9 @@ and all the rest due 30/11/2021
 * MS6.1 - Implementation of AAI integration at the level of identity providers
 * MS6.3 - Second release of PaNOSC services,data and resources
 * MS8.5 - e-learning virutal facilities
-then the mid-term report (within 60 days of 30th of November?)
+
+
+then the **mid-term report** (within 60 days of 30th of November?)
 
 5. Use Cases Dashboard (~2 min)
 
