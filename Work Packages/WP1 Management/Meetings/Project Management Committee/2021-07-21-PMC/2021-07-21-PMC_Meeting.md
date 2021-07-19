@@ -10,9 +10,11 @@ Agenda
     * https://github.com/ExPaNDS-eu/ExPaNDS/wiki/Mapping-ExPaNDS-and-PaNOSC-activities
     * https://github.com/ExPaNDS-eu/ExPaNDS/discussions/15
 
-3. Next WP review (WP1, WP2, WP5, WP8 or WP9)?
+3. Review of expected and completed commitments per WP (please complete the document sent out last week)
 
-4. Reminder of upcoming deliverables and milestones 
+4. Next WP review (WP1, WP2, WP5, WP8 or WP9)?
+
+5. Reminder of upcoming deliverables and milestones 
     * D8.1 - Report on lessons learned: **31/07/2021**
 
 
@@ -32,7 +34,7 @@ and all the rest due 30/11/2021
 
 then the **mid-term report** (within 60 days of 30th of November?)
 
-5. Use Cases Dashboard (~2 min)
+6. Use Cases Dashboard (~2 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
@@ -44,17 +46,18 @@ then the **mid-term report** (within 60 days of 30th of November?)
 | ELI   |  1  | 1 planned  |
 | EGI   |  1  | of which 1 with CERIC and ILL | 
 
-6. WPs dashboards to complete: https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards
+7. WPs dashboards to complete: https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards
 
-7. WP leaders other updates
+8. WP leaders other updates
 
 
-8. Upcoming events
+9. Upcoming events
 
 * 19-21 October 2021: [EGI Conference 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/) - [Call for abstracts open until 1st July 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/call-for-abstracts/)
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/) 
+* 26-28 October 2021: PaNOSC+ExPaNDS Annual meeting @ PSI
  
-9. AOB
+10. AOB
 
 
 
