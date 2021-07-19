@@ -34,7 +34,9 @@ and all the rest due 30/11/2021
 
 then the **mid-term report** (within 60 days of 30th of November?)
 
-6. Use Cases Dashboard (~2 min)
+6. Updates on PaNOSC/ExPaNDS Symposium and Annual Meeting
+
+7. Use Cases Dashboard (~2 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
@@ -46,12 +48,12 @@ then the **mid-term report** (within 60 days of 30th of November?)
 | ELI   |  1  | 1 planned  |
 | EGI   |  1  | of which 1 with CERIC and ILL | 
 
-7. WPs dashboards to complete: https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards
+8. WPs dashboards to complete: https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards
 
-8. WP leaders other updates
+9. WP leaders other updates
 
 
-9. Upcoming events
+10. Upcoming events
 
 * 19-21 October 2021: [EGI Conference 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/) - [Call for abstracts open until 1st July 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/call-for-abstracts/)
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/) 
