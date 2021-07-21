@@ -1,4 +1,4 @@
-USE CASES/Use Case 21 - Use Case 21 - Online visualization and analysis of HDF5 PyMCA Output Files
+Use Case 21 - Online visualization and analysis of HDF5 PyMCA Output Files
 =========================================================
 X-Ray Fluorescence (XRF) is a non-destructive analytical technique used to determine the elemental composition of materials. XRF analysers determine the chemistry of a sample by measuring the X-ray photons emitted from a sample when it is excited by a primary X-ray source. Each of the elements present in a sample produces a set of characteristic emitted X-rays (“a fingerprint”) that is unique for that specific element, which is why XRF spectroscopy is an excellent tool for qualitative and quantitative analysis of material composition.
 
