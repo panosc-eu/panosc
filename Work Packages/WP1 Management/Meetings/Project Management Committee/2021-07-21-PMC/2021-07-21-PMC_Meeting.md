@@ -44,7 +44,7 @@ then the **mid-term report** (within 60 days of 30th of November?)
 | ILL   |  1  | 3 planned  | of which 1 w CERIC and EGI)
 | ESS   |  2  |   |
 | XFEL  |  7  |   |
-| CERIC |  5  | of which 1 with ILL and EGI, 3 planned |
+| CERIC |  6  | of which 1 with ILL and EGI, 3 planned |
 | ELI   |  1  | 1 planned  |
 | EGI   |  1  | of which 1 with CERIC and ILL | 
 
