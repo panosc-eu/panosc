@@ -1,4 +1,4 @@
-Use Case 20 – Using an e-learning platform to support presentations.md
+Use Case 20 – Using an e-learning platform to support presentations
 =========================================================
 When presenting software at conferences or seminars it is easy to demonstrate the functionalities, but much more difficult to effectively communicate the actual user experience. Furthermore, the passive mode of listing makes it easier to forget what the software could do or how to do it. In order to engage the participants, online services can be provided where the software is installed and examples are available, allowing the participants to get hands on experience and work with problems of their own choice. Such practical experience makes it more likely the participants would remember the software and provide a starting point for using it.
 
