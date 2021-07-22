@@ -17,7 +17,7 @@ The long agenda was approved without changes.
 It was agreed that the next PMC meeting will be held on Wednesday 25th August at 14:00h as some partners could not attend a meeting on the 18th and some WPs will not be able to report any progress due to leave/holidays.
 
 
-**2. News from ExPaNDS **
+**2. News from ExPaNDS**
 
 Sophie explained that during the ExPaNDS mid-term review the reviewers felt that it was not clear what ExPaNDS and PaNOSC were doing in common, their dependencies and separate streams of work. The review urged to clarify who does what, so Sophie has created the following page that needs review by WP leaders:
 
@@ -50,7 +50,7 @@ Carsten volunteered to have WP5 the next WP to be reviewed with tentative date o
 Jordi reminded to Carsten that if he wishes to change a little bit the format of the review that should be OK and to engage with Andy for the preparation of the review.
 
 
-**5. Reminder of upcoming deliverables and milestones **
+**5. Reminder of upcoming deliverables and milestones**
 
 Jordi pointed out that the next deliverable is expected to be late (D8.1 - Report on lessons learned due 31/07/2021) and no representative from WP8 attended the meeting to give further details.
 
