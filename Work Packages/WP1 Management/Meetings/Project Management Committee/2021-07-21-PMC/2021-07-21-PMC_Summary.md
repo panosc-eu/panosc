@@ -77,11 +77,11 @@ Nicoleta explained that if we want to make users the main target group of the Sy
 
 Jordi said that it is important that what is shown to users/scientists is in production / shortly put in production in order to attract the scientists interest. Fabio added that more general use cases could also be of interest to a larger audience. Rudolf proposed to use scientific use cases that work and provided results, focusing on the added value for scientists.
 
-Nicoleta explained that we have currently 21 use cases and these would need t obe reviewed in order to select the most appropriate ones (to be started in the next PMC meeting).
+Nicoleta explained that we have currently 21 use cases and these would need to be reviewed in order to select the most appropriate ones (to be started in the next PMC meeting).
 
 Rudolf explained that it could be very intestesting to have 10 presentations of 10 minutes each, so they are not too long/boring, keep people interested and cover many topics. Also, that would cover around 2 hours of time.
 
-Nicoleta also added, that some speakers were considered (Ron Decker from EOSC Future) or someone from EOSC Life or someone new. Rufold added that with Ron and EOSC Future it woudl be very difficult to avoid jargon, however that would be interesting if we have some attendance from the EC.
+Nicoletta also added, that some speakers were considered (Ron Decker from EOSC Future) or someone from EOSC Life (e.g. Carole Goble - [https://www.software.ac.uk/about/staff/person/carole-goble], or someone new, to speak about software and training in EOSC-Life. Rufold added that with Ron and EOSC Future it woudl be very difficult to avoid jargon, however that would be interesting if we have some attendance from the EC.
 
 Possible presentations from LEAPS/LENS were also discussed (maybe Miriam Forster?) to cover sustainability.
 
