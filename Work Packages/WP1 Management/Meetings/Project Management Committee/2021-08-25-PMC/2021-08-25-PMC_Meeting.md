@@ -28,7 +28,9 @@ Agenda
 7. Selection of services to release in EOSC Portal
     * MS6.3 - Second release of PaNOSC services,data and resources
 
-8. Use Cases Dashboard reminder (~1 min)
+8. Next Meetings
+
+9. Use Cases Dashboard reminder (~1 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
@@ -40,17 +42,17 @@ Agenda
 | ELI   |  1  | 1 planned  |
 | EGI   |  1  | of which 1 with CERIC and ILL | 
 
-9. WPs dashboards to complete: https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards
+10. WPs dashboards to complete: https://github.com/panosc-eu/panosc/wiki/Work-Packages-dashboards
 
-10. WP leaders other updates
+11. WP leaders other updates
 
-11. Upcoming events
+12. Upcoming events
 
 * 19-21 October 2021: [EGI Conference 2021](https://www.egi.eu/egi-conference/2021-beyond-the-horizon/)
 * 25-27 October 2021: [Max IV User Meeting](https://www.maxiv.lu.se/users/user-meetings/) 
 * 26-28 October 2021: PaNOSC+ExPaNDS Annual meeting @ PSI
  
-12. AOB
+13. AOB
 
 
 
