@@ -39,6 +39,7 @@ During the meeting the following attendees volunteered:
 * Thomas for D6.2
 * Jean-François for D2.2
 * Erwan/Jamie for D6.3
+* Fabio
 
 
 **3. News from ExPaNDS**
