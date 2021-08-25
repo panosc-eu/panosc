@@ -109,6 +109,6 @@ Jordi put on hold this topic as it overlaps with the Partner Commitments.
 
 Jamie asked whether UmbrellaId is implemented in pan-learning to which Jesper replied that work is ongoing using Quickload (so far UmbrellaId only works at ESS).
 
-* **WP4 - Data Analysis Services** : Fabio reported that the deployment of VISA is starting at some partners (e.g. CERIC-ERIC) and that the ILL has done some nice work to enable more providers for VISA (so instead of only OpenStack with some coding it should be possible to use DropBox, VMWare, etc.)
+* **WP4 - Data Analysis Services** : Fabio reported that the deployment of VISA is starting at some partners (e.g. CERIC-ERIC) and that the ILL has done some nice work to enable more providers for VISA (so instead of only OpenStack with some coding it should be possible to use Proxmox, VMWare, etc.)
 
 -ENDS-
