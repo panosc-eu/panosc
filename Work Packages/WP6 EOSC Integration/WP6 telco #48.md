@@ -30,7 +30,7 @@ Excused: Gregory, Ian, François
 
 
 
-**VISA deployment outside of RI infrastructure**
+**VISA deployment (on RI lan and outside of RI infrastructure)**
 
 
 
