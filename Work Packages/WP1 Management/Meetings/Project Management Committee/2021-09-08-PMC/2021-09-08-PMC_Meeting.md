@@ -12,7 +12,7 @@ Agenda
     * https://github.com/ExPaNDS-eu/ExPaNDS/wiki/Mapping-ExPaNDS-and-PaNOSC-activities
     * https://github.com/ExPaNDS-eu/ExPaNDS/discussions/15
 
-4. ~~News from EOSC (~5 min)~~ 
+4.  ~~News from EOSC~~
 
 5. Update on [expected and completed commitments per WP](https://docs.google.com/document/d/1PBgnw8kKSLn5kAh6nEd1UDuDo-AQdHWr/edit)
 
