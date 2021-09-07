@@ -12,12 +12,12 @@ Agenda
     * https://github.com/ExPaNDS-eu/ExPaNDS/wiki/Mapping-ExPaNDS-and-PaNOSC-activities
     * https://github.com/ExPaNDS-eu/ExPaNDS/discussions/15
 
-4. News from EOSC (~5 min) 
+4. ~~News from EOSC (~5 min)~~ 
 
 5. Update on [expected and completed commitments per WP](https://docs.google.com/document/d/1PBgnw8kKSLn5kAh6nEd1UDuDo-AQdHWr/edit)
 
 6. Updates on PaNOSC/ExPaNDS Symposium and Annual Meeting
-    * Use Case review and selection
+    * Scientists to present use cases at symposium (3 needed)
 
 7. Next WP review meetings (WP8 and WP9 pending, WP1 agreed not required)
 
