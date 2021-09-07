@@ -2,15 +2,16 @@ PaNOSC Project Management Committee meeting - 01/09/2021
 ========================================================
 
 
-Attendees
--------
+**Attendees**
+
 Jordi (ESRF), Andy (ESRF), Rudolf (ESRF), Jean-Francois (ESRF), Aljosa(CERIC), Thomas (ESS), Manolo (ESRF), Shervin (ILL), Carsten (XFEL), Juncheng (XFEL) and Tobias (ESS)
 Minutes
--------	
 
-**1. WP5 presentation by Andy and Carsten
 
-Andy presented some [PowerPoint slides](https://github.com/panosc-eu/) and reminded the attendees of the planned work for the WP5, the main WPs with which is related and its weight in the project (3rd largest WP in the project). Andy also listed the contributions per partner (most partners contribute around 40 PMs except ELI with 12).
+
+**1. WP5 presentation by Andy and Carsten**
+
+Andy presented some [PowerPoint slides](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP5%20Virtual%20Neutron%20and%20X-ray%20Laboratory/Documents/Presentations/PaNOSC_WP5_review_20210901.pptx?raw=true) and reminded the attendees of the planned work for the WP5, the main WPs with which is related and its weight in the project (3rd largest WP in the project). Andy also listed the contributions per partner (most partners contribute around 40 PMs except ELI with 12).
 
 Andy continued the presentation listing the objectives of the WP5 according to the proposal, the tasks, deliverables and showed a chart with the upcoming milestones.
 
@@ -27,7 +28,7 @@ and also what is pending for the remainder of PaNOSC:
 
 Andy finished his presentation showing how the effort in WP5 is very well aligned with our plans and thanking Carsten for continuing leading the WP even when he changed employer and could have droped it.
 
-Carsten had a [presentation] ready and went through the completed items, dashboard, KPIs and partners (with their responsibilities).
+Carsten had a [presentation](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP5%20Virtual%20Neutron%20and%20X-ray%20Laboratory/Documents/Presentations/PaNOSC_WP5_Review_2021-09-01%20(minimized).pdf) ready and went through the completed items, dashboard, KPIs and partners (with their responsibilities).
 
 Carsten listed the issues affecting the project:
 * Service deployment & integration in VISA (for which support from other WPs is requried)
