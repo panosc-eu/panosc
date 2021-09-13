@@ -1,4 +1,4 @@
-Use Case 23 – BRAGGY diffraction image viewer
+Use Case 22 – BRAGGY diffraction image viewer
 =========================================================
 In the context of remote operation, there is a need to create an application for browsing and visualising diffraction data, so that the users of the [ESRF MX beamlines](https://www.esrf.fr/UsersAndScience/Experiments/MX/About_our_beamlines) can easily view the data they acquire. At present, the data is stored in either HDF5 or CBF files produced by Pilatus, Eiger and Jungfrau detectors.
 
