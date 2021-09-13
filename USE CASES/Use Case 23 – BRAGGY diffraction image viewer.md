@@ -20,10 +20,10 @@ Main Contributors
 
 Use Case Action Flow
 ------
-* Browsing + Viewing: A user can ONLY browse and display HDF5 and CBF data located in the shift attributed data folder /data/…./mx[abc123]
-* Display metadata: The user should be able to visualize information derived from the header or metadata, such as resolution, energy, angles, and so on.
-* Zooming: The user should be able to change the colour map and scaling the data (including min/max values), zoom in the frame and display values of the pixels. The user should be able to zoom and display values of the pixels.
-* Security: Limit the access to the data, so that only the user(s) that are owners of the data can access it.
+* **Browsing + Viewing**: A user can ONLY browse and display HDF5 and CBF data located in the shift attributed data folder /data/…./mx[abc123]
+* **Display metadata**: The user should be able to visualize information derived from the header or metadata, such as resolution, energy, angles, and so on.
+* **Zooming**: The user should be able to change the colour map and scaling the data (including min/max values), zoom in the frame and display values of the pixels. The user should be able to zoom and display values of the pixels.
+* **Security**: Limit the access to the data, so that only the user(s) that are owners of the data can access it.
 
 Description of needs
 ------
