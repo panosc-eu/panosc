@@ -52,8 +52,8 @@ Other partners interested in this use case
 
 Resources
 ------
-[H5web](https://github.com/silx-kit/h5web)
-[H5web-braggy](https://gitlab.esrf.fr/ui/h5web-braggy)
+* [H5web](https://github.com/silx-kit/h5web)
+* [H5web-braggy](https://gitlab.esrf.fr/ui/h5web-braggy)
 
 PaNOSC related work packages
 ------
