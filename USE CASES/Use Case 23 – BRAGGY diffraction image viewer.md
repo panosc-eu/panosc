@@ -47,8 +47,8 @@ The possibility for some limited ways to control the viewer remotely, i.e. from 
 
 Other partners interested in this use case
 ------
-[MAX IV Laboratory](https://www.maxiv.lu.se/)
-[Synchrotron SOLEIL](https://www.synchrotron-soleil.fr/en)
+* [MAX IV Laboratory](https://www.maxiv.lu.se/)
+* [Synchrotron SOLEIL](https://www.synchrotron-soleil.fr/en)
 
 Resources
 ------
