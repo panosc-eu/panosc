@@ -6,17 +6,19 @@ Agenda
 
 1. Update on [D8.1 - Report on lessons learned](https://docs.google.com/document/d/1VJg_BWmWUEJYWtU65mO_p-PFNMEBxOAx/edit?dls=true)
 
-2. Feedback on the Work Programme
+2. Face to face meeting in Copenhagen
 
-3. Updates on PaNOSC/ExPaNDS Symposium and Annual Meeting
+3. Feedback on the Work Programme
+
+4. Updates on PaNOSC/ExPaNDS Symposium and Annual Meeting
     * Scientists to present use cases at symposium (Petr Čermák + 2 more required)
     * Polls during the event / presentations
 
-4. News from ExPaNDS (~5 min)
+5. News from ExPaNDS (~5 min)
 
-5.  News from EOSC (~5 min)
+6.  News from EOSC (~5 min)
 
-6. Update on progress with upcoming deliverables
+7. Update on progress with upcoming deliverables
 * D1.8 - Report of annual workshop 3 (ESRF)
 * D2.2 - DMP Template (ESS) -> Jean-François can review it
 * D2.4 - Integration of the policy (CERIC-ERIC)
@@ -25,9 +27,9 @@ Agenda
 * D7.2 - Photon and Neutron EOSC metrics (CERIC-ERIC)
 * Fabio, Petra and Teodor offered to review as well.
 
-7. Update on max. transfers within PaNOSC (Dario)
+8. Update on max. transfers within PaNOSC (Dario)
 
-8. Use Cases Dashboard reminder (~1 min)
+9. Use Cases Dashboard reminder (~1 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
@@ -39,9 +41,9 @@ Agenda
 | ELI   |  1  | 1 planned  |
 | EGI   |  1  | of which 1 with CERIC and ILL | 
 
-9. WP leaders other updates
+10. WP leaders other updates
 
-10. AOB
+11. AOB
 
 
 
