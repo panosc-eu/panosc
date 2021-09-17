@@ -4,7 +4,7 @@ PaNOSC Project Management Committee Meeting - 22/09/2021
 Agenda
 ------	
 
-1. Update on [D8.1 - Report on lessons learned](https://docs.google.com/document/d/1VJg_BWmWUEJYWtU65mO_p-PFNMEBxOAx/edit?dls=true)
+1. Update on [D8.1 - Report on lessons learned](https://docs.google.com/document/d/1VJg_BWmWUEJYWtU65mO_p-PFNMEBxOAx/edit?dls=true) and Workshop to collect them
 
 2. Face to face meeting in Copenhagen
 
