@@ -6,7 +6,13 @@ Agenda
 
 1. Update on [D8.1 - Report on lessons learned](https://docs.google.com/document/d/1VJg_BWmWUEJYWtU65mO_p-PFNMEBxOAx/edit?dls=true) and Workshop to collect them
 
-2. Face to face meeting in Copenhagen
+2. Face to face meeting in Copenhagen. Missing contributions:
+    * WP3 (Tobias)
+    * WP8 (Thomas)
+    * ILL (Erwan / Stuart)
+    * EGI (Giuseppe?)
+    * WP6 (Jean-François)
+    * WP5 (Carsten / Juncheng)
 
 3. Feedback on the Work Programme
 
