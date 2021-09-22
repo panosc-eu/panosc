@@ -32,7 +32,7 @@ Petra and some of her ESS colleagues need to reserve some meeting rooms in a cen
 
 Jordi explained that during last PMC meeting we briefly spoke about the need to provide feedback on the Work Programme to the EC, so topics that interest us can be taken into account for future funding.
 
-Andy shared today a document compiled with other cluster projects and explained that this has been shared wit hthe EOSC Association and will be shared with ESFRI in order to let them speak with the EC.
+Andy shared today a document compiled with other cluster projects and explained that this has been shared wit the EOSC Association and will be shared with ESFRI and then the EC.
 
 Ornela pointed out that some content of the document overlaps with functions of the EOSC Association and shared her concern about duplication of effort.
 
@@ -51,7 +51,7 @@ Andy added that if anything fails he thinks he can get an ESRF scientist to pres
 
 **5. News from ExPaNDS**
 
-Sophie reported that a deliverable related to training is due in a few days, focusing on the landscape of different tools available. She explained that ExPaNDS will use pan-learning and also a learning catalog based on ELEXIA training platform. She raised the issue that there is not a common look and feel or landing page, which may be confusing for users to which Thomas replied that some PaNOSC contributors in WP5 and WP8 are planning a meeting to deal with this and have a single landing page.
+Sophie reported that a deliverable related to training is due in a few days, focusing on the landscape of different tools available. She explained that ExPaNDS will use pan-learning and also a learning catalog based on ELIXIR training platform. She raised the issue that there is not a common look and feel or landing page, which may be confusing for users to which Thomas replied that some PaNOSC contributors in WP5 and WP8 are planning a meeting to deal with this and have a single landing page.
 
 Teodor explaiend that some technological aspects need to be solved to unify the training catalog and pan-learning.
 
@@ -74,7 +74,7 @@ Ornela reported that a rough draft will be ready this week and that she expects 
 
 **8. Update on max. transfers within PaNOSC**
 
-Ornela reported that she has checked that that there is not maximum amount that can be transfered as long as *Subcontracting* is not involved in the change. Of course, all change has to be justified and increasing or decreasing the contribution to a task surely must be related with a transfer of money.
+Ornela reported that she has checked that that there is not a maximum amount that can be transfered as long as *Subcontracting* is not involved in the change. Of course, all change has to be justified and increasing or decreasing the contribution to a task surely must be related with a transfer of money.
 
 Ornela asked about spending plans for the last year of PaNOSC execution and Jordi explained that he plans to report this to the Executive Board together with the status of expenditure up until 31/11/2021. Jordi will be asking all partners their spending plans for the last year of the project and also their status at the end of November. 
 
@@ -82,15 +82,15 @@ Ornela asked about spending plans for the last year of PaNOSC execution and Jord
 
 Jordi reminded everyone to talk to their scientist colleagues and get use cases submitted. The target is for each partner to submit 10 use cases (70 in total) and we have less than half that number so far (24).
 
-Andy added that submitting use cases is one way to engage with scientists and getting them to check the work PaNOSC is doing for them.
+Andy added that submitting use cases is an excellent way to engage with scientists and getting them to check the work PaNOSC is doing for them. He is disappointed to see that some of the facilities are not proposing use cases.
 
 **8. WP leaders updates**
 
-* **WP5 - Vinyl** : Carsten reported ongoing work in the instrument database and a meeting with Aljosa and Juncheng on OASYS. He also said that he would like to meet with people working on workflows at the different facilities to present them WP5. Sophie said that ExPaNDS does not have the work of WP5 in its project and that the presentation could be interesting for them as well. 
+* **WP5 - Vinyl** : Carsten reported ongoing work in the instrument database and a meeting with Aljosa and Juncheng on OASYS. He also said that he would like to meet with people working on workflows at the different facilities to present them WP5. Carsten asked Andy if the ESRF colleagues could present their work. Sophie said that ExPaNDS does not have the work of WP5 in its project and that the presentation could be interesting for them as well. 
 * **WP9 - Communication** :  Nicoleta reported that the section of women in science in the PaNOSC website doesn't have enough contact and encouraged everyone to contact their female colleagues (not only scientists but data managers and others as well). Andy added that each facility should provide some names.  Nicoletta also reported work on a promotional video ongoing and a change in the use cases section of the [public website](https://www.panosc.eu/all-use-cases/). She also reported plans to take part in two user meatings (ELI-Alps and ELI-Beamlines). She ended up her contribution asking whether a WP9 internal review is required.
 * **WP2 - Data Policy** : Andy reported ongoing work on DMPs which is progressing well.
 * **WP4 - Data Analysis** : Fabio  reported the start of presentations on VISA deployment at partner sites. Since then, a [troubleshooting page for VISA deployment](https://visa.readthedocs.io/en/latest/openstack/openstack-troubleshooting-api.html) has been made available. There are plans for a meeing on the topic of Federated Search API.
-* **WP3 - Data Catalogue Services** : Tobias reported work on the search scoring and deployment of the Search API. Andy added that one of the key objectives of PaNOSC is to integrate the Search API in the VISA portal (WP3 delivering the API and maybe WP4 delivering the front end?).
+* **WP3 - Data Catalogue Services** : Tobias reported work on the search scoring and deployment of the Search API. Andy added that one of the key objectives of PaNOSC is to integrate the Search API in the search portal (WP3 delivering the API and WP4 delivering the front end?).
 * **WP7 - Sustainability** : Ornela reported work focusing on the upcoming deliverables while some work is done in paralled about teh business model.
 
 -ENDS-
