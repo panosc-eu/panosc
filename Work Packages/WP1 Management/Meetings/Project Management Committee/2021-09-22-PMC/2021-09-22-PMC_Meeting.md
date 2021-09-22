@@ -8,11 +8,11 @@ Agenda
 
 2. Face to face meeting in Copenhagen. Need to fill in the doodle:
     * WP3 (Tobias)
+    * WP5 (Carsten / Juncheng)
+    * WP6 (Jean-François)
     * WP8 (Thomas)
     * ILL (Erwan / Stuart)
     * EGI (Giuseppe?)
-    * WP6 (Jean-François)
-    * WP5 (Carsten / Juncheng)
 
 3. Feedback on the Work Programme
 
