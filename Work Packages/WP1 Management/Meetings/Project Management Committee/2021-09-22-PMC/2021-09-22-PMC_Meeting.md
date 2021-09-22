@@ -39,13 +39,15 @@ Agenda
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
-| ESRF  |  5  | 3 planned   |
+| ESRF  |  6  | 2 planned   |
 | ILL   |  1  | 3 planned  | of which 1 w CERIC and EGI)
 | ESS   |  2  |   |
 | XFEL  |  7  |   |
 | CERIC |  6  | of which 1 with ILL and EGI, 3 planned |
 | ELI   |  1  | 1 planned  |
 | EGI   |  1  | of which 1 with CERIC and ILL | 
+
+[New "use cases" section](https://www.panosc.eu/all-use-cases/) published on the PaNOSC website
 
 10. WP leaders other updates
 
