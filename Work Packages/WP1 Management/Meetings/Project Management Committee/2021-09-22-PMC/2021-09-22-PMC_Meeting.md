@@ -20,7 +20,7 @@ Agenda
     * Scientists to present use cases at symposium (Petr Čermák + 2 more required)
     * Polls during the event / presentations
 
-5. News from ExPaNDS (~5 min)
+5. ~~News from ExPaNDS (~5 min)~~
 
 6.  News from EOSC (~5 min)
 
