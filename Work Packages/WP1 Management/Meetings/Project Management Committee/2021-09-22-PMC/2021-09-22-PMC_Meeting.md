@@ -16,13 +16,13 @@ Agenda
 
 3. Feedback on the Work Programme
 
-4. Updates on PaNOSC/ExPaNDS Symposium and Annual Meeting
+4. Updates on PaNOSC/ExPaNDS Symposium 
     * Scientists to present use cases at symposium (Petr Čermák + 2 more required)
     * Polls during the event / presentations
 
-5. ~~News from ExPaNDS (~5 min)~~
+5. News from ExPaNDS (5 min)
 
-6.  News from EOSC (~5 min)
+6.  ~~News from EOSC (5 min)~~
 
 7. Update on progress with upcoming deliverables
 * D1.8 - Report of annual workshop 3 (ESRF)
