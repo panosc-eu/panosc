@@ -5,9 +5,5 @@
 
 
 #### 2. Task 7.3 Business models of the PAN EOSC:  
-	o Focus on EB’s discussion
-	o Presentation during ERF GA
-	o Presentation on LEAPS/LENS GA
-
-
-#### 3. Update on EOSC TF “Funding models for EOSC”
+	o Report on the presentation during ERF GA
+	o Report on the presentation on LEAPS/LENS GA
