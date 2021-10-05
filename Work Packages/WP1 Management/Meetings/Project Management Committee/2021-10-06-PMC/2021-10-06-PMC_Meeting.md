@@ -46,7 +46,6 @@ Agenda
 10. AOB
 
 11. Upcoming events
-* 30 September 2021, [ExPaNDS Symposium for Librarians and data policy staff](https://www.panosc.eu/events/expands-symposium-for-librarians-and-data-policy-staff/), online
 * 18-22 October 2021, [18th International Conference on Accelerator and Large Experimental Physics Control Systems (ICALEPCS 2021)](https://indico.ssrf.ac.cn/event/1/), online
 * 19-21 October 2021, [EGI Conference 2021](https://www.egi.eu/about/newsletters/egi-conference-2021-save-the-date/), online
 * 20-21 October 2021, [ELI Beamlines user meeting](https://indico.eli-beams.eu/event/405/), online and F2F
