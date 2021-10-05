@@ -8,7 +8,7 @@ Agenda
 
 2. Face to face meeting in Copenhagen.
 
-3. Updates on PaNOSC/ExPaNDS Symposium 
+3. Updates on PaNOSC/ExPaNDS Symposium + answers from LEAPS/GA
 
 4. News from ExPaNDS (5 min)
 
