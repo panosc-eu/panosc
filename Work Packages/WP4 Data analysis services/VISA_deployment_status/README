@@ -4,7 +4,7 @@ Status presentation Schedule
 
 1. September 21, 2021
 
-  - CERIC-ERIC report by Emiliano
+  - CERIC-ERIC report by Emiliano (PDF present)
   - ELI report by Balacz
   
 2. October 05, 2021
@@ -18,7 +18,10 @@ Official VISA portal documentation incl. deployment guide-lines:
 
    https://visa.readthedocs.io/en/latest/index.html
   
-  
+   - VISA requests to OpenStack API communication testing  
+     https://visa.readthedocs.io/en/latest/openstack/openstack-troubleshooting-api.html
+
+
 Documentation of the VISA demo project for testing: 
 
    https://github.com/ILLGrenoble/visa-demo
