@@ -51,6 +51,7 @@ Agenda
 * 18-22 October 2021, [18th International Conference on Accelerator and Large Experimental Physics Control Systems (ICALEPCS 2021)](https://indico.ssrf.ac.cn/event/1/), online
 * 19-21 October 2021, [EGI Conference 2021](https://www.egi.eu/about/newsletters/egi-conference-2021-save-the-date/), online
 * 20-21 October 2021, [ELI Beamlines user meeting](https://indico.eli-beams.eu/event/405/), online and F2F
+* 20-21 October 2021, [4th LEAPS Plenary Meeting](https://indico.cells.es/event/370/timetable/), online
 * 8-10 November 2021, [ELI Alps user workshop](https://www.eli-alps.hu/indico/event/46/), Szeged - Hungary
 * 3-18 November 2021, [18th RDA Plenary](https://www.rd-alliance.org/plenaries/rda-18th-plenary-meeting-virtual), online
 * 6-8 December 2021, [ESFRI Days 2021](https://www.esfri.eu/node/1185), Grand Hotel Union, Ljubljana, Slovenia
