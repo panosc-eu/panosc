@@ -13,10 +13,10 @@ Agenda
 4. News from ExPaNDS (5 min)
 
 5. News from EOSC (5 min)
+* EOSC-Association
+* EOSC Future 6-month review + Umbrella AAI
 * Onboarding of PaNOSC/ExPaNDS data portals
 * EOSC (Future) data search
-* EOSC Future 6-month review + Umbreall AAI
-* EOSC Association
 
 6. Update on progress with upcoming deliverables
 * D1.8 - Report of annual workshop 3 (ESRF)
