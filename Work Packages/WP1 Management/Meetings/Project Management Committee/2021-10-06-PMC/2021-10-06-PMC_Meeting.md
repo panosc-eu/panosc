@@ -27,7 +27,7 @@ Agenda
 * D7.2 - Photon and Neutron EOSC metrics (CERIC-ERIC)
 * Fabio, Petra and Teodor offered to review as well.
 
-8. Use Cases Dashboard reminder (~1 min)
+7. Use Cases Dashboard reminder (~1 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
@@ -41,7 +41,7 @@ Agenda
 
 [New "use cases" section](https://www.panosc.eu/all-use-cases/) published on the PaNOSC website
 
-9. WP leaders other updates
+8. WP leaders other updates
 * WP1 : Forecast for spending in the last year of PaNOSC required
 * WP1 : Report on total expenditure (PMs & € per WP) required in December
 * WP1 : KPIs and Risks to be updated for next Periodic Report
