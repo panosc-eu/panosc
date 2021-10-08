@@ -31,7 +31,7 @@ Nicoletta explained that PaNOSC has the three scientists to present use cases (P
 Regarding the LEAPS/GA Andy reported that he has obtained some answers to the questions he asked to the LEAPS members with other missing. Sophie added that ExPaNDS members of LEAPS will reply in due time. 
 
 
-**4. News from ExPaNDS*
+**4. News from ExPaNDS**
 
 Sophie reported ongoing work for a grant amendement and extend the project by 6 months. As part of the amendment, the planned ExPaNDS User Meeting (which was planned as a face to face event) will be replaced with online events, promotion of use cases, interviews and videos, more like PaNOSC has been doing. Sophie added that user offices at the different facilities will be contacted to aid in the communication.
 
