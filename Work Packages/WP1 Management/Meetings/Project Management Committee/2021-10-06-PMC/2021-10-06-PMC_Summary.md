@@ -33,7 +33,7 @@ Regarding the LEAPS/GA Andy reported that he has obtained some answers to the qu
 
 **4. News from ExPaNDS**
 
-Sophie reported ongoing work for a grant amendement and extend the project by 6 months. As part of the amendment, the planned ExPaNDS User Meeting (which was planned as a face to face event) will be replaced with online events, promotion of use cases, interviews and videos, more like PaNOSC has been doing. Sophie added that user offices at the different facilities will be contacted to aid in the communication.
+Sophie reported ongoing work for a grant amendement on its dissemination WP. As part of the amendment, the planned ExPaNDS User Meeting (which was planned as a face to face event) will be replaced with online events, promotion of use cases, interviews and videos, more like PaNOSC has been doing. Sophie added that user offices at the different facilities will also be more involved to aid in the communication of the projects outcomes.
 
 Andy asked whether it would be a good idea to put a joint brochure together so the message we communicate is consistent. Nicoletta replied that PaNOSC had a brochure and that it would be a good idea to update it. Sophie said that a fact-sheet per outcome of the projects would be a good idea.
 
