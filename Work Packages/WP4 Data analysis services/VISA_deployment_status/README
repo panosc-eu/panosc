@@ -1,0 +1,33 @@
+A sub-repository to collect status reports (presentations at WP4 meetings) and other material
+
+Status presentation Schedule
+
+1. September 21, 2021
+
+  - CERIC-ERIC report by Emiliano (PDF present)
+  - ELI report by Balacz
+  
+2. October 05, 2021
+
+  - ESRF report
+  - EuXFEL/DESY report by Michael
+  
+  
+
+Official VISA portal documentation incl. deployment guide-lines:
+
+   https://visa.readthedocs.io/en/latest/index.html
+  
+   - VISA requests to OpenStack API communication testing  
+     https://visa.readthedocs.io/en/latest/openstack/openstack-troubleshooting-api.html
+
+
+Documentation of the VISA demo project for testing: 
+
+   https://github.com/ILLGrenoble/visa-demo
+
+
+Slack channel for hands-on discussions about VISA preparation, deployment and usage:
+
+   https://panosc.slack.com/archives/C02EQ6P38GP
+  (https://app.slack.com/client/T87R5F39C/C02EQ6P38GP/thread/C869K9W3S-1628690949.000700)
