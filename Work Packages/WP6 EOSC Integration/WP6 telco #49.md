@@ -4,8 +4,8 @@ Tuesday 28th September 2021 - 11H00 CET
 
 	Next meeting : Tuesday 12th Oct 2021 at 11H00 CET
 
-Attendees :  Cédric, Jean-François, Fabio, Rudolf,  Humaira, Marco , Andrea, Teodor, Christos, Andy
-Excused: Gregory, Ian, François
+Attendees :  Cédric, Jean-François, Rudolf,  Humaira, Marco , Andrea, Teodor, Christos, Andy
+Excused: Gregory, Ian, Fabio
 
 
 
@@ -22,17 +22,25 @@ Excused: Gregory, Ian, François
 
 **General info**
 
+AAI
+
+Elearning patform setup is ongoing, 
+
 **OneData advancement**
 
+Test form accessing data form Cesnet, caching data  and mounting the space on the notebook. Andrea will organise.
+Install the OneClient on Visa https://github.com/onedata/oneclient
+Client can have a cache configured.
 
+ESRF should provide more information in tems of inodes/volume for a full production.
 
 **CVMFS**
 
-
+CERIC integration with proxmox, ESS is deploying OpenStack
 
 **VISA deployment (on RI lan and outside of RI infrastructure)**
 
-
+DESY work in progress
 
 **Deliverables and milestones for 15th of Nov 2021 :**
 
@@ -69,3 +77,4 @@ EOSC Portal service registration
 
  
 
+WP8 organise the 8th and 9th a workshop,  Best practice (lessons learnt) on data operation / stewardship. 
