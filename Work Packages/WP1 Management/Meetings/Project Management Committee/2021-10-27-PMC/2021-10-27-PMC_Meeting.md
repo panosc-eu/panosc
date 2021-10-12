@@ -58,6 +58,6 @@ Please note that Fabio, Petra and Teodor offered to review as well.
 * 8-10 November 2021, [ELI Alps user workshop](https://www.eli-alps.hu/indico/event/46/), Szeged - Hungary
 * 3-18 November 2021, [18th RDA Plenary](https://www.rd-alliance.org/plenaries/rda-18th-plenary-meeting-virtual), online
 * 6-8 December 2021, [ESFRI Days 2021](https://www.esfri.eu/node/1185), Grand Hotel Union, Ljubljana, Slovenia
-* 11-14 January 2022, [16th International Conference on Surface x-ray and Neutron Scattering (SXN16)](https://www.sxns16.org/) - **Deadline for abstract submission: 22 October 2021**
+* 11-14 January 2022, [16th International Conference on Surface x-ray and Neutron Scattering (SXN16)](https://www.sxns16.org/) 
 
 9. AOB
