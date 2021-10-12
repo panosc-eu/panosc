@@ -8,7 +8,7 @@ Agenda
 
 2. Face to face meeting in Copenhagen (max 10 min)
 
-3. Update on progress with upcoming deliverables
+3. Update on progress with upcoming deliverables and milestones
 * [D8.1 - Report on lessons learned](https://docs.google.com/document/d/1VJg_BWmWUEJYWtU65mO_p-PFNMEBxOAx/edit?dls=true)
   * and its linked milestone MS1.4 
 * [D1.8 - Report of annual workshop 3 (ESRF)](https://docs.google.com/document/d/1SMgBX47nRbMpyKx09MC6EEpCY1ZN2vxu/edit#)
@@ -22,7 +22,7 @@ Agenda
 * D7.2 - Photon and Neutron EOSC metrics (CERIC-ERIC)
 * MS8.5 e-learning virtual facilities
 
-Please note that Fabio, Petra and Teodor offered to review as well.
+*Please note that Fabio, Petra and Teodor offered to review as well.*
 
 4. News from ExPaNDS (5 min)
 
