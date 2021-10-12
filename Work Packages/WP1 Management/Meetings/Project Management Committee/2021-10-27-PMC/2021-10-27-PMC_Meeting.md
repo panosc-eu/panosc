@@ -1,4 +1,4 @@
-PaNOSC Project Management Committee Meeting - 06/10/2021 
+PaNOSC Project Management Committee Meeting - 27/10/2021 
 =========================================================
 
 Agenda
@@ -10,13 +10,19 @@ Agenda
 
 3. Update on progress with upcoming deliverables
 * [D8.1 - Report on lessons learned](https://docs.google.com/document/d/1VJg_BWmWUEJYWtU65mO_p-PFNMEBxOAx/edit?dls=true)
+  * and its linked milestone MS1.4 
 * [D1.8 - Report of annual workshop 3 (ESRF)](https://docs.google.com/document/d/1SMgBX47nRbMpyKx09MC6EEpCY1ZN2vxu/edit#)
 * D2.2 - DMP Template (ESS) -> Jean-François can review it
 * D2.4 - Integration of the policy (CERIC-ERIC)
+  * and MS2.3 - Implementation of PaNOSC DP framework
 * D6.2 - Compute cloud report (ELI-DC) -> Thomas can review it
 * D6.3 - AAI report (ILL) -> Erwan/Jamie can review it
+  * and MS6.1 Implementation of AAI integration at the level of the Identitty providers
+  * and MS6.3 Second release of PaNOSC services, data and resources 
 * D7.2 - Photon and Neutron EOSC metrics (CERIC-ERIC)
-* Fabio, Petra and Teodor offered to review as well.
+* MS8.5 e-learning virtual facilities
+
+Please note that Fabio, Petra and Teodor offered to review as well.
 
 4. News from ExPaNDS (5 min)
 
