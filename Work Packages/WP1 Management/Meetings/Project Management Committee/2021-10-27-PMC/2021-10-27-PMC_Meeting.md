@@ -6,9 +6,16 @@ Agenda
 
 1. PaN EOSC Symposium debrief (max 15 min)
 
-2. Face to face meeting in Copenhagen (max 10 min)
+2. Things to clarify with PO and EC
+* EGI participation in WP7 (as EGI was not in the WP in the GA)
+* Spening in WP2 after November (WP2 finishes in M36 according to GA)
+* ELI-ERIC & linked third parties
 
-3. Update on progress with upcoming deliverables and milestones
+3. Face to face meeting in Copenhagen (max 10 min)
+
+4. WP8 review - new date required
+
+5. Update on progress with upcoming deliverables and milestones
 * [D8.1 - Report on lessons learned](https://docs.google.com/document/d/1VJg_BWmWUEJYWtU65mO_p-PFNMEBxOAx/edit?dls=true)
   * and its linked milestone MS1.4 
 * [D1.8 - Report of annual workshop 3 (ESRF)](https://docs.google.com/document/d/1SMgBX47nRbMpyKx09MC6EEpCY1ZN2vxu/edit#)
@@ -24,15 +31,15 @@ Agenda
 
 *Please note that Fabio, Petra and Teodor offered to review as well.*
 
-4. News from ExPaNDS (5 min)
+6. News from ExPaNDS (5 min)
 
-5. News from EOSC (5 min)
+7. News from EOSC (5 min)
 * EOSC-Association
 * EOSC Future 6-month review + Umbrella AAI
 * Onboarding of PaNOSC/ExPaNDS data portals
 * EOSC (Future) data search
 
-6. Use Cases Dashboard reminder (~1 min)
+8. Use Cases Dashboard reminder (~1 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
@@ -46,9 +53,9 @@ Agenda
 
 [New "use cases" section](https://www.panosc.eu/all-use-cases/) published on the PaNOSC website
 
-7. WP leaders other updates
+9. WP leaders other updates
 
-8. Upcoming events
+10. Upcoming events
 * 8-9 October 2021, [PaNOSC poster session on pan-learning at Dan Scatt 2021](https://danscatt.dk/meetings/), DTU in Lyngby, Denmark
 * 15 October 2021, [PaNOSC at RDA France annual meeting](https://www.panosc.eu/events/panosc-contribution-at-rda-france-annual-meeting/), online
 * 18-22 October 2021, [18th International Conference on Accelerator and Large Experimental Physics Control Systems (ICALEPCS 2021)](https://indico.ssrf.ac.cn/event/1/), online
@@ -60,4 +67,4 @@ Agenda
 * 6-8 December 2021, [ESFRI Days 2021](https://www.esfri.eu/node/1185), Grand Hotel Union, Ljubljana, Slovenia
 * 11-14 January 2022, [16th International Conference on Surface x-ray and Neutron Scattering (SXN16)](https://www.sxns16.org/) 
 
-9. AOB
+11. AOB
