@@ -29,7 +29,7 @@ Open Data repository, search API, web interface for data portal, display of meta
 
 Impacts from the implementation
 ------
-Provide Open Data from the Human Organs Project to the medical research user community for cutting end research in medicine.
+Provide Open Data from the Human Organs Project to the medical research user community for cutting edge research in medicine.
 
 Generalisation of use case
 ------
