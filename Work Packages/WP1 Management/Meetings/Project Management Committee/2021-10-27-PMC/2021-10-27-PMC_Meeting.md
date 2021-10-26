@@ -17,8 +17,8 @@ Agenda
 
 5. Update on progress with upcoming deliverables and milestones
 * [D8.1 - Report on lessons learned](https://docs.google.com/document/d/1VJg_BWmWUEJYWtU65mO_p-PFNMEBxOAx/edit?dls=true)
-  * and its linked milestone MS1.4 
 * [D1.8 - Report of annual workshop 3 (ESRF)](https://docs.google.com/document/d/1SMgBX47nRbMpyKx09MC6EEpCY1ZN2vxu/edit#)
+  * and its linked milestone MS1.4 
 * D2.2 - DMP Template (ESS) -> Jean-François can review it
 * D2.4 - Integration of the policy (CERIC-ERIC)
   * and MS2.3 - Implementation of PaNOSC DP framework
