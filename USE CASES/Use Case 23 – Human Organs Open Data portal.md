@@ -1,6 +1,6 @@
 USE CASE HUMAN ORGANS GitHub
 
-Use Case 22 – Human Organs Open Data portal
+Use Case 23 – Human Organs Open Data portal
 =========================================================
 To make data from the Human Organs Project available as open data via a data portal which supports searching according to the keywords and metadata of the data, e.g. organ, patient, pathology, the data must be referenced by a DOI, archived and downloadable from the ESRF using the ICAT data repository. The portal frontend should be based on the PaNOSC search portal and API.
 
