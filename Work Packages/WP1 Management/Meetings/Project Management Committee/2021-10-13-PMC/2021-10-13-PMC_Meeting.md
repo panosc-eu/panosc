@@ -1,5 +1,5 @@
-PaNOSC Project Management Committee Meeting - 13/10/2021 
-=========================================================
+PaNOSC Project Management Committee Meeting - 13/10/2021 - Cancelled
+====================================================================
 
 Agenda
 ------	
@@ -8,6 +8,7 @@ Agenda
  
 2. Q & A
 
+**This meeting will be rescheduled to a later date**
 
 
 
