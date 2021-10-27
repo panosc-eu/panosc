@@ -43,7 +43,7 @@ Agenda
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
-| ESRF  |  6  | 2 planned   |
+| ESRF  |  7  | 1 planned   |
 | ILL   |  1  | 3 planned  | of which 1 w CERIC and EGI)
 | ESS   |  2  |   |
 | XFEL  |  7  |   |
