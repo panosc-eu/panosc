@@ -28,7 +28,7 @@ Elearning patform setup is ongoing,
 
 **OneData advancement**
 
-Test form accessing data form Cesnet, caching data  and mounting the space on the notebook. Andrea will organise.
+Test form accessing data form Cesnet, caching data  and mounting the space on the notebook. Andrea will organise a dedicated meeting.
 Install the OneClient on Visa https://github.com/onedata/oneclient
 Client can have a cache configured.
 
@@ -59,7 +59,7 @@ services with EOSC AAI will be presented.
 
 *Discussion:* 
 
-For declaring a new service to the EOSC portal, does this service need to be open for the community at large? No I could be accepted to have a service limited to a community and if necessary progressively open it larger. 
+For declaring a new service to the EOSC portal, does this service need to be open for the community at large?  No I could be accepted to have a service limited to a community and if necessary progressively open it larger. 
 
 Would it be possible for EGI to provide VISA for the general scientific community? Andrea: We can study the possibility, we should also discuss limits. Jean-François: we need first to analyse the technical needs for hosting a VISA instance outside a local RI (data access model, software/image provisioning, ...). Rudolf: Could also be an interesting use case for EGI-ACE. Fabio will discuss this option within WP4 and we will re-discuss it during next meeting.
 
@@ -77,4 +77,4 @@ EOSC Portal service registration
 
  
 
-WP8 organise the 8th and 9th a workshop,  Best practice (lessons learnt) on data operation / stewardship. 
+WP8 organise the 8th and 9th November a workshop,  Best practice (lessons learnt) on data operation / stewardship. 
