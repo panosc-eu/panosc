@@ -1,3 +1,9 @@
+**Attendees**
+
+Andy, Rudolf, Jordi, Jayesh, Stuart, Teodor, Sophie, Nicoletta, Fabio, Petra, Thomas and Tobias.
+
+**Summary**
+
 1.	PaN EOSC Symposium debrief (max 15 min)
 
 Overall PMC members were happy with the participation and outcomes of the PaN EOSC symposium. The event recording would be uploaded on the PaNOSC website. 
