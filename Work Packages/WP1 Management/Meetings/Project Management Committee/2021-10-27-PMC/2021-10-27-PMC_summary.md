@@ -42,7 +42,7 @@ PaNOSC has a new project officer. He was one of the PaN EOSC symposium attendee 
 -	To report the achievement of M6.3 Second release of PaNOSC services, data and resources, it was discussed to submit data portal link of each ESFRI facility on the EOSC portal. Each facility should assign a person to declare themselves as service provider on the EOSC portal, submit their respective data portal links and report back to WP6 lead. 
 -	
 6.	News from ExPaNDS 
--	A new dissemination video has been published. (Link?)
+-	A [new dissemination video has been published](https://expands.eu/videos/).
 -	An amendment is in progress.
 -	Both PaNOSC and ExPaNDS have an upcoming milestone entitled annual report. In this report both the consortiums are planning to present the PaN EOSC consortium activities as the annual PaNOSC and ExPaNDS meeting has been postponed to 2022.
 
