@@ -6,28 +6,28 @@ Agenda
 
 1. Update on deliverables/milestones and WPs
 * WP1 Management
-  * [D1.8 - Report of annual workshop 3 (ESRF)](https://docs.google.com/document/d/1SMgBX47nRbMpyKx09MC6EEpCY1ZN2vxu/edit#)
-    * and its linked milestone MS1.4 
+  * **[D1.8 - Report of annual workshop 3 (ESRF)](https://docs.google.com/document/d/1SMgBX47nRbMpyKx09MC6EEpCY1ZN2vxu/edit#)**
+    * and its linked **milestone MS1.4** 
 * WP2 Data Policy
-  * D2.2 - DMP Template (ESS) -> Jean-François can review it
-  * D2.4 - Integration of the policy (CERIC-ERIC)
+  * **D2.2 - DMP Template** (ESS) -> Jean-François can review it
+  * **D2.4 - Integration of the policy** (CERIC-ERIC)
     * and MS2.3 - Implementation of PaNOSC DP framework
-* WP3 Data Catalog Services (nothing to deliver in November)
-* WP4 Data Analysis Services (nothing to deliver in November)
-* WP5 Vinyl (nothing to deliver in November)
+* WP3 Data Catalog Services (*nothing to deliver in November*)
+* WP4 Data Analysis Services (*nothing to deliver in November*)
+* WP5 Vinyl (*nothing to deliver in November*)
 * WP6 EOSC Integration
-  * D6.2 - Compute cloud report (ELI-DC) -> Thomas can review it
-  * D6.3 - AAI report (ILL) -> Erwan/Jamie can review it
-    * and MS6.1 Implementation of AAI integration at the level of the Identitty providers
-    * and MS6.3 Second release of PaNOSC services, data and resources 
+  * **D6.2 - Compute cloud report** (ELI-DC) -> Thomas can review it
+  * **D6.3 - AAI report** (ILL) -> Erwan/Jamie can review it
+    * and **MS6.1 Implementation of AAI integration** at the level of the Identitty providers
+    * and **MS6.3 Second release of PaNOSC services**, data and resources 
 * WP7 Sustainability
-  * D7.2 - Photon and Neutron EOSC metrics (CERIC-ERIC)
+  * **D7.2 - Photon and Neutron EOSC metrics** (CERIC-ERIC)
 * WP8 Training
-  * [D8.1 - Report on lessons learned](https://docs.google.com/document/d/1VJg_BWmWUEJYWtU65mO_p-PFNMEBxOAx/edit?dls=true)
-  * MS8.5 e-learning virtual facilities
-* WP9 Outreach & Communication (nothing to deliver in November)
+  * **[D8.1 - Report on lessons learned](https://docs.google.com/document/d/1VJg_BWmWUEJYWtU65mO_p-PFNMEBxOAx/edit?dls=true)**
+  * **MS8.5 e-learning virtual facilities**
+* WP9 Outreach & Communication (*nothing to deliver in November*)
 
-Please note that Fabio, Petra and Teodor offered to review as well.*
+*Please note that Fabio, Petra and Teodor offered to review as well.*
 
 
 2. Meeting in Copenhagen (10 min max)
