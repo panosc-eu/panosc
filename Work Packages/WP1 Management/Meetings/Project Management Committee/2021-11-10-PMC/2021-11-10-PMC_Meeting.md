@@ -56,5 +56,6 @@ Agenda
 * 23-25 November 2021 [EOSC Future Open Days 2021](https://www.panosc.eu/events/eosc-future-open-days/)
 * 7 December 2021, [ESFRI Roadmap Launch Event](https://www.esfri.eu/esfri-events/launch-2021-esfri-roadmap). The event will be livestreamed via the [ESFRI YouTube channel](https://www.youtube.com/c/ESFRI-EU)
 * 11-14 January 2022, [16th International Conference on Surface x-ray and Neutron Scattering (SXN16)](https://www.sxns16.org/) 
+* 5-7 October 2022 [ESS/ILL European User Meeting](http://www.neutrons4europe.com/), Lund - Sweden
 
 8. AOB
