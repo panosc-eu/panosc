@@ -52,7 +52,7 @@ Agenda
 
 6. Upcoming events
 * 8-10 November 2021, [ELI Alps user workshop](https://www.eli-alps.hu/indico/event/46/), Szeged - Hungary
-* 3-18 November 2021, [18th RDA Plenary](https://www.rd-alliance.org/plenaries/rda-18th-plenary-meeting-virtual), online
+* 3-11 November 2021, [18th RDA Plenary](https://www.rd-alliance.org/plenaries/rda-18th-plenary-meeting-virtual), online
 * 23-25 November 2021 [EOSC Future Open Days 2021](https://www.panosc.eu/events/eosc-future-open-days/)
 * 7 December 2021, [ESFRI Roadmap Launch Event](https://www.esfri.eu/esfri-events/launch-2021-esfri-roadmap). The event will be livestreamed via the [ESFRI YouTube channel](https://www.youtube.com/c/ESFRI-EU)
 * 11-14 January 2022, [16th International Conference on Surface x-ray and Neutron Scattering (SXN16)](https://www.sxns16.org/) 
