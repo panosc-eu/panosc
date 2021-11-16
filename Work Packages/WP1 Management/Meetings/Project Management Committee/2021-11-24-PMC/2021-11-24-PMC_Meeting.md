@@ -28,9 +28,13 @@ Agenda
 * WP9 Outreach & Communication (*nothing to deliver in November*)
 
 2. Meeting in Copenhagen
+
    a. List of Partners that have not shared spending plans for next year
+   
    b. List of WP leaders that have not shared estimates for Deliverables and Milestones
+   
    c. List of WP leaders that have not shared estimates for desired outcomes
+   
    d. List of WP leaders that have not shared target KPI values
 
 3. FLUKA and IPR
