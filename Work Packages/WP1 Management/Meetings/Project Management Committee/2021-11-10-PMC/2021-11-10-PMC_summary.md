@@ -30,7 +30,7 @@ Minutes
 **3.	News from ExPaNDS**
 
 *	Paul Miller, DESY has joined EXPANDS as technical coordinator and could possibly join the Copenhagen meeting.
-*	A presentation on FAIR assessment of beamlines is scheduled on 15 November 2021.
+*	[A presentation on FAIR assessment of beamlines](https://expands.eu/2021/10/29/assessing-the-fairness-of-a-prototypical-pan-instrument-at-bessy-ii/) is scheduled on 15 November 2021.
 *	VISA Analysis service prototype activities are progressing with SOLEIL and ALBA. 
 *	WP3 EXPANDS is planning on organizing an event to integrate UmbrellaID in the training service catalogue.
 
