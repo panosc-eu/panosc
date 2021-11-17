@@ -9,5 +9,5 @@ Site leads for WP4
 - Jakub (ELI)
 - Thomas (ESRF)
 - Lottie (ESS)
-- Robert (EuXFEL)
+- Fabio (EuXFEL)
 - Jamie (ILL)
