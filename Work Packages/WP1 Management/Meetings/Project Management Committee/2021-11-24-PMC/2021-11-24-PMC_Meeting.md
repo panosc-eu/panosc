@@ -29,13 +29,9 @@ Agenda
 
 2. Meeting in Copenhagen
 
-   a. List of Partners that have not shared spending plans for next year
+   a. List of Partners that have not filled in the form
    
-   b. List of WP leaders that have not shared estimates for Deliverables and Milestones
-   
-   c. List of WP leaders that have not shared estimates for desired outcomes
-   
-   d. List of WP leaders that have not shared target KPI values
+   b. List of WP leaders that have not filled in the form
 
 3. FLUKA and IPR
 
