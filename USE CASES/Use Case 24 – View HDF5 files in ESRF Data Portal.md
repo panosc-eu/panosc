@@ -25,7 +25,7 @@ Users can browse, view, evaluate and download data from the same application
 
 Generalisation of use case
 ------
-Other sites using the same portal as the ESRF (ICAT backend + ICATplus frontend) will be able to deply the solution immediately. Other sites could adopt a similar approach by reusing the backend and integrating h5web into their data portal e.g. SciCat.
+Other sites using the same portal as the ESRF (ICAT backend + ICATplus frontend) will be able to deploy the solution immediately. Other sites could adopt a similar approach by reusing the backend and integrating h5web into their data portal e.g. SciCat.
 
 Other partners interested in this use case
 ------
