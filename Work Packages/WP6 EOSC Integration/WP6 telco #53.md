@@ -4,16 +4,15 @@ Tuesday 23st November 2021 - 11H00 CET
 
 	Next meeting : Tuesday 7th Dec 2021 at 11H00 CET
 
-Attendees :  Cédric, Jean-François, Jayesh, Rudolf,  Humaira, Marco , Andrea, Teodor, Christos, Andy
-Excused: Andrea
+Attendees :  Cédric, Jean-François, Jayesh, Rudolf, Fabio, Humaira, Marco , Andrea, Teodor, Christos, Michael, François, David, Gregory, Giuseppe, Kareem, Ardian
+Excused: 
 
 
 
 ## Agenda
 
-3. VISA deployment outside of RI infrastructure
+3. Activities 
 4. Deliverables and milestones due by Nov 2021
-5. Review of the different activities
 6. AOB
 
 ## Discussions:
