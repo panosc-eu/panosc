@@ -29,13 +29,9 @@ Agenda
 
 2. Meeting in Copenhagen
 
-   a. List of Partners that have not shared spending plans for next year
+   a. List of Partners that have not filled in the form
    
-   b. List of WP leaders that have not shared estimates for Deliverables and Milestones
-   
-   c. List of WP leaders that have not shared estimates for desired outcomes
-   
-   d. List of WP leaders that have not shared target KPI values
+   b. List of WP leaders that have not filled in the form
 
 3. FLUKA and IPR
 
@@ -47,11 +43,11 @@ Agenda
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
-| ESRF  |  7  | 1 planned   |
+| ESRF  |  9  | 2 planned   |
 | ILL   |  1  | 3 planned  | of which 1 w CERIC and EGI)
 | ESS   |  2  |   |
 | XFEL  |  7  |   |
-| CERIC |  6  | of which 1 with ILL and EGI, 3 planned |
+| CERIC |  6  | of which 1 with ILL and EGI, 4 planned |
 | ELI   |  1  | 1 planned  |
 | EGI   |  1  | of which 1 with CERIC and ILL | 
 
