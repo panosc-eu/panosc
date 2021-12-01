@@ -25,16 +25,16 @@ Minutes
 
 *	Jordi reminded the objectives of the meeting, i.e. Sustainability of the project outcomes, addressing the project issues and preparing necessary mitigation plans. Technical leads should communicate with the management boards to sustain PANOSC outcomes after the completion of the project. PANOSC services to be sustained in the Horizon EOSC calls will be discussed in the meeting.
 *	Half-day of the meeting will be dedicated to drafting periodic report.
-*	Discussions on WP leads to declare PMs? (TBC)
+*	Discussions on project spending per partner and per wp.
 
 **3.	Fluka and IPR**
 
-*	None of the project partners is using Fluka. This message will be sent to the RTD ERIC Team. 
+*	Jordi shared the information received from RTD. None of the project partners attending the meeting is using Fluka within PaNOSC. This message will be sent to the RTD ERIC Team. 
 
 
 **4.	News from ExPaNDS**
 
-*	The new technical coordinator will attend the Copenhagen meeting. 
+*	The new technical coordinator (Paul) will attend the Copenhagen meeting. 
 
 **4.	News from EOSC**
 
