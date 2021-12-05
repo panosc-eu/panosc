@@ -12,9 +12,13 @@ Status presentation Schedule
   - ESRF report
   - EuXFEL/DESY report by Michael
  
- 3. October 19, 2021
+3. October 19, 2021
  
-  - ESS report by Brian  
+  - ESS report by Brian
+  
+4. November 23, 2021
+
+  - ESRF report (ETL) by Marjolaine
   
 
 Official VISA portal documentation incl. deployment guide-lines:
@@ -34,3 +38,9 @@ Slack channel for hands-on discussions about VISA preparation, deployment and us
 
    https://panosc.slack.com/archives/C02EQ6P38GP
   (https://app.slack.com/client/T87R5F39C/C02EQ6P38GP/thread/C869K9W3S-1628690949.000700)
+  
+
+Deployment progress dashboard on the PaNOSC-Github Wiki:
+
+   https://github.com/panosc-eu/panosc/wiki/WP4-VISA-Deployment-Dashboard
+
