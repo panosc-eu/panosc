@@ -31,21 +31,24 @@ Agenda
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
-| ESRF  |  9  | 2 planned   |
+| ESRF  |  10  | 1 planned   |
 | ILL   |  1  | 3 planned  | of which 1 w CERIC and EGI)
 | ESS   |  2  |   |
 | XFEL  |  7  |   |
-| CERIC |  6  | of which 1 with ILL and EGI, 4 planned |
+| CERIC |  7  | of which 1 with ILL and EGI, 3 planned |
 | ELI   |  1  | 1 planned  |
 | EGI   |  1  | of which 1 with CERIC and ILL | 
 
 [New "use cases" section](https://www.panosc.eu/all-use-cases/) published on the PaNOSC website
 
 8. Upcoming events
-* 23-25 November 2021 [EOSC Future Open Days 2021](https://www.panosc.eu/events/eosc-future-open-days/)
-* 7 December 2021, [ESFRI Roadmap Launch Event](https://www.esfri.eu/esfri-events/launch-2021-esfri-roadmap). The event will be livestreamed via the [ESFRI YouTube channel](https://www.youtube.com/c/ESFRI-EU)
+* 9 December 2021, [BESSY@HZB user meeting](https://www.helmholtz-berlin.de/user/contact---events/user-meeting/index_en.html)
 * 11-14 January 2022, [16th International Conference on Surface x-ray and Neutron Scattering (SXN16)](https://www.sxns16.org/) 
+* 20-21 January 2022, [SOLEIL User Meeting - SUM 2022](https://www.synchrotron-soleil.fr/en/events/sum-2022)
 * 7-9 February 2022, [ESRF User Meeting](https://www.esrf.fr/home/events/conferences/content/area-events/esrf-events-list/user-meeting-2022.html) - [Register here](https://events.esrf.fr/misapps/workshops/login.do)
+* 24-28 January 2022, [DESY Photon Science Users' Meeting](https://photon-science.desy.de/users_area/users'_meeting/index_eng.html) - [REGISTER HERE](https://indico.desy.de/event/32411/)
+* ELI ERIC User Meeting - Spring 2022 (TBC)
+* 21-25 August 2022, [International Conference on Neutron Scattering](https://icns2022.org/), Buenos Aires - Argentina - [ABSTRACT SUBMISSION](https://www.eventweb.com.br/icns2022/home-event/) - Deadline: 15 January 2022
 * 5-7 October 2022 [ESS/ILL European User Meeting](http://www.neutrons4europe.com/), Lund - Sweden
 
 9. AOB
