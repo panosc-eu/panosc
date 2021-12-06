@@ -42,9 +42,9 @@ Agenda
 [New "use cases" section](https://www.panosc.eu/all-use-cases/) published on the PaNOSC website
 
 8. Upcoming events
-* 9 December 2021, [BESSY@HZB user meeting](https://www.helmholtz-berlin.de/user/contact---events/user-meeting/index_en.html)
+* 9 December 2021, [BESSY@HZB user meeting](https://www.helmholtz-berlin.de/user/contact---events/user-meeting/index_en.html) - ExPaNDS will attend with an infographics with a focus on ExPaNDS only
 * 11-14 January 2022, [16th International Conference on Surface x-ray and Neutron Scattering (SXN16)](https://www.sxns16.org/) 
-* 20-21 January 2022, [SOLEIL User Meeting - SUM 2022](https://www.synchrotron-soleil.fr/en/events/sum-2022)
+* 20-21 January 2022, [SOLEIL User Meeting - SUM 2022](https://www.synchrotron-soleil.fr/en/events/sum-2022) - Submissions for poster contributions open until January 5th
 * 7-9 February 2022, [ESRF User Meeting](https://www.esrf.fr/home/events/conferences/content/area-events/esrf-events-list/user-meeting-2022.html) - [Register here](https://events.esrf.fr/misapps/workshops/login.do)
 * 24-28 January 2022, [DESY Photon Science Users' Meeting](https://photon-science.desy.de/users_area/users'_meeting/index_eng.html) - [REGISTER HERE](https://indico.desy.de/event/32411/)
 * ELI ERIC User Meeting - Spring 2022 (TBC)
