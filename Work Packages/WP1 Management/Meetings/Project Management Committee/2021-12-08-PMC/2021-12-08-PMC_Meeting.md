@@ -21,7 +21,7 @@ Agenda
 
 3. FLUKA and IPR
 
-4. Preparing the Periodic Report
+4. Preparing the Periodic Report & January PMC meetings
 
 5. News from ExPaNDS (5 min)
 
