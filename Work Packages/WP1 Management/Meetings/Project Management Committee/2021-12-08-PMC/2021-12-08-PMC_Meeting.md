@@ -48,7 +48,7 @@ Agenda
 * 7-9 February 2022, [ESRF User Meeting](https://www.esrf.fr/home/events/conferences/content/area-events/esrf-events-list/user-meeting-2022.html) - [Register here](https://events.esrf.fr/misapps/workshops/login.do)
 * 24-28 January 2022, [DESY Photon Science Users' Meeting](https://photon-science.desy.de/users_area/users'_meeting/index_eng.html) - [REGISTER HERE](https://indico.desy.de/event/32411/)
 * ELI ERIC User Meeting - Spring 2022 (TBC)
-* 21-25 August 2022, [International Conference on Neutron Scattering](https://icns2022.org/), Buenos Aires - Argentina - [ABSTRACT SUBMISSION](https://www.eventweb.com.br/icns2022/home-event/) - Deadline: 15 January 2022
+* 21-25 August 2022, [International Conference on Neutron Scattering](https://icns2022.org/), Buenos Aires - Argentina - [ABSTRACT SUBMISSION](https://www.eventweb.com.br/icns2022/home-event/) - Deadline: 18 January 2022
 * 5-7 October 2022 [ESS/ILL European User Meeting](http://www.neutrons4europe.com/), Lund - Sweden
 
 9. AOB
