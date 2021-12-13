@@ -3,7 +3,7 @@ Project Management Committee Meeting 08/12/2021
 
 Participants
 --------------
-Andy Goetz (ESRF), Jordi Bodera Sempere (ESRF), Rudolf Dimper (ESRF), Jean-Francois Perrin (ESRF), Jayesh Wagh (ESRF), Sophie Servan (DESY), Fabio Dal Antonia (XFEL), Tobias Richter (ESS), Dario Rocella (CERIC ERIC),  Jamie Hall (ILL), Stuart Caunt (ILL), Jesper Rude Selkenaes (ESS), Teodor Ivanaoica (ELI ERIC)
+Andy Goetz (ESRF), Jordi Bodera Sempere (ESRF), Rudolf Dimper (ESRF), Jean-Francois Perrin (ESRF), Jayesh Wagh (ESRF), Sophie Servan (DESY), Fabio Dal Antonia (XFEL), Tobias Richter (ESS),  Jamie Hall (ILL), Stuart Caunt (ILL), Jesper Rude Selkenaes (ESS), Teodor Ivanaoica (ELI ERIC)
 
 Minutes
 --------
