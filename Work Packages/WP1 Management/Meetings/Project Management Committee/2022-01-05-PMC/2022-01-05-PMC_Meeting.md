@@ -19,5 +19,6 @@ Agenda
 
 2. Periodic Report update
 
+3. PaNOSC project brief
 
-3. AOB
+4. AOB
