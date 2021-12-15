@@ -21,4 +21,6 @@ Agenda
 
 3. PaNOSC project brief
 
-4. AOB
+4. WP8 review date
+
+5. AOB
