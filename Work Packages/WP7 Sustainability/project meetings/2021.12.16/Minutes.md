@@ -1,6 +1,9 @@
 PaNOSC WP 7 meeting - 16/12/2021
 ========================================================
 
+### Participants 
+Petra Aulin (ESS), Dariusz Brzosko (CERIC-ERIC), Fabio Dall´Antonia (EUXFEL), Ornela De Giacomo (CERIC-ERIC), Giuseppe La Rocca (EGI)
+
 ### Minutes
 ------
 
