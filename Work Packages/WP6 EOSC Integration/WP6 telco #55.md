@@ -22,7 +22,7 @@ Attendees :  Cédric, Jean-François, Humaira, Marco , Andrea, Teodor, Michael, 
 
 2022 activities :
 
-- OneData - Complete the test from ESRF (large number of inodes) -> Integration with other storages (DESY) -> test VISA scenarion -> Documentation -> Decision from the group as a community (ALL).
+- OneData - Complete the test from ESRF (large number of inodes) -> Integration with other storage solution (DESY) -> Evaluate VISA scenario -> Documentation -> Decision from the group as a community (ALL).
 - CVMFS: Individual RI validation (ALL), Organisation as a community. Singularity containers in VISA through CVMFS (DESY/ESRF)
 - VISA deployment (CVMFS, GPU, Cluster access, Data Access, ...) ALL
 - AAI: ESRF/GEANT + ?
