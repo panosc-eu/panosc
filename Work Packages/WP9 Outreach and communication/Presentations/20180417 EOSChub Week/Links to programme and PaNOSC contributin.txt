@@ -1,0 +1,3 @@
+Event's programme: https://eosc-hub.eu/events/eosc-hub-week-16-20-april-2018-malaga-spain/programme
+Link to session with PaNOSC contribution, on "The role of ESFRI clusters in EOSC: technical and policy challenges": https://eosc-hub.eu/events/eosc-hub-week-16-20-april-2018-malaga-spain/programme/the-role-of-ESFRI-clusters-in-EOSC
+PaNOSC contribution by Jean-François Perrin - ABSTRACT: https://eosc-hub.eu/events/eosc-hub-week-16-20-april-2018-malaga-spain/programme/the-role-of-ESFRI-clusters-in-EOSC/panosc
