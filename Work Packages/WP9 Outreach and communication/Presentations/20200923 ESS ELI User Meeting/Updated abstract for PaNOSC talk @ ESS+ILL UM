@@ -1,0 +1,22 @@
+PaNOSC - Enabling FAIR data and Open Science for neutrons and photons 
+
+Andy Götz (1), Jon Taylor (2), Thomas Rods (2), Tobias Richter (2), Jean-Francois Perrin (1) + formerly (3)
+
+(1) European Synchrotron Radiation Facility
+
+(2) European Spallation Source
+
+(3) Institut Laue Langevin
+
+
+The Open Science movement is gaining support in many communities and specifically with the creation of the European Open Science Cloud Partnership [1]. PaNOSC [2] is one of 5 cluster projects co-financed by H2020 funding of the European Commission as part of EOSC to enable FAIR data and Open Science for their communities. PaNOSC regroups 6 ESFRI projects (ILL, ESS, ESRF, EuXFEL, ELI and CERIC-ERIC) who are working together with the national Research Infrastructures (as part of the ExPaNDS project) to implement solutions for FAIR data management and Open Science.
+
+This talk will explain what PaNOSC is doing to enable Open Science and give an update on the state of the EOSC. We will present the data analysis services being provided by PaNOSC and their use for supporting remote experiments in this COVID-19 period. The PaNOSC contribution to extending the McStas simulation software will be covered. PaNOSC is contributing to standardising data formats and management for neutrons and photons.
+
+The main objectives of this talk are to explain to ESS+ILL users (1) which tools PaNOSC is/will provide for data management, and (2) to gather feedback from the user community on problems or use cases in data management which still need to be addressed.
+
+ 
+
+[1] https://ec.europa.eu/info/sites/info/files/research_and_innovation/funding/documents/ec_rtd_he-partnership-open-science-cloud-eosc.pdf
+
+[2] https://panosc.eu
