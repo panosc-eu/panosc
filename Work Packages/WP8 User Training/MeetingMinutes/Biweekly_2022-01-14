@@ -1,0 +1,69 @@
+***2022-01-14***
+
+## Participants
+
+    Teodor (ELI)
+    Miguel (ILL)
+    Marius (ESRF)
+    Oliver (HZDR)
+    Antoinne (SOLEIL)
+    Nicoletta (CERIC)
+    Thomas (ESS)
+    Stella (ESS)
+    Petra (ESS)
+    Alexandre (ESS)
+
+
+# Agenda 
+
+1. D8.1
+2. Content in PaN-Learning.org
+3. MS 8.5
+4. Redesign
+5. EOSC Future
+6. Updates on ExPaNDS and PaNOSC
+
+
+# Minutes
+
+
+# 2022-01-14
+
+## 1. D8.1 Done
+
+## 2. Content in pan-learning.org
+	### 2.1 Hercules
+		Will use notebooks submitted for MS8.5
+		Miguel and Nicoletta will get hold of videos from previous Hercules school
+		
+	### 2.1 Upcoming summer school
+		Stella & Thomas will draft outline for summer school and present in the next WP8 meeting.
+		Everybody are asked to provide input about what they would like to see in the summer school
+    We agreed that we should have aimitation of attendees for the summer school to have it manageable (25-30 people)
+		We agreed to organize 2 days event f2f workshop in Spring if possible and to invite ExPaNDS members
+
+
+## 3. MS8.5
+	We have received notebooks for ESRF / CERIC & ILL / ESS
+	We will receive notebook for ELI next week
+	Issues with getting XFEL notebook running due to simex errors. There is however already one to be used for milestone 8.5. 
+  Nicoletta can tick the milestone 8.5
+
+  
+## 4. Redesign
+	Redesign is available here:  https://github.com/pan-training/training-catalogue/issues/36
+	Next step is to get it up running on pan-training.eu and registered as EOSC service. 
+  We need to test pan-learning.org + pan-training.hzdr.de -> pan-training.eu/catalogue, etc. Alexandre will initiate this.
+	pan-learning courses should automatically inserted be in catalog
+	Automatic scraping from PanOSC events and LEAPS - LENS &  ExPaNDS are too complicated
+  
+## 5. EOSCFuture
+	There is a Request from Rudolf Dimper. We will set up meeting with Stella, Oliver & Thomas
+
+## 6. Updates on ExPaNDS and  PaNOSC
+### 6.1 ExPaNDS
+nothing to report
+### 6.2 PaNOSV
+The Project brief has beendelivered to EC
+The Annual report in progress
+New review advertised
