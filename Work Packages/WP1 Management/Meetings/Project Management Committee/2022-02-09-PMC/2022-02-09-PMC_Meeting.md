@@ -29,3 +29,11 @@ Agenda
 | D8.3 | Teaching material for users | 31/05/2022 |
 
 6. AOB
+
+7. Upcoming events
+>> 7-9 February, online - [ESRF User Meeting 2022](https://www.esrf.fr/fr/home/events/conferences/2022/user-meeting-2022.html), [Registration](https://events.esrf.fr/misapps/workshops/login.do) 
+>> 28 March - 1 April 2022, online [14th International Conference on Synchrotron Radiation Instrumentation - SRI2021](https://www.sri2021.eu/)
+>> 18-20 May 2022, Utrecht, the Netherlands - [Instruct Biennial Structural Biology Conference](https://instruct-eric.org/ibsbc2022), [Abstract submission](https://instruct-eric.org/submit-call/instruct-eric-biennial-2022---abstract-submission) within 1 March 2022 | [Registration](https://www.eventbrite.co.uk/e/instruct-biennial-structural-biology-conference-2022-tickets-161765698559) within 1 April 2022
+>> 5-7 September 2022, Berlin - Germany, [SNI2022 - German Conference for Research with Synchrotron Radiation, Neutrons and Ion Beams at Large Facilities](https://www.helmholtz-berlin.de/events/sni-2022/scientific-programme_en.html) - [Important dates](https://www.helmholtz-berlin.de/events/sni-2022/important-dates_en.html) - Abstract submission deadline: 24 April 2022, Registration deadline: 21 August 2022.
+>> 5-7 October 2022, Lund - Sweden, [Joint ESS-ILL User Meeting 2022](http://www.neutrons4europe.com/)
+>> 14-17 November 2022, Prague - Czech Republic & online, [EOSC Symposium 2022](https://eosc-portal.eu/events/eosc-symposium-2022)
