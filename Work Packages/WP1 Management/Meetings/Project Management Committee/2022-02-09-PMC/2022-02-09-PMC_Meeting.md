@@ -10,6 +10,7 @@ Agenda
 * we will wait until after the review to start the Grant Amendment
 
 3. News from ExPaNDS
+* face to face meeting in the summer?
 
 4. News from the EOSC
 
