@@ -37,4 +37,16 @@ Agenda
 - 5-7 October 2022, Lund - Sweden, [Joint ESS-ILL User Meeting 2022](http://www.neutrons4europe.com/)
 - 14-17 November 2022, Prague - Czech Republic & online, [EOSC Symposium 2022](https://eosc-portal.eu/events/eosc-symposium-2022)
 
-7. AOB
+7. Use Cases Dashboard reminder (~1 min)
+
+| Partner | Use Cases Submitted | Comments |
+| ------- | ------------------- | -------- |
+| ESRF  |  10  | 1 planned   |
+| ILL   |  1  | 3 planned  | of which 1 w CERIC and EGI)
+| ESS   |  2  |   |
+| XFEL  |  7  |   |
+| CERIC |  7  | of which 1 with ILL and EGI, 3 planned |
+| ELI   |  1  | 1 planned  |
+| EGI   |  1  | of which 1 with CERIC and ILL | 
+
+8. AOB
