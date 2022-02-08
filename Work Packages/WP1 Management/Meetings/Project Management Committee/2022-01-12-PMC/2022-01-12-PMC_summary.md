@@ -2,6 +2,7 @@ Project Management Committee Meeting 12/01/2022
 ===============================================
 
 Participants: Andy Goetz (ESRF), Jordi Bodera Sempere (ESRF), Jean-Francois Perrin (ESRF), Jayesh Wagh (ESRF), Fabio Dal Antonia (XFEL),  Ornella De Giacomo (CERIC ERIC), Dario Rocella (CERIC-ERIC), Nicoletta Carboni (CERIC-ERIC), Thomas Holm Rod (ESS), Tobias Richter (ESS) Erwan Le Gall (ILL), Jamie Hall (ILL), Stuart Caunt (ILL), Giuseppe La Rocca (EGI), Teodor Ivanoaica (ELI)
+
 --
 
 **1.	Deliverables & Milestones**
