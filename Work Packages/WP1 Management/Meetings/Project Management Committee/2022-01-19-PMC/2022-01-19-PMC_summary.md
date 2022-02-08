@@ -1,7 +1,8 @@
 Project Management Committee Meeting 19/01/2022
 ===============================================
 
-Participants: Jordi Bodera Sempere (ESRF), Rudolf Dimper (ESRF), Jayesh Wagh (ESRF), Fabio Dal Antonia (XFEL), Dario Rocella (CERIC-ERIC), Nicoletta Carboni (CERIC-ERIC), Carsten Fortmann Grote(?), Thomas Holm Rod (ESS), Tobias Richter (ESS), Sophie Servan (ExPaNDs),Jamie Hall (ILL), Stuart Caunt (ILL), Giuseppe La Rocca (EGI), Teodor Ivanoaica (ELI)
+Participants: Jordi Bodera Sempere (ESRF), Rudolf Dimper (ESRF), Jayesh Wagh (ESRF), Fabio Dal Antonia (XFEL), Dario Rocella (CERIC-ERIC), Nicoletta Carboni (CERIC-ERIC), Carsten Fortmann Grote(XFEL), Thomas Holm Rod (ESS), Tobias Richter (ESS), Sophie Servan (ExPaNDs),Jamie Hall (ILL), Stuart Caunt (ILL), Giuseppe La Rocca (EGI), Teodor Ivanoaica (ELI)
+
 --
 
 **1. Update on LATE deliverables/milestones and WPs**
@@ -11,9 +12,6 @@ MS6.1 Implementation of AAI integration - Achieved
 M6.3 Second release of PaNOSC services, data and resources - Achieved. 
 D7.2 - Photon and Neutron EOSC metrics - To be submitted by the end of the week. 
 MS8.5 e-learning virtual facilities - Milestone document should be ready by the end of the week. 
-
-
-
 
 **2. Project Review news**
 Jordi informed participants about the project review communication. None of the project member notified any conflict of interest with the proposed external reviewer from University of Manchester.
@@ -29,7 +27,7 @@ Rudolf will update EOSC Future activities in the objectives section. Rudolf and 
 2. Explanation of the work carried out per wp - Jordi asked project partners to add atleast a page or two page long description per wp. Thomas suggested to write a brief overview on all the workpackages.
 Jordi suggested WP leads to include tables and figures in the WP text. 
 3. Major recommendations : Jordi will share (with Sophie's consent) EXPANDS KPIs because some of them are same as PANOSC ones.
-4. Jordi will upload all the deliverables on Zenodo to get a DOI for each of them. 
+4. Jordi will work with WP leaders to upload the deliverables on Zenodo to get a DOI for each of them. 
 5. Jordi urged all the project partners to complete the assigned sections on time to avoid delay in report submission.
 
 
