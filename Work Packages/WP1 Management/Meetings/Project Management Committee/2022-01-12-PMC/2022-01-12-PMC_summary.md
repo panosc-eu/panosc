@@ -6,6 +6,7 @@ Participants: Andy Goetz (ESRF), Jordi Bodera Sempere (ESRF), Jean-Francois Perr
 --
 
 **1.	Deliverables & Milestones**
+
 o	D6.2 - Teodor is awaiting some brief inputs from ILL and ESS under WP3. Once these inputs are in, document is ready to be submitted to the reviewer.
 
 o	D6.3 - Jean-Francois has received feedback from ILL and minor comments should be addressed today itself. 
@@ -25,9 +26,10 @@ o	Jordi discussed recommendations from the previous review, deviations, data man
 o	Jordi reminded the partners that the deadline 28 January 2022 for the submission of periodic report. 
 
 **3.	Project Brief EOSC**
+
 o	Jordi informed the project brief submission. It is a public document and can be disseminated further. 
 
 **4. Any other business**
+
 o	Jean-Francois informed participants about the invitation from CS3MESH project to participate in a workshop on 26th January. Jean-Francois and Nicoletta would attend the meeting from PaNOSC. Jean-Francois will present CVMFS activities. 
-o	
 
