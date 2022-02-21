@@ -7,7 +7,7 @@ Erwan le Gall (ILL), Teodor Ivanoaica (ELI)
 
 **1. Update on late WP8 milestone e-learning virtual facilities**
 
-Tobias is expecting to hear from Thomas. Jordi informed that this milestone has been reported as achieved because the e-learning platform was demonstrated on one of the RI. 
+Tobias is expecting to hear from Thomas. Jordi informed that this milestone has been reported as achieved because the e-learning platform was demonstrated as working for all facilities (several RIs of the same type may share a "virtual facility"). 
 Teodor mentioned that there will be additional activities in the upcoming months.
 
 **2. Periodic Report & Review update / news**
