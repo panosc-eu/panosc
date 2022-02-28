@@ -4,7 +4,7 @@ PaNOSC Project Management Committee Meeting - 02/03/2022
 Agenda
 ------	
 
-1. Introduction to PaNOSC sustainability: what tools and services and for whom? open questions regarding the value and “customers”. 
+1. Introduction to PaNOSC sustainability: what tools and services and for whom? open questions regarding the value and “customers”. [Presentation|]
 
 2. Approach for a sustainable PaN EOSC
 
