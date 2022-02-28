@@ -1,4 +1,4 @@
-Use Case 28 - Online visualisation, exploration and analysis of HDF5 files with h5nuvola.md
+Use Case 28 - Online visualisation, exploration and analysis of HDF5 files with h5nuvola
 =========================================================
 [HDF5](http://www.hdfgroup.org/) is a de-facto standard for storage of heterogeneous, n-dimensional  scientific data. It is portable, without vendor lock-in, self-describing thanks to included metadata, with libraries in different languages. It offers high I/O performance, optimised for both time and storage.
 
