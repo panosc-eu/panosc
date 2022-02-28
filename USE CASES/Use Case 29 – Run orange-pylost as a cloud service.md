@@ -28,7 +28,7 @@ The cloud service could potentially simplify cross-validation across users (e.g.
 
 Other partners interested in this use case
 ------
-All collaborators participating in MooNpics (http://www.calipsoplus.eu/joint-research-activities-jra/jra1-moonpics/) and Superflat (https://leaps-superflat.eu/) projects. After initial validation the software will be made accessible to other registered users outside the EU project partners. 
+All collaborators participating in [MooNpics](http://www.calipsoplus.eu/joint-research-activities-jra/jra1-moonpics/) and [Superflat](https://leaps-superflat.eu/) projects. After initial validation the software will be made accessible to other registered users outside the EU project partners. 
 
 Resources
 ------
