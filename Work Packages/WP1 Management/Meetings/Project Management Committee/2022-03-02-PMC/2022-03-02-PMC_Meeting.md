@@ -12,4 +12,6 @@ Agenda
 
 4. WP7 - Sustainability open discussion
 
-5. AOB
+5. Updated [EOSC Multi-annual Roadmap](https://www.eosc.eu/multi-annual-roadmap-mar-consultation)
+
+6. AOB
