@@ -8,11 +8,13 @@ Agenda
 
 2. D3.3 Catalog Service due 31/03/2022 update
 
-3. News from ExPaNDS
+3. Grant Amendment draft
 
-4. News from the EOSC
+4. News from ExPaNDS
 
-5. WP leaders updates
+5. News from the EOSC
+
+6. WP leaders updates
 
 | item |    Title    | due date |
 | ---- | ----------- | -------- |
@@ -27,9 +29,9 @@ Agenda
 | D8.2 | Report on lessons learned for adopting e-learning platform at PaNOSC facilities | 31/05/2022 |
 | D8.3 | Teaching material for users | 31/05/2022 |
 
-6. Upcoming events
+7. Upcoming events
 
-7. Use Cases Dashboard reminder (~1 min)
+8. Use Cases Dashboard reminder (~1 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
@@ -41,4 +43,4 @@ Agenda
 | ELI   |  1  | 1 planned  |
 | EGI   |  1  | of which 1 with CERIC and ILL | 
 
-8. AOB
+9. AOB
