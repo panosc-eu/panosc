@@ -16,7 +16,9 @@ Agenda
 
 6. News from the EOSC
 
-7. WP leaders updates
+7. Possible participation in ICRI 2022 (October 2022) and Science Summit UNGA77 (September 2022)
+
+8. WP leaders updates
 
 | item |    Title    | due date |
 | ---- | ----------- | -------- |
@@ -31,13 +33,11 @@ Agenda
 | D8.2 | Report on lessons learned for adopting e-learning platform at PaNOSC facilities | 31/05/2022 |
 | D8.3 | Teaching material for users | 31/05/2022 |
 
-8. Upcoming events
-
 9. Use Cases Dashboard reminder (~1 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
-| ESRF  |  10  | 1 planned   |
+| ESRF  |  11  |  |
 | ILL   |  1  | 3 planned  | of which 1 w CERIC and EGI)
 | ESS   |  2  |   |
 | XFEL  |  7  |   |
