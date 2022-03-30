@@ -39,7 +39,7 @@ Agenda
 * 8 April 2022 - MESRI workshop: [EOSC, un atout pour la recherche](https://www.panosc.eu/events/workshop-in-french-eosc-a-resource-for-research/)
 * 28 April 2022 - [EIROforum Conference – Grand challenges in AI and data science](https://www.panosc.eu/events/eiroforum-conference-grand-challenges-in-ai-and-data-science/)
 
-11. Use Cases Dashboard reminder (~1 min)
+10. Use Cases Dashboard reminder (~1 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
