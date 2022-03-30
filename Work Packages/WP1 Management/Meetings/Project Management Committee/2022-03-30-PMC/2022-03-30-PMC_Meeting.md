@@ -16,7 +16,7 @@ Agenda
 
 6. News from the EOSC
 
-7. Possible participation in [ICRI 2022](https://www.icri2022.cz/about) (October 2022) and [Science Summit UNGA77](https://www.eventbrite.be/e/science-summit-at-unga77-september-2022-tickets-258988691147) (September 2022)
+7. Possible participation in [ICRI 2022](https://www.icri2022.cz/about) (17-21 October 2022) and [Science Summit UNGA77](https://www.eventbrite.be/e/science-summit-at-unga77-september-2022-tickets-258988691147) (September 2022)
 
 8. WP leaders updates
 
