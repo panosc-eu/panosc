@@ -8,7 +8,7 @@ Agenda
 
 2. Face to face meeting (PaNOSC-ExPaNDS)
 
-3. Grant Amendment draft
+3. Draft Grant Agreement Amendment
 
 4. News from ExPaNDS
 
