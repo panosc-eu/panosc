@@ -1,0 +1,26 @@
+2022-04-08 Participants
+
+Miguel (ILL), Marius (ESRF) Petra (ESS), Oliver, Andrew M(ESS), Alexandre (ESS), Kareem (ESS), Theodore (ELI), Aljosa (CERIC), Fabio, 
+
+Agenda
+
+1. Catch up from last meeting
+2. f2f meeting
+3. Summer School
+
+
+Minutes 2022-04-08
+
+1. Catch up from last meeting: Umbrella ID - Alexandre has not had the time to test it yet.
+
+2. Summer School: ELI summer school (in August around 20th) ends and the recommendation from ELI would be to start the PaNOSC school directly after that.
+We need to clarify what exactly we are selling for this summer school: FAIR data and PaNOSC services. The tools need to be ready and work so we can demonstrate them. 
+Andrew suggests that we include the three themes for the summer school: neutron-, xray-, lazers simulations. This is then scientific and we need to decide if that is the way to go.
+The audience for the summer schhol is junior scientists. Without a scientific angle, there is a risk that phd students will not be attracted.
+Andrew has thought about an example that would be proteins. 1-2 topic proposed per partner.
+
+3. f2f meeting: before the meeting we need one person per summer school theme. Andrew will be the neutron person, Mausumi will be asked to be the lazer person and Marius will be the x-ray one.
+The three needs to come up with 2 stories each on applications of their respective techique and present in the f2f meeting.
+The f2f meeting will try to be arranged in Copenhagen.
+
+4. AOB: Hercules - Miguel is awaiting for an answer.
