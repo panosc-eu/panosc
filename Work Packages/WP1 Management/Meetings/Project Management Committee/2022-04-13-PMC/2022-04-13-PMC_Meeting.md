@@ -36,7 +36,6 @@ Agenda
 
 | item |    Title    | due date | Reviewer |
 | ---- | ----------- | -------- | -------- |
-| D3.3 | Catalog Service | 31/03/2022 | |
 | D1.9 | Mid-year summary | 31/05/2022 | |
 | D3.5 | NeXus Metadata Schema | 31/05/2022 |  |
 | D4.3 | Remote desktop and Jupyter service deployed at EOSC | 31/05/2022 |  |
