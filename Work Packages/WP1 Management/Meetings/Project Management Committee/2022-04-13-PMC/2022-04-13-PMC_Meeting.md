@@ -57,7 +57,7 @@ Agenda
 
 11. Upcoming events
 * 28 April 2022, EMBL Heidelberg - [EIROforum Conference – Grand challenges in AI and data science](https://www.panosc.eu/events/eiroforum-conference-grand-challenges-in-ai-and-data-science/)
-* 3 May 2022, online event, ExPaNDS UmbrellaID Workshop - [https://indico.psi.ch/event/12701/]
+* 3 May 2022, online event, ExPaNDS UmbrellaID Workshop - [UmbrellaID Workshop: Keycloak](https://indico.psi.ch/event/12701/)
 * 19-21 October 2022, Brno - Czech Republic - [ICRI 2022](https://www.icri2022.cz/)
 
 12. Use Cases Dashboard reminder (~1 min)
