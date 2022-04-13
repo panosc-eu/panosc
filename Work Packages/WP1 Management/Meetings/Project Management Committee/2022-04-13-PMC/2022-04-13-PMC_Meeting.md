@@ -22,19 +22,19 @@ Agenda
 
 |  #  | type | Title | Owned by | Notes |
 | --- | ---- | ----- | -------- | ----- |
-| #82 | **MAJOR** | Detailed Sustainability Plan | Ornela | all RIs to contribute |
-| #84 | **MAJOR** | Total Cost of Ownership blueprint | Ornela | clarification from PO required |
-| #86 | **MAJOR** | Enhanced Federated Search | Tobias | |
-| #88 | **MAJOR** | Scientific publications | Nicoletta | all RIs to contribute |
-| #89 | **MAJOR** | DP Framework adopted by all RIs | Andy | all RIs to contribute |
-| #90 | **MAJOR** | Integrated FAIR data mgmt course | Andrew / Thomas |
-| #79 | minor | KPI targers | Jordi | all WP leaders to contribute |
-| #80 | minor | Effort project plan | Jordi |  |
-| #81 | minor | Rist register update | Jordi | all WP leaders to contribute |
-| #83 | minor | Training courses improvements | Andrew / Thomas | linked to #90 |
-| #85 | minor | Data Management Plans | Andy | | 
-| #87 | minor | Stakeholder engagement | Nicoletta | | 
-| #91 | minor | Innovation management | Andy | | 
+| [#82](https://github.com/panosc-eu/panosc/issues/82) | **MAJOR** | Detailed Sustainability Plan | Ornela | all RIs to contribute |
+| [#84](https://github.com/panosc-eu/panosc/issues/84) | **MAJOR** | Total Cost of Ownership blueprint | Ornela | clarification from PO required |
+| [#86](https://github.com/panosc-eu/panosc/issues/86) | **MAJOR** | Enhanced Federated Search | Tobias | |
+| [#88](https://github.com/panosc-eu/panosc/issues/88) | **MAJOR** | Scientific publications | Nicoletta | all RIs to contribute |
+| [#89](https://github.com/panosc-eu/panosc/issues/89) | **MAJOR** | DP Framework adopted by all RIs | Andy | all RIs to contribute |
+| [#90](https://github.com/panosc-eu/panosc/issues/90) | **MAJOR** | Integrated FAIR data mgmt course | Andrew / Thomas |
+| [#79](https://github.com/panosc-eu/panosc/issues/79) | minor | KPI targers | Jordi | all WP leaders to contribute |
+| [#80](https://github.com/panosc-eu/panosc/issues/80) | minor | Effort project plan | Jordi |  |
+| [#81](https://github.com/panosc-eu/panosc/issues/81) | minor | Rist register update | Jordi | all WP leaders to contribute |
+| [#83](https://github.com/panosc-eu/panosc/issues/83) | minor | Training courses improvements | Andrew / Thomas | linked to #90 |
+| [#85](https://github.com/panosc-eu/panosc/issues/85) | minor | Data Management Plans | Andy | | 
+| [#87](https://github.com/panosc-eu/panosc/issues/87) | minor | Stakeholder engagement | Nicoletta | | 
+| [#91](https://github.com/panosc-eu/panosc/issues/91) | minor | Innovation management | Andy | | 
 
 9. Next Deliverables/Milestones updates
 
