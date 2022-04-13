@@ -53,6 +53,7 @@ Agenda
 * 6-7 April 2022, Brussels - [SSHOC Final Conference](https://www.panosc.eu/events/sshoc-final-conference/) - Contribution by Rudolf Dimper
 * 8 April 2022, online - MESRI workshop: [EOSC, un atout pour la recherche](https://www.panosc.eu/events/workshop-in-french-eosc-a-resource-for-research/)
 * 28 April 2022, EMBL Heidelberg - [EIROforum Conference – Grand challenges in AI and data science](https://www.panosc.eu/events/eiroforum-conference-grand-challenges-in-ai-and-data-science/)
+* 19-21 October 2022, Brno - Czech Republic - [ICRI 2022](https://www.icri2022.cz/)
 
 10. Use Cases Dashboard reminder (~1 min)
 
