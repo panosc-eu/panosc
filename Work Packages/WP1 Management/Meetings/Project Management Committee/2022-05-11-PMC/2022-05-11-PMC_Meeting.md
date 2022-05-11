@@ -50,9 +50,9 @@ Agenda
 * 8 April 2022, online - MESRI workshop: [EOSC, un atout pour la recherche](https://www.panosc.eu/events/workshop-in-french-eosc-a-resource-for-research/)
 
 8. Upcoming events
-* 28 April 2022, EMBL Heidelberg - [EIROforum Conference – Grand challenges in AI and data science](https://www.panosc.eu/events/eiroforum-conference-grand-challenges-in-ai-and-data-science/)
-* 3 May 2022, online event, ExPaNDS UmbrellaID Workshop - [UmbrellaID Workshop: Keycloak](https://indico.psi.ch/event/12701/)
 * 19-21 October 2022, Brno - Czech Republic - [ICRI 2022](https://www.icri2022.cz/)
+* 14-17 November 2022, Prague and online, [EOSC Symposium 2022](https://eosc-portal.eu/events/eosc-symposium-2022) - [Sign up](https://eosc.us6.list-manage.com/track/click?u=bd106f33ba5f588652c5ad1a4&id=e52c4307a6&e=13138fee77)
+* 19-23 September 2022, Prague - Czech Republic - [Annual EGI Conference 2022](https://indico.egi.eu/event/5882/overview) - [Call for abstractS](https://indico.egi.eu/event/5882/abstracts/) deadline: 31 May 2022
 
 9. Use Cases Dashboard reminder (~1 min)
 
