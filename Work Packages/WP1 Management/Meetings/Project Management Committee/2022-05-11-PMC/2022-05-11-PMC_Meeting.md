@@ -52,9 +52,10 @@ Agenda
 * 3 May 2022, online event, ExPaNDS UmbrellaID Workshop - UmbrellaID Workshop: Keycloak
 
 8. Upcoming events
-* 19-21 October 2022, Brno - Czech Republic - [ICRI 2022](https://www.icri2022.cz/)
-* 14-17 November 2022, Prague and online, [EOSC Symposium 2022](https://eosc-portal.eu/events/eosc-symposium-2022) - [Sign up](https://eosc.us6.list-manage.com/track/click?u=bd106f33ba5f588652c5ad1a4&id=e52c4307a6&e=13138fee77)
+
 * 19-23 September 2022, Prague - Czech Republic - [Annual EGI Conference 2022](https://indico.egi.eu/event/5882/overview) - [Call for abstractS](https://indico.egi.eu/event/5882/abstracts/) deadline: 31 May 2022
+* 19-21 October 2022, Brno - Czech Republic - [ICRI 2022](https://www.icri2022.cz/) - 3rd PaN EOSC Symposium scheduled on 18 October
+* 14-17 November 2022, Prague and online, [EOSC Symposium 2022](https://eosc-portal.eu/events/eosc-symposium-2022) - [Sign up](https://eosc.us6.list-manage.com/track/click?u=bd106f33ba5f588652c5ad1a4&id=e52c4307a6&e=13138fee77)
 
 9. Use Cases Dashboard reminder (~1 min)
 
