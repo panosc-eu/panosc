@@ -20,7 +20,7 @@ Agenda
 
 2. Grant Agreement amendment news
 
-3. Face to face meeting news (PaNOSC-ExPaNDS 13-15 June 2022)
+3. Face to face meeting news (PaNOSC-ExPaNDS 14-15 June 2022)
 
 4. News from ExPaNDS
 
