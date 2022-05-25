@@ -12,7 +12,7 @@ Agenda
 | D3.5 | NeXus Metadata Schema | 31/05/2022 | Teodor | *pending* |
 | D4.3 | Remote desktop and Jupyter service deployed at EOSC | 31/05/2022 | ??? | *pending* |
 | MS13 | Data analysis services accessible through EOSC | 31/05/2022 | Jordi | *pending* |
-| D5.3 | Documented simulation tasks executable | 31/05/2022 | ??? | *pending* |
+| D5.3 | Documented simulation tasks executable | 31/05/2022 | Andy | **DONE** |
 | MS16 | VINYL software release | 31/05/2022 | Jordi | **DONE** |
 | D7.3 | PaN EOSC Business model reference doc | 31/05/2022 | ???  |  *pending* |
 | D8.2 | Report on lessons learned for adopting e-learning platform at PaNOSC facilities | 31/05/2022 | ??? | *pending* |
