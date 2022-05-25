@@ -8,7 +8,7 @@ Agenda
 
 | item |    Title    | due date | Reviewer | Status |
 | ---- | ----------- | -------- | -------- | -------|
-| D1.9 | Mid-year summary | 31/05/2022 | Jayesh | *pending* |
+| D1.9 | Mid-year summary | 31/05/2022 | Jayesh | *pending **Ornela*** |
 | D3.5 | NeXus Metadata Schema | 31/05/2022 | Teodor | *pending* |
 | D4.3 | Remote desktop and Jupyter service deployed at EOSC | 31/05/2022 | ??? | *pending* |
 | MS13 | Data analysis services accessible through EOSC | 31/05/2022 | Jordi | *pending* |
