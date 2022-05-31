@@ -4,7 +4,7 @@ PaNOSC Project Management Committee Meeting - 08/06/2022
 Agenda
 ------	
 
-1. Flesh out topics for the Face to face meeting news (PaNOSC-ExPaNDS 14-15 June 2022) *~25 minutes*
+1. Flesh out topics for the [Face to face meeting news](https://indico.eli-laser.eu/event/12/timetable/#20220614) (PaNOSC-ExPaNDS 14-15 June 2022) *~25 minutes*
 
 2. Deliverables/Milestones due 31/05/2022
 
