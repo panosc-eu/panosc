@@ -4,7 +4,9 @@ PaNOSC Project Management Committee Meeting - 08/06/2022
 Agenda
 ------	
 
-1. Deliverables/Milestones due 31/05/2022
+1. Flesh out topics for the Face to face meeting news (PaNOSC-ExPaNDS 14-15 June 2022) *~25 minutes*
+
+2. Deliverables/Milestones due 31/05/2022
 
 | item |    Title    | due date | Reviewer | Status |
 | ---- | ----------- | -------- | -------- | -------|
@@ -18,9 +20,7 @@ Agenda
 | D8.2 | Report on lessons learned for adopting e-learning platform at PaNOSC facilities | 31/05/2022 | ??? | **DONE** |
 | D8.3 | Teaching material for users | 31/05/2022 | Expected September 2022 | *pending* |
 
-2. Grant Agreement amendment news
-
-3. Face to face meeting news (PaNOSC-ExPaNDS 14-15 June 2022)
+3. Grant Agreement amendment news
 
 4. Last PaNOSC conference @ ICRI (~ 18/10/2022)
 
