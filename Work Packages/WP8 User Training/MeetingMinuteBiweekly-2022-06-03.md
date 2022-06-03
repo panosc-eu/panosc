@@ -17,7 +17,7 @@ AOB
 
 Minutes
 
-**Meeting in Prage:******
+**Meeting in Prage:**
 The e-learning platform: Ana wants to have discussions and spread the information about the platform. Doru suggests to inform trainers that they do not need to spend alot time to get the content for a ppt. We should also educate the other wp leaders on this when in Prague. 2 h session sounds good.
 
 **Summer school action list:**
