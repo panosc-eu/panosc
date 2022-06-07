@@ -40,7 +40,7 @@ Agenda
 | [#90](https://github.com/panosc-eu/panosc/issues/90) | **MAJOR** | Integrated FAIR data mgmt course | Andrew / Thomas |
 | [#79](https://github.com/panosc-eu/panosc/issues/79) | minor | KPI targets | Jordi | all WP leaders to contribute |
 | [#80](https://github.com/panosc-eu/panosc/issues/80) | minor | Effort project plan | Jordi |  |
-| [#81](https://github.com/panosc-eu/panosc/issues/81) | minor | Rist register update | Jordi | all WP leaders to contribute |
+| [#81](https://github.com/panosc-eu/panosc/issues/81) | minor | Risk register update | Jordi | all WP leaders to contribute |
 | [#83](https://github.com/panosc-eu/panosc/issues/83) | minor | Training courses improvements | Andrew / Thomas | linked to #90 |
 | [#85](https://github.com/panosc-eu/panosc/issues/85) | minor | Data Management Plans | Andy | | 
 | [#87](https://github.com/panosc-eu/panosc/issues/87) | minor | Stakeholder engagement | Nicoletta | | 
