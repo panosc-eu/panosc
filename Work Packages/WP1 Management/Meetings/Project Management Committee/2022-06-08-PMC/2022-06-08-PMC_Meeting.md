@@ -55,7 +55,7 @@ Agenda
 * 14-15 June 2022, Prague - Czech Republic, [PaNOSC and ExPaNDS f2f meeting](https://www.panosc.eu/events/panosc-expands-face-to-face-meeting/)
 * 16 July 2022, 8:00 - 9:15 CEST, PaNOSC online session at ESOF2022 - Open Data for healthier societies: a virtuous cycle?
 * 12-16 September 2022, Szeged - Hungary, [PaNOSC Summer School 2022](https://www.panosc.eu/events/panosc-summer-school-2022/)
-* 19-23 September 2022, Prague - Czech Republic - [Annual EGI Conference 2022](https://indico.egi.eu/event/5882/overview) - [Call for abstractS](https://indico.egi.eu/event/5882/abstracts/) deadline: 07 June 2022
+* 19-23 September 2022, Prague - Czech Republic - [Annual EGI Conference 2022](https://indico.egi.eu/event/5882/overview) - [Call for abstracts](https://indico.egi.eu/event/5882/abstracts/) deadline: 07 June 2022
 * 5-7 October 2022, Lund - Sweden, [3rd Joint ESS ILL User Meeting](https://indico.esss.lu.se/event/2809/) - [Call for abstracts](https://indico.esss.lu.se/event/2809/abstracts/) (deadline: 15 June 2022)
 * 19-21 October 2022, Brno - Czech Republic - [ICRI 2022](https://www.icri2022.cz/) - 3rd PaN EOSC Symposium scheduled on 18 October
 * 14-17 November 2022, Prague and online, [EOSC Symposium 2022](https://eosc-portal.eu/events/eosc-symposium-2022) - [Sign up](https://eosc.us6.list-manage.com/track/click?u=bd106f33ba5f588652c5ad1a4&id=e52c4307a6&e=13138fee77)
