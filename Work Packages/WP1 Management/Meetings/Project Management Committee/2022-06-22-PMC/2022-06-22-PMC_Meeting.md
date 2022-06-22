@@ -46,8 +46,6 @@ Agenda
 
 9. Upcoming events
 
-* 13-14 June 2022, Prague - Czech Republic, [European User Offices Meeting – EUOM 2022](https://www.panosc.eu/events/european-user-offices-meeting-euom-2022/)
-* 14-15 June 2022, Prague - Czech Republic, [PaNOSC and ExPaNDS f2f meeting](https://www.panosc.eu/events/panosc-expands-face-to-face-meeting/)
 * 16 July 2022, 8:00 - 9:15 CEST, PaNOSC online session at ESOF2022 - Open Data for healthier societies: a virtuous cycle?
 * 12-16 September 2022, Szeged - Hungary, [PaNOSC Summer School 2022](https://www.panosc.eu/events/panosc-summer-school-2022/)
 * 19-23 September 2022, Prague - Czech Republic - [Annual EGI Conference 2022](https://indico.egi.eu/event/5882/overview) - [Call for abstracts](https://indico.egi.eu/event/5882/abstracts/) deadline: 07 June 2022
