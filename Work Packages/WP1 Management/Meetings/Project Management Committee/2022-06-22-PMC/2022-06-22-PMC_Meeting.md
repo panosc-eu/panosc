@@ -18,15 +18,17 @@ Agenda
 
 3. Grant Agreement amendment news
 
-4. News from WP leaders (progress, issues and cross-WP work)
+4. PMC meetings during summer period
 
-5. Last PaNOSC conference @ ICRI (~ 18/10/2022)
+5. News from WP leaders (progress, issues and cross-WP work)
 
-6. News from ExPaNDS
+6. Last PaNOSC conference @ ICRI (~ 18/10/2022)
 
-7. News from the EOSC
+7. News from ExPaNDS
 
-8. Recommendations from Periodic Report
+8. News from the EOSC
+
+9. Recommendations from Periodic Report
 
 |  #  | type | Title | Owned by | Notes |
 | --- | ---- | ----- | -------- | ----- |
@@ -44,7 +46,7 @@ Agenda
 | [#87](https://github.com/panosc-eu/panosc/issues/87) | minor | Stakeholder engagement | Nicoletta | | 
 | [#91](https://github.com/panosc-eu/panosc/issues/91) | minor | Innovation management | Andy | | 
 
-9. Upcoming events
+10. Upcoming events
 
 * 16 July 2022, 8:00 - 9:15 CEST, PaNOSC online session at ESOF2022 - Open Data for healthier societies: a virtuous cycle?
 * 12-16 September 2022, Szeged - Hungary, [PaNOSC Summer School 2022](https://www.panosc.eu/events/panosc-summer-school-2022/)
@@ -53,7 +55,7 @@ Agenda
 * 19-21 October 2022, Brno - Czech Republic - [ICRI 2022](https://www.icri2022.cz/) - 3rd PaN EOSC Symposium scheduled on 18 October
 * 14-17 November 2022, Prague and online, [EOSC Symposium 2022](https://eosc-portal.eu/events/eosc-symposium-2022) - [Sign up](https://eosc.us6.list-manage.com/track/click?u=bd106f33ba5f588652c5ad1a4&id=e52c4307a6&e=13138fee77)
 
-10. Use Cases Dashboard reminder (~1 min)
+11. Use Cases Dashboard reminder (~1 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
@@ -65,4 +67,4 @@ Agenda
 | ELI   |  1  | 1 planned  |
 | EGI   |  1  | of which 1 with CERIC and ILL | 
 
-11. AOB
+12. AOB
