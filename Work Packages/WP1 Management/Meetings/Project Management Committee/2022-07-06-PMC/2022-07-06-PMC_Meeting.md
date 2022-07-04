@@ -1,5 +1,5 @@
-PaNOSC Project Management Committee Meeting - 06/07/2022
-=========================================================
+PaNOSC Project Management Committee Meeting - 06/07/2022 at 13:00h
+==================================================================
 
 Agenda
 ------	
