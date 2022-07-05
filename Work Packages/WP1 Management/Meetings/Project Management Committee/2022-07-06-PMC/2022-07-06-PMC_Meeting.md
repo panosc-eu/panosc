@@ -15,8 +15,8 @@ Agenda
 | item |    Title    | due date | Reviewer | Status |
 | ---- | ----------- | -------- | -------- | -------|
 | D3.4 | Implementation Report | 31/07/2022 | Teodor | Work in progress |
-| D4.3 | Remote desktop and Jupyter service deployed at EOSC | 31/05/2022 | Jean-François | *pending* |
-| MS13 | Data analysis services accessible through EOSC | 31/05/2022 | Jordi | *pending* |
+| D4.3 | Remote desktop and Jupyter service deployed at EOSC | 31/05/2022 | Jean-François | **DONE** |
+| MS13 | Data analysis services accessible through EOSC | 31/05/2022 | Jordi | **ACHIEVED** |
 | D7.3 | PaN EOSC Business model reference doc | 31/05/2022 | ???  |  *pending* |
 | D8.3 | Teaching material for users | 31/05/2022 | Expected September 2022 | *pending* |
 
