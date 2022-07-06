@@ -4,13 +4,15 @@ Project Management Committee Meeting 06/07/2022 at 13:00h
 Participants: Jordi Bodera Sempere (ESRF), Andy Goetz (ESRF), Jean-Francois Perrin (ESRF), Juliane Marauska (ExPANDS),  Nicoletta Carboni(CERIC-ERIC), Andrew McCluskey (ESS),  Fabio Dall'Antonia (Eu XFEL), Mark Johnson (ILL), Stuart Caunt (ILL), Ornela de Giacomo (CERIC) and Teodor Ivănoaica (ELI)
 
 
-**1. Debrief of meeting with EC and science clusters ([slides](https://cloud.esrf.fr/s/AsE8ztX686JLtcj))**
-**2. Preparation of the next INFRA-EOSC calls for 2023/2024**
+**1. Debrief of meeting with EC and science clusters ([slides](https://cloud.esrf.fr/s/AsE8ztX686JLtcj))**,
+
+**2. Preparation of the next INFRA-EOSC calls for 2023/2024** and
+
 **3. Debrief of [proposal from EOSC-A](https://drive.google.com/file/d/1XoVU7vYidk9NiVqdqpnzFSsrAAcqXq68/view) and meeting with clusters**
 
 Andy started by thanking all the attendees as the meeting starts in this instance earlier as there is a fair amount of information to report regarding future calls, cluster activities and the future of PaNOSC.
 
-Andy shared a [presentation](https://cloud.esrf.fr/s/AsE8ztX686JLtcj) **please note this is not in GitHub Andy** and reported that the clusters met first and then met with DG-RTD and DG-CNECT.
+Andy shared a [presentation](https://cloud.esrf.fr/s/AsE8ztX686JLtcj) (**please note this is not in GitHub Andy**) and reported that the clusters met first and then met with DG-RTD and DG-CNECT.
 
 Andy gave some information about future calls, in particular
 * EOSC-01-01: all clusters to be involved, with  ~1M€ per cluster to consolidate what has been done so far. Also ~18M€ to fund smaller projects from the community (organise and follow sub-calls). Andy reported that it is understood that 2FTEs would be required to follow-up the subcalls and that is not clear how/what to do if a cluster member wants to apply in a subcall. ESCAPE is understood to be positioning themselves as coordinator, with 1-2 partners per cluster as direct beneficiaries with a strong involvement.
