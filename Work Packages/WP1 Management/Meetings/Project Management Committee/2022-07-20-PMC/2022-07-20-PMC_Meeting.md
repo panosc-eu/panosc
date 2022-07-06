@@ -4,25 +4,25 @@ PaNOSC Project Management Committee Meeting - 20/07/2022
 Agenda
 ------	
 
-1. Debrief meeting LEAPS/LENS working group
+1. Vote on having a final PaNOSC meeting in November
 
-2. Pending Deliverables/Milestones due 31/05/2022
+2. Debrief meeting LEAPS/LENS working group
+
+3. Pending Deliverables/Milestones due 31/05/2022
 
 | item |    Title    | due date | Reviewer | Status |
 | ---- | ----------- | -------- | -------- | -------|
 | D3.4 | Implementation Report | 31/07/2022 | Teodor | Work in progress |
-| D4.3 | Remote desktop and Jupyter service deployed at EOSC | 31/05/2022 | Jean-François | *pending* |
-| MS13 | Data analysis services accessible through EOSC | 31/05/2022 | Jordi | *pending* |
 | D7.3 | PaN EOSC Business model reference doc | 31/05/2022 | ???  |  *pending* |
 | D8.3 | Teaching material for users | 31/05/2022 | Expected September 2022 | *pending* |
 
-3. Grant Agreement amendment news
+4. Grant Agreement amendment news
 
-4. News from ExPaNDS
+5. News from ExPaNDS
 
-5. News from the EOSC
+6. News from the EOSC
 
-6. Recommendations from Periodic Report
+7. Recommendations from Periodic Report
 
 |  #  | type | Title | Owned by | Notes |
 | --- | ---- | ----- | -------- | ----- |
@@ -40,9 +40,9 @@ Agenda
 | [#87](https://github.com/panosc-eu/panosc/issues/87) | minor | Stakeholder engagement | Nicoletta | | 
 | [#91](https://github.com/panosc-eu/panosc/issues/91) | minor | Innovation management | Andy | | 
 
-7. News from WP leaders
+8. News from WP leaders
 
-8. Upcoming events
+9. Upcoming events
 
 * 16 July 2022, 8:00 - 9:15 CEST, PaNOSC online session at ESOF2022 - Open Data for healthier societies: a virtuous cycle?
 * 12-16 September 2022, Szeged - Hungary, [PaNOSC Summer School 2022](https://www.panosc.eu/events/panosc-summer-school-2022/)
@@ -51,7 +51,7 @@ Agenda
 * 19-21 October 2022, Brno - Czech Republic - [ICRI 2022](https://www.icri2022.cz/) - 3rd PaN EOSC Symposium scheduled on 18 October
 * 14-17 November 2022, Prague and online, [EOSC Symposium 2022](https://eosc-portal.eu/events/eosc-symposium-2022) - [Sign up](https://eosc.us6.list-manage.com/track/click?u=bd106f33ba5f588652c5ad1a4&id=e52c4307a6&e=13138fee77)
 
-9. Use Cases Dashboard reminder (~1 min)
+10. Use Cases Dashboard reminder (~1 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
@@ -63,4 +63,4 @@ Agenda
 | ELI   |  1  | 1 planned  |
 | EGI   |  1  | of which 1 with CERIC and ILL | 
 
-10. AOB
+11. AOB
