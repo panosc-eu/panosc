@@ -4,9 +4,7 @@ PaNOSC Project Management Committee Meeting - 20/07/2022
 Agenda
 ------	
 
-1. Vote on having a final PaNOSC meeting in November
-
-   1b. ICRI meeting news
+1. News about ICRI event and **Vote on having a final PaNOSC meeting in November**
 
 2. Debrief meeting LEAPS/LENS working group
 
