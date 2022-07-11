@@ -5,6 +5,7 @@ Agenda
 ------	
 
 1. Vote on having a final PaNOSC meeting in November
+1b. ICRI meeting news
 
 2. Debrief meeting LEAPS/LENS working group
 
