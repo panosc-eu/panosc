@@ -4,7 +4,9 @@ PaNOSC Project Management Committee Meeting - 17/08/2022
 Agenda
 ------	
 
-1. Pending Deliverables/Milestones until end of the project
+1. ICRI 2022 update and news (max 20 min)
+
+2. Pending Deliverables/Milestones until end of the project
 
 | item |    Title    | due date | Reviewer | Status |
 | ---- | ----------- | -------- | -------- | -------|
