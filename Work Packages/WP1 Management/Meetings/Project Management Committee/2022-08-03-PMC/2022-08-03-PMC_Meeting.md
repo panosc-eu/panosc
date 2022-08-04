@@ -10,7 +10,7 @@ Agenda
 | ---- | ----------- | -------- | -------- | -------|
 | D1.10 | Report of annual workshop 4 | 30/11/2022 | ??? |  |
 | M5   | Final Annual report  | 30/11/2022 | ??? |   |
-| D3.4 | Implementation Report | 31/07/2022 | Teodor | Work in progress |
+| D3.4 | Implementation Report | 31/07/2022 | Teodor | *submitted* |
 | D4.3 | Remote desktop and Jupyter service deployed at EOSC | 31/05/2022 | Jean-François | *pending* |
 | MS13 | Data analysis services accessible through EOSC | 31/05/2022 | Jordi | *pending* |
 | D4.4 | Publicly accessible demonstrator | 30/11/2022 |??? |   |
@@ -37,7 +37,7 @@ Agenda
 | --- | ---- | ----- | -------- | ----- |
 | [#82](https://github.com/panosc-eu/panosc/issues/82) | **MAJOR** | Detailed Sustainability Plan | Ornela | all RIs to contribute |
 | [#84](https://github.com/panosc-eu/panosc/issues/84) | **MAJOR** | Total Cost of Ownership blueprint | Ornela | clarification from PO required |
-| [#86](https://github.com/panosc-eu/panosc/issues/86) | **MAJOR** | Enhanced Federated Search | Tobias | |
+| [#86](https://github.com/panosc-eu/panosc/issues/86) | **MAJOR** | Enhanced Federated Search |  |  *Commented in ticket, awaiting reply* |
 | [#88](https://github.com/panosc-eu/panosc/issues/88) | **MAJOR** | Scientific publications | Nicoletta | all RIs to contribute |
 | [#89](https://github.com/panosc-eu/panosc/issues/89) | **MAJOR** | DP Framework adopted by all RIs | Andy | all RIs to contribute |
 | [#90](https://github.com/panosc-eu/panosc/issues/90) | **MAJOR** | Integrated FAIR data mgmt course | Andrew / Thomas |
