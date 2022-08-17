@@ -6,7 +6,9 @@ Agenda
 
 1. ICRI 2022 update and news (max 20 min)
 
-2. Pending Deliverables/Milestones until end of the project
+2. NOBUGS 2022 abstract + talk 
+
+3. Pending Deliverables/Milestones until end of the project
 
 | item |    Title    | due date | Reviewer | Status |
 | ---- | ----------- | -------- | -------- | -------|
@@ -27,13 +29,13 @@ Agenda
 | D8.4 | Closing report including summer school | 30/11/2022 | ??? |   |
 | D9.4 | Dissemination and Outreach activities | 30/11/2022 | ??? |   |
 
-3. Grant Agreement amendment news
+4. Grant Agreement amendment news
 
-4. News from ExPaNDS
+5. News from ExPaNDS
 
-5. News from the EOSC
+6. News from the EOSC
 
-6. Recommendations from Periodic Report
+7. Recommendations from Periodic Report
 
 |  #  | type | Title | Owned by | Notes |
 | --- | ---- | ----- | -------- | ----- |
@@ -51,9 +53,9 @@ Agenda
 | [#87](https://github.com/panosc-eu/panosc/issues/87) | minor | Stakeholder engagement | Nicoletta | | 
 | [#91](https://github.com/panosc-eu/panosc/issues/91) | minor | Innovation management | Andy | | 
 
-7. News from WP leaders
+8. News from WP leaders
 
-8. Upcoming events
+9. Upcoming events
 
 * 16 July 2022, 8:00 - 9:15 CEST, PaNOSC online session at ESOF2022 - Open Data for healthier societies: a virtuous cycle?
 * 12-16 September 2022, Szeged - Hungary, [PaNOSC Summer School 2022](https://www.panosc.eu/events/panosc-summer-school-2022/)
