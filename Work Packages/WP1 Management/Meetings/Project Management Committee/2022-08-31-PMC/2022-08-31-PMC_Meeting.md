@@ -4,24 +4,26 @@ PaNOSC Project Management Committee Meeting - 31/08/2022
 Agenda
 ------	
 
-1. Pending Deliverables/Milestones until end of the project
+1. Continuation of PaNOSC, report shared by Andy 24/08/2022
+
+2. Pending Deliverables/Milestones until end of the project
 
 | item |    Title    | due date | Reviewer | Status |
 | ---- | ----------- | -------- | -------- | -------|
 | D1.10 | Report of annual workshop 4 | 30/11/2022 | ??? |  |
 | M5   | Final Annual report  | 30/11/2022 | ??? |   |
-| D3.4 | Implementation Report | 31/07/2022 | Teodor | Work in progress |
-| D4.3 | Remote desktop and Jupyter service deployed at EOSC | 31/05/2022 | Jean-François | *pending* |
-| MS13 | Data analysis services accessible through EOSC | 31/05/2022 | Jordi | *pending* |
+| D3.4 | Implementation Report | 31/07/2022 | Teodor | done |
+| D4.3 | Remote desktop and Jupyter service deployed at EOSC | 31/05/2022 | Jean-François | done |
+| MS13 | Data analysis services accessible through EOSC | 31/05/2022 | Jordi | done |
 | D4.4 | Publicly accessible demonstrator | 30/11/2022 |??? |   |
 | D5.4 | Software released including interactive simulation and analysis workflow | 30/11/2022 | ??? |   |
 | M17  | Validation of simulation services | 30/11/2022 | ??? |   |
 | D6.5 | Report on EOSC Integration | 30/11/2022 | ??? |   |
 | D6.6 | Integration of RIs in EOSC | 30/11/2022 | ??? |   |
-| D7.3 | PaN EOSC Business model reference doc | 31/05/2022 | ???  |  *pending* |
+| D7.3 | PaN EOSC Business model reference doc | 31/05/2022 | ???  |  **pending** |
 | D7.4 | PaN EOSC Sustainability Plan | 30/11/2022 | ??? |   |
 | M22  | Final Sustainability plan | 30/11/2022 | ??? |   |
-| D8.3 | Teaching material for users | 31/05/2022 | Expected September 2022 | *pending* |
+| D8.3 | Teaching material for users | 31/05/2022 | Expected September 2022 | **pending** |
 | D8.4 | Closing report including summer school | 30/11/2022 | ??? |   |
 | D9.4 | Dissemination and Outreach activities | 30/11/2022 | ??? |   |
 
