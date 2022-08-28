@@ -4,16 +4,14 @@ PaNOSC Project Management Committee Meeting - 31/08/2022
 Agenda
 ------	
 
-1. Continuation of PaNOSC, [document](https://docs.google.com/document/d/1NmeKcYLfTtuGPnl1xoYgCeUYZuJMUWZk/edit?usp=sharing&ouid=107769201997330831191&rtpof=true&sd=true) shared by Andy 24/08/2022
-
-**PLEASE UPDATE THE TABLE OF THE STATUS OF ADOPTED OUTCOMES BY YOUR FACILITY ON PAGE 6 **
+1. Continuation of PaNOSC, [document](https://docs.google.com/document/d/1NmeKcYLfTtuGPnl1xoYgCeUYZuJMUWZk/edit?usp=sharing&ouid=107769201997330831191&rtpof=true&sd=true) shared by Andy 24/08/2022. **PLEASE UPDATE THE TABLE OF THE STATUS OF ADOPTED OUTCOMES BY YOUR FACILITY ON PAGE 6 **
 
 2. PaNOSC closing event - where and when?
 
 3. Pending Deliverables/Milestones until end of the project
 
 | item |    Title    | due date | Responsible | Reviewer | Status |
-| ---- | ----------- | -------- | -------- | -------|
+| ---- | ----------- | -------- | -------- | -------- | -------|
 | D1.10 | Report of annual workshop 4 | 30/11/2022 | Jordi | ??? |  |
 | M5   | Final Annual report  | 30/11/2022 | Jordi | ??? |   |
 | D4.4 | Publicly accessible demonstrator | 30/11/2022 | Fabio | ??? |   |
@@ -30,11 +28,7 @@ Agenda
 
 4. Grant Agreement amendment news
 
-5. News from ExPaNDS
-
-6. News from the EOSC
-
-7. Recommendations from Periodic Report
+5. Recommendations from Periodic Report
 
 |  #  | type | Title | Owned by | Notes |
 | --- | ---- | ----- | -------- | ----- |
@@ -51,6 +45,10 @@ Agenda
 | [#85](https://github.com/panosc-eu/panosc/issues/85) | minor | Data Management Plans | Andy | | 
 | [#87](https://github.com/panosc-eu/panosc/issues/87) | minor | Stakeholder engagement | Nicoletta | | 
 | [#91](https://github.com/panosc-eu/panosc/issues/91) | minor | Innovation management | Andy | | 
+
+6. News from ExPaNDS
+
+7. News from the EOSC
 
 8. News from WP leaders
 
