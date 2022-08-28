@@ -4,7 +4,9 @@ PaNOSC Project Management Committee Meeting - 31/08/2022
 Agenda
 ------	
 
-1. Continuation of PaNOSC, [document](https://docs.google.com/document/d/1NmeKcYLfTtuGPnl1xoYgCeUYZuJMUWZk/edit?usp=sharing&ouid=107769201997330831191&rtpof=true&sd=true) shared by Andy 24/08/2022. **PLEASE UPDATE THE TABLE OF THE STATUS OF ADOPTED OUTCOMES BY YOUR FACILITY ON PAGE 6 **
+1. Continuation of PaNOSC, [document](https://docs.google.com/document/d/1NmeKcYLfTtuGPnl1xoYgCeUYZuJMUWZk/edit?usp=sharing&ouid=107769201997330831191&rtpof=true&sd=true) shared by Andy 24/08/2022. 
+
+   TODO: **PLEASE UPDATE THE TABLE OF THE STATUS OF ADOPTED OUTCOMES BY YOUR FACILITY ON PAGE 6**
 
 2. PaNOSC closing event - where and when?
 
