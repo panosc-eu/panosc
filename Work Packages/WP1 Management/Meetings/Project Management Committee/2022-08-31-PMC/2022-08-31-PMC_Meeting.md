@@ -10,7 +10,9 @@ Agenda
 
 2. PaNOSC closing event - where and when?
 
-3. Pending Deliverables/Milestones until end of the project
+3. Grant Agreement amendment news
+
+4. Pending Deliverables/Milestones until end of the project
 
 | item |    Title    | due date | Responsible | Reviewer | Status |
 | ---- | ----------- | -------- | -------- | -------- | -------|
@@ -27,8 +29,6 @@ Agenda
 | D8.3 | Teaching material for users | 31/05/2022 | Andrew | ??? | **pending**  |
 | D8.4 | Closing report including summer school | 30/11/2022 | Teodor | ??? |   |
 | D9.4 | Dissemination and Outreach activities | 30/11/2022 | Nicoletta | ??? |   |
-
-4. Grant Agreement amendment news
 
 5. Recommendations from Periodic Report
 
