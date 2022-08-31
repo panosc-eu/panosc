@@ -58,6 +58,7 @@ Agenda
 
 * 31 August 2022, 16:00 CEST, [Webinar : vscode-h5web: A VSCode extension to explore and visualize HDF5 files](https://www.hdfgroup.org/2022/08/webinar-announcement-vscode-h5web-a-vscode-extension-to-explore-and-visualize-hdf5-files/)
 * 12-16 September 2022, Szeged - Hungary, [PaNOSC Summer School 2022](https://www.panosc.eu/events/panosc-summer-school-2022/)
+* 16 September 2022, online, [Online workshop for the Virtual Infrastructure for Scientific Analysis (VISA) platform](https://www.panosc.eu/events/online-workshop-for-the-virtual-infrastructure-for-scientific-analysis-visa-platform/) - [REGISTER HERE](https://diamondlight.zoom.us/webinar/register/5016587442270/WN_6PxU9BBaR46g9R3wW9J_6g)
 * 19-23 September 2022, Prague - Czech Republic - [Annual EGI Conference 2022](https://indico.egi.eu/event/5882/overview) - [Call for abstracts](https://indico.egi.eu/event/5882/abstracts/) deadline: 07 June 2022
 * 5-7 October 2022, Lund - Sweden, [3rd Joint ESS ILL User Meeting](https://indico.esss.lu.se/event/2809/) - [Call for abstracts](https://indico.esss.lu.se/event/2809/abstracts/) (deadline: 15 June 2022)
 * 19-21 October 2022, Brno - Czech Republic - [ICRI 2022](https://www.icri2022.cz/) - 3rd PaN EOSC Symposium scheduled on 18 October
