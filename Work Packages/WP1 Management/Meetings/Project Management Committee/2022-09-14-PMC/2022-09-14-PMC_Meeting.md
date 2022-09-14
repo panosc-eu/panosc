@@ -5,6 +5,9 @@ Agenda
 ------	
 
 1. PaNOSC closing event - where and when?
+* Option 1: Grenoble
+* Option 2: Brussels
+* Option 3: ??
 
 2. Grant Agreement amendment news
 
