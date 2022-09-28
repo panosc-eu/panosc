@@ -46,7 +46,6 @@ Agenda
 | --- | ---- | ----- | -------- | ----- |
 | [#82](https://github.com/panosc-eu/panosc/issues/82) | **MAJOR** | Detailed Sustainability Plan | Ornela | all RIs to contribute |
 | [#84](https://github.com/panosc-eu/panosc/issues/84) | **MAJOR** | Total Cost of Ownership blueprint | Ornela | clarification from PO required |
-| [#86](https://github.com/panosc-eu/panosc/issues/86) | **MAJOR** | Enhanced Federated Search | Tobias | |
 | [#88](https://github.com/panosc-eu/panosc/issues/88) | **MAJOR** | Scientific publications | Nicoletta | all RIs to contribute |
 | [#89](https://github.com/panosc-eu/panosc/issues/89) | **MAJOR** | DP Framework adopted by all RIs | Andy | all RIs to contribute |
 | [#90](https://github.com/panosc-eu/panosc/issues/90) | **MAJOR** | Integrated FAIR data mgmt course | Andrew / Thomas |
