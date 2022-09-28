@@ -5,20 +5,24 @@ Agenda
 ------	
 
 1. PaNOSC closing event - where and when?
-* Option 1: Grenoble
-* Option 2: Hamburg
+* Option 1: Hamburg
+* Option 2: Grenoble
 
 2. ICRI event news
 
 3. Grant Agreement amendment news
 
-4. News from ExPaNDS
+4. LEAPS - Strategy paper + plenary meeting
 
-5. News from the EOSC
+5. OSCARS - Open Science Clusters’ Action for Research and Society
+ 
+6. News from ExPaNDS
 
-6. News from WP leaders
+7. News from the EOSC Future
 
-7. Pending Deliverables/Milestones until end of the project
+8. News from WP leaders
+
+9. Pending Deliverables/Milestones until end of the project
 
 | item |    Title    | due date | Responsible | Reviewer | Status |
 | ---- | ----------- | -------- | -------- | -------- | -------|
@@ -36,7 +40,7 @@ Agenda
 | D8.4 | Closing report including summer school | 30/11/2022 | Teodor | ??? |   |
 | D9.4 | Dissemination and Outreach activities | 30/11/2022 | Nicoletta | ??? |   |
 
-8. Recommendations from Periodic Report
+10. Recommendations from Periodic Report
 
 |  #  | type | Title | Owned by | Notes |
 | --- | ---- | ----- | -------- | ----- |
@@ -55,7 +59,7 @@ Agenda
 | [#91](https://github.com/panosc-eu/panosc/issues/91) | minor | Innovation management | Andy | | 
 
 
-9. Upcoming events
+11. Upcoming events
 
 * 19-23 September 2022, Prague - Czech Republic - [Annual EGI Conference 2022](https://indico.egi.eu/event/5882/overview) - [Call for abstracts](https://indico.egi.eu/event/5882/abstracts/) deadline: 07 June 2022
 * 5-7 October 2022, Lund - Sweden, [3rd Joint ESS ILL User Meeting](https://indico.esss.lu.se/event/2809/) - [Call for abstracts](https://indico.esss.lu.se/event/2809/abstracts/) (deadline: 15 June 2022)
@@ -63,7 +67,7 @@ Agenda
 * 25-26 October 2022, Brussels - Belgium - [ESCAPE to the future conference](https://www.panosc.eu/events/panosc-at-escape-to-the-future-conference/) - REGISTER for: [onsite participation](https://projectescape.eu/form/escape-future-brussels-registration#overlay-context=form/escape-final-event-registration-form) | [online attendance](https://projectescape.eu/form/escape-future-brussels-registration#overlay-context=form/escape-final-event-registration-form)
 * 14-17 November 2022, Prague and online, [EOSC Symposium 2022](https://eosc-portal.eu/events/eosc-symposium-2022) - [Sign up](https://eosc.us6.list-manage.com/track/click?u=bd106f33ba5f588652c5ad1a4&id=e52c4307a6&e=13138fee77)
 
-10. Use Cases Dashboard reminder (~1 min)
+12. Use Cases Dashboard reminder (~1 min)
 
 | Partner | Use Cases Submitted | Comments |
 | ------- | ------------------- | -------- |
@@ -75,4 +79,4 @@ Agenda
 | ELI   |  1  | 1 planned  |
 | EGI   |  1  | of which 1 with CERIC and ILL | 
 
-11. AOB
+13. AOB
