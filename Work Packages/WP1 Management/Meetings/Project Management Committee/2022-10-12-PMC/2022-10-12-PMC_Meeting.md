@@ -56,7 +56,6 @@ Agenda
 
 9. Upcoming events
 
-* 19-23 September 2022, Prague - Czech Republic - [Annual EGI Conference 2022](https://indico.egi.eu/event/5882/overview) - [Call for abstracts](https://indico.egi.eu/event/5882/abstracts/) deadline: 07 June 2022
 * 5-7 October 2022, Lund - Sweden, [3rd Joint ESS ILL User Meeting](https://indico.esss.lu.se/event/2809/) - [Call for abstracts](https://indico.esss.lu.se/event/2809/abstracts/) (deadline: 15 June 2022)
 * 19-21 October 2022, Brno - Czech Republic - [ICRI 2022](https://www.icri2022.cz/) - 3rd PaN EOSC Symposium scheduled on 18 October
 * 25-26 October 2022, Brussels - Belgium - [ESCAPE to the future conference](https://www.panosc.eu/events/panosc-at-escape-to-the-future-conference/) - REGISTER for: [onsite participation](https://projectescape.eu/form/escape-future-brussels-registration#overlay-context=form/escape-final-event-registration-form) | [online attendance](https://projectescape.eu/form/escape-future-brussels-registration#overlay-context=form/escape-final-event-registration-form)
