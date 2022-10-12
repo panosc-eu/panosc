@@ -4,7 +4,7 @@ PaNOSC Project Management Committee Meeting - 12/10/2022
 Agenda
 ------	
 
-1. PaNOSC closing event news
+1. [PaNOSC closing event](https://indico.esrf.fr/event/66/) news
 
 2. ICRI event news
 
