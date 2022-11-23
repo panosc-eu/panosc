@@ -8,7 +8,9 @@ Agenda
 
 2. Grant Agreement amendment news
 
-3. News from WP leaders & upcoming deliverables
+3. Sustainability sheet from ExPaNDS to fill
+
+4. News from WP leaders & upcoming deliverables
 
 |  WP  | item |    Title    | due date | Responsible | Reviewer | Status |
 | ---- | ---- | ----------- | -------- | -------- | -------- | -------|
@@ -26,10 +28,10 @@ Agenda
 | WP8  | D8.4 | Closing report including summer school | 30/11/2022 | Teodor | ??? |   |
 | WP9  | D9.4 | Dissemination and Outreach activities | 30/11/2022 | Nicoletta | ??? |   |
  
-4. Final Report
+5. Final Report
 
-5. News from ExPaNDS
+6. News from ExPaNDS
 
-6. News from the EOSC Future
+7. News from the EOSC Future
 
-7. AOB
+8. AOB
