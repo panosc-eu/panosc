@@ -21,8 +21,8 @@ Agenda
 | WP6  | D6.6 | Integration of RIs in EOSC | 30/11/2022 | Jean-Francois |  |  **pending** |
 | WP7  | D7.4 | PaN EOSC Sustainability Plan | 30/11/2022 | Ornela |  |  **pending** |
 | WP7  | M22  | Final Sustainability plan | 30/11/2022 | Ornela |  |  **pending** |
-| WP8  | D8.4 | Closing report including summer school | 30/11/2022 | Andrew MCCluskey | andy |  review |
-| WP9  | D9.4 | Dissemination and Outreach activities | 30/11/2022 | Nicoletta |  |  **pending** |
+| WP8  | D8.4 | Closing report including summer school | 30/11/2022 | Andrew MCCluskey | andy |  submitted |
+| WP9  | D9.4 | Dissemination and Outreach activities | 30/11/2022 | Nicoletta |  |  submitted |
  
 3. Final Report
 
