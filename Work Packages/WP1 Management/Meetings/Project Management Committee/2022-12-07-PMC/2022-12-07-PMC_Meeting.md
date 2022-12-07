@@ -27,6 +27,10 @@ Agenda
 3. Final Report
 
 4. News from ExPaNDS
+- ExPaNDS thanks PaNOSC for the good collaboration and it was a great pleasure to attend the final meeting
+- The MoU working meeting was successful and it will be continued at the ExPaNDS final event
+- Sophie has opened an issue for the sustainability onepager: https://github.com/ExPaNDS-eu/ExPaNDS/issues/51
+- WP5 has finished to upload all workflows on the training platform
 
 5. New funding/collaboration opportunities
 
