@@ -27,6 +27,7 @@ Agenda
 * 5.1 Task deviations
 * 5.2 Use of resources deviations
 
+
 4. Periodic Report forms
 * Summary for Publication
 * Critical risks
@@ -35,8 +36,11 @@ Agenda
 * Open Data
 * Gender
 * Financial statements
+
+
 5. News from ExPaNDS
-- Meeting with DAPHNE4NFDI in Hamburg during ExPaNDS closing event
+* Meeting with DAPHNE4NFDI in Hamburg during ExPaNDS closing event
+
 
 6. EOSC & New funding/collaboration opportunities
 
