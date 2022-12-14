@@ -18,18 +18,26 @@ Agenda
 | WP7  | D7.4 | PaN EOSC Sustainability Plan | 30/11/2022 | Ornela |  |  **pending** |
 | WP7  | M22  | Final Sustainability plan | 30/11/2022 | Ornela |  |  **pending** |
  
-3. Final Report
-* Objectives
-* Explanation of the work carried per WP
-* Update of the explotation/dissemination plans
-* Update of the management plan
-* Recommendations
-* Task deviations
-* Use of resources deviations
+3. Final Technical Periodic Report - Part B
+* 1.1 Objectives
+* 1.2 Explanation of the work carried per WP
+* 2 Update of the explotation/dissemination plans
+* 3 Update of the management plan
+* 4 Recommendations
+* 5.1 Task deviations
+* 5.2 Use of resources deviations
 
-4. News from ExPaNDS
+4. Periodic Report forms
+* Summary for Publication
+* Critical risks
+* Publications
+* Dissemination and Communication
+* Open Data
+* Gender
+* Financial statements
+5. News from ExPaNDS
 - Meeting with DAPHNE4NFDI in Hamburg during ExPaNDS closing event
 
-5. EOSC & New funding/collaboration opportunities
+6. EOSC & New funding/collaboration opportunities
 
-6. AOB
+7. AOB
