@@ -10,8 +10,6 @@ Agenda
 | ---- | ---- | ----------- | -------- | -------- | -------- | -------|
 | WP1  | D1.10 | Report of annual workshop 4 | 30/11/2022 | Jordi |  | **pending** |
 | WP1  | M5   | Final Annual report  | 30/11/2022 | Jordi |  |  **pending** |
-| WP2  |   -  | Nothing |  |  |  | off the hook! |
-| WP3  |   -  | Nothing |  |  |  | off the hook! |
 | WP4  | D4.4 | Publicly accessible demonstrator | 30/11/2022 | Fabio | **pending** |   |
 | WP6  | D6.5 | Report on EOSC Integration | 30/11/2022 | Jean-Francois |   | **pending**  |
 | WP7  | D7.4 | PaN EOSC Sustainability Plan | 30/11/2022 | Ornela |  |  **pending** |
