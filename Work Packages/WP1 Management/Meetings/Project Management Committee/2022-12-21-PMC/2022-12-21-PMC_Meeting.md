@@ -13,8 +13,7 @@ Agenda
 | WP2  |   -  | Nothing |  |  |  | off the hook! |
 | WP3  |   -  | Nothing |  |  |  | off the hook! |
 | WP4  | D4.4 | Publicly accessible demonstrator | 30/11/2022 | Fabio | **pending** |   |
-| WP6  | D6.5 | Report on EOSC Integration | 30/11/2022 | Jean-Francois | andy  | review  |
-| WP6  | D6.6 | Integration of RIs in EOSC | 30/11/2022 | Jean-Francois |  |  **pending** |
+| WP6  | D6.5 | Report on EOSC Integration | 30/11/2022 | Jean-Francois |   | **pending**  |
 | WP7  | D7.4 | PaN EOSC Sustainability Plan | 30/11/2022 | Ornela |  |  **pending** |
 | WP7  | M22  | Final Sustainability plan | 30/11/2022 | Ornela |  |  **pending** |
  
