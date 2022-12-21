@@ -16,6 +16,9 @@ Agenda
 | WP7  | M22  | Final Sustainability plan | 30/11/2022 | Ornela |  |  depends on the above report |
  
 3. Final Technical Periodic Report - Part B
+
+https://docs.google.com/document/d/1UuRIRIA4TxAu-DDg4wjr5HXLat5_oOsm/edit?usp=sharing&ouid=107769201997330831191&rtpof=true&sd=true
+
 * 1.1 Objectives
 * 1.2 Explanation of the work carried per WP
 * 2 Update of the explotation/dissemination plans
