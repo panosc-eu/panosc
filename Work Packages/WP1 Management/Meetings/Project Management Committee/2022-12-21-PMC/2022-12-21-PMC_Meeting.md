@@ -8,12 +8,12 @@ Agenda
 
 |  WP  | item |    Title    | due date | Responsible | Reviewer | Status |
 | ---- | ---- | ----------- | -------- | -------- | -------- | -------|
-| WP1  | D1.10 | Report of annual workshop 4 | 30/11/2022 | Jordi |  | **pending** |
-| WP1  | M5   | Final Annual report  | 30/11/2022 | Jordi |  |  **pending** |
-| WP4  | D4.4 | Publicly accessible demonstrator | 30/11/2022 | Fabio |   | **pending**  |
-| WP6  | D6.5 | Report on EOSC Integration | 30/11/2022 | Jean-Francois |   | **pending**  |
-| WP7  | D7.4 | PaN EOSC Sustainability Plan | 30/11/2022 | Ornela |  |  **pending** |
-| WP7  | M22  | Final Sustainability plan | 30/11/2022 | Ornela |  |  **pending** |
+| WP1  | D1.10 | Report of annual workshop 4 | 30/11/2022 | Jordi | Andy  | only missing WP7 |
+| WP1  | M5   | Final Annual report  | 30/11/2022 | Jordi | Andy |  **pending** |
+| WP4  | D4.4 | Publicly accessible demonstrator | 30/11/2022 | Fabio |  Andy | Fabio to submit final draft today  |
+| WP6  | D6.5 | Report on EOSC Integration | 30/11/2022 | Jean-Francois | Doru  | work in progress  |
+| WP7  | D7.4 | PaN EOSC Sustainability Plan | 30/11/2022 | Ornela | Andy |  **no news** |
+| WP7  | M22  | Final Sustainability plan | 30/11/2022 | Ornela |  |  depends on the above report |
  
 3. Final Technical Periodic Report - Part B
 * 1.1 Objectives
