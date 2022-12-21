@@ -37,7 +37,10 @@ Agenda
 
 5. News from ExPaNDS
 * Meeting with DAPHNE4NFDI in Hamburg during ExPaNDS closing event
-
+- D2.6 and D2.8 about FAIR self assessment and DMPs have been submitted.
+- We wanted to attend the AAAS, which is in February every year. This year it was changed to the 2nd March, we are not allowed to go, because the project ends end of February.
+- Our project review will be in the middle of May 2023.
+- ExPaNDS Closing Event takes place in January (23./24.01.2023) in Hamburg
 
 6. EOSC & New funding/collaboration opportunities
 
