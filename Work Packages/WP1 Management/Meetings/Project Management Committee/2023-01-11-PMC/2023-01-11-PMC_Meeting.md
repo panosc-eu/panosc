@@ -36,4 +36,6 @@ Agenda
 
 6. EOSC & New funding/collaboration opportunities
 
-7. AOB
+7. Do we meet just 25/01 or do we need also 18/01 ?
+
+8. AOB
