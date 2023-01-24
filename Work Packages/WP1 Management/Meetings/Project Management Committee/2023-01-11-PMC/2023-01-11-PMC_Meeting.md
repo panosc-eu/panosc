@@ -8,8 +8,8 @@ Agenda
 
 |  WP  | item |    Title    | due date | Responsible | Reviewer | Status |
 | ---- | ---- | ----------- | -------- | -------- | -------- | -------|
-| WP1  | D1.10 | Report of annual workshop 4 | 30/11/2022 | Jordi | Andy  | only missing WP7 |
-| WP1  | M5   | Final Annual report  | 30/11/2022 | Jordi | Andy |  **pending** |
+| WP1  | D1.10 | Report of annual workshop 4 | 30/11/2022 | Jordi | Andy  | submitted! |
+| WP1  | M5   | Final Annual report  | 30/11/2022 | Jordi | Andy |  achieved! |
 | WP7  | D7.4 | PaN EOSC Sustainability Plan | 30/11/2022 | Ornela | Andy |  **no news** |
 | WP7  | M22  | Final Sustainability plan | 30/11/2022 | Ornela |  |  depends on the above report |
  
