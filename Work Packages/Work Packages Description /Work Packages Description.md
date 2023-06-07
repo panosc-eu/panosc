@@ -4,6 +4,8 @@ The management work package focuses on fostering communication between all the P
 The ESRF, as the leading partner in this work package, is in charge of these actions, with the project manager in particular being responsible for their successful implementation. 
 One key aspect for successful project management is ensuring the project’s structure of accountability and responsibilities. 
 
+![image](https://github.com/panosc-eu/panosc/assets/42873520/374b229b-23f7-403d-90b1-24ed8ef2f1c6)
+
 Deliverables WP1
 ------
 * [D1.1 – Project Initiation Documentation](https://doi.org/10.5281/zenodo.5887669)
@@ -132,7 +134,7 @@ Deliverables WP7:
 *	[D7.1 – Photon and Neutron EOSC stakeholder feedback](https://www.panosc.eu/wp-content/uploads/2021/11/PaNOSC_7.1_PaN-EOSC-Stakeholder-Feedback_Draft_FINAL.pdf)
 *	[D7.2 – Photon and Neutron EOSC metrics and costs model](https://doi.org/10.5281/zenodo.6010456)
 *	[D7.3 – Photon and Neutron EOSC Business model reference document](https://zenodo.org/record/7147689#:~:text=10.5281/zenodo.7147688)
-*	[D7.4 – Photon and Neutron EOSC sustainability plan]
+*	[D7.4 – Photon and Neutron EOSC sustainability plan](https://www.panosc.eu/wp-content/uploads/2023/06/PaNOSC_D7_4.pdf)
 
 
 Work Package 8 – Staff and User Training
@@ -171,6 +173,4 @@ Deliverables WP9:
 *	[D9.2 – PaNOSC website](https://doi.org/10.5281/zenodo.5897424)
 *	[D9.3 – PaNOSC repository for internal communications (confidential deliverable)]
 *	[D9.4 – Dissemination and Outreach activities](https://doi.org/10.5281/zenodo.7401054)
-
-![image](https://github.com/panosc-eu/panosc/assets/42873520/374b229b-23f7-403d-90b1-24ed8ef2f1c6)
 
