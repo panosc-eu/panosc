@@ -3,7 +3,7 @@
 | Partner | CERIC |  ESS | ELI  | ESRF | ILL | XFEL |
 | ------- | --- | --- | ---  | --- | --- |  --- |
 | Catalogue | VUO (online storage NOT a catalog) - ICAT will be used | SciCat | TBD | ICAT | ILL Own | MyMdC |
-| URL | https://vuo.elettra.trieste.it | https://scicat.esss.se | ---  | https://datahub.esrf.fr | https://data.ill.eu | https://in.xfel.eu/metadata |
+| URL | https://vuo.elettra.trieste.it | https://scicat.esss.se | ---  | https://data.esrf.fr | https://data.ill.eu | https://in.xfel.eu/metadata |
 | Login required | Yes | Yes | ---  | Yes | Yes | Yes |
 | File formats | NeXus, HDF5, ASCII and many others | NeXus| ---  | EDF, SPEC, MCA, CBF, CCD, MCCD, HDF5, NeXus | NeXus and ILL Ascii | HDF5 |
 | Database | Oracle | MongoDB | ---  | Oracle and MongoDB | Oracle |  MySQL and PostgreSQL |
