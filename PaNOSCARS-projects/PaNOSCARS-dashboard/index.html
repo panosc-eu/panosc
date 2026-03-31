@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>PaNOSC-related OSCARS Funded Projects</title>
+<!--
+  WORDPRESS EMBEDDING:
+  Host this file at a public URL, then in WordPress add a Custom HTML block:
+    <iframe src="URL_TO_THIS_FILE" width="100%" height="900" style="border:none;width:100%"></iframe>
+  Or use the "Advanced iFrame" plugin for auto-height.
+  All CSS/JS is self-contained. CSS is scoped to #posc-app to prevent theme conflicts.
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+/* ============================================================
+   RESET & ROOT  (scoped to #posc-app — safe inside WordPress)
+   ============================================================ */
+#posc-app,#posc-app *,#posc-app *::before,#posc-app *::after{
+  box-sizing:border-box;margin:0;padding:0
+}
+#posc-app{
+  font-family:'Mulish','Ubuntu',sans-serif;
+  font-size:14px;line-height:1.5;color:#2c2c2c;background:#f2f2f2;
+  --c1:#a44773;--c2:#666eae;--c3:#95b8e3;--c4:#4b4b4a;
+  --c1d:#7c3046;--c2d:#4a518e;--c3d:#6a96c8;
+  --c1l:#f6ecf2;--c2l:#ecedf6;--c3l:#e7f0fa;--c4l:#efefef;
+  --bg:#f2f2f2;--wh:#fff;--bd:#d6d6d6;--mu:#787878;--hbg:#ededed;
+  --ftag:'Ubuntu','Mulish',sans-serif;
+}
+
+/* ============================================================
+   HEADER
+   ============================================================ */
+#posc-app header{background:var(--hbg);border-bottom:2px solid #d0d0ce}
+
+#posc-app .h-top{
+  max-width:1300px;margin:0 auto;
+  padding:14px 28px 12px;
+  display:flex;align-items:center;gap:16px;
+  border-bottom:1px solid #d8d8d6;
+  flex-wrap:nowrap;
+}
+#posc-app .hlogo svg{display:block;height:46px;width:auto;flex-shrink:0}
+#posc-app .h-vl{width:1px;height:42px;background:#c4c4c2;flex-shrink:0}
+#posc-app .h-info{flex:1;min-width:0}
+#posc-app .h-info h1{
+  font-weight:700;font-size:clamp(13px,2vw,16px);
+  color:var(--c4);line-height:1.25;margin-bottom:2px;
+}
+#posc-app .h-info p{
+  font-size:clamp(10px,1.2vw,11.5px);
+  color:var(--mu);max-width:680px;line-height:1.45;
+}
+#posc-app .h-badge{
+  flex-shrink:0;background:var(--c1);color:#fff;
+  font-family:var(--ftag);font-size:10px;font-weight:700;
+  letter-spacing:1.5px;text-transform:uppercase;
+  padding:5px 12px;border-radius:3px;white-space:nowrap;
+}
+
+/* Stats strip */
+#posc-app .h-stats{
+  max-width:1300px;margin:0 auto;
+  padding:0 28px;
+  display:flex;flex-wrap:wrap;
+}
+#posc-app .hst{
+  padding:9px 18px 9px 0;margin-right:18px;
+  border-right:1px solid #d0d0ce;
+  display:flex;flex-direction:column;gap:1px;
+}
+#posc-app .hst:last-child{border-right:none;margin-right:0}
+#posc-app .hst-n{font-weight:700;font-size:clamp(18px,2.5vw,22px);line-height:1;color:var(--c1)}
+#posc-app .hst-l{font-size:10px;color:var(--mu);text-transform:uppercase;letter-spacing:.8px}
+
+/* ============================================================
+   MAIN WRAPPER
+   ============================================================ */
+#posc-app main{max-width:1300px;margin:0 auto;padding:16px 28px 56px}
+
+/* ============================================================
+   TOP FILTER BAR
+   ============================================================ */
+#posc-app .topbar{
+  background:var(--wh);border:1px solid var(--bd);border-radius:4px;
+  padding:10px 14px;
+  display:flex;flex-wrap:wrap;gap:6px 12px;align-items:center;
+  margin-bottom:14px;
+}
+#posc-app .fg{display:flex;align-items:center;gap:5px;flex-shrink:0}
+#posc-app .fg label{
+  font-size:10px;font-weight:700;color:var(--mu);
+  text-transform:uppercase;letter-spacing:.8px;white-space:nowrap;
+}
+#posc-app select,#posc-app input[type=text]{
+  border:1px solid var(--bd);border-radius:3px;
+  padding:3px 8px;
+  font-family:'Mulish','Ubuntu',sans-serif;font-size:12px;
+  color:#2c2c2c;background:#f9f9f9;
+  outline:none;height:27px;cursor:pointer;
+  transition:border-color .15s;
+  max-width:100%;
+}
+#posc-app select:focus,#posc-app input[type=text]:focus{border-color:var(--c1)}
+#posc-app input[type=text]{min-width:160px}
+#posc-app .fsep{flex:1 1 auto}
+#posc-app .fcount{font-size:11px;color:var(--mu);white-space:nowrap}
+#posc-app .fcount strong{color:var(--c1)}
+
+/* ============================================================
+   CHARTS ROW
+   ============================================================ */
+#posc-app .charts{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:14px;margin-bottom:14px;
+}
+#posc-app .cht{
+  background:var(--wh);border:1px solid var(--bd);
+  border-radius:4px;padding:13px 16px 10px;
+  min-width:0;
+}
+#posc-app .clbl{
+  font-size:10px;font-weight:700;color:var(--mu);
+  text-transform:uppercase;letter-spacing:1px;margin-bottom:10px;
+}
+#posc-app canvas{max-height:178px;width:100%!important}
+
+/* ============================================================
+   LIFECYCLE STRIP
+   ============================================================ */
+#posc-app .lccard{
+  background:var(--wh);border:1px solid var(--bd);
+  border-radius:4px;padding:12px 16px 10px;margin-bottom:16px;
+}
+#posc-app .lcbars{
+  display:flex;gap:5px;align-items:flex-end;
+  height:56px;margin-top:6px;
+}
+#posc-app .lccol{
+  flex:1;display:flex;flex-direction:column;
+  align-items:center;gap:4px;height:100%;justify-content:flex-end;
+}
+#posc-app .lcbar{
+  width:100%;border-radius:2px 2px 0 0;min-height:2px;position:relative;
+}
+#posc-app .lcbar:hover{opacity:.82}
+#posc-app .lcn{
+  position:absolute;top:-14px;left:50%;transform:translateX(-50%);
+  font-size:10px;font-weight:700;color:#2c2c2c;white-space:nowrap;
+}
+#posc-app .lclbl{
+  font-size:9px;color:var(--mu);text-align:center;
+  font-weight:700;text-transform:uppercase;
+}
+
+/* ============================================================
+   CARD-LEVEL PILL FILTERS
+   ============================================================ */
+#posc-app .pillrow{
+  margin-bottom:12px;
+  display:flex;flex-wrap:wrap;gap:8px;align-items:flex-start;
+}
+#posc-app .pgrp{display:flex;align-items:center;gap:5px;flex-wrap:wrap}
+#posc-app .pgrplbl{
+  font-size:10px;font-weight:700;color:var(--mu);
+  text-transform:uppercase;letter-spacing:.8px;white-space:nowrap;
+}
+#posc-app .pills{display:flex;gap:4px;flex-wrap:wrap}
+#posc-app .pill{
+  font-family:var(--ftag);font-size:10px;font-weight:600;
+  padding:3px 10px;border-radius:12px;
+  border:1px solid var(--bd);background:var(--wh);color:var(--mu);
+  cursor:pointer;transition:all .15s;user-select:none;
+  white-space:nowrap;line-height:1.4;
+}
+#posc-app .pill:hover{border-color:var(--c1);color:var(--c1)}
+#posc-app .pill.on{color:#fff;border-color:transparent}
+#posc-app .psep{
+  width:1px;height:18px;background:var(--bd);
+  flex-shrink:0;margin:0 4px;align-self:center;
+}
+
+/* ============================================================
+   SECTION HEADER
+   ============================================================ */
+#posc-app .sechd{display:flex;align-items:baseline;gap:8px;margin-bottom:12px}
+#posc-app .sechd h2{font-size:14px;font-weight:700;color:var(--c4)}
+#posc-app .seccnt{
+  font-size:10px;color:var(--mu);background:var(--c4l);
+  padding:2px 8px;border-radius:10px;font-weight:700;
+}
+
+/* ============================================================
+   CARD GRID
+   ============================================================ */
+#posc-app .grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(min(100%,340px),1fr));
+  gap:16px;
+}
+
+/* ============================================================
+   CARD
+   ============================================================ */
+#posc-app .card{
+  background:var(--wh);border:1px solid var(--bd);border-radius:4px;
+  overflow:hidden;display:flex;flex-direction:column;
+  transition:box-shadow .18s,transform .15s;
+}
+#posc-app .card:hover{box-shadow:0 4px 20px rgba(75,75,74,.13);transform:translateY(-2px)}
+#posc-app .cstrip{height:4px;flex-shrink:0}
+
+/* Card header */
+#posc-app .chdr{padding:12px 14px 10px;flex-shrink:0}
+#posc-app .cbadges{
+  display:flex;align-items:center;gap:4px;
+  margin-bottom:8px;flex-wrap:wrap;
+}
+#posc-app .chip{
+  font-family:var(--ftag);font-size:10px;font-weight:600;
+  color:var(--mu);background:var(--bg);border:1px solid var(--bd);
+  padding:2px 6px;border-radius:3px;white-space:nowrap;
+}
+#posc-app .chipc{
+  font-family:var(--ftag);font-size:9px;font-weight:700;
+  color:#fff;padding:2px 7px;border-radius:3px;
+  text-transform:uppercase;letter-spacing:.3px;white-space:nowrap;
+}
+#posc-app .chipx{
+  font-family:var(--ftag);font-size:9px;font-weight:600;
+  color:var(--c2);border:1px solid var(--c2);
+  padding:1px 6px;border-radius:3px;white-space:nowrap;
+}
+#posc-app .chipoc{
+  font-family:var(--ftag);font-size:10px;color:var(--mu);
+  margin-left:auto;font-weight:600;white-space:nowrap;
+}
+#posc-app .ctitle{
+  font-weight:700;font-size:13.5px;line-height:1.32;
+  color:#2c2c2c;margin-bottom:4px;
+}
+#posc-app .corgrow{
+  display:flex;align-items:baseline;gap:4px;flex-wrap:wrap;
+}
+#posc-app .corg{font-size:11.5px;color:var(--mu);font-style:italic}
+#posc-app .cdot{color:#ccc;font-size:11px}
+#posc-app .ccountry{font-size:11px;color:var(--mu);font-weight:600}
+
+/* Tab bar — wraps onto multiple lines, no horizontal scroll */
+#posc-app .ctabs{
+  display:flex;
+  flex-wrap:wrap;
+  border-bottom:1px solid var(--bd);
+  background:#fafafa;
+  flex-shrink:0;
+}
+#posc-app .ctab{
+  font-family:var(--ftag);font-size:9px;font-weight:700;
+  text-transform:uppercase;letter-spacing:.5px;
+  padding:7px 11px;
+  color:var(--mu);cursor:pointer;
+  border-bottom:2px solid transparent;
+  white-space:nowrap;
+  transition:color .15s,border-color .15s;
+  user-select:none;flex-shrink:0;line-height:1.3;
+}
+#posc-app .ctab:hover{color:var(--c1)}
+#posc-app .ctab.on{color:var(--c1);border-bottom-color:var(--c1)}
+#posc-app .ctab.star::after{content:" ★";font-size:8px;vertical-align:super;opacity:.75}
+
+/* Content panels */
+#posc-app .cpanel{padding:12px 14px 10px;display:none;flex-direction:column;gap:10px}
+#posc-app .cpanel.on{display:flex}
+
+/* Panel atoms */
+#posc-app .pblk{display:flex;flex-direction:column;gap:3px}
+#posc-app .plbl{
+  font-size:9.5px;font-weight:700;text-transform:uppercase;
+  letter-spacing:.9px;color:var(--mu);
+}
+#posc-app .ptxt{font-size:12.5px;line-height:1.62;color:#464646}
+#posc-app .pul{
+  margin:0;padding-left:15px;
+  display:flex;flex-direction:column;gap:3px;
+}
+#posc-app .pul li{font-size:12.5px;line-height:1.58;color:#464646}
+#posc-app .lctags{display:flex;flex-wrap:wrap;gap:3px}
+#posc-app .lctag{
+  font-family:var(--ftag);font-size:9px;font-weight:700;
+  text-transform:uppercase;letter-spacing:.4px;
+  padding:2px 6px;border-radius:3px;color:#fff;
+}
+#posc-app .kwtags{display:flex;flex-wrap:wrap;gap:3px}
+#posc-app .kwtag{
+  font-family:var(--ftag);font-size:10px;
+  padding:2px 7px;border-radius:3px;
+  border:1px solid var(--bd);color:var(--mu);background:#fafafa;
+  max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+}
+
+/* Links */
+#posc-app .llist{display:flex;flex-direction:column;gap:6px}
+#posc-app .lrow{display:flex;align-items:flex-start;gap:7px}
+#posc-app .larrow{
+  flex-shrink:0;width:18px;height:18px;border-radius:3px;
+  background:var(--c2);display:flex;align-items:center;justify-content:center;
+  transition:background .15s;margin-top:1px;text-decoration:none;
+}
+#posc-app .lrow:hover .larrow{background:var(--c1)}
+#posc-app .larrow svg{display:block;flex-shrink:0}
+#posc-app a.lnk{
+  font-size:12px;color:var(--c2);text-decoration:none;
+  line-height:1.45;word-break:break-word;font-weight:600;
+}
+#posc-app a.lnk:hover{color:var(--c1);text-decoration:underline}
+#posc-app .ltext{font-size:12px;color:#464646;line-height:1.45;word-break:break-word}
+#posc-app .ptxt a,#posc-app .pul li a{
+  color:var(--c2);text-decoration:none;font-weight:600;word-break:break-word;
+}
+#posc-app .ptxt a:hover,#posc-app .pul li a:hover{color:var(--c1);text-decoration:underline}
+
+/* Success story */
+#posc-app .ssbox{
+  background:var(--c1l);border-left:3px solid var(--c1);
+  border-radius:0 3px 3px 0;padding:9px 11px;
+}
+#posc-app .sshd{
+  font-family:var(--ftag);font-size:9.5px;font-weight:700;
+  text-transform:uppercase;letter-spacing:.8px;color:var(--c1);
+  margin-bottom:5px;display:flex;align-items:center;gap:4px;
+}
+#posc-app .ssbox .ptxt{color:#3a2030;font-style:italic}
+#posc-app .ssbox .pul li{color:#3a2030;font-style:italic}
+
+/* Poster button */
+#posc-app .posterbtn{
+  display:inline-flex;align-items:center;gap:5px;
+  font-size:11px;color:var(--c2);text-decoration:none;
+  font-family:var(--ftag);font-weight:700;
+  border:1px solid var(--c2);padding:3px 10px;border-radius:3px;
+  transition:all .15s;margin-top:2px;
+}
+#posc-app .posterbtn:hover{background:var(--c2);color:#fff}
+
+/* Card footer */
+#posc-app .cfoot{
+  display:flex;align-items:center;gap:7px;
+  padding:9px 14px;border-top:1px solid var(--bd);
+  background:#f9f9f9;flex-wrap:wrap;flex-shrink:0;
+}
+#posc-app .pibox{display:flex;align-items:center;gap:6px;flex-shrink:0}
+#posc-app .piico{
+  width:28px;height:28px;border-radius:50%;
+  background:var(--c1);display:flex;align-items:center;justify-content:center;
+  flex-shrink:0;
+}
+#posc-app .piico svg{display:block}
+#posc-app .piname{font-size:11.5px;color:#464646;font-weight:600;font-family:var(--ftag)}
+#posc-app .fbudget{
+  font-family:var(--ftag);font-size:11px;font-weight:700;
+  color:var(--c1);background:var(--c1l);padding:2px 7px;border-radius:3px;
+}
+#posc-app .fdur{
+  font-family:var(--ftag);font-size:11px;font-weight:600;
+  color:var(--c2);background:var(--c2l);padding:2px 7px;border-radius:3px;
+}
+#posc-app .fstart{font-size:10.5px;color:var(--mu);font-family:var(--ftag)}
+#posc-app .flnk{
+  margin-left:auto;font-size:11px;color:var(--c2);text-decoration:none;
+  font-weight:700;font-family:var(--ftag);transition:color .15s;
+  display:flex;align-items:center;gap:3px;white-space:nowrap;
+}
+#posc-app .flnk:hover{color:var(--c1)}
+
+#posc-app .nores{
+  grid-column:1/-1;text-align:center;padding:48px;
+  color:var(--mu);font-size:13px;
+}
+
+/* ============================================================
+   RESPONSIVE BREAKPOINTS
+   ============================================================ */
+
+/* ── TABLET: ≤960px ── */
+@media (max-width:960px){
+  #posc-app .charts{grid-template-columns:1fr}
+  #posc-app canvas{max-height:220px}
+  #posc-app main,
+  #posc-app .h-top,
+  #posc-app .h-stats{padding-left:16px;padding-right:16px}
+}
+
+/* ── LARGE PHONE: ≤680px ── */
+@media (max-width:680px){
+  /* Header: logo + title stack, badge hides */
+  #posc-app .h-top{flex-wrap:wrap;gap:10px;padding:12px 16px 10px}
+  #posc-app .h-vl{display:none}
+  #posc-app .h-badge{display:none}
+  #posc-app .h-info h1{font-size:14px}
+  #posc-app .h-info p{font-size:11px}
+
+  /* Stats: smaller numbers, tighter spacing */
+  #posc-app .h-stats{padding:0 16px}
+  #posc-app .hst{padding:7px 14px 7px 0;margin-right:14px}
+  #posc-app .hst-n{font-size:18px}
+  #posc-app .hst-l{font-size:9px}
+
+  /* Top filter bar: stack vertically */
+  #posc-app .topbar{flex-direction:column;align-items:stretch;gap:6px;padding:10px}
+  #posc-app .fg{width:100%}
+  #posc-app .fg label{min-width:70px}
+  #posc-app select,
+  #posc-app input[type=text]{width:100%;min-width:unset;flex:1}
+  #posc-app .fsep{display:none}
+  #posc-app .fcount{text-align:center;padding:4px 0 0}
+
+  /* Pill filters: scroll horizontally */
+  #posc-app .pillrow{flex-direction:column;gap:6px}
+  #posc-app .pgrp{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;
+    scrollbar-width:none;-webkit-overflow-scrolling:touch}
+  #posc-app .pgrp::-webkit-scrollbar{display:none}
+  #posc-app .psep{display:none}
+  #posc-app .pills{flex-wrap:nowrap}
+
+  /* Lifecycle: shrink labels */
+  #posc-app .lcbars{height:48px;gap:3px}
+  #posc-app .lclbl{font-size:7.5px;letter-spacing:0}
+  #posc-app .lcn{font-size:9px}
+
+  /* Cards: full width */
+  #posc-app .grid{grid-template-columns:1fr;gap:12px}
+}
+
+/* ── SMALL PHONE: ≤400px ── */
+@media (max-width:400px){
+  #posc-app .h-top{padding:10px 12px 8px}
+  #posc-app .hlogo svg{height:38px}
+  #posc-app .h-info h1{font-size:13px}
+  #posc-app .h-stats{padding:0 12px}
+  #posc-app .hst-n{font-size:16px}
+  #posc-app .hst{padding:6px 12px 6px 0;margin-right:12px}
+  #posc-app main{padding:12px 12px 48px}
+
+  /* Card internals tighten */
+  #posc-app .chdr{padding:10px 12px 8px}
+  #posc-app .cpanel{padding:10px 12px 8px;gap:8px}
+  #posc-app .cfoot{padding:8px 12px;gap:5px}
+  #posc-app .ctab{padding:6px 9px;font-size:8.5px}
+  #posc-app .ctitle{font-size:13px}
+  #posc-app .ptxt,#posc-app .pul li{font-size:12px}
+  #posc-app .piname{font-size:11px}
+
+  /* Stats: wrap into 2 columns */
+  #posc-app .h-stats{flex-wrap:wrap}
+  #posc-app .hst{width:45%;border-right:none;padding-bottom:4px}
+
+  #posc-app .ctab{font-size:8.5px;padding:6px 9px;letter-spacing:.3px}
+}
+
+/* ── PRINT ── */
+@media print{
+  #posc-app header{background:#fff;border-bottom:1px solid #ccc}
+  #posc-app .topbar,
+  #posc-app .pillrow,
+  #posc-app .charts,
+  #posc-app .lccard{display:none}
+  #posc-app .grid{grid-template-columns:1fr 1fr;gap:12px}
+  #posc-app .card{break-inside:avoid;box-shadow:none}
+  #posc-app .cpanel.on{display:flex}
+}
+</style>
+</head>
+<body>
+<div id="posc-app">
+<header><div class="h-top"><div class="hlogo"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  style="height:46px;width:auto;display:block" viewBox="0 0 578.183 240.93">
+<path fill-rule="nonzero" fill="rgb(28.999329%, 28.999329%, 28.599548%)" fill-opacity="1" d="M 78.953125 151.320312 C 78.953125 133.019531 73.976562 129.359375 60.070312 129.359375 C 53.042969 129.359375 46.746094 130.238281 45.429688 130.53125 C 43.964844 130.824219 42.5 131.265625 42.5 133.753906 L 42.5 168.890625 C 42.5 171.378906 43.964844 171.820312 45.429688 172.257812 C 46.746094 172.550781 53.042969 173.285156 60.070312 173.285156 C 73.976562 173.285156 78.953125 169.621094 78.953125 151.320312 M 19.074219 195.539062 L 19.074219 132.726562 C 19.074219 127.164062 20.097656 124.527344 31.960938 122.917969 C 38.691406 121.894531 49.234375 121.160156 60.214844 121.160156 C 95.792969 121.160156 103.554688 130.53125 103.554688 151.320312 C 103.554688 172.109375 96.816406 181.480469 61.972656 181.480469 C 55.238281 181.480469 50.261719 181.042969 46.015625 180.75 C 44.113281 180.605469 42.5 181.042969 42.5 183.824219 L 42.5 195.539062 C 42.5 202.417969 41.035156 203.734375 32.253906 203.734375 L 29.765625 203.734375 C 20.542969 203.734375 19.074219 202.417969 19.074219 195.539062 "/>
+<path fill-rule="nonzero" fill="rgb(28.999329%, 28.999329%, 28.599548%)" fill-opacity="1" d="M 156.1875 173.617188 C 158.28125 173.125 159.757812 172.511719 159.757812 169.679688 L 159.757812 161.554688 C 159.757812 159.339844 158.15625 158.847656 156.804688 158.847656 L 143.757812 158.847656 C 134.894531 158.847656 130.957031 159.585938 130.957031 165.863281 C 130.957031 173.371094 134.035156 174.476562 144.742188 174.476562 C 149.664062 174.476562 154.464844 173.988281 156.1875 173.617188 M 110.402344 165.371094 C 110.402344 152.449219 123.941406 151.585938 142.402344 151.585938 L 156.683594 151.585938 C 158.15625 151.585938 159.757812 151.21875 159.757812 148.753906 L 159.757812 146.785156 C 159.757812 138.910156 154.339844 138.542969 143.511719 138.542969 C 132.1875 138.542969 121.972656 140.140625 119.511719 140.386719 C 116.804688 140.757812 115.820312 140.140625 115.820312 136.695312 C 115.820312 133.371094 116.1875 132.878906 119.390625 132.261719 C 121.476562 131.894531 134.035156 130.539062 148.1875 130.539062 C 159.015625 130.539062 167.265625 131.523438 172.433594 133.988281 C 177.847656 136.570312 179.449219 140.757812 179.449219 146.296875 L 179.449219 171.402344 C 179.449219 176.082031 178.585938 178.296875 168.25 179.894531 C 162.21875 180.757812 151.386719 181.371094 142.894531 181.371094 C 114.710938 181.371094 110.402344 176.574219 110.402344 165.371094 "/>
+<path fill-rule="nonzero" fill="rgb(28.999329%, 28.999329%, 28.599548%)" fill-opacity="1" d="M 217.539062 171.964844 C 217.539062 178.847656 216.078125 180.015625 207.292969 180.015625 L 204.804688 180.015625 C 195.433594 180.015625 194.113281 178.554688 194.113281 171.964844 L 194.113281 133.019531 C 194.113281 127.457031 195.144531 125.40625 207.292969 123.355469 C 215.054688 122.039062 228.082031 121.160156 239.355469 121.160156 C 265.5625 121.160156 275.519531 127.601562 275.519531 143.269531 L 275.519531 171.964844 C 275.519531 178.847656 274.054688 180.015625 265.269531 180.015625 L 262.925781 180.015625 C 253.414062 180.015625 252.09375 178.554688 252.09375 171.964844 L 252.09375 142.976562 C 252.09375 131.558594 246.09375 129.652344 235.550781 129.652344 C 229.695312 129.652344 224.863281 130.238281 221.054688 131.117188 C 218.855469 131.558594 217.539062 132.582031 217.539062 135.363281 Z M 217.539062 171.964844 "/>
+<path fill-rule="nonzero" fill="rgb(28.999329%, 28.999329%, 28.599548%)" fill-opacity="1" d="M 350.328125 151.46875 C 350.328125 137.121094 348.867188 129.214844 331.003906 129.214844 C 313.140625 129.214844 311.679688 137.121094 311.679688 151.46875 C 311.679688 165.816406 313.140625 173.574219 331.003906 173.574219 C 348.867188 173.574219 350.328125 165.816406 350.328125 151.46875 M 287.082031 151.46875 C 287.082031 134.628906 291.035156 121.164062 331.003906 121.164062 C 370.824219 121.164062 374.925781 134.628906 374.925781 151.46875 C 374.925781 168.160156 370.824219 181.628906 331.003906 181.628906 C 291.035156 181.628906 287.082031 168.160156 287.082031 151.46875 "/>
+<path fill-rule="nonzero" fill="rgb(28.999329%, 28.999329%, 28.599548%)" fill-opacity="1" d="M 388.539062 179.285156 C 384.730469 178.554688 384.289062 177.96875 384.289062 174.160156 C 384.289062 169.914062 385.464844 169.183594 388.683594 169.621094 C 392.492188 170.207031 406.398438 172.40625 422.652344 172.40625 C 435.683594 172.40625 439.78125 171.527344 439.78125 166.402344 C 439.78125 160.984375 437.730469 160.25 420.601562 159.226562 C 392.785156 157.910156 383.707031 155.859375 383.707031 140.339844 C 383.707031 121.308594 398.933594 121.160156 422.507812 121.160156 C 438.023438 121.160156 449.738281 122.917969 452.371094 123.359375 C 456.03125 123.941406 456.617188 124.382812 456.617188 128.1875 C 456.617188 132.289062 455.449219 133.167969 452.230469 132.726562 C 449.445312 132.433594 437.582031 130.675781 423.824219 130.675781 C 410.058594 130.675781 405.816406 130.972656 405.816406 136.09375 C 405.816406 140.925781 407.277344 141.953125 423.382812 142.539062 C 451.789062 143.855469 461.304688 144.878906 461.304688 162.15625 C 461.304688 180.601562 442.417969 181.628906 421.042969 181.628906 C 403.910156 181.628906 391.175781 179.726562 388.539062 179.285156 "/>
+<path fill-rule="nonzero" fill="rgb(28.999329%, 28.999329%, 28.599548%)" fill-opacity="1" d="M 469.9375 151.175781 C 469.9375 131.410156 478.867188 120.871094 514.152344 121.015625 C 530.699219 121.160156 540.066406 122.773438 542.265625 123.066406 C 546.066406 123.796875 546.652344 124.382812 546.652344 128.335938 C 546.652344 132.433594 545.484375 132.875 542.117188 132.582031 C 538.457031 132.140625 527.917969 130.824219 519.128906 130.824219 C 498.925781 130.824219 494.390625 136.242188 494.390625 151.175781 C 494.390625 166.253906 498.925781 171.671875 519.128906 171.671875 C 527.917969 171.671875 538.457031 170.355469 542.117188 169.914062 C 545.484375 169.476562 546.652344 169.914062 546.652344 174.160156 C 546.652344 178.113281 546.066406 178.699219 542.265625 179.285156 C 540.066406 179.722656 530.699219 181.335938 514.152344 181.335938 C 478.867188 181.628906 469.9375 171.085938 469.9375 151.175781 "/>
+<path fill-rule="nonzero" fill="rgb(50.999451%, 72.198486%, 89.399719%)" fill-opacity="1" d="M 392 61.710938 C 392 61.710938 346.191406 -34.667969 272.617188 61.710938 C 199.042969 158.09375 153.234375 61.710938 153.234375 61.710938 L 129.996094 61.710938 C 129.996094 61.710938 175.804688 158.09375 249.378906 61.710938 C 322.949219 -34.667969 368.761719 61.710938 368.761719 61.710938 Z M 392 61.710938 "/>
+<path fill-rule="nonzero" fill="rgb(39.199829%, 43.099976%, 69.398499%)" fill-opacity="1" d="M 355.25 61.710938 C 355.25 61.710938 309.441406 -34.667969 235.867188 61.710938 C 162.296875 158.09375 116.484375 61.710938 116.484375 61.710938 L 93.246094 61.710938 C 93.246094 61.710938 139.054688 158.09375 212.628906 61.710938 C 286.203125 -34.667969 332.011719 61.710938 332.011719 61.710938 Z M 355.25 61.710938 "/>
+<path fill-rule="nonzero" fill="rgb(73.298645%, 27.49939%, 46.699524%)" fill-opacity="1" d="M 316.199219 61.710938 C 316.199219 61.710938 270.386719 -34.667969 196.8125 61.710938 C 123.242188 158.09375 77.429688 61.710938 77.429688 61.710938 L 54.191406 61.710938 C 54.191406 61.710938 100 158.09375 173.574219 61.710938 C 247.148438 -34.667969 292.960938 61.710938 292.960938 61.710938 Z M 316.199219 61.710938 "/>
+</svg></div><div class="h-vl"></div><div class="h-info"><h1>PaNOSC-related OSCARS Funded Projects</h1><p>Projects funded through the OSCARS open calls involving the Photon &amp; Neutron Open Science Cluster (PaNOSC) &#x2014; as lead cluster or cross-domain partner. PaNOSC itself is not funded by OSCARS.</p></div><div class="h-badge">PaNOSC Node</div></div><div class="h-stats"><div class="hst"><div class="hst-n" id="sP">16</div><div class="hst-l">Projects</div></div><div class="hst"><div class="hst-n" id="sB">&#x20AC;3.86M</div><div class="hst-l">Total Funding</div></div><div class="hst"><div class="hst-n" id="sO">56</div><div class="hst-l">Organisations</div></div><div class="hst"><div class="hst-n" id="sC">6</div><div class="hst-l">Countries</div></div><div class="hst"><div class="hst-n" id="sOC">2</div><div class="hst-l">Open Calls</div></div></div></header><main>
+<div class="topbar">
+  <div class="fg"><label>Search</label><input type="text" id="fq" placeholder="Title, keyword, organisation&hellip;"></div>
+  <div class="fg"><label>Country</label><select id="fco"><option value="">All Countries</option></select></div>
+  <div class="fg"><label>Open Call</label><select id="foc"><option value="">All</option><option value="1">Call 1</option><option value="2">Call 2</option></select></div>
+  <div class="fsep"></div>
+  <div class="fcount">Showing <strong id="cnt">16</strong> of 16 projects</div>
+</div>
+<div class="charts">
+  <div class="cht"><div class="clbl">Challenge Type</div><canvas id="chCh"></canvas></div>
+  <div class="cht"><div class="clbl">Projects by Country</div><canvas id="chCo"></canvas></div>
+</div>
+<div class="lccard"><div class="clbl">Research Data Lifecycle Coverage</div><div class="lcbars" id="lcbars"></div></div>
+<div class="pillrow">
+  <div class="pgrp"><span class="pgrplbl">Challenge</span><div class="pills" id="pillsCh"></div></div>
+  <div class="psep"></div>
+  <div class="pgrp"><span class="pgrplbl">Lifecycle&nbsp;Stage</span><div class="pills" id="pillsLc"></div></div>
+</div>
+<div class="sechd"><h2>Projects</h2><span class="seccnt" id="gcnt">16 shown</span></div>
+<div class="grid" id="grid"></div>
+</main>
+</div>
+<script>
+(function(){
+var DATA = [{"id": "01-076", "oc": "1", "cluster": "Cross-Domain (PaNOSC, Other)", "title": "Findable Big Data from Various Material Characterisation Techniques", "start": "2024-10-01", "dur": "24", "url": "https://www.oscars-project.eu/projects/findable-big-data-various-material-characterisation-techniques", "ch": "Data Annotation", "country": "Germany", "budget": 250000.0, "org": "Humboldt-Universität zu Berlin", "otype": "Academia/Research", "lc": ["PLAN"], "kw": ["FAIR image analysis", "imaging", "imaging techniques", "reusable image analysis workflows"], "partners": ["FAIR Data Infrastructure for Physics, Chemistry,", "Materials Science, and Astronomy e.V. (FAIR-DI),", "Helmholtz-Zentrum Berlin für Materialien und Energie (HZB),", "European Synchrotron Radiation Facility (ESRF)"], "user": "Claudia Draxl", "overall_desc": "The Findable Big Data project enhances the discoverability of experimental datasets across photon and neutron (PaN) facilities and materials science laboratories. By integrating the PaNET ontology with the NeXus Ontology, it establishes a foundational classification of experimental techniques, ensuring semantic coherence across data catalogues within European and global research facilities.", "what_we_do": "Datasets of different techniques should be findable based on PaNET ontology. Hence, NOMAD search functionality has been extended. The implemented solution enables semantic search for experimental datasets.", "challenge_desc": "The project addresses the difficulty of finding relevant experimental datasets across dispersed platforms. It aims to improve ontology harmonisation to optimise data discovery and support Open Science, cross-domain research, and industry cooperation.", "solution": "Responding to the Annotation of data & type of data, the project enhances dataset findability by refining and integrating the PaNET ontology into research data management platforms such as NOMAD (https://nomad-lab.eu/nomad-lab/), ESRF (https://www.esrf.fr/), and HZB (https://www.helmholtz-berlin.de/). This ensures precise descriptions of experimental techniques, improves metadata interoperability, and establishes best practices for data management across research infrastructures.", "howto": ["Ontology mapping:", "- PaNET - NeXus - ESRF-ET", "Ontology integration:", "- RDM platforms (E.g. NOMAD, ESRF_DATA, HZB_DATA)"], "impact": "By integrating the enhanced PaNET ontology into EOSC services like PaN data portals and NOMAD, the project significantly improves data accessibility and interoperability. Institutions such as FAIRmat (https://www.fairmat-nfdi.eu/fairmat/), DAPHNE4NFDI (https://www.daphne4nfdi.de/), and ESRF contribute to expanding search capabilities, enabling advanced big data analysis through AI-powered tools. This enhanced data findability lays the groundwork for comprehensive analysis of experimental big data, also leveraging tools, such as the NOMAD's Artificial Intelligence Toolkit (https://nomad-lab.eu/nomad-lab/ai-toolkit.html)", "results": ["ESRF-ET", "All regular techniques are implemented concepts and object properties for differentiating the techniques", "PaNET", "Proposal for improving the ontology and incorporate ESRF-ET elements", "NeXus Ontology application definitions are connected to PaNET/ESRF-ET", "Use of Ontologies", "▪ ESRF - solution with DAQ integration", "▪ NOMAD - solution at data injection time"], "detailed_results": "", "results_links": "", "publications": [], "exploitation": ["NOMAD platform for Materials Sciences"], "sustainability": ["Running projects:", "German National Research Data Infrastructure Projects: FAIRMAT and DAPHNE 4NFDI"], "success_story": "", "poster_doi": "https://doi.org/10.5281/zenodo.18835476"}, {"id": "01-124", "oc": "1", "cluster": "PaNOSC", "title": "VISA - User experience enhancement", "start": "2024-10-01", "dur": "20", "url": "https://www.oscars-project.eu/projects/visa-user-experience-enhancement", "ch": "Software, AI and tools", "country": "France", "budget": 215014.0, "org": "Institut Laue-Langevin", "otype": "Academia/Research", "lc": ["PROCESS", "ANALYSE", "RE-USE"], "kw": ["X-ray tomography", "Human Organ Atlas", "VISA - Virtual Infrastructure for Scientific Analysis", "3D organ scans", "3D imaging datasets", "chunked data"], "partners": ["Institut Laue-Langevin"], "user": "LEROUX Ludovic", "overall_desc": "VISA is an innovative solution that enables remote access to data, hardware resources, and preinstalled software tailored for specific data treatments. The project aims to enhance user experience by optimising streaming solutions and improving fluidity, session management, security, and internationalisation of VISA, while engaging with the scientific community in the refinement process.", "what_we_do": "VISA is a Virtual environment for scientist to access and analyse data, directly connected to data storage and provide all scientific software already configured.", "challenge_desc": "The main challenge addressed by the project is the growing volume of experimental data and increasing complexity of data processing.", "solution": "The project plans to maintain and optimise VISA, enhancing user experience. Initial research will pinpoint crucial technologies, with a focus on evaluating WebX's performance and user feedback, and comparing it with other notable tools. The industrialisation process will follow, by integrating the chosen solution into VISA.", "howto": ["Analysis of existing Open Source Remote Desktop solutions.", "None providea perfect solution for integration into VISA.", "Provide a simple basis to develop the WebX Engine: a window-based remote desktop solution."], "impact": "VISA will foster streamline research activities, enhance productivity, and potentially lead to faster scientific breakthroughs. Improved collaboration and accessibility may encourage a broader spectrum of interdisciplinary projects, driving innovation and knowledge expansion in various scientific domains", "results": ["X11 windowcapture: listwindows, sizes, content, and events.", "Client transmission: efficient deliveryvia ZeroMQ, lowCPU & bandwidth.", "Fast streaming: libjpeg-turbo compression, partial updates, alpha handled via WebGL.", "Interactive web desktop:clients see the remote desktop in-browser with optimized updates."], "detailed_results": "Research phase: We made a comparison of different remote desktop technology. We have choose to develop WebX solution.", "results_links": "", "publications": [], "exploitation": ["VISA isalreadyin production;", "Infrastructure isbasedon Openstack;", "Code isavailableon GitHub;", "Public documentation ison Read the Docs."], "sustainability": ["Complete code repository: https://github.com/ILLGrenoble/", "VISA documentation: https://visa.readthedocs.io/en/latest/"], "success_story": "We have added features that enable better collaborative work among the different users. They can share their instance and work together on the analysis of their experimental data.", "poster_doi": "https://doi.org/10.5281/zenodo.18775365"}, {"id": "01-154", "oc": "1", "cluster": "PaNOSC", "title": "AI-SCOPE - AI-Driven Enhancement of Surface Scattering Data for Open Science Platforms Across Europe", "start": "2024-12-01", "dur": "24", "url": "https://www.oscars-project.eu/projects/ai-scope-ai-driven-enhancement-surface-scattering-data-open-science-platforms-across", "ch": "Software, AI and tools", "country": "Austria", "budget": 249849.0, "org": "University of Graz", "otype": "Academia/Research", "lc": ["PROCESS", "RE-USE"], "kw": ["surface scattering data", "PaN science", "PaN data"], "partners": ["University of Graz,", "SlovakAcademy of Sciences", "(SAS), Tübingen University (UTÜB)"], "user": "Stefan Kowarik", "overall_desc": "AI-SCOPE engages the photon and neutron (PaN) science community to enhance data FAIRness and beamtime efficiency, by introducing a live AI analysis tool for surface scattering experiments. By applying it to a diverse array of pre-existing scattering data and enabling live analysis during experiments, it will create a well-curated dataset with detailed annotations in EOSC indexed databases, and lay the groundwork for more uploads with FAIR metadata in the future.", "what_we_do": "AI-SCOPE establishes automated X-ray reflectometry(XRR) and grazing incidence diffraction(GID) workflows delivering real-time analysis, structural parameter extraction, and FAIR metadata generation for open science platforms", "challenge_desc": "The main challenge of the AI-SCOPE project is to increase the frequency and quality of FAIR-compliant data submissions to EOSC-indexed databases, such as ESRF data portal or Zenodo, thereby addressing the current lack of well-annotated surface scattering data.", "solution": "A sophisticated AI analysis tool for surface scattering experiments that performs an automated initial analysis, and simultaneously generates rich metadata annotations. This dual capability allows streamlining research workflows and gives “live” feedback during experiments at large-scale facilities.", "howto": ["AI-driven workflows for XRR & GID analysis;", "Automated extraction of structural parameters;", "FAIR-compliant metadata and annotation pipeline;", "Integration with open repositories and EOSC services."], "impact": "By automating the analysis processes and enriching datasets with preliminary insights, these innovations enable a more comprehensive exploration of experimental data. This not only accelerates the discovery of novel materials but also facilitates meta-studies and machine learning applications in materials discovery.", "results": ["XRR & neutron reflectometry workflow operational;", "Automated extraction of thickness, density & roughness (ORSO-compliant);", "GID workflow: reciprocal-space mapping, Bragg peak detection & unit-cell matching;", "FAIR metadata generation for database-ready datasets"], "detailed_results": "Collection of X-ray data: We have curated datasets of X-ray data for the XRR and GIXD techniques. We go far beyond currently available datasets with only hundreds of XRR curves and have collected tens of thousands of XRR curves, albeit not all from unique samples, but also including time series. For GIXD, the number of datasets is smaller, but also includes time series data. Collection efforts from published literature are continuing. | Automated AI XRR fits: The AI fitting tools have been expanded to cope with some of the XRR datasets, including complex sample structures going beyond monolayers to multilayer structures. | Automated AI GIXD fits: An AI tool that takes GIXD images as input and predicts the unit cell has been created and benchmarked on prototypical GIXD test cases.", "results_links": "Real-Time Study of Perovskite Thin Film Crystallization", "publications": ["https://doi.org/10.1021/acsami.5c09426"], "exploitation": ["Reflectometry workflow deployment at synchrotron & neutron facilities ongoing", "GID workflow prepared for deployment at photon & neutron research infrastructures;", "Robustness demonstrated via re-analysis of published GID datasets;", "Enables reuse of legacy data and improved cross-experiment comparability"], "sustainability": ["Open-source tools availableon GitHub - github.com/mlgid-project , github.com/schreiber-lab/reflectorch ;", "Example datasets & result catalogues prepared for community reuse;", "Integration with facility software (e.g. ESRF EWOKS) enables long-term operation;", "Facility hosting and community maintenance will support continued use"], "success_story": "", "poster_doi": "https://doi.org/10.5281/zenodo.18827596"}, {"id": "01-163", "oc": "1", "cluster": "Cross-Domain (ENVRI, PaNOSC, OTHER, ESCAPE, LSRI)", "title": "HiMAGNETOS - High Magnetic Field Open Science", "start": "2025-01-01", "dur": "24", "url": "https://www.oscars-project.eu/projects/himagnetos-high-magnetic-field-open-science", "ch": "Repository", "country": "France", "budget": 247616.25, "org": "Laboratoire National des Champs Magnétiques Intenses (CNRS)", "otype": "Academia/Research", "lc": ["COLLECT", "ANALYSE", "PRESERVE"], "kw": ["High magnetic field research", "high magnetic field research data", "centralised data repository", "DataCite Metadata Schema", "Nexus Format", "open source data reduction software"], "partners": ["High magnetic field research, high magnetic field research data, centralised data repository, DataCite Metadata Schema, Nexus Format, open source data reduction software"], "user": "Christiane WARTH-MARTIN & Bruyant Nicolas", "overall_desc": "The HiMAGNETOS project strives to establish comprehensive standards, develop specialised tools, and create a centralised data repository that will facilitate the production of FAIR data, promoting a more collaborative research environment by enhancing FAIR open access to high magnetic field research data generated at the Laboratoire National des Champs Magnétiques Intenses (LNCMI).", "what_we_do": "", "challenge_desc": "Existing open data initiatives primarily promote generic frameworks that do not adequately address the specific requirements of high magnetic field experiment. This lack of targeted support creates | significant barriers for researchers who wish to share their findings or access critical experimental data.", "solution": "An open central data repository, complete with defined curation policies and uploading procedures, and with research data linked to the original experimental proposals, enhancing data quality and usability. To enhance data reuse and interoperability, a number of data reduction software packages will be made open source or available as an online notebook.", "howto": ["Open data archiving format;", "Open source software;", "Machine data collection pipelines;", "Common metadata scheme and format;", "Link datasets to proposals;", "Training material for users."], "impact": "HiMAGNETOS is envisioned as a pilot phase toward the broader integration of European Magnetic Field Laboratory services into the EOSC, fostering a culture of Open Science in the domain of high magnetic field research, while empowering researchers to build upon existing data.", "results": ["Open source data analysis software;", "3 experiment written and open source;", "First try of an archiving format using Nexus - HDF5;", "Study of SSO strategies within EOSC;", "Selected ICAT data portal for testing."], "detailed_results": "First dataset deposit: The first dataset has been deposited, curated, and published on https://entrepot.recherche.data.gouv.fr/dataverse/lncmi indicating that the repos is up and running", "results_links": "", "publications": [], "exploitation": [], "sustainability": ["Gitlab repos for software: https://gitlab.in2p3.fr/himagnetos", "Data repository: https://entrepot.recherche.data.gouv.fr/dataverse/lncmi"], "success_story": "", "poster_doi": "https://doi.org/10.5281/zenodo.18797627"}, {"id": "01-177", "oc": "1", "cluster": "Cross-Domain (ESCAPE, PaNOSC, LSRI, ENVRI, SSHOC, Other)", "title": "OSPARK - Open Science Promotion and Advocacy for Research Knowledge Bootcamp", "start": "2025-01-01", "dur": "24", "url": "https://www.oscars-project.eu/projects/ospark-bootcamp-open-science-promotion-and-advocacy-research-knowledge-bootcamp", "ch": "Promotion of Open Science", "country": "Germany", "budget": 249960.83, "org": "Digital Research Academy", "otype": "Other", "lc": ["SHARE"], "kw": ["training", "education", "training bootcamp", "marketing and communications", "Open Science advocacy"], "partners": ["Digital Research Academy,", "OLS"], "user": "Joyce Kao", "overall_desc": "The OSPARK project will develop a comprehensive multi-week training bootcamp focused on marketing and communication. The programme specifically targets members of the Science Clusters and the broader Open Science community, aiming to create “multipliers” who can effectively promote their initiatives. By equipping these advocates with evidence-based strategies, the project seeks to enhance the visibility of ESFRI and RIs, enabling them to share their messages more effectively.", "what_we_do": "The OSPARK bootcamp is all about creating visibility | through outreach and marketing. It's a learning | opportunity for people working in or leading Open | Research initiatives, services or infrastructures. The | bootcamp focuses on the needs of Open Research | ambassadors and provides ample space to exchange | ideas and learn from one another.", "challenge_desc": "Many potential users remain uninformed about the wealth of knowledge and support available to them at RIs, limiting their engagement. This lack of visibility not only affects the effectiveness of individual projects but also hinders the overall growth of the EOSC.", "solution": "A bootcamp with a curriculum encompassing foundational principles of evidence-based marketing, modern media utilisation, and innovative outreach techniques. Participants will engage in practical exercises, exploring various outreach formats such as videos, science slams, and social media campaigns tailored to specific target audiences.", "howto": ["Learn from “multipliers”, including", "marketing, grey literature, and", "influencers. How do they create impact?"], "impact": "The OSPARK project holds the potential to dramatically increase the visibility and effectiveness of Open Science initiatives, including RIs, the Science Clusters, grassroots communities and more. All training material and supporting data will be made openly accessible under FAIR principles.", "results": ["6-week course, about to", "run its first iteration.", "Sign up for round 2 now!", "(Munich, June-July 2026). Iterative course design will respond to", "participant needs and include generating and", "acting on robust scientific evidence."], "detailed_results": "New Primer Released! Mapping the Global Landscape of Open Science Outreach: During the 2025 Open Science Retreat, an unconference topic group explored the outreach environment surrounding Open Science across different international contexts. Their findings are now available in a new Open Science Outreach Primer on Zenodo. This collaborative effort identifies key barriers to promoting Open Science and suggests potential mitigations. It includes a pilot survey on outreach challenges, a curated list of outreach resources, and reflections on delivering outreach support to fellow retreat participants. This primer offers valuable insights for anyone working to improve the reach and impact of Open Science initiatives around the world. | Announcement of the first OSPARK Bootcamp: The OSPARK bootcamp (5 March - 24 April 2026) is about creating visibility for Open Science initiatives through outreach and marketing. It's a learning opportunity for people working in or leading Open Science initiatives, services or infrastructures. The hybrid bootcamp focuses on the needs of Open Science ambassadors and provides ample space to exchange ideas and learn from one another. It consists of a 6-week online course and a 2-day onsite workshop. At the 2-day onsite workshop, common challenges will be tackled, and participants will work together on promoting the initiatives, services, and infrastructures they have been building.", "results_links": "Communication strategy / plan https://doi.org/10.5281/zenodo.17119386", "publications": ["Open Science Promotion and Advocacy for Research Knowledge (OSPARK) Bootcamp, DOI, https://10.0.20.161/zenodo.15148315", "Open Science Promotion and Advocacy for Research Knowledge (OSPARK) Research Protocol, DOI, https://doi.org/10.5281/zenodo.17980127", "How to get started with Mastodon / LinkedIn / Bluesky (a guide for Open Science initiatives), DOI, https://doi.org/10.5281/zenodo.17142163", "How to choose the right social media platform (a guide for Open Science initiatives), DOI, https://doi.org/10.5281/zenodo.17141918", "Workbooks: Open Science on the Menu - How to get visibility for your Open Science Initiative, DOI, https://doi.org/10.5281/zenodo.17093483", "Communication Strategy Plan for the OSPARK Project, DOI, https://doi.org/10.5281/zenodo.17119386", "Promote Your Initiative or Service - OSPARK Workshop for Research Support Services and Open Science Initiatives, DOI, https://oscars-project.eu/projects/ospark-bootcamp-open-science-promotion-and-advocacy-research-knowledge-bootcamp#:~:text=Open%20Science%20Initiatives%2C-,DOI,-Your%20Open%20Science", "Your Open Science Initiative Deserves To Be Seen (Talk), DOI, https://doi.org/10.5281/zenodo.17097918"], "exploitation": ["Impact & efficiency study, planned to go in peer-reviewed journal. (Ethical approval already", "complete!).", "Each iteration of the bootcamp (3x this year) will give us a chance to study and refine our", "materials."], "sustainability": ["Offer as for-pay course once the initial trial runs are complete.", "Materials openly available online (CC-BY)"], "success_story": "", "poster_doi": "https://doi.org/10.5281/zenodo.18836695"}, {"id": "01-278", "oc": "1", "cluster": "Cross-Domain (PaNOSC, LSRI, ENVRI)", "title": "AMBCAT - Digital Amber Catalogue", "start": "2025-01-01", "dur": "24", "url": "https://www.oscars-project.eu/projects/ambcat-digital-amber-catalogue", "ch": "Repository", "country": "Germany", "budget": 249900.0, "org": "Helmholtz-Zentrum Hereon", "otype": "Academia/Research", "lc": ["SHARE", "RE-USE"], "kw": ["amber fossils", "climate change", "biodiversity", "evolutionary research", "phylogenetic research", "data catalogue", "data visualisation", "μCT scanning technologies"], "partners": ["Helmholtz-Zentrum Hereon,", "DESY, Museum of Nature - Zoology, LIB, ZFMK-LIB,", "Museum für Naturkunde Berlin,", "OUMNH,", "CSIC-CMCNB,", "Estación Biológica de Doñana - CSIC,", "Senckenberg Institut & Naturmuseum Frankfurt ,", "Phyletisches Museum - Friedrich-Schiller-Universität Jena,", "Biocenter – Faculty of Biology - Ludwig-Maximillians-Universität München"], "user": "Jörg Hammel", "overall_desc": "AMBCAT aims to centralise and make accessible high-resolution digital scans of amber fossils, which provide a unique window into ancient ecosystems, offering insights into extinct organisms through remarkable preservation of both external and internal structures. The project will do so by fostering collaboration among researchers and advancing scientific research on a global scale.", "what_we_do": "Amber fossils provide unique 3D insights into ancient organisms and their ecosystems. | AMBCAT aims to centralise, curate, and openly share highresolution scans of amber fossils. This enables global collaboration, reuse of data, and new scientific insights across disciplines.", "challenge_desc": "Conventional imaging toolsoften fail to capture critical details of amber fossils, whereas the scattered and redundant imaging efforts across various institutions can lead to wasted resources and missed opportunities for collaboration, hindering comprehensive scientific analysis.", "solution": "Physical amber fossils data will be centrally stored and archived and made openly available. A data catalogue will aggregate and provide all relevant metadata for the digitalised objects together with the imaging protocols. AMBCAT will also provide access to the actual image data, and to online visualisation tools in a browser-based application.", "howto": ["AMBCAT provides a FAIR and open data hub", "for amber fossil imaging data;", "Centralised catalogue of over 1,500 unique", "amber fossils with standardised metadata", "integrated and managed via SciCat;", "Web-based access including interactive", "visualisation and data exploration."], "impact": "AMBCAT will result in building and strengthening collaboration networks in Europe- and worldwide and lead to synergies, avoiding that a same sample is loaned or scanned/analysed several times by different research groups, and contributing to a usage of scan data for different purposes.", "results": ["Automated Ingestion: Python-based workflows", "implemented to generate and ingest standardised metadata into SciCat using templates;", "Metadata Curation Interface: User-friendly", "web interface developed for editing, validating, and managing dataset and sample metadata;", "3D Visualisation Evaluation: Initial testing and evaluation of browser-based tools for visualising amber fossil data."], "detailed_results": "", "results_links": "", "publications": [], "exploitation": ["Research: Amber fossil imaging data", "is reused by global research institutes and communities;", "Education/Public: Integration of", "digital fossils into interdisciplinary", "research, education, and outreach;", "Efficiency: Collaborative studies avoid repeated scanning of specimens."], "sustainability": ["Long-term storage and curation of data and metadata at DESY using established infrastructure;", "Use of open standards and FAIR principles to ensure long-term reuse;", "Reusable software components and workflows supporting future extensions."], "success_story": "", "poster_doi": "https://doi.org/10.5281/zenodo.18744869"}, {"id": "01-314", "oc": "1", "cluster": "PaNOSC", "title": "CDIF-4-XAS - Describing X-Ray Spectroscopy Data for Cross-Domain Use", "start": "2024-10-01", "dur": "24", "url": "https://www.oscars-project.eu/projects/cdif-4-xas-describing-x-ray-spectroscopy-data-cross-domain-use", "ch": "Data Annotation", "country": "France", "budget": 249500.0, "org": "CODATA", "otype": "Other", "lc": ["COLLECT", "PROCESS", "SHARE"], "kw": ["X-ray spectroscopy", "XAS", "XAS data", "Cross-Domain Interoperability Framework", "CDIF"], "partners": ["CODATA; RAL, STFC;", "Cardiff University; HZB and", "HMC as unfunded", "partners."], "user": "Simon Hodson", "overall_desc": "The CDIF-4−XAS project will enable new science by making it easier to access, combine and reuse X-ray Absorption Spectroscopy - XAS data across RIs and disciplines. It will enhance the interoperability and reusability of XAS data by applying the Cross-Domain Interoperability Framework (CDIF), a set of guidelines and practices for using domain-agnostic standards to support the interoperability and reusability of FAIR data, especially across domain and institutional boundaries.", "what_we_do": "• Improving the transfer, interoperability | and reusability of X-ray spectroscopy | data and metadata. | • Enabling new science through | combining X-ray spectroscopy data at | scale across infrastructures", "challenge_desc": "XAS data specialised formats and metadata conventions hinder cross-domain use. Data sharing among applications, databases, and facilities is inefficient, leading to the loss of essential experimental information. The need for a more interoperable solution becomes urgent.", "solution": "Through CDIF-4−XAS, metadata and provenance for XAS data are standardised, enhancing the integration of XAS datasets into EOSC infrastructures. This promotes data reuse across different research domains, making XAS data more accessible and valuable.", "howto": ["XAS domain survey: identify XAS Community standards;", "Mapping: create a common mapping framework to integrate data using different standards;", "Innovation: mapping of binary (non-text) data (CDIF mostly used on text data formats).", "Implementation Plan: create Galaxy tools."], "impact": "XAS will unlock new possibilities for research by enabling seamless data combination and analysis across RIs. Researchers in energy, chemistry, and environmental sciences, among others, will benefit from easier access to XAS data.", "results": ["Published deliverables for phases one and two at:", "https://zenodo.org/communities/cdif-4-xas/records ;", "Overview of X-Ray Absorption Spectroscopy standards, vocabularies (and ontologies), data formats and practices", "- DOI: 10.5281/zenodo.14920226 ;", "CDIF-4-XAS: Mappings from Community Standards to CDIF", "DOI: 10.5281/zenodo.17421917"], "detailed_results": "D1 ‘Overview of X-Ray Absorption Spectroscopy standards, vocabularies (and ontologies), data formats and practices’ | DOI - https://doi.org/10.5281/zenodo.14920226 - This document provides a landscape analysis of current practices, standards, vocabularies, ontologies, schemas, and data formats used in the generation, curation, and publishing of X-Ray Absorption Spectroscopy (XAS) data, with a particular focus on efforts to create community standards that facilitate interoperability. See: https://codata.org/initiatives/making-data-work/worldfair-2/cdif-4-xas/d1-overview-of-x-ray-absorption-spectroscopy-standards/ | D2 ‘CDIF-4-XAS: Mappings from Community Standards to CDIF’ | DOI: This package contains several files, each contributing different information regarding a mapping from common X-Ray Absorption Spectroscopy (XAS) data formats to the Cross Domain Interoperability Framework (CDIF) recommended standards. The \"CDIF-4-XAS: Mappings from Community Standards to CDIF\" document and the associated spreadsheet and other materials present an initial attempt to take the major community standards used for X-Ray Absorption Spectroscopy (XAS) and map them to the standards recommended for cross-domain FAIR sharing of data by the Cross Domain Interoperability Framework (CDIF) guidelines. See: https://codata.org/initiatives/making-data-work/worldfair-2/cdif-4-xas/d2-mappings-from-community-standards-to-cdif/", "results_links": "https://zenodo.org/communities/cdif-4-xas/records | 10.5281/zenodo.14920226 | 10.5281/zenodo.17421917", "publications": [], "exploitation": ["Publish CDIF-4-XAS tools in Galaxy instances:", "https://materialsgalaxy.stfc.ac.uk/", "https://usegalaxy.eu/", "Support adoption:", "Create tutorials and training materials;", "Provide examples with data, and packaged research objects.", "Promotion:", "Share with the research community trough publications", "and demonstrations at workshops and conferences"], "sustainability": ["The tools and supporting infrastructures already exist.", "We are leveraging this environment to speed up implementation", "and highlight the benefits of the adoption of CDIF4XAS.", "The tools will enable starting production of standard XAS data facilitating", "their adoption and wider use."], "success_story": "", "poster_doi": "https://doi.org/10.5281/zenodo.18839666"}, {"id": "01-354", "oc": "1", "cluster": "Cross-Domain (LSRI, PaNOSC)", "title": "mTeSS-X - Scaling training portal federation for RIs through Multi-tenanting and Exchange", "start": "2024-10-01", "dur": "24", "url": "https://www.oscars-project.eu/projects/mtess-x-scaling-training-portal-federation-ris-through-multi-tenanting-and-exchange", "ch": "Promotion of Open Science", "country": "Germany", "budget": 250000.0, "org": "Helmholtz-Zentrum Dresden-Rossendorf", "otype": "Academia/Research", "lc": ["COLLECT", "SHARE", "RE-USE"], "kw": ["training portal", "content exchange", "knowledge-exchange", "federation of portals", "federation of catalogues", "training catalogue"], "partners": ["University of Manchester,", "Helmholtz-Zentrum Dresden-Rossendorf"], "user": "carole globe", "overall_desc": "To overcome fragmentation of training resources across Research Infrastructures (RIs) and the Science Clusters, the mTeSS-X project will enhance the existing TeSS platform to natively support federation. Such a fully-featured open-source multi-tenanted training platform is expected to be an innovation for building a federation of portals to help break down barriers between thematic communities, promote a more cohesive European research community, and promote FAIR and open training.", "what_we_do": "mTeSS-X enhances TeSS (Traininge-Supportsystem)by enabling meta data exchange and shared content across instances through “spaces” — self-managed community catalogues with metadata on training material and events within a central TessHub", "challenge_desc": "Fragmentation of resources hampers the reuse of valuable training materials and limits the dissemination | of events and learning pathways. | The main challenge of the project is to enable the federation of catalogues, | support cross-discipline training resource exchange and celebrate and maintain catalogue unique identity.", "solution": "mTeSS-X will extend the TeSS platform by introducing multi-tenancy, allowing multiple communities to maintain distinct training | catalogues within a shared instance, while preserving their individual identities. | It will also implement TeSS-X plugins to facilitate seamless content exchange between catalogues implemented as separate instances.", "howto": [], "impact": "By fostering the federation of interoperable training catalogues, mTeSS-X will significantly enhance the findability, accessibility, and | reuse of high-quality training | resources.", "results": ["Multi-space TeSSPlatform;", "OAI-PMH Exchange;", "TeSSPlatform Community"], "detailed_results": "Deployed demo version of mTeSS-X spaces. | Established focus group: Delivering quarterly online meetings of the project focus group stakeholders to provide continuous evaluation from users. | Defined user requirements: The technical and non-technical requirements of users have been collected, analysed and published.", "results_links": "", "publications": ["mTeSS-X Deliverable D1: Requirements analysis based on the two TeSS instances from ELIXIR and PaNOSC", "DOI: https://doi.org/10.5281/zenodo.15120732"], "exploitation": ["Training catalogues based on mTeSS-X", "ELIXIR TeSS–Life Science training –tess.elixir-europe.org ;", "Photon and Neutron (PaN) training –pan-training.eu ;", "CERN's High Energy Physics training–training.cern.ch ;", "Digital Research Skills Australasia–dresa.org.au ;", "EVERSE Training–everse-training.app.cern.ch ;", "Explora –explora.alliancecan.ca", "SciLifeLab–training.scilifelab.se ;", "TaxilaOpen science training in the Netherlands –taxila.nl"], "sustainability": ["Source code developed on GitHub and published on Zenodo.", "TeSShub onboarded in the EOSC Node PaNOSC.", "TeSSPlatform Community:", "Monthly online meetings,", "Regular focus group meetings,", "Slack channel: #tess-club (tessplatform.slack.com)"], "success_story": "The mTeSS-X project is an integral part of the “Training and Competencies” working group of the EOSC node build-up group and is indirectly included in the group's mandate. Accordingly, the mTeSS-X project can serve as one of the central future EOSC infrastructures for collecting and providing a distributed metadata-based registry for training materials.", "poster_doi": "https://doi.org/10.5281/zenodo.18773076"}, {"id": "01-374", "oc": "1", "cluster": "Cross-Domain (PaNOSC, SSHOC)", "title": "SHARE -  Synchrotron x-ray analysis of Heritage Accessible to and Reusable by Everyone", "start": "2025-01-01", "dur": "24", "url": "https://www.oscars-project.eu/projects/share-synchrotron-x-ray-analysis-heritage-accessible-and-reusable-everyone", "ch": "Data Annotation", "country": "France", "budget": 250000.0, "org": "ESRF", "otype": "Academia/Research", "lc": ["SHARE", "RE-USE"], "kw": ["heritage science", "synchrotron", "synchrotron x-ray analysis", "Historical Materials Block Allocation Group (BAG)"], "partners": ["ESRF,", "Laboratoire de Photophysique et Photochimie Supramoleculaires et Macromoleculaires - CNRS,", "CNR - Istituto di Scienze e Tecnologie Chimiche \"Giulio Natta\",", "Rijksmuseum"], "user": "Cotte Marine", "overall_desc": "Synchrotron X-ray analytical techniques are increasingly used in heritage science to characterise the composition of ancient and artistic objects, but access to the data collected during experiments remains very limited. The SHARE project will set up an easily searchable database that will provide information on art objects and model samples analysed through the Historical Materials Block Allocation Group (BAG), providing easy access to raw and processed data, and metadata.", "what_we_do": "The SHAREproject is setting up an easily searchable databasethat will provide raw data, processed data, and metadataof culturalobjects and model samples analyzed at the ESRF.", "challenge_desc": "Access to synchrotron x-ray techniques remains limited to expert users through a competitive selection process. Moreover, synchrotron data is still largely inaccessible and difficult to reuse in line with FAIR data principles.", "solution": "SHARE will develop an easily searchable database of over 1,600 datasets from synchrotron analysis on art objects and model samples, collected and analysed since 2020 through the Historical Materials BAG. This database will provide easy access to raw and processed data, and metadata.", "howto": ["Build a form to fill a metadata database", "fillable before, during and after the experiment.", "A website to access the database, with public data displayed and downloadable with its metadata."], "impact": "By preserving and making heritage data reusable, the project ensures that researchers from the global heritage science community can continue to study and safeguard cultural treasures.", "results": ["Community-driven metadata list;", "Form development, used during one experiment with 200 samples and > 2,500 metadata items"], "detailed_results": "Web interface open to users to declare sample metadata for BAG experiment: it is now possible (and mandatory!) for the historical materials BAG users to provide information about the samples they plan to analyse.", "results_links": "", "publications": ["G. P. Robertson, C. Holé and M. Cotte, Simplifying access and usability of advanced synchrotron radiation microscopes for heritage science, DOI: https://doi.org/10.1051/epn/2025409"], "exploitation": ["Study and preservation of unique and precious cultural treasures.", "FAIR data will: lead to more analysis, ensure better tracking of cultural objects, increase trust between scientists and object-sharing institutions"], "sustainability": ["Tools and software developed are public and will be extended for other projects at the ESRF"], "success_story": "", "poster_doi": "https://doi.org/10.5281/zenodo.18798639"}, {"id": "01-421", "oc": "1", "cluster": "Cross-Domain (PaNOSC, LSRI)", "title": "HEFTIE - Handling Enormous Files from Tomographic Imaging Experiments", "start": "2024-10-01", "dur": "12", "url": "https://www.oscars-project.eu/projects/heftie-handling-enormous-files-tomographic-imaging-experiments", "ch": "Software, AI and tools", "country": "United Kingdom", "budget": 211384.38, "org": "University College London", "otype": "Academia/Research", "lc": ["PROCESS", "ANALYSE"], "kw": ["X-ray tomography", "Human Organ Atlas", "VISA - Virtual Infrastructure for Scientific Analysis", "3D organ scans", "3D imaging datasets", "chunked data"], "partners": ["University College London,", "Scalable Minds"], "user": "David Stansby", "overall_desc": "The HEFTIE project aims to significantly improve tools and educational resources for handling large 3D imaging datasets by creating a comprehensive digital textbook and new visualisation software. These advancements will accelerate the analysis of 3D organ scans and unlock discoveries in the life sciences, benefiting also other fields, such as neuroscience, archaeology, and the earth sciences.", "what_we_do": "3D imaging experiments produce enormous datasets, and the development of ‘chunked’ file formats - which break down massive files into smaller parts - has become essential for data processing. | The HEFTIE project produced new tools and educational resources to help scientists with these new ‘chunked’ data formats.", "challenge_desc": "X-ray tomography produces extremely large datasets, often exceeding 1 TB, which are too large to fit into standard computer memory. Many researchers lack the tools and training to work with such massive data effectively, which slows down analysis and limits the scientific discoveries that could be made from this data.", "solution": "HEFTIE will develop a comprehensive digital textbook and new software tools for working with chunked 3D imaging datasets. The textbook will provide clear guidance on setting up and running data analysis and visualisation pipelines, while the new tools and a visualisation software will make it easier to use these datasets.", "howto": ["The HEFTIE project aimed to significantly improve tools and educational resources for handling such datasets by creating a comprehensive digital textbook and new visualisation software.", "These advancements will accelerate the analysis of 3D organ scans and unlock discoveries in the life sciences, benefiting also other fields, such as neuroscience, archaeology, and the earth sciences."], "impact": "HEFTIE will expand access to terabyte-scale data and foster open science collaboration across Europe. In particular, it will ensure accessibility to a wide range of users across the PaNOSC Science Cluster.", "results": ["New digital textbook to teach scientists the theory and practice behind next", "generation chunked file formats https://heftie-textbook.readthedocs.io .", "In-depth tests to help scientists choose the best and fastest compression algorithms for storing their imaging data", "https://heftieproject.github.io/zarr-benchmarks .", "New tool to allow scientists to easily migrate between old and newer versions of chunked file formats https://zarr.readthedocs.io/en/stable/user-guide/cli.html .", "Improved existing software tools to make them better documented and easier to use.", "Added new features to a web-based image analysis platform making it easier to work with 3D images and to annotate them https://webknossos.org"], "detailed_results": "The HEFTIE Textbook - https://heftie-textbook.readthedocs.io%20/ : Digital textbook to educate scientists on the principles and practice of working with huge 3D imaging datasets using modern data formats. | Zarr benchmarking report: benchmark series to help scientists understand the best parameters and configuration to use when using the Zarr data format. Findings and results were written as a report - https://heftieproject.github.io/zarr-benchmarks/ | DOI: https://doi.org/10.5281/zenodo.17806390%C2%A0 | Improvements to the zarr-python software library: contribution series to improve the zarr-python software library, which is widely used by scientists to work with Zarr data. These included adding automatic caching, improving documentation, and writing a converter to allow scientists to update their data from older versions of Zarr to the most recent version.", "results_links": "https://heftie-textbook.readthedocs.io | https://heftieproject.github.io/zarr-benchmarks | https://zarr.readthedocs.io/en/stable/user-guide/cli.html | https://webknossos.org", "publications": ["Zarr benchmarks", "DOI: https://doi.org/10.5281/zenodo.17806390", "The HEFTIE textbook: https://heftie-textbook.readthedocs.io/", "Final HEFTIE scientific article", "Stansby, D., Gollifer, R., Meechan, K., Rzepka, N., Otto, P., & Büßemeyer, M. (2026). The HEFTIE project. Zenodo, DOI: https://doi.org/10.5281/zenodo.18417416"], "exploitation": ["Scientists across disciplines will use the new textbook to learn how to create and handle huge imaging datasets Improved tools will reduce the friction of working with and analysing huge imaging datasets"], "sustainability": ["All code and resources developed are openly licensed and available (see links above).", "This will maximise their future use and allow others to build upon them."], "success_story": "", "poster_doi": "https://doi.org/10.5281/zenodo.18926952"}, {"id": "01-436", "oc": "1", "cluster": "PaNOSC", "title": "MC-ReDD - Metadata Capture and validation for Re-use of raw Diffraction Data", "start": "2024-11-01", "dur": "18", "url": "https://www.oscars-project.eu/projects/mc-redd-metadata-capture-and-validation-re-use-raw-diffraction-data", "ch": "Data Annotation", "country": "Germany", "budget": 185000.0, "org": "European XFEL", "otype": "Other", "lc": ["PROCESS", "RE-USE"], "kw": ["Diffraction data", "imgCIF"], "partners": ["European XFEL,", "International Union of Crystallography Journals"], "user": "Fabio Dall'Antonia", "overall_desc": "To tackle the challenge posed by the vast amounts of raw data in diffraction experiments, MC-ReDD will focus on the expanded imgCIF format, which allows easy transfer and processing of the metadata associated with image data, without needing to transfer the actual data images, with the goal of facilitating the interoperability and reusability benefits offered by the imgCIF scheme.", "what_we_do": "Our project has enabled the development of a | workflow service supporting self-consistent | diffraction data publications through complete | metadata annotation. At its core is a conversion | tool producing imgCIF format files.", "challenge_desc": "Current methods for handling raw data lack standardisation, hindering transparent communication between researchers, and making it harder to trust and reuse data across disciplines.", "solution": "MC-ReDD will create a publicly-available, easy-to-use tool for semi or fully automatic construction of imgCIF files from raw data sets, offering a way to transparently communicate rich information about raw data in a standardised, robust, machine-readable fashion, allowing third-party raw data services to be provided on the open web.", "howto": ["Facilitate the creation of imgCIF-format files: complete and standardised, human- and machine-readable metadata with lightweight links to the raw detector image data.", "Offer a user-friendly service for data ingestion from various input sources, conversion to imgCIF and validation, thus supporting raw data publications"], "impact": "Scientific impact | While enhancing interoperability and reusability of raw diffraction data across scientific domains, the project aims to make the tools available as an Open Science Service within the EOSC Web of FAIR data and Services, and in the form of an open service hosted by the IUCr journals website.", "results": ["imgCIF_creator, an open-source Python tool was developed: fetching input from remote", "repositories or local storage, filling incomplete", "metadata, and converting to imgCIF output.", "Release as standalone, command-line-driven", "program, as well as web application with", "Streamlit frontend.", "The web-based version is close to completion; it will first be deployed as an IUCr service."], "detailed_results": "Based on the presentation given at the PaNOSC-OSCARS mentoring workshop in May 2025, the already existing command-line-driven Python application has been refactored to integrate specific libraries (cctbx/dxtbx) that make the workflow more streamlined and able to convert input data file formats to the imgCIF output directly, without the need to save an intermediate “EXPT” format. Importantly this releases users from the dependency of the DIALS software, an installation of which had initially been a prerequisite to run the full workflow. | Investigation of cctbx usage for extending our tool towards data from XFEL sources, handling the specifics of serial femtosecond crystallography, has started. This goes along with the developments to refine and complete the - in principle already existing- support for NeXus format input | Prototypes for both a standalone application GUI and a web frontend (streamlit-based web-UI) have been developed and their usage internally demonstrated on data use cases with raw data published on Zenodo archives. | Requirements for a hardware resource supporting a web-service have been gathered and a process of rolling out such service has been initialized.", "results_links": "", "publications": [], "exploitation": ["A streamlined process supporting sound data publications will increase the number of such,", "and the opportunities for re-use.", "Reproducible crystallographic results will increase the trust in this field of science and foster further insight through re-use.", "Structural information from crystallographic methods benefits society through application in life sciences, material science and many", "more domains."], "sustainability": ["Our product will be published as downloadable software tool for local use cases, as well as webservice,", "hosted also by the PaNOSC-EOSC node.", "We envisage that PaN facilities can host the service and will add imgCIF files to open data repositories, in the long run."], "success_story": "", "poster_doi": "https://doi.org/10.5281/zenodo.18805701"}, {"id": "01-486", "oc": "1", "cluster": "Cross-Domain (ESCAPE,ENVRI,Other,LSRI,PaNOSC, SSHOC)", "title": "CODEMETASOFT", "start": "2024-11-01", "dur": "24", "url": "https://www.oscars-project.eu/projects/codemetasoft", "ch": "Software, AI and tools", "country": "Spain", "budget": 250000.0, "org": "Universidad Politécnica de Madrid", "otype": "Academia/Research", "lc": ["COLLECT", "PRESERVE", "SHARE"], "kw": ["Research Software", "Software Citation Principles", "Research Software metadata", "CodeMeta"], "partners": ["Universidad Politécnica de Madrid,", "Laboratoire d'Annecy de Physique des Particules LAPP - CNRS"], "user": "Oscar Corcho", "overall_desc": "The CODEMETASOFT project aims to develop a comprehensive framework to streamline the management, enrichment, and propagation of research software (RS) metadata, thereby enhancing interoperability and supporting the scientific community's efforts to leverage software in research effectively.", "what_we_do": "", "challenge_desc": "1) There is no framework to  ease the adoption of software metadata. | 2) Software metadata consistency and curation are performed by hand. | 3) There is a lack of automated tools to suggest enhancements and fill gaps in RS metadata.", "solution": "CODEMETASOFT will develop an innovative framework based on the CodeMeta vocabulary. It will feature an Autocomplete CodeMeta Wizard adopting CodeMeta as a common metadata interchange format, to simplify the creation of metadata records and automate the management, enrichment and propagation of RS metadata across RS project files.", "howto": ["Tools for metadata compliance, propagation, suggestions and enrichment.", "Automate RS metadata maintenance workflows.", "Means to measure metadata gaps, adoption of best practices and establish a methodology for RS enrichment."], "impact": "The implementation of CODEMETASOFT is poised to enhance the quality and consistency of Research Software metadata across Europe, promoting better compliance with FAIR principles.", "results": ["Metadata gap analysis in five European Science clusters.", "Creation of a comprehensive catalog of", "metadata pitfalls", "- https://w3id.org/rsmetacheck/catalog/", "Development of an auto CodeMeta generator - https://w3id.org/autocodemeta", "Development of diagnosis tool and bot - https://w3id.org/rsmetacheck/"], "detailed_results": "Gap analysis of the codemeta files in the ESCAPE OSSR: Analysis of metadata mismatch between codemeta and other metadata sources in code repositories belonging to the ESCAPE OSSR. | Gap analysis of the best research software best practices in the European Science Clusters: A report publication indicating the gaps in metadata adoption, as well as recommendations on how to address them. | Software metadata pitfall analysis dashboard: A first overview of the common metadata pitfalls performed by researchers when describing software tools (https://anas-elhounsri.github.io/). | Auto-codemeta generator: A form that will automatically gather metadata from a GitHub or GitLab repository and guide users when generating CodeMeta files | Demo: https://autocodemeta.linkeddata.es/%C2%A0", "results_links": "https://w3id.org/rsmetacheck/catalog/ | https://w3id.org/autocodemeta | https://w3id.org/rsmetacheck/", "publications": ["El Hounsri, A., & Garijo, D. (2025, April). Good practice versus reality: A landscape analysis of Research Software metadata adoption in European Open Science Clusters. In 2025 IEEE/ACM 22nd International Conference on Mining Software Repositories (MSR) (pp. 116-128). IEEE.", "DOI: http://dx.doi.org/10.1109/MSR66628.2025.00028"], "exploitation": ["AutoCodeMeta generator in use by SciCodes community.", "Metadata gap expanded to:", "OpenAIRE software records,", "Software Heritage records.", "Metadata enrichment in OpenAIRE software graph (work in progress)"], "sustainability": ["Project results are embedded in:", "Open Source community (CodeMeta, Scicodes consortium).", "EOSC Projects (FAIR2Adapt, EVERSE)"], "success_story": "We have done an initial study assessing the gaps in metadata adoption in the Science clusters and in all OpenAIRE (currently assessing de software in Software Heritage too). | We are currently running an evaluation to assess our tools/bots on repositories.", "poster_doi": "https://doi.org/10.5281/zenodo.18851138"}, {"id": "01-491", "oc": "1", "cluster": "PaNOSC", "title": "PaN-Finder - Photon and Neutron federated knowledge finder", "start": "2024-10-01", "dur": "24", "url": "https://oscars-project.eu/projects/pan-finder-photon-and-neutron-federated-knowledge-finder", "ch": "Software, AI and tools", "country": "Denmark", "budget": 249950.0, "org": "European Spallation Source", "otype": "Academia/Research", "lc": ["COLLECT", "PRESERVE", "RE-USE"], "kw": ["PaN Data Portal", "photon and neutron data", "photon and neutron science", "AI technologies", "PaN data"], "partners": ["European Spallation Source - ESS-ERIC"], "user": "Massimiliano Novelli", "overall_desc": "The PaN-Finder project aims to enhance the capabilities of the existing PaNOSC DataPortal, which provides researchers access to a wealth of data from Europe’s Photon and Neutron (PaN) RIs. The project will introduce an AI-powered search tool that simplifies user interaction, enabling intelligent, prompt-based searches, and which will make it easier for researchers, journalists, and the general public to navigate and utilise valuable PaN data effectively.", "what_we_do": "The PaN-Finder project aims to enhance the capabilities of the existing PaNOSC Data Portai, introducing an Al-powered search tool that simplifies user interaction, enabling intelligent prompt-based searches.", "challenge_desc": "As the scientific data pool grows, finding relevant and high-quality data becomes increasingly difficult. In the PaNOSC Data Portal, the key challenge lies in improving user interaction and data retrieval efficiency, enabling a wider range of users to navigate the expansive knowledge base effectively.", "solution": "PaN-Finder, a prompt based search system, similar to ChatGPT, which will include a UI interface and underlying infrastructure. It will adopt state-of-the-art AI technologies, and pair them with Information Retrieval (IR) and Natural Language Processing (NLP) methodologies.", "howto": ["Developing an Al assisted prompt based search system"], "impact": "PaN-Finder will increase the adoption rate of the PaNOSC Data Portal, and will significantly improve data findability and accessibility. Furthermore, it will incentivise RIs to provide higher-quality data with well | defined metadata, resulting in higher reusability of data.", "results": ["Strategies to and relative code base tor", "collect / ingest heterogeneous data and search ingested data.", "A public facing application:"], "detailed_results": "", "results_links": "https://github.com/PaN-Finder /deliverables", "publications": [], "exploitation": ["Adopting the methodologies in their own projects;", "Ad opti ng the code base or relevant portions of it;", "Deploying the project with data from their own science domain."], "sustainability": ["Deliverables repository https://github.com/PaN-Finder /deliverables", "Complete code repository Public before the end of the project"], "success_story": "A test user was able to find a datasets that he collected to one of the participating facility by submitting a simple question.", "poster_doi": "https://doi.org/10.5281/zenodo.18758415"}, {"id": "01-507", "oc": "1", "cluster": "PaNOSC", "title": "MatScatNet - A Cloud Database for Sharing X-ray & Neutron Scattering Data for Materials Research", "start": "2024-10-01", "dur": "24", "url": "https://www.oscars-project.eu/projects/matscatnet-cloud-database-sharing-x-ray-neutron-scattering-data-materials-research", "ch": "Repository", "country": "Germany", "budget": 250000.0, "org": "Momentum Transfer", "otype": "Large Enterprise", "lc": ["COLLECT", "ANALYSE", "SHARE"], "kw": ["Materials science", "material characterisation", "neutron scattering", "x-ray scattering", "scattering data", "materials research"], "partners": ["Momentum Transfer - A Venture of Chemovator GmbH,", "European Synchrotron Radiation Facility (ESRF)"], "user": "Bernd Hinrichsen Hinrichsen", "overall_desc": "The MatScatNet project aims at enhancing materials research by creating a high-quality, open-access database for sharing X-ray and neutron scattering data. | Such a centralised platform will facilitate collaboration among researchers, industries, and research infrastructures (RIs), thereby promoting an Open Science approach and supporting innovation in fields such as nanotechnology, energy, and pharmaceuticals.", "what_we_do": "", "challenge_desc": "The lack of an openly accessible, structured repository for experimental | data hinders research and collaboration. This gap limits researchers' access to crucial data, slowing down the materials discovery | process.", "solution": "An Open Science database populated with high-quality experimental data, and user-friendly tools that improve the searchability | and reusability of powder diffraction patterns and pair distribution function data, | also through new algorithms to improve the speed, identification and findability of data.", "howto": [], "impact": "MatScatNet will significantly advance materials research by fostering collaboration between academia and industry, ultimately enhancing the pace of | materials discovery.", "results": [], "detailed_results": "", "results_links": "", "publications": [], "exploitation": [], "sustainability": [], "success_story": "", "poster_doi": ""}, {"id": "02-0733", "oc": "2", "cluster": "PaNOSC", "title": "InViMOD - Intelligent Visualization of Multimodal Operando Data for Energy Systems: A FAIR Workflow", "start": "2026-03-01", "dur": "24", "url": "https://oscars-project.eu/projects/invimod-intelligent-visualisation-multimodal-operando-data-energy-systems-fair-workflow", "ch": "Software, AI and tools", "country": "Germany", "budget": 250000.0, "org": "Helmholtz-Zentrum Berlin für Materialien und Energie GmbH", "otype": "Research Infrastructure", "lc": ["COLLECT", "ANALYSE", "PRESERVE"], "kw": ["battery", "operando", "data visualisation"], "partners": ["Helmholtz Zentrum Berlin,", "Batalyse GmbH"], "user": "Oliver Löhmann", "overall_desc": "InViMOD will develop an open, modular platform for exploring, synchronising, and analysing complex multimodal datasets generated by operando experiments in advanced battery research and materials science. It will provide a unified, interoperable digital workflow to merge and visualise heterogeneous time-resolved data streams generated with techniques spanning X-ray imaging, absorption, Raman and UV-Vis spectroscopies, electrochemical impedance spectroscopy (EIS), and cycling data.", "what_we_do": "InViMODwill develop an open, modular platform for exploring, synchronizing, and analyzing complex multimodal datasets generated by operando experiments in advanced battery research and materials science.", "challenge_desc": "Many of Europe’s leading research infrastructures (RIs) and laboratories produce vast volumes of real-time experimental data. However, these data are fragmented across formats, instruments, and disciplines, preventing their full reuse and joint interpretation.", "solution": "InViMOD will provide an open-source, FAIR-compliant platform for collecting, aligning, visualising, and analysing heterogeneous operando datasets. As an initial demonstrator, the project will use lithium-sulfur (Li–S) batteries. The InViMOD platform will allow scientists to correlate chemical, structural, and electrochemical changes in real time.", "howto": ["Develop NeXusdefinitions for battery related analysis methods;", "Develop a unified, interoperable digital workflow to merge and visualize data"], "impact": "InViMOD’s software architecture is designed to be chemistry-agnostic and applicable to emerging systems, such as sodium-ion, lithium-metal, and solid-state batteries, as well as to broader domains including electrocatalysis, corrosion, and thin film materials research.", "results": [], "detailed_results": "", "results_links": "", "publications": [], "exploitation": [], "sustainability": ["Provide open accessible NeXusdefinitions and visualization software;", "Provide dissemination material including tutorials, example datasets, notebooks, and webinars"], "success_story": "", "poster_doi": "https://doi.org/10.5281/zenodo.18768105"}, {"id": "02-1225", "oc": "2", "cluster": "PaNOSC", "title": "Fail2Fair: Recovering Discarded Macromolecular Crystallographic Data", "start": "2025-12-01", "dur": "24", "url": "https://oscars-project.eu/projects/fail2fair-recovering-discarded-macromolecular-crystallographic-data", "ch": "Software, AI and tools", "country": "Spain", "budget": 249947.5, "org": "Institute of Molecular Biology of Barcelona - Spanish National Research Council", "otype": "Research & Technology Organization", "lc": ["PROCESS", "SHARE", "RE-USE"], "kw": ["discarded data", "diffraction", "macromolecular crystallography", "crystallography", "structural biology", "molecular biology", "data annotation", "SciCat"], "partners": ["Institute of Molecular Biology of Barcelona - Spanish National Research Council - IBMB-CSIC,", "University of Konstanz,", "Paul Scherrer Institute"], "user": "Isabel Usón", "overall_desc": "The Fail2Fair project seeks to recover value from discarded crystallographic datasets by developing a pipeline to annotate, classify, and integrate them into SciCat metadata catalogue, an Open Research Data infrastructure established at PSI. By enriching metadata with detailed descriptions of crystallographic failure modes, the project will make such datasets FAIR, while supporting the advancement in the development of new tools, including those based on AI.", "what_we_do": "Macromolecular crystallography (MX) provides vital data for structure biology with applications in health and biotechnology. | We will recover discarded MX datasets and make them FAIR and we will automate metadata annotation for reuse", "challenge_desc": "Current repositories such as the Protein Data Bank (PDB) only include successful and processed experiments, excluding vast amounts of potentially informative discarded or unsolved crystallographic data. Moreover, SciCat lacks the capacity to document why certain datasets failed or were discarded.", "solution": "Extension of the SciCat metadata framework with a new schema for recording crystallographic failure modes. Using an AI-powered pipeline, Fail2Fair will allow automatically annotating and classifying crystallographic datasets that have been discarded for various reasons. These include datasets with pathologies, low-quality datasets and other crystallographic pitfalls.", "howto": ["Extend metadata models and automate dataset classification.", "Compression to allow sustainable archiving and reuse of all datasets.", "Engage community feedback and involvement with two workshops."], "impact": "By making previously discarded crystallographic data FAIR, Fail2Fair will improve data sharing and reuse. The reanalysis of such data deepens our understanding of common crystallographic problems, helps us identify systematic experimental errors, and supports troubleshooting in future experiments, ultimately reducing experimental efforts.", "results": ["Kick-off meeting in February 2026;", "Agreed on data for prototype development;", "Prototype pipeline in the next 6 months;", "Started workshop organization;", "Initial contact with the MC-ReDD project"], "detailed_results": "", "results_links": "", "publications": [], "exploitation": ["We will improve FAIR data availability at synchrotron facilities.", "We will provide software to annotate datasets for common pathologies.", "We will provide a proof of principle for scientific applications using these data."], "sustainability": ["We will make data available long-term through the SciCat Data Catalogue infrastructure.", "We will contribute expertise generated in FAIL2FAIR to the community metadata standards.", "We will interact and join efforts with PaNOSC projects within the OSCARS framework"], "success_story": "", "poster_doi": "https://doi.org/10.5281/zenodo.18803830"}];
+
+var C = {c1:'#a44773',c2:'#666eae',c3:'#95b8e3',c4:'#4b4b4a',c1d:'#7c3046',c2d:'#4a518e',c3d:'#6a96c8'};
+var CHCOL = {'Data Annotation':C.c1,'Repository':C.c2,'Software, AI and tools':C.c3,'Promotion of Open Science':C.c4};
+var LCCOL = {PLAN:C.c1,COLLECT:C.c2,PROCESS:C.c3,ANALYSE:C.c4,PRESERVE:C.c1d,SHARE:C.c2d,'RE-USE':C.c3d};
+var ALL_LC = ['PLAN','COLLECT','PROCESS','ANALYSE','PRESERVE','SHARE','RE-USE'];
+
+var filtered = DATA.slice();
+var activeCh = '', activeLc = '';
+
+function cc(ch) { return CHCOL[ch] || C.c4; }
+function euro(n) { return n >= 1e6 ? '\u20AC'+(n/1e6).toFixed(2)+'M' : '\u20AC'+Math.round(n).toLocaleString('en'); }
+
+function esc(s) {
+  if (!s) return '';
+  var d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+/* Split raw CSV field text: | and newlines become separate lines */
+function toLines(s) {
+  if (!s) return [];
+  var parts = s.split(/\s*\|\s*|\n/);
+  var out = [];
+  for (var i = 0; i < parts.length; i++) {
+    var p = parts[i].trim();
+    if (p) out.push(p);
+  }
+  return out;
+}
+
+/* Extract all URLs from a string — returns array of {url, label} */
+function extractURLs(text) {
+  if (!text) return [];
+  var results = [], seen = {};
+  /* https URLs */
+  var re1 = /https?:\/\/[^\s\)\]>,"']+/g;
+  var m;
+  while ((m = re1.exec(text)) !== null) {
+    var u = m[0].replace(/[.,;:!?]+$/, '');
+    if (!seen[u]) { seen[u] = true; results.push({url: u, doi: false}); }
+  }
+  /* bare DOIs: starts with 10. followed by 4+ digits slash */
+  var re2 = /\b10\.\d{4,}\/[^\s\)\]>,"']+/g;
+  while ((m = re2.exec(text)) !== null) {
+    var doi = m[0].replace(/[.,;:!?]+$/, '');
+    var u2 = 'https://doi.org/' + doi;
+    if (!seen[u2]) { seen[u2] = true; results.push({url: u2, doi: true}); }
+  }
+  return results;
+}
+
+/* Render text with embedded URLs as inline HTML links */
+function textWithLinks(text) {
+  if (!text) return '';
+  var out = '';
+  var pos = 0;
+  /* combined regex: https URLs OR bare DOIs */
+  var re = /https?:\/\/[^\s\)\]>,"']+|\b10\.\d{4,}\/[^\s\)\]>,"']+/g;
+  var m;
+  while ((m = re.exec(text)) !== null) {
+    /* text before match */
+    if (m.index > pos) out += esc(text.slice(pos, m.index));
+    var raw = m[0].replace(/[.,;:!?]+$/, '');
+    var href = raw.match(/^10\./) ? 'https://doi.org/' + raw : raw;
+    out += '<a href="' + esc(href) + '" target="_blank" rel="noopener">' + esc(raw) + '</a>';
+    pos = m.index + m[0].length;
+  }
+  if (pos < text.length) out += esc(text.slice(pos));
+  return out;
+}
+
+/* Arrow SVG for link buttons */
+var ARROW = '<svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2 8L8 2M8 2H4M8 2V6" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+
+/* Render a clickable link row with arrow badge */
+function linkRow(url, label) {
+  var disp = (label && label !== url && label.length > 3) ? label : url;
+  return '<div class="lrow"><a class="larrow" href="' + esc(url) + '" target="_blank" rel="noopener" title="Open">' + ARROW + '</a><a class="lnk" href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(disp) + '</a></div>';
+}
+
+/* Render a plain text row (no URL found) */
+function textRow(t) {
+  return '<div class="lrow"><span class="ltext">' + textWithLinks(t) + '</span></div>';
+}
+
+/* ── SECTION DEFINITIONS ── */
+var SECS = [
+  {k:'about',   lbl:'About the Project'},
+  {k:'chall',   lbl:'Challenge'},
+  {k:'sol',     lbl:'Solution'},
+  {k:'res',     lbl:'Results'},
+  {k:'det',     lbl:'Detailed Results'},
+  {k:'expl',    lbl:'Exploitation'},
+  {k:'pubs',    lbl:'Publications'},
+  {k:'story',   lbl:'Success Story'},
+];
+
+function hasSec(p, k) {
+  if (k === 'about') return !!(p.overall_desc || p.what_we_do || p.lc.length || p.kw.length);
+  if (k === 'chall') return !!(p.challenge_desc);
+  if (k === 'sol')   return !!(p.solution || p.howto.length || p.impact);
+  if (k === 'res')   return !!(p.results.length || p.results_links);
+  if (k === 'det')   return !!(p.detailed_results);
+  if (k === 'expl')  return !!(p.exploitation.length);
+  if (k === 'pubs')  return !!(p.publications.length);
+  if (k === 'story') return !!(p.success_story);
+  return false;
+}
+
+function mkBlock(label, content) {
+  return '<div class="pblk"><div class="plbl">' + label + '</div>' + content + '</div>';
+}
+
+function mkPara(text) {
+  return '<p class="ptxt">' + textWithLinks(text) + '</p>';
+}
+
+function mkList(lines) {
+  var items = '';
+  for (var i = 0; i < lines.length; i++) {
+    items += '<li>' + textWithLinks(lines[i]) + '</li>';
+  }
+  return '<ul class="pul">' + items + '</ul>';
+}
+
+/* Render lines: if single entry → paragraph, multiple → list */
+function mkContent(text) {
+  var lines = toLines(text);
+  if (lines.length <= 1) return mkPara(text);
+  return mkList(lines);
+}
+
+function sectionHTML(p, k) {
+  var html = [];
+
+  if (k === 'about') {
+    if (p.overall_desc) html.push(mkBlock('Overview', mkPara(p.overall_desc)));
+    if (p.what_we_do)   html.push(mkBlock('What we do', mkContent(p.what_we_do)));
+    if (p.lc.length) {
+      var tags = '';
+      for (var i = 0; i < p.lc.length; i++) tags += '<span class="lctag" style="background:' + (LCCOL[p.lc[i]] || C.c4) + '">' + p.lc[i] + '</span>';
+      html.push(mkBlock('Research Data Lifecycle stages', '<div class="lctags">' + tags + '</div>'));
+    }
+    if (p.kw.length) {
+      var kws = '';
+      for (var i = 0; i < Math.min(p.kw.length, 8); i++) kws += '<span class="kwtag">' + esc(p.kw[i]) + '</span>';
+      html.push(mkBlock('Keywords', '<div class="kwtags">' + kws + '</div>'));
+    }
+  }
+
+  if (k === 'chall') {
+    if (p.challenge_desc) html.push(mkBlock('Challenge', mkContent(p.challenge_desc)));
+  }
+
+  if (k === 'sol') {
+    if (p.solution)      html.push(mkBlock('Solution', mkPara(p.solution)));
+    if (p.howto.length)  html.push(mkBlock('How we do it', mkList(p.howto)));
+    if (p.impact)        html.push(mkBlock('Impact', mkContent(p.impact)));
+    if (p.sustainability.length) html.push(mkBlock('Sustainability', mkList(p.sustainability)));
+  }
+
+  if (k === 'res') {
+    if (p.results.length) html.push(mkBlock('Results', mkList(p.results)));
+    /* results_links: split on | and newline, extract URLs per line */
+    if (p.results_links) {
+      var rlLines = toLines(p.results_links);
+      var rows = [];
+      for (var i = 0; i < rlLines.length; i++) {
+        var line = rlLines[i];
+        var urls = extractURLs(line);
+        if (urls.length) {
+          /* label = line text minus the URL itself */
+          var label = line.replace(/https?:\/\/[^\s\)\]>,"']+|\b10\.\d{4,}\/[^\s\)\]>,"']+/g, '').replace(/[-\s:;,\.]+$/, '').replace(/^[-\s:;,\.]+/, '').trim();
+          rows.push(linkRow(urls[0].url, label || line));
+        } else {
+          rows.push(textRow(line));
+        }
+      }
+      if (rows.length) html.push(mkBlock('Resources &amp; Links', '<div class="llist">' + rows.join('') + '</div>'));
+    }
+    if (p.poster_doi) {
+      html.push('<div class="pblk"><a class="posterbtn" href="' + esc(p.poster_doi) + '" target="_blank" rel="noopener">' + ARROW + '&nbsp;Project Poster (DOI)</a></div>');
+    }
+  }
+
+  if (k === 'det') {
+    if (p.detailed_results) html.push(mkBlock('Detailed Results', mkContent(p.detailed_results)));
+  }
+
+  if (k === 'expl') {
+    if (p.exploitation.length) html.push(mkBlock('Exploitation of Results', mkList(p.exploitation)));
+  }
+
+  if (k === 'pubs') {
+    if (p.publications.length) {
+      var rows = [];
+      for (var i = 0; i < p.publications.length; i++) {
+        var pub = p.publications[i];
+        var urls = extractURLs(pub);
+        if (urls.length) {
+          var label = pub.replace(/https?:\/\/[^\s\)\]>,"']+|\b10\.\d{4,}\/[^\s\)\]>,"']+/g, '').replace(/[-\s:;,\.DOI]+$/, '').replace(/^[-\s:;,\.]+/, '').trim();
+          rows.push(linkRow(urls[0].url, label.length > 5 ? label : pub));
+        } else {
+          rows.push(textRow(pub));
+        }
+      }
+      html.push(mkBlock('Publications &amp; Datasets', '<div class="llist">' + rows.join('') + '</div>'));
+    }
+  }
+
+  if (k === 'story') {
+    if (p.success_story) {
+      var storyContent = mkContent(p.success_story);
+      html.push('<div class="ssbox"><div class="sshd"><svg width="11" height="11" viewBox="0 0 24 24" fill="#a44773" xmlns="http://www.w3.org/2000/svg"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg> Success Story</div>' + storyContent + '</div>');
+    }
+  }
+
+  return html.join('');
+}
+
+/* PI icon */
+var PI_SVG = '<svg width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="8.5" r="4" fill="#fff"/><path d="M3 21c0-4.97 4.03-9 9-9s9 4.03 9 9" stroke="#fff" stroke-width="2" stroke-linecap="round" fill="none"/></svg>';
+
+/* External arrow for footer link */
+var EXT_ARROW = '<svg width="11" height="11" viewBox="0 0 10 10" fill="none"><path d="M1.5 8.5L8.5 1.5M8.5 1.5H4M8.5 1.5V6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+
+function buildCard(p, idx) {
+  var col = cc(p.ch);
+  var cross = p.cluster.indexOf('Cross-Domain') >= 0;
+  var active = [];
+  for (var i = 0; i < SECS.length; i++) {
+    if (hasSec(p, SECS[i].k)) active.push(SECS[i]);
+  }
+  if (!active.length) return '';
+  var first = active[0].k;
+
+  /* tabs */
+  var tabs = '';
+  for (var i = 0; i < active.length; i++) {
+    var s = active[i];
+    var cls = 'ctab' + (s.k === first ? ' on' : '') + (s.k === 'story' && p.success_story ? ' star' : '');
+    tabs += '<div class="' + cls + '" data-ci="' + idx + '" data-sk="' + s.k + '">' + s.lbl + '</div>';
+  }
+
+  /* panels */
+  var panels = '';
+  for (var i = 0; i < active.length; i++) {
+    var s = active[i];
+    var inner = sectionHTML(p, s.k);
+    if (!inner) continue;
+    var cls = 'cpanel' + (s.k === first ? ' on' : '');
+    panels += '<div class="' + cls + '" data-ci="' + idx + '" data-sk="' + s.k + '">' + inner + '</div>';
+  }
+
+  return '<div class="card">' +
+    '<div class="cstrip" style="background:' + col + '"></div>' +
+    '<div class="chdr">' +
+      '<div class="cbadges">' +
+        '<span class="chip">' + p.id + '</span>' +
+        '<span class="chipc" style="background:' + col + '">' + esc(p.ch) + '</span>' +
+        (cross ? '<span class="chipx">Cross&#x2011;Domain</span>' : '') +
+        '<span class="chipoc">Call ' + p.oc + '</span>' +
+      '</div>' +
+      '<div class="ctitle">' + esc(p.title) + '</div>' +
+      '<div class="corgrow">' +
+        '<span class="corg">' + esc(p.org) + '</span>' +
+        '<span class="cdot">\u00b7</span>' +
+        '<span class="ccountry">' + esc(p.country) + '</span>' +
+      '</div>' +
+    '</div>' +
+    '<div class="ctabs">' + tabs + '</div>' +
+    panels +
+    '<div class="cfoot">' +
+      '<div class="pibox"><div class="piico">' + PI_SVG + '</div><span class="piname">' + esc(p.user || '\u2014') + '</span></div>' +
+      '<span class="fbudget">' + euro(p.budget) + '</span>' +
+      '<span class="fdur">' + p.dur + '&nbsp;months</span>' +
+      '<span class="fstart">' + p.start + '</span>' +
+      '<a class="flnk" href="' + esc(p.url) + '" target="_blank" rel="noopener">' + EXT_ARROW + '&nbsp;Project&nbsp;page</a>' +
+    '</div>' +
+  '</div>';
+}
+
+/* ── RENDER GRID ── */
+function renderGrid() {
+  var g = document.getElementById('grid');
+  var show = filtered.slice();
+  if (activeCh) show = show.filter(function(p){ return p.ch === activeCh; });
+  if (activeLc) show = show.filter(function(p){ return p.lc.indexOf(activeLc) >= 0; });
+  document.getElementById('gcnt').textContent = show.length + ' shown';
+  if (!show.length) { g.innerHTML = '<div class="nores">No projects match the selected filters.</div>'; return; }
+  var html = '';
+  for (var i = 0; i < show.length; i++) html += buildCard(show[i], i);
+  g.innerHTML = html;
+  /* attach tab clicks */
+  var tabs = g.querySelectorAll('.ctab');
+  for (var t = 0; t < tabs.length; t++) {
+    (function(tab){
+      tab.addEventListener('click', function(){
+        var ci = tab.dataset.ci, sk = tab.dataset.sk;
+        var allTabs = document.querySelectorAll('.ctab[data-ci="' + ci + '"]');
+        for (var j = 0; j < allTabs.length; j++) allTabs[j].classList.remove('on');
+        tab.classList.add('on');
+        var allPanels = document.querySelectorAll('.cpanel[data-ci="' + ci + '"]');
+        for (var j = 0; j < allPanels.length; j++) {
+          allPanels[j].classList.toggle('on', allPanels[j].dataset.sk === sk);
+        }
+      });
+    })(tabs[t]);
+  }
+}
+
+/* ── PILL FILTERS ── */
+function buildPills() {
+  var challenges = [], seen = {};
+  for (var i = 0; i < DATA.length; i++) {
+    var ch = DATA[i].ch;
+    if (!seen[ch]) { seen[ch] = true; challenges.push(ch); }
+  }
+  challenges.sort();
+
+  function makePill(container, label, val, col, getActive, setActive) {
+    var pill = document.createElement('div');
+    pill.className = 'pill' + (getActive() === val ? ' on' : '');
+    pill.textContent = label;
+    if (getActive() === val && col) pill.style.cssText = 'background:' + col + ';border-color:' + col;
+    pill.addEventListener('click', function(){ setActive(val); renderAll(); });
+    container.appendChild(pill);
+  }
+
+  var pCh = document.getElementById('pillsCh');
+  pCh.innerHTML = '';
+  makePill(pCh, 'All', '', C.c4, function(){ return activeCh; }, function(v){ activeCh = v; });
+  for (var i = 0; i < challenges.length; i++) {
+    (function(ch){ makePill(pCh, ch, ch, cc(ch), function(){ return activeCh; }, function(v){ activeCh = v; }); })(challenges[i]);
+  }
+
+  var pLc = document.getElementById('pillsLc');
+  pLc.innerHTML = '';
+  makePill(pLc, 'All', '', C.c4, function(){ return activeLc; }, function(v){ activeLc = v; });
+  for (var i = 0; i < ALL_LC.length; i++) {
+    (function(lc){ makePill(pLc, lc, lc, LCCOL[lc] || C.c4, function(){ return activeLc; }, function(v){ activeLc = v; }); })(ALL_LC[i]);
+  }
+}
+
+/* ── TOP FILTERS ── */
+function initTopFilters() {
+  var countries = [], seen = {};
+  for (var i = 0; i < DATA.length; i++) {
+    var c = DATA[i].country;
+    if (!seen[c]) { seen[c] = true; countries.push(c); }
+  }
+  countries.sort();
+  var fco = document.getElementById('fco');
+  for (var i = 0; i < countries.length; i++) {
+    var opt = document.createElement('option');
+    opt.value = countries[i]; opt.textContent = countries[i];
+    fco.appendChild(opt);
+  }
+}
+
+function applyTopFilters() {
+  var q = document.getElementById('fq').value.toLowerCase();
+  var co = document.getElementById('fco').value;
+  var oc = document.getElementById('foc').value;
+  filtered = DATA.filter(function(p){
+    if (q && (p.title + ' ' + p.kw.join(' ') + ' ' + p.org + ' ' + p.id + ' ' + p.what_we_do + ' ' + p.overall_desc).toLowerCase().indexOf(q) < 0) return false;
+    if (co && p.country !== co) return false;
+    if (oc && p.oc !== oc) return false;
+    return true;
+  });
+  renderAll();
+}
+
+var fqEl = document.getElementById('fq');
+var fcoEl = document.getElementById('fco');
+var focEl = document.getElementById('foc');
+fqEl.addEventListener('input', applyTopFilters);
+fcoEl.addEventListener('change', applyTopFilters);
+focEl.addEventListener('change', applyTopFilters);
+
+/* ── STATS ── */
+function updateStats() {
+  document.getElementById('sP').textContent = filtered.length;
+  var tot = 0;
+  for (var i = 0; i < filtered.length; i++) tot += filtered[i].budget;
+  document.getElementById('sB').innerHTML = tot >= 1e6 ? '\u20AC'+(tot/1e6).toFixed(2)+'M' : '\u20AC'+Math.round(tot).toLocaleString('en');
+  var orgSeen = {}, orgCount = 0;
+  for (var i = 0; i < filtered.length; i++) {
+    var p = filtered[i];
+    if (!orgSeen[p.org]) { orgSeen[p.org] = true; orgCount++; }
+    for (var j = 0; j < p.partners.length; j++) {
+      var pt = p.partners[j];
+      if (pt && pt.length > 4 && !orgSeen[pt]) { orgSeen[pt] = true; orgCount++; }
+    }
+  }
+  document.getElementById('sO').textContent = orgCount;
+  var cSeen = {}, cCount = 0;
+  for (var i = 0; i < filtered.length; i++) { if (!cSeen[filtered[i].country]) { cSeen[filtered[i].country] = true; cCount++; } }
+  document.getElementById('sC').textContent = cCount;
+  var ocSeen = {}, ocCount = 0;
+  for (var i = 0; i < filtered.length; i++) { if (!ocSeen[filtered[i].oc]) { ocSeen[filtered[i].oc] = true; ocCount++; } }
+  document.getElementById('sOC').textContent = ocCount;
+  document.getElementById('cnt').textContent = filtered.length;
+}
+
+/* ── CHARTS ── */
+var cCh = null, cCo = null;
+var FONT = "'Mulish','Ubuntu',sans-serif";
+
+function updateCharts() {
+  var chM = {};
+  for (var i = 0; i < filtered.length; i++) { var ch = filtered[i].ch; chM[ch] = (chM[ch] || 0) + 1; }
+  var chL = Object.keys(chM);
+  var chD = []; for (var i = 0; i < chL.length; i++) chD.push(chM[chL[i]]);
+  var chC = []; for (var i = 0; i < chL.length; i++) chC.push(cc(chL[i]));
+
+  if (cCh) cCh.destroy();
+  cCh = new Chart(document.getElementById('chCh'), {
+    type: 'doughnut',
+    data: { labels: chL, datasets: [{ data: chD, backgroundColor: chC, borderWidth: 2, borderColor: '#fff' }] },
+    options: {
+      responsive: true,
+      maintainAspectRatio: true,
+      cutout: '58%',
+      plugins: {
+        legend: { position: 'bottom', labels: { font: { family: FONT, size: 10 }, padding: 8, boxWidth: 11 } },
+        tooltip: { callbacks: { label: function(ctx) { return ' ' + ctx.label + ': ' + ctx.raw; } } }
+      }
+    }
+  });
+
+  var coM = {};
+  for (var i = 0; i < filtered.length; i++) { var co = filtered[i].country; coM[co] = (coM[co] || 0) + 1; }
+  var coL = Object.keys(coM).sort(function(a, b) { return coM[b] - coM[a]; });
+  var coD = []; for (var i = 0; i < coL.length; i++) coD.push(coM[coL[i]]);
+  var pal = [C.c1, C.c2, C.c3, C.c4, C.c1d, C.c2d, C.c3d];
+  var coC = []; for (var i = 0; i < coL.length; i++) coC.push(pal[i % pal.length]);
+
+  if (cCo) cCo.destroy();
+  cCo = new Chart(document.getElementById('chCo'), {
+    type: 'bar',
+    data: { labels: coL, datasets: [{ data: coD, backgroundColor: coC, borderRadius: 3, borderSkipped: false }] },
+    options: {
+      responsive: true,
+      maintainAspectRatio: true,
+      indexAxis: 'y',
+      plugins: {
+        legend: { display: false },
+        tooltip: { callbacks: { label: function(ctx) { return ' ' + ctx.raw + ' project' + (ctx.raw > 1 ? 's' : ''); } } }
+      },
+      scales: {
+        x: { grid: { color: '#ebebeb' }, ticks: { font: { family: FONT, size: 10 }, stepSize: 1 } },
+        y: { grid: { display: false }, ticks: { font: { family: FONT, size: 11 } } }
+      }
+    }
+  });
+}
+
+/* ── LIFECYCLE ── */
+function updateLC() {
+  var ct = {};
+  for (var i = 0; i < ALL_LC.length; i++) ct[ALL_LC[i]] = 0;
+  for (var i = 0; i < filtered.length; i++) {
+    for (var j = 0; j < filtered[i].lc.length; j++) ct[filtered[i].lc[j]]++;
+  }
+  var mx = 0;
+  for (var i = 0; i < ALL_LC.length; i++) if (ct[ALL_LC[i]] > mx) mx = ct[ALL_LC[i]];
+  if (!mx) mx = 1;
+  var html = '';
+  for (var i = 0; i < ALL_LC.length; i++) {
+    var s = ALL_LC[i];
+    var h = Math.max(2, Math.round((ct[s] / mx) * 50));
+    html += '<div class="lccol"><div class="lcbar" style="height:' + h + 'px;background:' + LCCOL[s] + '"><span class="lcn">' + ct[s] + '</span></div><div class="lclbl">' + s + '</div></div>';
+  }
+  document.getElementById('lcbars').innerHTML = html;
+}
+
+/* ── RENDER ALL ── */
+function renderAll() { updateStats(); updateCharts(); updateLC(); buildPills(); renderGrid(); }
+
+/* ── INIT ── */
+initTopFilters();
+renderAll();
+
+})();
+</script>
+
+</body>
+</html>
